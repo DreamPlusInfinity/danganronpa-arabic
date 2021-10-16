@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. みんなは島の探索をしていると思うよ。
+msgctxt "0001"
+msgid "Jeez... This hallway is kind of weird, too."
+msgstr ""
+
+#. この島で暮らせと言われている以上は、
+#. 島の事を知らない訳にはいかないからね。
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is getting stranger by the second.\n"
+"<CLT>"
+msgstr ""
+
+#. ボクたちも島を見て回るついでに、
+#. みんなとの自己紹介を済ませちゃおうよ。
+msgctxt "0003"
+msgid ""
+"<CLT 4>I honestly have no idea what's going on...\n"
+"<CLT>"
+msgstr ""
+
+#. あぁ、わかったよ。
+msgctxt "0004"
+msgid "Well, for now I'll just head to the main hall..."
+msgstr ""
+
+#. はい
+msgctxt "0005"
+msgid ""
+"<CLT 23>Use the <CLT><CLT 3>%CTRL_LEFT_STICK%<CLT><CLT 23> to <CLT><CLT 3>move<CLT><CLT 23> through the hallway.\n"
+"<CLT>"
+msgstr ""
+
+#. いいえ
+msgctxt "0006"
+msgid ""
+"<CLT 23>Hold down the <CLT><CLT 3>%CTRL_RUN%<CLT><CLT 23> while moving to <CLT><CLT 3>run<CLT><CLT 23>.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>ここから出ますか？<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 23>Also, you can press the <CLT><CLT 3>%CTRL_MAP%<CLT><CLT 23> to bring up a\n"
+"<CLT><CLT 3>map<CLT><CLT 23>.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid ""
+"<CLT 23>Press the <CLT><CLT 3>%CTRL_MAP%<CLT><CLT 23> again to <CLT><CLT 3>close<CLT><CLT 23> the map. How\n"
+"convenient!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid ""
+"<CLT 4>\"Despair Hotel\"...?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid ""
+"<CLT 4>I guess it's a place for people to stay overnight. But\n"
+"anyway, I need to get to the main hall...!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"<CLT 4>Room 1-B. The door's locked tight...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"<CLT 4>Room 1-A. The door won't budge...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"<CLT 4>I wonder where this red door leads. I'm starting to\n"
+"feel sick standing here...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid ""
+"<CLT 4>The A/V room. It's locked...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"<CLT 4>The school store. I guess it's not open...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid ""
+"<CLT 4>The nurse's office. Off-limits, it looks like.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"<CLT 4>The boys bathroom. Good thing I don't have to go...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid ""
+"<CLT 4>The girls bathroom. Not that it matters, but it's\n"
+"locked.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"<CLT 4>I wonder why there's a gate here...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid ""
+"<CLT 4>The gym. The handle didn't move at all...\n"
+"<CLT>"
+msgstr ""
