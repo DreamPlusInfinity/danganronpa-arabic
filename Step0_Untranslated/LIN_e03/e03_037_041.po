@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT 4>But as soon as we were out of the physics lab...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0002"
+msgid "Ah—!"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Celeste? Aren't you supposed to be waiting in the\n"
+"nurse's office?"
+msgstr ""
+
+msgctxt "0004"
+msgid "S-Something has...come up."
+msgstr ""
+
+msgctxt "0005"
+msgid "Yeah, I heard. Hifumi is dead, right?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Well...that is not all. It is...gone."
+msgstr ""
+
+msgctxt "0007"
+msgid "Huh? What's gone?"
+msgstr ""
+
+msgctxt "0008"
+msgid "It has disappeared..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Disappeared...?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Hifumi's body has disappeared!"
+msgstr ""
+
+msgctxt "0011"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"What are you talking about? It's disappeared? Don't be\n"
+"ridiculous."
+msgstr ""
+
+msgctxt "0013"
+msgid "..."
+msgstr "..."
+
+msgctxt "0014"
+msgid "...Are you serious?"
+msgstr ""
+
+msgctxt "0015"
+msgid "What the heck is happening here...!?"
+msgstr ""
+
+msgctxt "0016"
+msgid "Everyone, back to the nurse's office!"
+msgstr ""

@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"You're right. Just the one arrow would've been too\n"
+"weak. That's why the killer used <CLT 3>another weapon<CLT>."
+msgstr ""
+
+msgctxt "0002"
+msgid "Another weapon...?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Inside the dojo locker, we also found a balled-up wad\n"
+"of <CLT 3>duct tape<CLT>."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"The killer probably used this duct tape to <CLT 3>bind<CLT>\n"
+"multiple arrows together."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Bundling them together using the duct tape would\n"
+"easily create a <CLT 3>single weapon as thick as a pipe<CLT>."
+msgstr ""
+
+msgctxt "0006"
+msgid "And that's exactly what the killer did!"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"It's similar to Aesop's fable about the bundle of\n"
+"sticks..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"One stick is weak, but put them together, and they\n"
+"become strong. It's meant to teach cooperation."
+msgstr ""
+
+msgctxt "0009"
+msgid "Damn, that's harsh..."
+msgstr ""
+
+msgctxt "0010"
+msgid "How is it harsh? Were you even listening?"
+msgstr ""
+
+msgctxt "0011"
+msgid "Anyway, that explains the murder weapon."
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"As for who the culprit is that stashed the weapon in\n"
+"the dojo locker..."
+msgstr ""
+
+msgctxt "0013"
+msgid "It was you, Kyoko!"
+msgstr ""
+
+msgctxt "0014"
+msgid "...I've never been to the dojo."
+msgstr ""
+
+msgctxt "0015"
+msgid "Oh no, you absolutely have."
+msgstr ""
+
+msgctxt "0016"
+msgid "How can you say that with such confidence?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Because we have proof, of course. Don't we, Makoto?"
+msgstr ""
+
+msgctxt "0018"
+msgid "O-Oh, um..."
+msgstr ""
+
+msgctxt "0019"
+msgid "..."
+msgstr "..."
+
+msgctxt "0020"
+msgid "Hm? What's the matter?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Surely you don't intend to protect a murderer..."
+msgstr ""
+
+msgctxt "0022"
+msgid "You know what will happen if you do, don't you?"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"If you cover for the culprit, there's only one thing\n"
+"that can lead to..."
+msgstr ""
+
+msgctxt "0024"
+msgid "The death of us all. Remember?"
+msgstr ""
+
+msgctxt "0025"
+msgid "O-Of course I remember...!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"Then show us! Show everyone the evidence that proves\n"
+"Kyoko went to the dojo!"
+msgstr ""
+
+msgctxt "0027"
+msgid "..."
+msgstr "..."
+
+msgctxt "0028"
+msgid "So. You *do* intend to protect a murderer?"
+msgstr ""
+
+msgctxt "0029"
+msgid "What's he talking about, Makoto!?"
+msgstr ""
+
+msgctxt "0030"
+msgid "Yeah! Tell us, or we're all dead, remember!?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"<CLT 4>Looks like I just embarrassed myself\n"
+"in front of everyone...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"Are you trying to protect the culprit, or do you\n"
+"honestly not know?"
+msgstr ""
+
+msgctxt "0033"
+msgid "Either way, I'm positively amazed by your stupidity."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"<CLT 4>Looks like I just embarrassed myself\n"
+"in front of everyone...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"<CLT 4>I have evidence...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"<CLT 4>Evidence that <CLT><CLT 3>Kyoko went to the dojo<CLT><CLT 4>...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"<CLT 4>I have evidence...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"<CLT 4>Evidence that <CLT><CLT 3>Kyoko went to the dojo<CLT><CLT 4>...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"<CLT 4>It must be connected to that <CLT><CLT 3>dojo locker<CLT><CLT 4>...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0040"
+msgid "The one thing that proves Kyoko was in the dojo is..."
+msgstr ""
+
+msgctxt "0041"
+msgid "...right here. The <CLT 3>key to the dojo locker<CLT>."
+msgstr ""
+
+msgctxt "0042"
+msgid "And how does that prove anything?"
+msgstr ""
+
+msgctxt "0043"
+msgid "Because...I found it in your room."
+msgstr ""
+
+msgctxt "0044"
+msgid "It was...in my room?"
+msgstr ""
+
+msgctxt "0045"
+msgid "Don't bother trying to play dumb."
+msgstr ""
+
+msgctxt "0046"
+msgid "That key is just the final piece of the puzzle."
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"Your non-existent alibi, your clear motive, your\n"
+"attempts to frame Makoto for the crime..."
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"This all proves that you are the true culprit. You\n"
+"can't explain this away, so just give up."
+msgstr ""
+
+msgctxt "0049"
+msgid "...Hold on a second."
+msgstr ""
+
+msgctxt "0050"
+msgid ""
+"Not this again. You really are dead-set on defending\n"
+"her, aren't you?"
+msgstr ""
+
+msgctxt "0051"
+msgid "No...it's not that I want to defend her. It's just..."
+msgstr ""
+
+msgctxt "0052"
+msgid "There's one more thing I need to ask her."
+msgstr ""
+
+msgctxt "0053"
+msgid "..."
+msgstr "..."
+
+msgctxt "0054"
+msgid "Kyoko, I want you to tell me something."
+msgstr ""
+
+msgctxt "0055"
+msgid "Last night...you were in my room, weren't you?"
+msgstr ""
+
+msgctxt "0056"
+msgid "Why? What were you doing there?"
+msgstr ""
+
+msgctxt "0057"
+msgid "That's what I need to know."
+msgstr ""
+
+msgctxt "0058"
+msgid "..."
+msgstr "..."
+
+msgctxt "0059"
+msgid "I was just...protecting you."
+msgstr ""
+
+msgctxt "0060"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"<CLT 4>She was protecting me...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"<CLT 4>Then does that mean she...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"<CLT 4>She knew I was being attacked...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"<CLT 4>...and she came to my rescue.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"<CLT 4>Could that be when...!?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"<CLT 4>Which would mean that Kyoko...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"<CLT 4>She killed someone...for me...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"That's enough. The time for idle chatter is over. A\n"
+"verdict is close at hand..."
+msgstr ""
+
+msgctxt "0069"
+msgid "Wait."
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"I'm warning you, don't make this mistake. I'm not the\n"
+"killer."
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"I knew you were stubborn, but this is just getting\n"
+"ridiculous."
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"Really? But you should know better than anyone I\n"
+"didn't do it."
+msgstr ""
+
+msgctxt "0073"
+msgid "Can you tell me I'm wrong?"
+msgstr ""
+
+msgctxt "0074"
+msgid "I...should know?"
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"<CLT 4>What...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"<CLT 4>Byakuya should know better than anyone...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0077"
+msgid ""
+"<CLT 4>What does that mean?\n"
+"<CLT>"
+msgstr ""

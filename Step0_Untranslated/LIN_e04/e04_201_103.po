@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "[favor]"
+msgstr ""
+
+msgctxt "0002"
+msgid "What's your favor...?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Remember what Sakura said at the end of her note?"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"I'm not going to just lay down and die. I *will*\n"
+"<CLT 3>fight you<CLT>..."
+msgstr ""
+
+msgctxt "0005"
+msgid "I want to find out what she meant by that."
+msgstr ""
+
+msgctxt "0006"
+msgid "Okay, but...how do you plan to do that?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"<CLT 4>Then Kyoko put her lips next to my ear and\n"
+"whispered...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0008"
+msgid "The data center on the 4th floor."
+msgstr ""
+
+msgctxt "0009"
+msgid "...What?"
+msgstr ""
+
+msgctxt "0010"
+msgid "I'll meet you there."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>Without another word, she was gone...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "What the...?"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT 4>Her words reverberated through my half-dazed head.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT 4>The <CLT><CLT 3>data center<CLT><CLT 4>...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>But I thought it was locked...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT 23>*Ding dong, bing bong*\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Mm, ahem, this is a school announcement. It is now 10\n"
+"p.m."
+msgstr ""
+
+msgctxt "0018"
+msgid "As such, it is officially <CLT 3>nighttime<CLT>."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"Soon the doors to the dining hall will be locked, and\n"
+"entry at that point is strictly prohibited."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Okay then...sweet dreams, everyone! Good night, sleep\n"
+"tight, don't let the bed bugs bite..."
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"<CLT 4>Nighttime descended, and pulled me down along with it,\n"
+"down into sleep.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"<CLT 4>I couldn't remember the last time I'd fallen into such\n"
+"a deep sleep.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>But the night still wasn't over for me.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 4>A voice...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"<CLT 4>I could hear a voice...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0026"
+msgid "...wa..."
+msgstr ""
+
+msgctxt "0027"
+msgid "...ke...up..."
+msgstr ""
+
+msgctxt "0028"
+msgid "..."
+msgstr "..."
+
+msgctxt "0029"
+msgid "...wake up..."
+msgstr ""
+
+msgctxt "0030"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"<CLT 4>The voice dragged me from deep slumber into hazy\n"
+"half-consciousness. My eyelids were like lead.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0032"
+msgid "Kyoko...?"
+msgstr ""
+
+msgctxt "0033"
+msgid "Yes, it's me."
+msgstr ""
+
+msgctxt "0034"
+msgid "Huh...? Kyoko?"
+msgstr ""
+
+msgctxt "0035"
+msgid "I said yes..."
+msgstr ""
+
+msgctxt "0036"
+msgid "So Kyoko's here..."
+msgstr ""
+
+msgctxt "0037"
+msgid "Wait, what!?"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"<CLT 4>In a flash I was wide awake.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0039"
+msgid "Wh-What are you doing here!?"
+msgstr ""
+
+msgctxt "0040"
+msgid "I'm here to wake you up."
+msgstr ""
+
+msgctxt "0041"
+msgid "Oh, I see..."
+msgstr ""
+
+msgctxt "0042"
+msgid "Wait, but my door—!"
+msgstr ""
+
+msgctxt "0043"
+msgid "It was unlocked. You're unbelievably careless."
+msgstr ""
+
+msgctxt "0044"
+msgid "It was unlocked!? Are you serious!?"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"Always. And you don't have to overreact like that\n"
+"every time you're surprised."
+msgstr ""
+
+msgctxt "0046"
+msgid "Wh-What time is it...?"
+msgstr ""
+
+msgctxt "0047"
+msgid "3 o'clock. In the morning, of course."
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"<CLT 4>It's 3 a.m.!?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"<CLT 4>Why was Kyoko waking me up at this hour...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0050"
+msgid "I-It's so late... What happened...?"
+msgstr ""
+
+msgctxt "0051"
+msgid "I have a <CLT 1>[favor]<CLT> I need to ask..."
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"<CLT 4>A favor? From me...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"<CLT 4>I need to find out what Kyoko's doing here.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0054"
+msgid "Yes"
+msgstr ""
+
+msgctxt "0055"
+msgid "No"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT 4>I made my way into the after-hours school, and headed\n"
+"for the data center on the 4th floor.\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 裏切り者は…あっち行ってろ…
+msgctxt "0001"
+msgid ""
+"Makoto, my friend! Listen, I wanted to ask you\n"
+"something..."
+msgstr ""
+
+#. <CLT 04>………………<CLT>
+msgctxt "0002"
+msgid "Huh? What's up?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0003"
+msgid ""
+"Well, I wanna start up a band, right? I was wondering\n"
+"if you know anyone who's good at writing music."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0004"
+msgid ""
+"Oh, but nobody <CLT 3>too popular<CLT>! I don't want anyone to\n"
+"overshadow my own popularity as the lead singer!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0005"
+msgid "You're serious about becoming a musician, huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0006"
+msgid "Absolutely!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0007"
+msgid ""
+"And I don't wanna be a George, ya know? Gotta get that\n"
+"Paul action!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid ""
+"Speaking of which, what kind of music do you\n"
+"want to make?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid ""
+"Well, what if I said I wanted to be like The Damned,\n"
+"The Clash, The Sex Pistols?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid "Punk"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "Pop"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Are they...pop groups?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"Oh my god, don't tell me you don't know anything about\n"
+"music!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "Ugh, you're helpless. Okay, here's a hint!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid "It's NOT the sound of blowing a tire!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid "Huh? What does a tire have to do with music...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"Don't worry about it, it's just a metaphor! Do you\n"
+"seriously not know what I'm trying to say?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "Heavy metal"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid "Are those...heavy metal bands?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid ""
+"Huh. Well, that's kind of a disappointment. I mean,\n"
+"I don't exactly hate metal or anything, but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid ""
+"...I mean, there's so many sub-genres! Too hard to get\n"
+"noticed, man. No thanks."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid "But no, none of the bands I mentioned are heavy metal."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid ""
+"You really don't know? Maybe I should give you a\n"
+"hint..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid ""
+"Listen, maybe we should start by you telling me some\n"
+"of the bands you *do* know."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid ""
+"<CLT 4>So he mentioned The Damned, The Clash,\n"
+"and The Sex Pistols...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid ""
+"<CLT 4>Those are all...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "Those are all punk bands, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid ""
+"Damn straight! My plan is to conquer the world with\n"
+"punk!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid ""
+"Cuz I mean...when it comes to punk, it doesn't really\n"
+"matter if you can actually play or not."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"<CLT 4>I'm...not sure how many punk bands would agree with\n"
+"that.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"Anyway, by the time I got to this school, I'd already\n"
+"decided I was gonna quit baseball."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"I was just gonna use it as a stepping stone once I\n"
+"got into Hope's Peak to propel me into stardom..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"I was gonna use my time here to become the <CLT 3>Ultimate\n"
+"Musician<CLT>!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "...That dream's dead now, though."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"I came here chasing a dream, but I never imagined it'd\n"
+"turn into such a nightmare..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid ""
+"Dammit...! I have to do it! I have to become a famous\n"
+"musician!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid ""
+"Stop screwing with me, world! Give me back my youth!\n"
+"Give me back my dreams!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"<CLT 4>So Leon did have a dream. But it had nothing to do\n"
+"with baseball...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid ""
+"<CLT 4>He was never really serious about baseball, but I\n"
+"can't say I blame him for what he did.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "I...I swear to god, I have to do it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid "Then that girl at the hair salon will go out with me!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid "...Huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "Oh yeah, she told me she only dates musicians."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"Her face is only okay, but she's got a smokin' hot\n"
+"body. I gotta get me some of that!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"That's...not the real reason you want to do all that,\n"
+"is it?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"What better reason is there!? The whole point of\n"
+"becoming a musician is to be popular, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"Speaking of which, do you know what kinda guy Sayaka's\n"
+"into?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"Is she into musicians? Or maybe actors? Maybe I should\n"
+"become an actor!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"<CLT 4>I feel like I'm starting to understand Leon a little\n"
+"better...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"<CLT 23>Leon's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with him.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"<CLT 23>Your maximum number of <CLT><CLT 3>Skill Points<CLT><CLT 23> has increased!\n"
+"Hey, look at you go!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"<CLT 4>Once we were all done, I headed back to my room for a\n"
+"little while...\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>珍しいな。
+#. 左右田が黙り込んでるなんて…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>What happened? Why'd Leon get so quiet\n"
+"all of a sudden?\n"
+"<CLT>\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（クソッ…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(Ah, dammit...)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>左右田の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Leon's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. 左右田がバカなのは今更だし、
+#. そう言うとこも含めて左右田だと思うけどな。
+msgctxt "0007"
+msgid ""
+"But you already decided to quit playing baseball,\n"
+"right?"
+msgstr ""
+
+#. な、なんだよ急に…
+msgctxt "0008"
+msgid "What!?"
+msgstr ""
+
+#. つかそれ褒めてんの？
+#. けなしてんの？
+msgctxt "0009"
+msgid "I-I didn't say anything about playing baseball!"
+msgstr ""
+
+#. …お前ってホント変わったヤツだよな。
+msgctxt "0010"
+msgid "Oh, yeah. You didn't."
+msgstr ""
+
+#. そうだな…まあ内容によるとは思うけど。
+msgctxt "0011"
+msgid "W-Wait...! Did I just...let something slip?"
+msgstr ""
+
+#. だよなぁ…
+msgctxt "0012"
+msgid ""
+"N-No! No way! I was just...ya know, thinkin' about it\n"
+"a little!"
+msgstr ""
+
+#. ってなんでオレの考えダダ漏れだよ！
+#. クソ、勝手に聞いてんじゃねーよ！
+msgctxt "0013"
+msgid "O-Oh... Then that's fine."
+msgstr ""
+
+#. 心配すんなよ、左右田。
+#. お前の事はちゃんとわかってるから。
+msgctxt "0014"
+msgid "That's fine, isn't it?"
+msgstr ""
+
+#. 日向…マジかよ…
+msgctxt "0015"
+msgid "...Huh? Fine? What is?"
+msgstr ""
+
+#. じゃ、じゃあ言うけどよ、オレ…
+msgctxt "0016"
+msgid ""
+"There's nothing wrong with you wanting to play\n"
+"baseball. Why would there be?"
+msgstr ""
+
+#. なんか好きみたいなんだよ…戦車。
+msgctxt "0017"
+msgid "You like what you like. What's wrong with that?"
+msgstr ""
+
+#. この島に来て、初めて身近に見たんだけど
+#. なんかすげー、グッっときたっていうか…
+msgctxt "0018"
+msgid "M-Makoto..."
+msgstr ""
+
+#. 見てるとなんかゾクゾクすんだよな…
+#. あの機密の塊を俺の手でバラして暴きたいっつーか…
+msgctxt "0019"
+msgid "How...? How did you know what I was thinking?"
+msgstr ""
+
+#. ちょっといいか？
+#. オレ、語っちゃうけどいいよな！？
+msgctxt "0020"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>その後、延々と左右田の戦車に対する<CLT>
+#. <CLT 04>歪んだ情熱を聞かされ続けた…<CLT>
+msgctxt "0021"
+msgid ""
+"Ya know, normally when people are able to guess what\n"
+"you're thinking..."
+msgstr ""
+
+#. お前がそう思うんなら、
+#. まあ…多分そうなんだろ。
+msgctxt "0022"
+msgid "...it can be totally irritating, right?"
+msgstr ""
+
+#. やっぱそうか…
+msgctxt "0023"
+msgid "But..."
+msgstr ""
+
+#. って、まだ何も言ってねーだろ！
+#. オレはただ、その…
+msgctxt "0024"
+msgid "For some reason, I'm not mad at all!"
+msgstr ""
+
+#. ああクソ、やっぱなんでもねえ！
+msgctxt "0025"
+msgid "Actually...I kinda feel good! Haha! What the heck!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "Thank you, Makoto! You're like my...soulmate!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "You don't have to keep anything hidden."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "What!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid ""
+"Whatever you want to do, or want to say, keeping it\n"
+"bottled up doesn't help anyone."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"R-Really? But...wouldn't everyone think I was a total\n"
+"idiot if I told them how I really felt?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"I'm sure they'd see how important it was to you.\n"
+"No one would call you an idiot. No one would laugh."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "Oh..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "Makoto...thank you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"Not that I've made a decision one way or the other,\n"
+"but still...I feel better."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "Heh!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "Maybe it's a good idea to keep it hidden..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "You're right. I can't say anything. Not now..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "Wait! Makoto!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "You better not tell anyone, or else! Got it!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "R-Right, of course..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"And I can't believe you figured me out.\n"
+"Freakin' lame..."
+msgstr ""

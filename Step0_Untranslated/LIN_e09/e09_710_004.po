@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0004"
+msgid "I don't r-really care either way..."
+msgstr ""
+
+#. はい！
+#. それでこそですよね！
+msgctxt "0005"
+msgid ""
+"At my house, one of my m-moms liked Japanese food,\n"
+"and the other w-was into Western stuff."
+msgstr ""
+
+#. 頑張って全種類制覇しましょう！
+msgctxt "0006"
+msgid "So I got my fair share of both."
+msgstr ""
+
+#. あ、もちろん、楽しむ用と検証用で
+#. 全種類、最低２回ずつが鉄則ですからね。
+msgctxt "0007"
+msgid "Would you like some tea?"
+msgstr ""
+
+#. それで、最後に一番よかったのに
+#. もう一度乗りますよ！
+msgctxt "0008"
+msgid "Oh...that's s-surprising."
+msgstr ""
+
+#. ああもう…楽しみ過ぎてウハウハです！
+msgctxt "0009"
+msgid "M-Makoto...how did you know I'm the t-tea type?"
+msgstr ""
+
+#. <CLT 04>すごいハードスケジュールだな…<CLT>
+msgctxt "0010"
+msgid ""
+"If you're gonna make some a-anyway...I don't mind\n"
+"joining you."
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0011"
+msgid ""
+"But don't you dare t-try and cut corners by using tea\n"
+"bags or a-anything!"
+msgstr ""
+
+#. お化け屋敷ですか…
+#. デートには必須のアトラクションですよね。
+msgctxt "0012"
+msgid "I could go for something sweet..."
+msgstr ""
+
+#. 確か、合法的に思いっきり悲鳴を上げても
+#. 通報されない場所のはず…
+msgctxt "0013"
+msgid "You're not g-gonna say donuts, are you...?"
+msgstr ""
+
+#. ストレス解消にいいとも聞いているので
+#. とても楽しみです！
+msgctxt "0014"
+msgid ""
+"That muscle-brained i-idiot has talked about donuts\n"
+"enough to l-last me a lifetime...!"
+msgstr ""
+
+#. <CLT 04>違うような合ってるような…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0016"
+msgid "What have you been interested in lately?"
+msgstr ""
+
+#. あの…すみません。
+msgctxt "0017"
+msgid "..."
+msgstr "..."
+
+#. 馬とか馬車とかでしたら、
+#. 子供の頃から乗ってますので…
+msgctxt "0018"
+msgid "Not y-you, that's for sure."
+msgstr ""
+
+#. <CLT 04>言われてみれば…<CLT>
+msgctxt "0019"
+msgid ""
+"...Wait, but I've been s-spending all this time w-with\n"
+"you..."
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0020"
+msgid "That's...huh?"
+msgstr ""
+
+#. はい！
+#. わたくしもう、わくわくしっぱなしです！
+msgctxt "0021"
+msgid "What does this m-mean...?"
+msgstr ""
+
+#. こういったところに来るのは、
+#. 本当に小さかった頃以来ですし…
+msgctxt "0022"
+msgid "No... N-No way! No way no way no way no w-way!"
+msgstr ""
+
+#. それに、完全にプライベートで来るのは
+#. 初めてですから。
+msgctxt "0023"
+msgid ""
+"I would NEVER be i-interested in you, okay? Get that\n"
+"th-through your head!"
+msgstr ""
+
+#. ふふ、今日は童心に返って
+#. 全力で遊びたいと思います！
+msgctxt "0024"
+msgid "O-Okay...!"
+msgstr ""
+
+#. さあ、行きますよ日向さん！
+msgctxt "0025"
+msgid ""
+"Okay is r-right! There's no way I have a-any interest\n"
+"in you whatsoever!"
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0026"
+msgid ""
+"The mere suggestion that I m-might be interested in\n"
+"you is beyond d-disgusting..."
+msgstr ""
+
+#. その気持ち、よくわかります。
+msgctxt "0027"
+msgid "I kn-know that much for sure."
+msgstr ""
+
+#. こういうところのイラスト状の地図って
+#. 大抵半端なので、普通に迷いますね。
+msgctxt "0028"
+msgid ""
+"<CLT 4>I'm...really confused...\n"
+"<CLT>"
+msgstr ""
+
+#. でも、それならそれで、わたくしは構いません。
+msgctxt "0029"
+msgid "Can you recommend a good book?"
+msgstr ""
+
+#. 雰囲気を楽しみながら歩くだけでも
+#. 十分楽しいですから。
+msgctxt "0030"
+msgid ""
+"I only read serious l-literature. You still want a\n"
+"recommendation?"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0031"
+msgid ""
+"You're a r-rare one. Most kids these days are into\n"
+"that popular fluff crap. I'm so s-sick of it..."
+msgstr ""
+
+#. 日向さん…
+#. それは少々問題発言ですよ…
+msgctxt "0032"
+msgid ""
+"Okay then, I'll p-pick a few good ones to get you\n"
+"started."
+msgstr ""
+
+#. ここが我が国でしたら今頃、
+#. 超大型訴訟に発展していたところですからね。
+msgctxt "0033"
+msgid ""
+"I'll m-make sure to pick some titles a guy like y-you\n"
+"is sure to love..."
+msgstr ""
+
+#. マスコットはどこだ？
+msgctxt "0034"
+msgid "What should we talk about?"
+msgstr ""
+
+#. あ、そうですね！
+#. 危うく忘れるところでした！
+msgctxt "0035"
+msgid "..."
+msgstr "..."
+
+#. ここへ来たからには、ぜひとも捜し出して
+#. サインをいただかなくては。
+msgctxt "0036"
+msgid "...I g-get it now."
+msgstr ""
+
+#. ネズミー城というからには、ネズミの王様が
+#. いらっしゃるはずですからね。
+msgctxt "0037"
+msgid ""
+"Someone put you u-up to this, didn't they? You're\n"
+"doing this as a d-dare..."
+msgstr ""
+
+#. 問題はどこに行けば会えるかですが…
+#. 確か時間ごとに出現場所が決まっていたような？
+msgctxt "0038"
+msgid "Haha...even h-here I get this kind of treatment..."
+msgstr ""
+
+#. とにかく参りましょう！
+#. 城を落とすにはまず城主からです！
+msgctxt "0039"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0040"
+msgid "What's your favorite food?"
+msgstr ""
+
+#. あ…そ、そうですね。
+#. せっかくデートなのですし…
+msgctxt "0041"
+msgid "Ohh~hhh? You're really starting to get into me, huh?"
+msgstr ""
+
+#. でも、大丈夫でしょうか…お付き合いもまだなのに
+#. 手など繋いだら大いなる災いが…
+msgctxt "0042"
+msgid ""
+"Well, what can ya do, right? Okay, here comes my\n"
+"answer...!"
+msgstr ""
+
+#. あ、け、決して日向さんと手を繋ぎたくないと
+#. 言うわけではありません！
+msgctxt "0043"
+msgid "My favorite is...curry flavored..."
+msgstr ""
+
+#. むしろ繋ぎたいです！
+msgctxt "0044"
+msgid "...curry!"
+msgstr ""
+
+#. ここはわたくしの国とは違いますから
+#. きっと大丈夫なはずです。
+msgctxt "0045"
+msgid ""
+"You thought I was gonna say somethin' gross, didn't\n"
+"ya!?"
+msgstr ""
+
+#. では…くるしゅうない！
+msgctxt "0046"
+msgid ""
+"The fact that you thought it was gonna be something\n"
+"gross is super gross! Think about THAT, Makotoes!"
+msgstr ""
+
+#. <CLT 04>ソニアの国だと何が起こるんだ…<CLT>
+msgctxt "0047"
+msgid "How come your hair doesn't change?"
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0048"
+msgid ""
+"Huh? Are you talking about when me and Miss Morose\n"
+"trade places?"
+msgstr ""
+
+#. え…？
+#. いきなりですか！？
+msgctxt "0049"
+msgid "Are you ready for a knowledge bomb?"
+msgstr ""
+
+#. 日向さんったら、気が早すぎます。
+#. 慌てる伯父貴はもらいが少ないですよ。
+msgctxt "0050"
+msgid ""
+"A person's hair is their hair, no matter\n"
+"what's underneath!"
+msgstr ""
+
+#. 日が暮れてから、夜景を楽しむために
+#. 登るのがベストです！
+msgctxt "0051"
+msgid ""
+"If you want the hair to change, don't talk to me! Go\n"
+"find yourself a transforming magical witch girl!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "Don't you ever get, like...tired?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "Come on, Makotomato. Think about it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"When you turn your face up to the sun, do you think,\n"
+"\"This is so tiring\"? No, right!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid "It's the same thing, doofus!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid ""
+"Keep asking stupid questions, and my scissors might\n"
+"just decide to pay your tongue a visit..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

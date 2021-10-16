@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "[the same mistake]"
+msgstr ""
+
+msgctxt "0002"
+msgid "The same mistake...? What did he do?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"He snuck into the dressing room in the middle of the\n"
+"night and accessed Alter Ego without permission."
+msgstr ""
+
+msgctxt "0004"
+msgid "And when I caught him last night..."
+msgstr ""
+
+msgctxt "0005"
+msgid "...he was hugging the laptop and breathing strangely."
+msgstr ""
+
+msgctxt "0006"
+msgid "Wh-What were you doing!?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"I thought I made myself clear yesterday, but since\n"
+"being subtle didn't work..."
+msgstr ""
+
+msgctxt "0008"
+msgid "...I suppose I have to clarify myself further."
+msgstr ""
+
+msgctxt "0009"
+msgid "Hyaaaaah! Please don't kill me!"
+msgstr ""
+
+msgctxt "0010"
+msgid "I'm not going to kill you—merely instruct you."
+msgstr ""
+
+msgctxt "0011"
+msgid "Ngh...gh!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Kyaaaaahh! Someone heeeeelllp!"
+msgstr ""
+
+msgctxt "0013"
+msgid "Hifumi, what's going on!?"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"Makoto! Save me! I've never asked you for anything,\n"
+"but I'm asking now!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Wh-What happened...?"
+msgstr ""
+
+msgctxt "0016"
+msgid "Sh-She's trying to kill me...!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT 4>Hifumi pointed at...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "..."
+msgstr "..."
+
+msgctxt "0019"
+msgid ""
+"<CLT 4>Huh? Kyoko's trying to kill you?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "I never said I was going to kill him."
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"I simply asked him a question. I'd like to know why he\n"
+"made <CLT 1>[the same mistake]<CLT> twice."
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"<CLT 4>The same mistake...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0023"
+msgid "..."
+msgstr "..."
+
+msgctxt "0024"
+msgid "I just want to hear him explain himself."
+msgstr ""
+
+msgctxt "0025"
+msgid "Makoto! Please have mercy on me!"
+msgstr ""
+
+msgctxt "0026"
+msgid "U-Uhh..."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT 4>Maybe I should hear what Kyoko has to say first.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0028"
+msgid "Hiro...what the heck is going on!?"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"I honestly have no idea. Why not have Kyoko fill us\n"
+"in?"
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"But I think I have a pretty good idea what Hifumi's\n"
+"been getting up to..."
+msgstr ""
+
+msgctxt "0031"
+msgid "Hina, what in the world happened?"
+msgstr ""
+
+msgctxt "0032"
+msgid "I'm not totally sure, but..."
+msgstr ""
+
+msgctxt "0033"
+msgid "But Hifumi did something bad! I'm pretty sure of it!"
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"Groping the laptop, and breathing all creepily on\n"
+"it..."
+msgstr ""
+
+msgctxt "0035"
+msgid "Seriously, what were you doing!?"
+msgstr ""
+
+msgctxt "0036"
+msgid "So, Sakura...what happened?"
+msgstr ""
+
+msgctxt "0037"
+msgid "I don't know."
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"But considering where we are, it must have something\n"
+"to do with the laptop."
+msgstr ""
+
+msgctxt "0039"
+msgid "Whatever it was, I can't help but be suspicious."
+msgstr ""
+
+msgctxt "0040"
+msgid "You are late."
+msgstr ""
+
+msgctxt "0041"
+msgid "S-Sorry... So, what happened?"
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"I don't know too much about it. You should talk to\n"
+"Kyoko."
+msgstr ""
+
+msgctxt "0043"
+msgid "I have an idea what he was getting up to, but..."
+msgstr ""
+
+msgctxt "0044"
+msgid "Ugh. Just ridiculous."
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"D-Don't just look the other way, you gotta help me!\n"
+"Sh-She wants to kill me!"
+msgstr ""
+
+msgctxt "0046"
+msgid "U-Uhh..."
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"Makoto! D-Don't just look the other way, you gotta\n"
+"help me!"
+msgstr ""
+
+msgctxt "0048"
+msgid "U-Uhh..."
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"Makoto! D-Don't just look the other way, you gotta\n"
+"help me!"
+msgstr ""
+
+msgctxt "0050"
+msgid "U-Uhh..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"Makoto! D-Don't just look the other way, you gotta\n"
+"help me!"
+msgstr ""
+
+msgctxt "0052"
+msgid "U-Uhh..."
+msgstr ""
+
+msgctxt "0053"
+msgid "Um, Hifumi...could you tell me what happened?"
+msgstr ""
+
+msgctxt "0054"
+msgid "W-Well, I just...I was just talking!"
+msgstr ""
+
+msgctxt "0055"
+msgid "Which was prohibited, was it not?"
+msgstr ""
+
+msgctxt "0056"
+msgid "I-I mean, you see..."
+msgstr ""
+
+msgctxt "0057"
+msgid "Talking to her was just...so much fun! And I j-just..."
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"Whoa! Okay, time out! I can't even believe I'm about\n"
+"to ask this, but..."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"Hifumi...you're not gonna tell us you...fell in love\n"
+"or something, are you?"
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"Hah! That I, the cold-blooded killing machine of the\n"
+"underworld, would ever fall in love!? That's..."
+msgstr ""
+
+msgctxt "0061"
+msgid "Wait...no way! Is...is this *love*!?"
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"I happened to do a psychic reading for a certain\n"
+"famous CEO once..."
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"And that guy was seriously head over heels for a\n"
+"mannequin. He had a wedding and everything!"
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"And your eyes just now... I saw the same look in HIS\n"
+"eyes!"
+msgstr ""
+
+msgctxt "0065"
+msgid "Shut up! She's not a mannequin! She's an ANGEL!"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"And don't bother telling me angels exist! What we have\n"
+"can't be defined by your petty \"words\"!"
+msgstr ""
+
+msgctxt "0067"
+msgid "Yeah, you're totally in love..."
+msgstr ""
+
+msgctxt "0068"
+msgid "So...how did things end up like this?"
+msgstr ""
+
+msgctxt "0069"
+msgid "..."
+msgstr "..."
+
+msgctxt "0070"
+msgid "W-Well, at the beginning..."
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"...I just wanted to hear her say \"Master\" one more\n"
+"time."
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"B-But then I was poking around at her settings and\n"
+"stuff, and saw she was a well-designed program."
+msgstr ""
+
+msgctxt "0073"
+msgid "And it was like...how can I say...?"
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"It was the first time I...I was ever able to talk like\n"
+"that...with a normal girl."
+msgstr ""
+
+msgctxt "0075"
+msgid "But she's definitely *not* a normal girl..."
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"Even when all we did was talk about my hobbies and\n"
+"stuff...she wasn't annoyed or disgusted or anything."
+msgstr ""
+
+msgctxt "0077"
+msgid "Your stories are so interesting, Hifumi!"
+msgstr ""
+
+msgctxt "0078"
+msgid "C'mon, tell me more...!"
+msgstr ""
+
+msgctxt "0079"
+msgid "I wanna learn everything you have to teach me."
+msgstr ""
+
+msgctxt "0080"
+msgid ""
+"That's the first time a girl's ever said anything like\n"
+"that to me. Besides my mom, I mean..."
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"Your mom says stuff like that to you? That's kinda\n"
+"amazing all by itself..."
+msgstr ""
+
+msgctxt "0082"
+msgid "That's why I was just...so happy. It was so much fun!"
+msgstr ""
+
+msgctxt "0083"
+msgid "And before I knew it..."
+msgstr ""
+
+msgctxt "0084"
+msgid ""
+"I found myself, y'know...liking her. Her face, her\n"
+"personality, her voice. Even her keyboard..."
+msgstr ""
+
+msgctxt "0085"
+msgid "Even the keyboard...?"
+msgstr ""
+
+msgctxt "0086"
+msgid "I think you have misunderstood the situation, Hifumi."
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"Alter Ego was not interested in who you *were*. It was\n"
+"interested in what you *knew*."
+msgstr ""
+
+msgctxt "0088"
+msgid ""
+"It is an artificial intelligence. It exists to learn.\n"
+"Of course it wanted to hear of things it did not know."
+msgstr ""
+
+msgctxt "0089"
+msgid ""
+"You are an expert in many things Chihiro could not\n"
+"have taught it about, for what that is worth."
+msgstr ""
+
+msgctxt "0090"
+msgid "Alter Ego wants that information—that is all."
+msgstr ""
+
+msgctxt "0091"
+msgid "I-I know... I mean, I do know that. But still..."
+msgstr ""
+
+msgctxt "0092"
+msgid "Are you saying it's totally hopeless? Er..."
+msgstr ""
+
+msgctxt "0093"
+msgid "You gotta be freakin' kiddin' me!"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"Hey, you jerks! I'm sittin' here, listening to you\n"
+"guys jibber jabber on about whatever!"
+msgstr ""
+
+msgctxt "0095"
+msgid "Oh, Taka! Are you back!?"
+msgstr ""
+
+msgctxt "0096"
+msgid "Who the hell's Taka!?"
+msgstr ""
+
+msgctxt "0097"
+msgid "Um...you?"
+msgstr ""
+
+msgctxt "0098"
+msgid "Listen up! I'm me! Got it!?"
+msgstr ""
+
+msgctxt "0099"
+msgid "Huh...? You're...who?"
+msgstr ""
+
+msgctxt "0100"
+msgid "Don't bullcrap me! Isn't it obvious!?"
+msgstr ""
+
+msgctxt "0101"
+msgid "I'm Kiyotaka AND Mondo. So, like...Kiyondo, I guess..."
+msgstr ""
+
+msgctxt "0102"
+msgid "I'm gonna stick a banana up your tailpipe!"
+msgstr ""
+
+msgctxt "0103"
+msgid "What the...? What the heck kind of fusion is this!?"
+msgstr ""
+
+msgctxt "0104"
+msgid "What's happened to you, Taka?"
+msgstr ""
+
+msgctxt "0105"
+msgid "A-Actually..."
+msgstr ""
+
+msgctxt "0106"
+msgid ""
+"<CLT 4>I told everyone what had happened the day before.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0107"
+msgid "So, because of what Alter Ego said to him..."
+msgstr ""
+
+msgctxt "0108"
+msgid ""
+"Are you sure it's Alter Ego's fault? Maybe Mondo's\n"
+"ghost showed up and possessed him!"
+msgstr ""
+
+msgctxt "0109"
+msgid "Gh-Gh-Ghost!? No, th-th-th-there's no such thing!"
+msgstr ""
+
+msgctxt "0110"
+msgid "What are y'all whining about!? C'MON!"
+msgstr ""
+
+msgctxt "0111"
+msgid "God, you're really cheesin' me off...!"
+msgstr ""
+
+msgctxt "0112"
+msgid "Hey, Hifumi!"
+msgstr ""
+
+msgctxt "0113"
+msgid "Y-Yes...?"
+msgstr ""
+
+msgctxt "0114"
+msgid "I dunno what you're thinkin', but..."
+msgstr ""
+
+msgctxt "0115"
+msgid "...bro belongs to me!"
+msgstr ""
+
+msgctxt "0116"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0117"
+msgid ""
+"Alter Ego! He's an exact copy of the one who gave me\n"
+"my soul back!"
+msgstr ""
+
+msgctxt "0118"
+msgid ""
+"And I'm not gonna let anyone else have him ever again!\n"
+"Fudgin' idiot!"
+msgstr ""
+
+msgctxt "0119"
+msgid "..."
+msgstr "..."
+
+msgctxt "0120"
+msgid "I'm afraid...I can't allow that."
+msgstr ""
+
+msgctxt "0121"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0122"
+msgid "I can't withdraw..."
+msgstr ""
+
+msgctxt "0123"
+msgid ""
+"Mr. Ishimaru... Since I have this opportunity, let me\n"
+"say this right now..."
+msgstr ""
+
+msgctxt "0124"
+msgid ""
+"Destiny has bound me and her together in the Gordian\n"
+"Knot of true love!"
+msgstr ""
+
+msgctxt "0125"
+msgid ""
+"Well me and HIM have been melded together in the\n"
+"white-hot heat of FRIENDSHIP!"
+msgstr ""
+
+msgctxt "0126"
+msgid "H-Hey, come on, you guys..."
+msgstr ""
+
+msgctxt "0127"
+msgid ""
+"Moron! Talk down to me and I'll ram my fist right into\n"
+"all four of your vital points!"
+msgstr ""
+
+msgctxt "0128"
+msgid ""
+"Well *I* punch at the speed of sound! And I don't have\n"
+"any arm hair, so there's no drag!"
+msgstr ""
+
+msgctxt "0129"
+msgid "Knock it off, both of you."
+msgstr ""
+
+msgctxt "0130"
+msgid ""
+"This doesn't belong to any one person. Chihiro left\n"
+"him to all of us."
+msgstr ""
+
+msgctxt "0131"
+msgid "We can use him to finally gain access to vital clues."
+msgstr ""
+
+msgctxt "0132"
+msgid ""
+"Kyoko's right. If anyone dares disturb our peace any\n"
+"further..."
+msgstr ""
+
+msgctxt "0133"
+msgid "...they'll have to deal with me."
+msgstr ""
+
+msgctxt "0134"
+msgid "...!"
+msgstr ""
+
+msgctxt "0135"
+msgid "...!"
+msgstr ""
+
+msgctxt "0136"
+msgid ""
+"Until Alter Ego has finished his work, don't do\n"
+"anything weird."
+msgstr ""
+
+msgctxt "0137"
+msgid "Have I made myself clear?"
+msgstr ""
+
+msgctxt "0138"
+msgid "I can't hear you..."
+msgstr ""
+
+msgctxt "0139"
+msgid "Y-Yes!"
+msgstr ""
+
+msgctxt "0140"
+msgid "G-Got it..."
+msgstr ""
+
+msgctxt "0141"
+msgid ""
+"Okay then. Let's get out of here. We can't afford to\n"
+"linger too long."
+msgstr ""
+
+msgctxt "0142"
+msgid "Are you sure it's okay to let them off with a warning?"
+msgstr ""
+
+msgctxt "0143"
+msgid "Yes. I have a plan."
+msgstr ""
+
+msgctxt "0144"
+msgid "It'll be fine..."
+msgstr ""
+
+msgctxt "0145"
+msgid ""
+"<CLT 4>After watching Hifumi and Taka leave dejected, we all\n"
+"went back to our rooms.\n"
+"<CLT>"
+msgstr ""

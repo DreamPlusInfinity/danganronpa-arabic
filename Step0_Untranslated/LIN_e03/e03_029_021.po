@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Hey, you two..."
+msgstr ""
+
+msgctxt "0002"
+msgid "What's going on? What's all the fuss?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Yeah! You guys playin' a game or something!?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Does it freaking LOOK like we're playing a game!?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Listen, have either of you seen Kyoko or Hifumi?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Nope nope, sure haven't!"
+msgstr ""
+
+msgctxt "0007"
+msgid "Are they on this floor? We just got here ourselves."
+msgstr ""
+
+msgctxt "0008"
+msgid "I heard some kind of uproar, so I came running."
+msgstr ""
+
+msgctxt "0009"
+msgid "We came here together!"
+msgstr ""
+
+msgctxt "0010"
+msgid "No...you're just stalking me."
+msgstr ""
+
+msgctxt "0011"
+msgid "A-Anyway, can you guys help us look for them?"
+msgstr ""
+
+msgctxt "0012"
+msgid "Why? What happened?"
+msgstr ""
+
+msgctxt "0013"
+msgid "There's no time now. We'll explain later."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"Well...fine. It sounds like something interesting is\n"
+"going on."
+msgstr ""
+
+msgctxt "0015"
+msgid "HIFUMI! KYOKO! If you can hear me, say something!"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT 4>Her voice echoed down the hall in vain...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Did you hear something?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "0020"
+msgid "I think it came from...the library!"
+msgstr ""
+
+msgctxt "0021"
+msgid "The library!? Okay, let's go!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"<CLT 4>We ran to the library as fast as our legs would carry\n"
+"us.\n"
+"<CLT>"
+msgstr ""

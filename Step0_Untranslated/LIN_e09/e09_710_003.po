@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'd rather have rabbits than chickens..."
+msgstr ""
+
+#. ラブストーリーにしよう
+msgctxt "0004"
+msgid "Hmhm...I a-agree."
+msgstr ""
+
+#. もちろんです！
+#. そのために来たようなものですから！
+msgctxt "0005"
+msgid ""
+"When I look at them, I g-get a terrible sense of\n"
+"claustrophobia and d-dementia."
+msgstr ""
+
+#. デートで来た映画館で恋愛映画を観るなんて…
+msgctxt "0006"
+msgid ""
+"Ngyeh... And when I do that, m-my heart starts to fill\n"
+"up...!"
+msgstr ""
+
+#. ああ…
+#. なんてベッタベタな展開なんでしょう…
+msgctxt "0007"
+msgid "These flowers are beautiful."
+msgstr ""
+
+#. でも、だからこそいいんです。
+#. 王道を笑う者は王道に泣くと決まってますからね！
+msgctxt "0008"
+msgid ""
+"Well, any ordinary p-person would think that, wouldn't\n"
+"they?"
+msgstr ""
+
+#. アニメもあるぞ
+msgctxt "0009"
+msgid "Not that I-I'm saying you're even ordinary..."
+msgstr ""
+
+#. なるほど…それもアリですね。
+msgctxt "0010"
+msgid ""
+"But when it comes to what's \"b-beautiful,\" everyone's\n"
+"going to agree with f-flowers, right?"
+msgstr ""
+
+#. わたくし、この国のサブカルにはまだ
+#. それほど詳しくないので興味津々なのです！
+msgctxt "0011"
+msgid ""
+"In m-my opinion, it's more interesting to find out\n"
+"what people consider u-ugly."
+msgstr ""
+
+#. それにしても、日向さんが
+#. アニメにお詳しかったなんて…
+msgctxt "0012"
+msgid ""
+"When I write, th-that's what I want people to see,\n"
+"so that they understand the beauty i-in the ugliness."
+msgstr ""
+
+#. これからは認識を改めなければいけませんね！
+msgctxt "0013"
+msgid ""
+"I want to do whatever it t-takes to get people to see\n"
+"that..."
+msgstr ""
+
+#. <CLT 04>なにか誤解された気がする…<CLT>
+msgctxt "0014"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. コメディがいいか…
+msgctxt "0015"
+msgid "..."
+msgstr "..."
+
+#. わたくしも嫌いではありませんが…
+#. それには最悪の事態もあり得ますよ。
+msgctxt "0016"
+msgid ""
+"You're just saying that b-because looking at me makes\n"
+"you th-think of a pile of mud..."
+msgstr ""
+
+#. 全く笑えなくても悲惨ですが、お互いの笑いの
+#. ツボがずれていた場合は致命的です…
+msgctxt "0017"
+msgid "But I HATE being c-covered in mud, okay!?"
+msgstr ""
+
+#. <CLT 04>確かに危険だ…<CLT>
+msgctxt "0018"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0019"
+msgid "Wanna make some flower garlands?"
+msgstr ""
+
+#. そう…それこそが映画館の
+#. 最大の謎と言えなくもないですね…
+msgctxt "0020"
+msgid ""
+"Speaking of which, I wr-wrote about something like\n"
+"that i-in one of my stories."
+msgstr ""
+
+#. 手は汚れるし、それほど食べたいわけでもないのに
+#. 何故か買ってしまうという…
+msgctxt "0021"
+msgid ""
+"B-But this is the first time I've had a chance t-to\n"
+"experience it myself..."
+msgstr ""
+
+#. 試しに我が国で映画館での販売を禁止してみたら
+#. 危うく王室デモが起こりかけましたから。
+msgctxt "0022"
+msgid ""
+"Wait, don't t-tell me...! Is that why you b-brought it\n"
+"up in the first place...!?"
+msgstr ""
+
+#. その後しばらく我が国の映画館では
+#. ポップコーンが無料で食べ放題になりました。
+msgctxt "0023"
+msgid "N-No, that can't be it...!"
+msgstr ""
+
+#. 歴史の教科書にも載っている、
+#. 有名な事件なのですよ。
+msgctxt "0024"
+msgid "Aha...ahahaha... Yeah, what was I e-expecting...?"
+msgstr ""
+
+#. <CLT 04>ノヴォセリック王国って平和なんだな…<CLT>
+msgctxt "0025"
+msgid ""
+"That you w-were waiting all this time, e-even though I\n"
+"couldn't give you what you want...?"
+msgstr ""
+
+#. パンフレットあるかな…
+msgctxt "0026"
+msgid ""
+"If all it t-took was staring at someone, nobody would\n"
+"ever bother reading r-romance novels!"
+msgstr ""
+
+#. あ、日向さんもパンフレット購入派ですか？
+#. わたくしもです！
+msgctxt "0027"
+msgid "I understand that b-better than anyone..."
+msgstr ""
+
+#. 純粋にコレクションとしても楽しいですし、
+#. 映画の内容を思い出すのにも重宝しますよね。
+msgctxt "0028"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. 購入し忘れると、うっかり同じ映画をもう一度
+#. 観に行ってしまったりしてしまいますし…
+msgctxt "0029"
+msgid ""
+"W-Well, unlike you, I can't just lie to myself to make\n"
+"everything all h-happy and fun."
+msgstr ""
+
+#. <CLT 04>さすがにそれはないと思うが…<CLT>
+msgctxt "0030"
+msgid ""
+"Seeing something so o-obviously fake doesn't do\n"
+"anything except make me depressed..."
+msgstr ""
+
+#. ホットドッグも捨てがたい
+msgctxt "0031"
+msgid ""
+"Of course, I d-do my best never to look up at the\n"
+"s-sky, anyway."
+msgstr ""
+
+#. 駄目です、日向さん！
+#. ホットドッグはごはんですよ？
+msgctxt "0032"
+msgid "That flower's kinda creepy..."
+msgstr ""
+
+#. そんなの邪道です！
+msgctxt "0033"
+msgid ""
+"Why would you bother saying something we b-both\n"
+"already know?"
+msgstr ""
+
+#. ごはんはごはんの時間までがまんしてください！
+msgctxt "0034"
+msgid "Or...are you t-trying to tell me that *I'm* creepy?"
+msgstr ""
+
+#. 観るより撮る方が…
+msgctxt "0035"
+msgid "Y-Yeah, that must be it. It makes p-perfect sense...!"
+msgstr ""
+
+#. 映画をですか…？
+msgctxt "0036"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 素敵です！
+#. 是非やりましょう！
+msgctxt "0037"
+msgid "Do you think flower fortune-telling works?"
+msgstr ""
+
+#. 幸いここは絶好のロケーションですし、
+#. 男女の比率も完璧です！
+msgctxt "0038"
+msgid "Hmm-hmm-hmm. I wonder-wonder-wonder..."
+msgstr ""
+
+#. 南の島での甘いバケーション…
+#. 揺れ動く恋と友情、渦巻く嫉妬と殺意…
+msgctxt "0039"
+msgid "Okay, let me make an official declaration!"
+msgstr ""
+
+#. きっとトレンディドラマ史上に残る
+#. 名作が生まれる事、間違いなしですわ！
+msgctxt "0040"
+msgid ""
+"I don't give a crap! The only flower I care about is\n"
+"the one that blooms between two adorable boys!"
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0041"
+msgid "Doesn't your tongue get dry like that...?"
+msgstr ""
+
+#. 映画館の一番前の席ですか…
+msgctxt "0042"
+msgid "Wow, impressive!"
+msgstr ""
+
+#. わたくし、常々疑問に思っていたんです。
+#. あの席の存在価値について…
+msgctxt "0043"
+msgid ""
+"You're right! If I don't dampen it regularly with the\n"
+"lifeblood of adorable boys..."
+msgstr ""
+
+#. 一度座ってみればわかるのでしょうか？
+#. でも、対価に見合わなかった場合はどうすれば…
+msgctxt "0044"
+msgid "...who knows how long before I die!?"
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0045"
+msgid ""
+"I was born under a doomed star. My tragic fate of\n"
+"being stuck here, unable to keep killing people...!"
+msgstr ""
+
+#. そんな非道はこのわたくしが許しません！
+msgctxt "0046"
+msgid "Just kidding, idiot!"
+msgstr ""
+
+#. 例えどんなにつまらない作品だったとしても
+#. 最後まで観ずに批判するのは詐欺も同然です。
+msgctxt "0047"
+msgid ""
+"When it starts to dry out, I just use the sprinkler\n"
+"here!"
+msgstr ""
+
+#. いえ、むしろつまらない作品ほど残さず見る…
+#. それこそがドラマウォッチャーの神髄ですよ！
+msgctxt "0048"
+msgid "Something seems off..."
+msgstr ""
+
+#. <CLT 04>ものすごい熱意だ…<CLT>
+msgctxt "0049"
+msgid "Wow, you sure are good at stating the obvious...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "Is that your invitation for me to cut into you!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "Well okay, whatever you want!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"Not! Sorry, too bad! Your pathetic invitation does\n"
+"nothing to get me fired up!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "Kyeeehahahaha!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

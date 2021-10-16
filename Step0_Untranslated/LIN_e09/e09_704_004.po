@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0004"
+msgid ""
+"Huh? What makes Japanese any better than Western?\n"
+"They're, like...separate but equal, ya know?"
+msgstr ""
+
+#. は…はぁ！？
+#. 何わけわかんねーこと言ってんだ！？
+msgctxt "0005"
+msgid ""
+"Besides, why even say something like that? What are\n"
+"you expecting me to do?"
+msgstr ""
+
+#. あ、あんなエンジンもついてねーようなヤツに
+#. 乗れるかってんだよ！
+msgctxt "0006"
+msgid "Want something to drink?"
+msgstr ""
+
+#. っていうか乗らねーよ！
+#. オレはぜってー乗らねーからな！
+msgctxt "0007"
+msgid "Oh, you sure? Sorry to make you go out of your way!"
+msgstr ""
+
+#. …ま、まあ近くに行って音聞くくらいは
+#. してもいいけどよ。
+msgctxt "0008"
+msgid "I'll take a Pepsi, if they have it."
+msgstr ""
+
+#. でも絶対に乗らないからな！
+msgctxt "0009"
+msgid ""
+"If it's good enough for the king of pop, it's good\n"
+"enough for me! Maybe I'll get my own commercial deal!"
+msgstr ""
+
+#. <CLT 04>本当にダメなんだな…<CLT>
+msgctxt "0010"
+msgid ""
+"<CLT 4>Leon's really going nuts about this whole \"famous\n"
+"musician\" thing...\n"
+"<CLT>"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0011"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. お前とオレでメリーゴーランド…
+msgctxt "0012"
+msgid "Oh yeah, same here!"
+msgstr ""
+
+#. ま、まぁ、あの動きは嫌いじゃねーぜ？
+#. ゆっくりだし、安全だし…
+msgctxt "0013"
+msgid "But how are you supposed to eat 'em, anyway?"
+msgstr ""
+
+#. ただ、なんかこー…
+#. 虚しくなりそうな気がほんのりするんだよな…
+msgctxt "0014"
+msgid ""
+"Every time you pick it up, it starts drippin' all over\n"
+"everything."
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0015"
+msgid ""
+"Depending on where I go, sometimes I end up having to\n"
+"just pick it apart and eat it piece by piece!"
+msgstr ""
+
+#. ………………
+msgctxt "0016"
+msgid "I really wish they'd do somethin' about that."
+msgstr ""
+
+#. は？ 今なんか言ったか？
+#. なんも言ってねーよな？
+msgctxt "0017"
+msgid ""
+"But I bet that kind of awkward charm would work in my\n"
+"favor."
+msgstr ""
+
+#. <CLT 04>お化け屋敷もダメなのか…<CLT>
+msgctxt "0018"
+msgid ""
+"It'd be like, \"Oh he's normally so cool, but look how\n"
+"he eats that hamburger all awkward and charming!\""
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0019"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. あったりまえだろ！
+#. 楽しむために来てんだからよ！
+msgctxt "0020"
+msgid "So what do you like to do at night?"
+msgstr ""
+
+#. まぁ、男２人ってのがちょっと萎えるけどよ…
+msgctxt "0021"
+msgid "Huh? At night...?"
+msgstr ""
+
+#. でも、何も考えずに遊ぶにはこのほうがラクだよな。
+#. そんじゃ、今日は全力で遊ぼうぜ！
+msgctxt "0022"
+msgid ""
+"Listen, what are you trying to get at? You tryin' to\n"
+"learn somethin' about my...habits?"
+msgstr ""
+
+#. 当然、速すぎるヤツとか怖いヤツとか…
+#. 絶叫したりするようなヤツはなしでな！
+msgctxt "0023"
+msgid "Kinda gross, man."
+msgstr ""
+
+#. <CLT 04>それ、かなり選択肢少なくないか…<CLT>
+msgctxt "0024"
+msgid "How do you get your hair to do that?"
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0025"
+msgid ""
+"What, you got a problem with it? You think just cuz\n"
+"I'm a sports kid, I gotta shave my head?"
+msgstr ""
+
+#. そうそう、なんでか地図見てても迷うよな！
+msgctxt "0026"
+msgid "Didn't those piercings hurt?"
+msgstr ""
+
+#. って、お前もかよ…
+#. んじゃオレら、確実に迷うな…
+msgctxt "0027"
+msgid ""
+"Eh, when I first got 'em done, sure. But it goes away\n"
+"pretty fast."
+msgstr ""
+
+#. ………………
+msgctxt "0028"
+msgid ""
+"Wait, why are you asking? You're not—are you thinking\n"
+"of getting a piercing?"
+msgstr ""
+
+#. い、命綱とかねえとやべーかな…
+msgctxt "0029"
+msgid ""
+"Ya know, you're so plain you could prolly get a ton\n"
+"and still pull it off!"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0030"
+msgid ""
+"Okay! As of today, I'm gonna start working on a Makoto\n"
+"remodeling plan!"
+msgstr ""
+
+#. はぁ？
+#. なにジジくせーこと言ってんだよ！
+msgctxt "0031"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. こういうとこに来たからには
+#. 全力で遊ぶに決まってんだろ！
+msgctxt "0032"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. さっさと走らねーと、おいてくぞ！
+msgctxt "0033"
+msgid ""
+"You're the one that brought me here. You think of\n"
+"something!"
+msgstr ""
+
+#. 作戦開始だ！
+msgctxt "0034"
+msgid "...Come on, can't you think of *anything*!?"
+msgstr ""
+
+#. お、いいねぇ！
+#. オメーも乗り倒す気満々、ってとこかぁ？
+msgctxt "0035"
+msgid ""
+"Tell ya what, you take your time and come find me when\n"
+"you've got somethin' worth sayin'!"
+msgstr ""
+
+#. やっぱ目指すは、動く乗り物全制覇ってことだよな！
+msgctxt "0036"
+msgid "What's your favorite food?"
+msgstr ""
+
+#. …って、言っとくけど、エンジンついてねーのは
+#. 動く乗り物に含まねーぞ！
+msgctxt "0037"
+msgid "If I tell you, are you gonna make it for me?"
+msgstr ""
+
+#. よっしゃ、エンジン全開で行くぜぇぇぇｌ！
+msgctxt "0038"
+msgid "Then you better tell me what you can make first!"
+msgstr ""
+
+#. <CLT 04>左右田の好きそうな乗り物なんて<CLT>
+#. <CLT 04>本当にここにあるのか…？<CLT>
+msgctxt "0039"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0040"
+msgid ""
+"My specialty is cup ramen. Oh, but I'm also pretty\n"
+"good with frozen food!"
+msgstr ""
+
+#. うお、あそこまで行くのかよ！
+msgctxt "0041"
+msgid "And, uh...that's about it. Heh..."
+msgstr ""
+
+#. けど、あんだけ高けりゃ
+#. 遠くまでよく見えそうだな…
+msgctxt "0042"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

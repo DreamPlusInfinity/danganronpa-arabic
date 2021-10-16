@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Hey, Makoto! You remember your promise?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Huh? What promise?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Did you forget already?"
+msgstr ""
+
+msgctxt "0004"
+msgid "You promised that we could talk about you this time!"
+msgstr ""
+
+msgctxt "0005"
+msgid "You really did forget..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT 4>Chihiro looked really disappointed. With sagging\n"
+"shoulders, she wandered away.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"That's right, I did promise. She wanted to <CLT 3>talk about\n"
+"me<CLT> this time..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT 4>I'd better go after her...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT 4>I headed to Chihiro's room.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0010"
+msgid "..."
+msgstr "..."
+
+msgctxt "0011"
+msgid ""
+"Listen, I just wanted to tell you that I didn't forget\n"
+"about my promise...!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Of course I remember! So cheer up, okay?"
+msgstr ""
+
+msgctxt "0013"
+msgid "...Then can we talk about you today?"
+msgstr ""
+
+msgctxt "0014"
+msgid "Sure, I don't mind at all!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Really? Great! Then come in and sit down."
+msgstr ""
+
+msgctxt "0016"
+msgid "Huh? I can...come in?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Yeah, of course!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT 4>I know what she said, but I'm not sure she should be\n"
+"so quick to let down her defenses like this...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "Okay, let's go! I wanna hear all about you!"
+msgstr ""
+
+msgctxt "0020"
+msgid "I'm happy to talk, but what do you want to know?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Well, let's start with a question."
+msgstr ""
+
+msgctxt "0022"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0023"
+msgid "What do you like to do in your spare time?"
+msgstr ""
+
+msgctxt "0024"
+msgid "Well, you know..."
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"I watch TV, play video games, lay around... That's\n"
+"pretty much it."
+msgstr ""
+
+msgctxt "0026"
+msgid "Huh? What about sports?"
+msgstr ""
+
+msgctxt "0027"
+msgid "Oh, I don't really play anything."
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"The only time I run anywhere is during gym, or when\n"
+"I'm running late in the morning..."
+msgstr ""
+
+msgctxt "0029"
+msgid "Really? And you're still so strong?"
+msgstr ""
+
+msgctxt "0030"
+msgid "Strong? Me?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"N-No, I'm pretty much on the bottom rung of\n"
+"masculinity!"
+msgstr ""
+
+msgctxt "0032"
+msgid "You're on...the bottom rung?"
+msgstr ""
+
+msgctxt "0033"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "0034"
+msgid "..."
+msgstr "..."
+
+msgctxt "0035"
+msgid ""
+"<CLT 4>Chihiro seemed...disappointed, somehow.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0036"
+msgid "Hey, what's the matter?"
+msgstr ""
+
+msgctxt "0037"
+msgid "Well, it's just... I'm looking for <CLT 3>someone strong<CLT>."
+msgstr ""
+
+msgctxt "0038"
+msgid "Someone strong? Well, what about Sakura...?"
+msgstr ""
+
+msgctxt "0039"
+msgid "...No, I mean a <CLT 3>guy<CLT>."
+msgstr ""
+
+msgctxt "0040"
+msgid "Mondo"
+msgstr ""
+
+msgctxt "0041"
+msgid "Byakuya"
+msgstr ""
+
+msgctxt "0042"
+msgid "Maybe Byakuya...?"
+msgstr ""
+
+msgctxt "0043"
+msgid "Byakuya? You think so...?"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"Yeah, no matter what kind of problems he runs into,\n"
+"I've never seen him get rattled or anything."
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"If you can believe in who you are no matter what\n"
+"happens, that must take a certain kind of strength..."
+msgstr ""
+
+msgctxt "0046"
+msgid "Yeah, that's true..."
+msgstr ""
+
+msgctxt "0047"
+msgid "But I don't think Byakuya's the one..."
+msgstr ""
+
+msgctxt "0048"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"O-Oh, it's nothing. Does anyone besides Byakuya come\n"
+"to mind?"
+msgstr ""
+
+msgctxt "0050"
+msgid "Sakura"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"Hmmm... I honestly just can't think of anyone stronger\n"
+"than Sakura."
+msgstr ""
+
+msgctxt "0052"
+msgid "..."
+msgstr "..."
+
+msgctxt "0053"
+msgid ""
+"<CLT 4>She seems really depressed for some reason. I kinda\n"
+"feel guilty now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0054"
+msgid "Does it really absolutely have to be a guy?"
+msgstr ""
+
+msgctxt "0055"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "0056"
+msgid "Okay. In that case...umm..."
+msgstr ""
+
+msgctxt "0057"
+msgid "You really can't think of anyone?"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"<CLT 4>When she looks at me with those big, pleading eyes...\n"
+"I feel like I'd die if I let her down...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"Thinking about strong guys, there *is* someone here\n"
+"who's probably been in a lot of fights..."
+msgstr ""
+
+msgctxt "0060"
+msgid "Then what about <CLT 3>Mondo<CLT>?"
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"He's the <CLT 3>Ultimate Biker Gang Leader<CLT>, right? He's\n"
+"gotta be the strongest guy here."
+msgstr ""
+
+msgctxt "0062"
+msgid "Mondo... Yeah, that's it!"
+msgstr ""
+
+msgctxt "0063"
+msgid "But why are you looking for a strong guy?"
+msgstr ""
+
+msgctxt "0064"
+msgid "..."
+msgstr "..."
+
+msgctxt "0065"
+msgid ""
+"<CLT 4>Huh? She went all quiet again...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"<CLT 4>Are you, like...into tough guys or something?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0067"
+msgid "I want to...start training. I'm so weak..."
+msgstr ""
+
+msgctxt "0068"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"I thought if I could talk to someone strong about it,\n"
+"it might help motivate me."
+msgstr ""
+
+msgctxt "0070"
+msgid "So that's why, huh?"
+msgstr ""
+
+msgctxt "0071"
+msgid "Sorry, I wish I could help somehow..."
+msgstr ""
+
+msgctxt "0072"
+msgid "..."
+msgstr "..."
+
+msgctxt "0073"
+msgid ""
+"Hey, Makoto...? Do you have any kind of,\n"
+"um...<CLT 3>inferiority complex<CLT>?"
+msgstr ""
+
+msgctxt "0074"
+msgid "Inferiority complex...?"
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"You know, some part of you that you can't stand.\n"
+"Something you absolutely hate..."
+msgstr ""
+
+msgctxt "0076"
+msgid "Well, I guess so..."
+msgstr ""
+
+msgctxt "0077"
+msgid "For me, it's how forgettably ordinary I am."
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"I've been made painfully aware of this part of me ever\n"
+"since I came here."
+msgstr ""
+
+msgctxt "0079"
+msgid ""
+"The rest of you all have your ultimate abilities, but\n"
+"I don't have any kind of talent at all."
+msgstr ""
+
+msgctxt "0080"
+msgid "And...how do you overcome that kind of feeling?"
+msgstr ""
+
+msgctxt "0081"
+msgid "I'm not sure I can..."
+msgstr ""
+
+msgctxt "0082"
+msgid ""
+"That's why I decided to just accept it. It's how I\n"
+"feel, and there's nothing I can do about it."
+msgstr ""
+
+msgctxt "0083"
+msgid ""
+"And if I find myself thinking about it too much, I\n"
+"just find something else to do with my time."
+msgstr ""
+
+msgctxt "0084"
+msgid ""
+"If I throw myself into something hard enough, I can\n"
+"forget about it for a little while."
+msgstr ""
+
+msgctxt "0085"
+msgid "Throw myself into something..."
+msgstr ""
+
+msgctxt "0086"
+msgid "I see. That's a good idea."
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"If I don't do something, nothing's ever going to\n"
+"change."
+msgstr ""
+
+msgctxt "0088"
+msgid "Yeah, I think <CLT 3>your advice<CLT> has helped me understand!"
+msgstr ""
+
+msgctxt "0089"
+msgid ""
+"<CLT 4>Advice? I'm not sure it was anything like that...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0090"
+msgid "Ehehe... Thanks, Makoto!"
+msgstr ""
+
+msgctxt "0091"
+msgid ""
+"<CLT 4>Well, if it helped, that's good enough for me.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0092"
+msgid ""
+"<CLT 4>Talking to her like this, I feel like I've gotten to\n"
+"know Chihiro really well.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0093"
+msgid ""
+"<CLT 4>I think we understand each other a lot better...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"<CLT 4>I wonder if maybe I've finally become a <CLT><CLT 3>friend<CLT><CLT 4> to\n"
+"her in the truest sense of the word.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0095"
+msgid ""
+"<CLT 23>Chihiro's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0096"
+msgid ""
+"<CLT 23>You just unlocked the skill <CLT><CLT 3>Cheat Code<CLT><CLT 23>!\n"
+"Give yourself a pat on the back. You've earned it!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0097"
+msgid ""
+"<CLT 4>After talking with Chihiro a little while longer, I\n"
+"decided to head back to my room.\n"
+"<CLT>"
+msgstr ""

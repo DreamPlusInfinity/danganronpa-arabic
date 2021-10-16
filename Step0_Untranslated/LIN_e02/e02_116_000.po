@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "...The girls locker room?"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"We've already searched this place top to bottom! What\n"
+"are you trying to pull, missy!?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"I'd like you to <CLT 3>examine the victim's body<CLT>, one more\n"
+"time."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT 4>You want to check it again...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Be sure to examine the entire body very carefully.\n"
+"Take your time."
+msgstr ""
+
+msgctxt "0006"
+msgid "Examine her...carefully? Like, using our hands?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Nowaynowaynowaynoway!"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"It's...probably best if I don't run my hands all over\n"
+"a girl's dead body..."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"I-It's not that I'm creeped out or anything. It's\n"
+"just...based on religious grounds, ya know...?"
+msgstr ""
+
+msgctxt "0010"
+msgid "...Very well. I'll do it."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"B-But you're a girl. You shouldn't have to touch a\n"
+"dead body. Just let one of the boys do it..."
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"No, it's okay. I think Chihiro would rather have a\n"
+"girl examine her."
+msgstr ""
+
+msgctxt "0013"
+msgid "So just leave this to me..."
+msgstr ""
+
+msgctxt "0014"
+msgid "S-Sakura..."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"What is this, some kind of secret girl-on-girl\n"
+"action!? Is that what you two are about!?"
+msgstr ""
+
+msgctxt "0016"
+msgid "That's not it at all! Stop screwin' around!"
+msgstr ""
+
+msgctxt "0017"
+msgid "Okay, here I go..."
+msgstr ""
+
+msgctxt "0018"
+msgid "I'm sorry, Chihiro. Please excuse the intrusion..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT 4>Putting her hands together in a brief prayer, Sakura\n"
+"then began to quietly examine her body.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Be sure to check her entire body, and I believe we\n"
+"will solve this particular mystery."
+msgstr ""
+
+msgctxt "0021"
+msgid "Her entire body...? I know you say that, but..."
+msgstr ""
+
+msgctxt "0022"
+msgid "What—? This is... What does this m—?"
+msgstr ""
+
+msgctxt "0023"
+msgid "Huaaaaaaahhh!"
+msgstr ""
+
+msgctxt "0024"
+msgid "What is it!?"
+msgstr ""
+
+msgctxt "0025"
+msgid "Not possible... It's not possible!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"<CLT 4>Sakura's eyes were staring wildly at Chihiro's\n"
+"lifeless form. Her massive frame trembled.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0027"
+msgid "This...this girl is...!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Is what!?"
+msgstr ""
+
+msgctxt "0029"
+msgid "...is a <CLT 3>boy<CLT>!"
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"Ah, I see. So \"she\" was actually a <CLT 3>he<CLT>. Interesting.\n"
+"Thank you for confirming this fact."
+msgstr ""
+
+msgctxt "0031"
+msgid "WHAAAAAAAAAAAAAAAAAT!?"
+msgstr ""
+
+msgctxt "0032"
+msgid "...You're joking, right?"
+msgstr ""
+
+msgctxt "0033"
+msgid "I wouldn't joke about this!"
+msgstr ""
+
+msgctxt "0034"
+msgid "Th-Th-Then..."
+msgstr ""
+
+msgctxt "0035"
+msgid "Then it's really true!?"
+msgstr ""
+
+msgctxt "0036"
+msgid "Chihiro was...a guy?"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Hmm? Oh what, you guys didn't know? Heck, I knew that\n"
+"right off the bat!"
+msgstr ""
+
+msgctxt "0038"
+msgid "Chihiro Fujisaki was totally a guy!"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"Th-Then...he was a cross-dresser!? Now I'm REALLY on\n"
+"fire! I wish I HAD killed him!"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"So that's what Kyoko wanted to show everyone, huh?\n"
+"Interesting..."
+msgstr ""
+
+msgctxt "0041"
+msgid "..."
+msgstr "..."
+
+msgctxt "0042"
+msgid ""
+"Puhuhu. Yes, that certainly does make things much more\n"
+"exciting!"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"Now let's ride this wave of excitement back to the\n"
+"courtroom and <CLT 3>get back to the trial<CLT>!"
+msgstr ""

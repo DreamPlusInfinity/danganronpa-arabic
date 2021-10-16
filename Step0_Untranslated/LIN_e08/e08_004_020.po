@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. オレはオメーと違ってヒマじゃねーんだよ。
+#. また今度なー。
+msgctxt "0001"
+msgid ""
+"I'm not even afraid anymore. Now I'm just pissed\n"
+"off..."
+msgstr ""
+
+#. <CLT 04>左右田は他の用事があるみたいだ。
+#. また今度声を掛けるか。<CLT>
+msgctxt "0002"
+msgid "Why!? Why is this happening to me!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0003"
+msgid "This isn't fair, man! I mean, am I wrong?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0004"
+msgid "Oh, um... Yeah, it really isn't."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0005"
+msgid "Right!? Totally unfair. Ultra unfair!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0006"
+msgid ""
+"Just like having to shave my head right before every\n"
+"baseball game!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0007"
+msgid "Well, I mean...you chose to do that, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid "C'mon, man! Are *you* against me now, too!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid ""
+"I didn't even wanna play! But the coach and all the\n"
+"teachers begged me, so I did it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid ""
+"And then they made me shave my head, just cuz it's\n"
+"\"tradition.\" How's that fair!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "You really hate baseball that much, huh...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"Damn straight I do! Who has fun running around on a\n"
+"dusty field for three hours!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"<CLT 4>But...for baseball players, the field is like sacred\n"
+"ground, isn't it?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid ""
+"But it's so not cool! Spending all that time at\n"
+"practice, getting covered in sweat and dirt..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"It's just baseball, right? It's easy! Who needs\n"
+"practice!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid ""
+"<CLT 4>I think the gods picked the wrong person to bless with\n"
+"that much talent...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"Still...I gotta admit, baseball wasn't <CLT 3>all bad<CLT>.\n"
+"It did have a few things going for it..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid ""
+"Yeah, right? Like the <CLT 3>feeling of camaraderie between\n"
+"you and your teammates<CLT>!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"Nah, nothin' like that! I can't stand being around a\n"
+"bunch of sweaty guys. So totally uncool!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "Then...what did you like about it?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid ""
+"Well, I hate studying, right? But I still got into\n"
+"this super fancy school on a sports scholarship."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid "As long as I kept playing, I never had to study!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid "And besides that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid ""
+"It made me super popular with the ladies!\n"
+"Booya! Ya jealous?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid ""
+"I got to third base in more ways than one, if ya know\n"
+"what I'm sayin'! ...Just kidding!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"Heh-heh. I got plenty more where that came from!\n"
+"I'll tell ya more about it next time."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid ""
+"Anyway, let's hang out again sometime! Talking to you\n"
+"helps keep my mind off this place..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid ""
+"<CLT 4>With a smile on his face and a spring in his step,\n"
+"Leon strolled away.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"<CLT 4>I'm not really sure why, but I guess Leon likes\n"
+"hanging out with me...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"<CLT 23>Leon's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with him.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"<CLT 23>You just unlocked the skill <CLT><CLT 3>Robot Jock<CLT><CLT 23>!\n"
+"Give yourself a pat on the back. You've earned it!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"<CLT 4>Once we were all done, I headed back to my room for a\n"
+"little while...\n"
+"<CLT>"
+msgstr ""

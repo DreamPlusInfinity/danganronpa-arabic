@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>こうして２人でこの景色を見るのも<CLT>
+#. <CLT 04>今日で最後か…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>I decided to talk to Byakuya one more time before we\n"
+"all left...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>色々と無茶苦茶なサバイバル生活だったけど<CLT>
+#. <CLT 04>改めて振り返ってみると…楽しかったな。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>I wonder if this is the last time we'll ever see this\n"
+"place...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかんだ言っても、<CLT>
+#. <CLT 04>人が死ぬような事態にはならなかったし。<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>The time we spent here didn't make much sense,\n"
+"but...looking back, I can't say I didn't have fun.\n"
+"<CLT>"
+msgstr ""
+
+#. ここでの生活もこれで終わりか…
+msgctxt "0004"
+msgid ""
+"<CLT 4>There are still some mysteries left. What was\n"
+"Monokuma, really? Why'd we end up here?\n"
+"<CLT>"
+msgstr ""
+
+#. この俺の貴重な時間を割いてやったというのに
+#. なんの意味もない、実にくだらん茶番だったな。
+msgctxt "0005"
+msgid ""
+"<CLT 4>I still don't have answers, but I'll have time to\n"
+"figure all that out once we escape...\n"
+"<CLT>"
+msgstr ""
+
+#. …と、本物の十神白夜なら言うかな。
+msgctxt "0006"
+msgid "So, our time here has come to an end."
+msgstr ""
+
+#. 日向、お前はもう気づいてるんだろう？
+#. この俺の<CLT 03>正体<CLT>に。
+msgctxt "0007"
+msgid ""
+"Still, I have no intention of leaving things as they\n"
+"are."
+msgstr ""
+
+#. <CLT 04>十神が俺に聞いてほしいと言ったこと…<CLT>
+msgctxt "0008"
+msgid ""
+"I *will* find out why we all got caught up in this\n"
+"deplorable situation."
+msgstr ""
+
+#. <CLT 04>その答えがたぶん、これなのだろう。<CLT>
+msgctxt "0009"
+msgid "After all, I am the chosen."
+msgstr ""
+
+#. <CLT 04>十神の…いや、いま目の前にいる<CLT>
+#. <CLT 04>この男の正体は…<CLT>
+msgctxt "0010"
+msgid "My Togami name demands total victory."
+msgstr ""
+
+#. 影武者
+msgctxt "0011"
+msgid ""
+"What was Monokuma's true identity? And what was he\n"
+"trying to accomplish here?"
+msgstr ""
+
+#. ええと…実は影武者、とか？
+msgctxt "0012"
+msgid "In this case, victory means exposing those truths."
+msgstr ""
+
+#. ふん、実に愚民らしい短絡な発想だな。
+msgctxt "0013"
+msgid ""
+"Well...for me, it's not about winning or anything.\n"
+"I just...need to know."
+msgstr ""
+
+#. この十神白夜を真似られる者など
+#. 存在するはずがなかろう。
+msgctxt "0014"
+msgid ""
+"I have to know why we had to go through\n"
+"something like this."
+msgstr ""
+
+#. そもそも影武者を立てるなど臆病者のする事だ。
+#. 何が相手だろうとこの俺は逃げも隠れもしない。
+msgctxt "0015"
+msgid ""
+"So what, you expect me to come running to you with\n"
+"any details I might happen to dig up?"
+msgstr ""
+
+#. …あれ？
+#. 意外と務まるんじゃないかな？
+msgctxt "0016"
+msgid "Who are you to ask that of me?"
+msgstr ""
+
+#. <CLT 04>つまり違うって事か…<CLT>
+msgctxt "0017"
+msgid "W-Wait, I..."
+msgstr ""
+
+#. 血縁者
+msgctxt "0018"
+msgid "If you really want to know the truth..."
+msgstr ""
+
+#. 実は、血縁者なんじゃないのか？
+msgctxt "0019"
+msgid ""
+"If you really want to win, you must earn it for\n"
+"yourself."
+msgstr ""
+
+#. ほら、前に言ってたろ？
+#. 兄弟がたくさんいるって…
+msgctxt "0020"
+msgid "Okay, but...there's no way I can do this by myself."
+msgstr ""
+
+#. …いっそのこと本当にそうなら
+#. よかったんだがな。
+msgctxt "0021"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>十神はなぜか寂しそうだ…<CLT>
+#. <CLT 04>どうやら違うみたいだな。<CLT>
+msgctxt "0022"
+msgid "Listen, Makoto. Do you plan to help me or what?"
+msgstr ""
+
+#. 詐欺師
+msgctxt "0023"
+msgid "What!?"
+msgstr ""
+
+#. 十神、お前の能力はもしかして…
+#. <CLT 03>"超高校級の詐欺師"<CLT>なのか？
+msgctxt "0024"
+msgid "I'm asking what your intentions are."
+msgstr ""
+
+#. そう…それが俺の唯一の真実だ。
+msgctxt "0025"
+msgid ""
+"Are you going to help me punish whoever is responsible\n"
+"for this?"
+msgstr ""
+
+#. 十神になる前は別の人間だった。
+#. その前も…さらにその前も。
+msgctxt "0026"
+msgid "H-Hold on! Why me...?"
+msgstr ""
+
+#. 詐欺師と言っても、
+#. 目的は金や権力なんかじゃない。
+msgctxt "0027"
+msgid "I don't have any useful talents..."
+msgstr ""
+
+#. 俺はただ…存在したかっただけだ。
+msgctxt "0028"
+msgid "I don't have any useful talents..."
+msgstr ""
+
+#. 存在…したかった…？
+msgctxt "0029"
+msgid "You don't have to tell *me* that."
+msgstr ""
+
+#. 俺には戸籍も名前もない…
+msgctxt "0030"
+msgid "I'm not asking for your talent."
+msgstr ""
+
+#. 誰かのカタチを借りなければ
+#. 存在する事すらできないんだ…
+msgctxt "0031"
+msgid ""
+"What I'm saying is that I will find a way to make some\n"
+"use of a useless nobody."
+msgstr ""
+
+#. …どんな言い訳をしようと、事実はひとつだ。
+#. 俺は…本物の十神白夜じゃない。
+msgctxt "0032"
+msgid ""
+"<CLT 4>B-But that's...\n"
+"<CLT>"
+msgstr ""
+
+#. 俺はずっと…はじめからずっと、お前たちを――
+msgctxt "0033"
+msgid "How could the Ultimate Lucky Student help?"
+msgstr ""
+
+#. そうだとしても…前にも言ったよな？
+msgctxt "0034"
+msgid "How could the Ultimate Lucky Student help?"
+msgstr ""
+
+#. え…？
+msgctxt "0035"
+msgid ""
+"To be totally honest, even I don't see any way\n"
+"I could really help..."
+msgstr ""
+
+#. 俺にとっての十神白夜は
+#. いま目の前にいるお前だけだ。
+msgctxt "0036"
+msgid ""
+"Don't misunderstand. I have never needed and will\n"
+"never need to depend on luck to win."
+msgstr ""
+
+#. 本物だろうが偽物だろうが関係ない。
+#. 俺が理解したいと思ったのは、お前だからな。
+msgctxt "0037"
+msgid "\"Luck\" means nothing to the Togami family."
+msgstr ""
+
+#. 日向…
+msgctxt "0038"
+msgid ""
+"<CLT 4>It sounds like he thinks he can conquer fate...\n"
+"<CLT>"
+msgstr ""
+
+#. やっぱりキミに話してよかった。
+msgctxt "0039"
+msgid ""
+"<CLT 4>If that's really how he feels, I can't think of\n"
+"any way to object to that. But still, why...?\n"
+"<CLT>"
+msgstr ""
+
+#. 今まで生きてきて、そんな事を言われたのは
+#. 初めてだよ。
+msgctxt "0040"
+msgid "I'm just another normal person..."
+msgstr ""
+
+#. あ…ありがとうな…
+msgctxt "0041"
+msgid "..."
+msgstr "..."
+
+#. ………………。
+msgctxt "0042"
+msgid "I'm just another normal person..."
+msgstr ""
+
+#. 本当なら、誰かに知られた時点で
+#. 姿を消すべきなんだけど…
+msgctxt "0043"
+msgid "You told me never to talk to you again, right?"
+msgstr ""
+
+#. 今はまだもう少し、このままでいたい。
+msgctxt "0044"
+msgid "..."
+msgstr "..."
+
+#. この島での日々は、今までの人生の中で
+#. 最高の時間だったから…
+msgctxt "0045"
+msgid "It is annoying to admit, but..."
+msgstr ""
+
+#. …消える必要なんてないだろ。
+#. お前はちゃんとここに存在してるんだ。
+msgctxt "0046"
+msgid ""
+"...the time I spent here has made me realize one\n"
+"thing."
+msgstr ""
+
+#. お前を想う俺たちを捨てて…
+#. 一人で勝手にどっかへ行ったりするなよ。
+msgctxt "0047"
+msgid "What was it...?"
+msgstr ""
+
+#. ああ…ああ、そうだな…
+msgctxt "0048"
+msgid ""
+"The more time I spent with all of you, the more I saw\n"
+"just how ignorant you all are."
+msgstr ""
+
+#. …ありがとう、日向。
+#. 俺という存在を…確かにしてくれて…
+msgctxt "0049"
+msgid ""
+"I've spent my entire life learning how to lead. The\n"
+"way you live is incomprehensible to me."
+msgstr ""
+
+#. 本当に………
+msgctxt "0050"
+msgid "But *because* I don't understand it..."
+msgstr ""
+
+#. <CLT 04>差し出された手をしっかりと握る。<CLT>
+msgctxt "0051"
+msgid ""
+"...it might be good for me to keep an ordinary person\n"
+"like you around, to explain it to me."
+msgstr ""
+
+#. <CLT 04>こいつが心の底から望んでいるもの…<CLT>
+#. <CLT 04>そのために、俺にもできる事がきっとあるはずだ。<CLT>
+msgctxt "0052"
+msgid ""
+"There is no point in trying to understand the foolish\n"
+"ideas of the masses myself."
+msgstr ""
+
+#. <CLT 04>この島に来るまで感じた事もない、<CLT>
+#. <CLT 04>明るい想いが俺の胸を満たしていた。<CLT>
+msgctxt "0053"
+msgid "Okay, so...you want me to be your secretary...?"
+msgstr ""
+
+#. <CLT 04>これを"希望"と呼ぶのかはわからない。<CLT>
+#. <CLT 04>でもこの想いがあるから俺は…歩いていけるだろう。<CLT>
+msgctxt "0054"
+msgid "With the promised salary. 550,000 dollars a year."
+msgstr ""
+
+#. はい
+msgctxt "0055"
+msgid ""
+"And if that's not good enough, I'll gladly pay you\n"
+"more. Do we have a deal?"
+msgstr ""
+
+#. いいえ
+msgctxt "0056"
+msgid ""
+"<CLT 4>He phrased it as a question, but it had the\n"
+"unmistakable feel of a command.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>他にも話しかけたい人がいますか？<CLT>
+msgctxt "0057"
+msgid ""
+"<CLT 4>But even though we'd become closer...I could still\n"
+"feel that distance between us.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>こうして俺たちの<CLT>
+#. <CLT 04>南の島での生活は終わりを告げた――<CLT>
+msgctxt "0058"
+msgid "Well? Hurry up and answer, you clod."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid "Umm...well, the salary part doesn't really matter."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid "What do you mean? Do you not want to be paid?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0061"
+msgid "I mean, regardless of that...I want to help you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0062"
+msgid "So...I'll do my best, Byakuya."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0063"
+msgid "One mistake and you're fired. Understand?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0064"
+msgid ""
+"<CLT 4>I'd made my decision. I'd taken control of the\n"
+"direction of my life, and it led me to Byakuya.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid ""
+"<CLT 4>Now my goal is to show Byakuya that the way I live\n"
+"*can* bring someone happiness.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid ""
+"<CLT 4>For the first time since coming to this school, a\n"
+"vivid image of the future filled my heart...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid "<CLT 23>You received<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>Byakuya's Undergarments<CLT> <CLT 23>as a present.<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid "Yes"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid ""
+"<CLT 23>Is there anyone else you'd like to talk to?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0071"
+msgid ""
+"<CLT 4>And that's how my school life at Hope's Peak Academy\n"
+"came to an end...\n"
+"<CLT>"
+msgstr ""

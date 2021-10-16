@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. なんか今日は体の調子がいい気がする…！
+msgctxt "0001"
+msgid "I'm feeling surprisingly good today...!"
+msgstr ""
+
+#. 新しい朝…、希望の朝だね！
+msgctxt "0002"
+msgid ""
+"Yes indeed, I feel very refreshed! Just very, very\n"
+"good feelings all around!"
+msgstr ""
+
+#. <CLT 04>狛枝、調子良いみたいだな…<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>Taka seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. 喜べ、愚民共…
+#. 今日は貴様らに格の違いというものを見せてやろう…
+msgctxt "0004"
+msgid ""
+"Rejoice, commoners, for today I will show you just\n"
+"how far above you I am."
+msgstr ""
+
+#. <CLT 04>十神、調子良いみたいだな…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>Byakuya seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. フッ…愚かな…
+#. このオレ様を目覚めさせたこと、後悔するがいい…
+msgctxt "0006"
+msgid ""
+"Well, guess I have no choice but to show you how\n"
+"friggin' serious I can get!"
+msgstr ""
+
+#. <CLT 04>田中、調子良いみたいだな…<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>Mondo seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. 今日のオレは何かが違うぜ！
+#. みなぎってきたあぁぁぁぁー！
+msgctxt "0008"
+msgid "Heh-heh. I feel like I could do anything!"
+msgstr ""
+
+#. <CLT 04>左右田、調子良いみたいだな…<CLT>
+msgctxt "0009"
+msgid ""
+"<CLT 4>Leon seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. なんかね、起きてからずっとたちっぱなしなんだ。
+#. いろんなところにいきまくりたいな！
+msgctxt "0010"
+msgid ""
+"I feel like I'm not my usual self. Perhaps because I\n"
+"traveled to a parallel world to re-energize!"
+msgstr ""
+
+#. <CLT 04>花村、調子良いみたいだな…<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>Hifumi seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. ぬぉぉぉぉぉぉぉーーーー！
+#. 気合いじゃああああああああああ！！
+msgctxt "0012"
+msgid ""
+"It's hot! The fortune I predicted for today is super\n"
+"hot!"
+msgstr ""
+
+#. <CLT 04>弐大、調子良いみたいだな…<CLT>
+msgctxt "0013"
+msgid ""
+"<CLT 4>Hiro seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. しゃーねーな…たまにゃ気合い入れっか。
+msgctxt "0014"
+msgid ""
+"I'm gonna give it everything I've got today, so we can\n"
+"all get out of here together!"
+msgstr ""
+
+#. <CLT 04>九頭龍、調子良いみたいだな…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>Sayaka seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. うめーメシくうとよ、生き返るよなー！
+msgctxt "0016"
+msgid ""
+"It's important that we do our best no matter what the\n"
+"goal is."
+msgstr ""
+
+#. <CLT 04>終里、調子良いみたいだな…<CLT>
+msgctxt "0017"
+msgid ""
+"<CLT 4>Kyoko seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. 頑張ろうと思うんだ。
+#. …眠くなるまではね。
+msgctxt "0018"
+msgid ""
+"I feel like I could jump in the ocean and swim around\n"
+"the entire coast of Japan!"
+msgstr ""
+
+#. <CLT 04>七海、調子良いみたいだな…<CLT>
+msgctxt "0019"
+msgid ""
+"<CLT 4>Hina seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. 今日のわたくしは…イケイケですよ！
+msgctxt "0020"
+msgid ""
+"I know what I h-have to do…\n"
+"And I'm g-gonna do whatever it takes..."
+msgstr ""
+
+#. <CLT 04>ソニア、調子良いみたいだな…<CLT>
+msgctxt "0021"
+msgid ""
+"<CLT 4>Toko seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. くすくす…
+#. 今日は２倍くらいアレをやってやろーっと…
+msgctxt "0022"
+msgid ""
+"It's important for us to cherish each day, and create\n"
+"a string of valuable memories..."
+msgstr ""
+
+#. <CLT 04>西園寺、調子良いみたいだな…<CLT>
+msgctxt "0023"
+msgid ""
+"<CLT 4>Sakura seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. おはよ！
+#. 今日はどこに行っても、いい写真が撮れそうだよ！
+msgctxt "0024"
+msgid ""
+"Hmhmhm. My intuition is very strong today, and it is\n"
+"telling me this will be a wonderful day."
+msgstr ""
+
+#. <CLT 04>小泉、調子良いみたいだな…<CLT>
+msgctxt "0025"
+msgid ""
+"<CLT 4>Celeste seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. うふふ…
+#. 今日はいじめられない気がするなー…
+msgctxt "0026"
+msgid "Dunno why, but I'm feelin' totally pumped!"
+msgstr ""
+
+#. <CLT 04>罪木、調子良いみたいだな…<CLT>
+msgctxt "0027"
+msgid ""
+"<CLT 4>Junko seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. うっきゃーーーー！！
+#. なんか１００曲くらい出来ちゃいそうな勢いっすー！！
+msgctxt "0028"
+msgid "Eheh! I'm feeling extra upbeat today...!"
+msgstr ""
+
+#. <CLT 04>澪田、調子良いみたいだな…<CLT>
+msgctxt "0029"
+msgid ""
+"<CLT 4>Chihiro seems to be feeling pretty good...\n"
+"<CLT>"
+msgstr ""
+
+#. やるからには全力で取り組む…
+#. 基本の精神を大事にせねばな…
+msgctxt "0030"
+msgid ""
+"Maybe I'll have you start by using these materials\n"
+"to make a Greek Statue."
+msgstr ""
+
+#. <CLT 04>辺古山、調子良いみたいだな…<CLT>
+msgctxt "0031"
+msgid "And after that..."
+msgstr ""
+
+#. まずはこれで『ロープ』を作ってくだちゃい。
+msgctxt "0032"
+msgid "Puhuhu..."
+msgstr ""
+
+#. そのあとに…
+msgctxt "0033"
+msgid ""
+"You're working your eager beaver butts off, huh?\n"
+"Let me give you something as a little reward..."
+msgstr ""
+
+#. うふふ。
+msgctxt "0034"
+msgid "Well then, have a nice day!"
+msgstr ""
+
+#. 頑張ってるみなさんにこれをどうぞでちゅ。
+msgctxt "0035"
+msgid ""
+"If you combine this with the Greek Statue, I think\n"
+"you'll wind up with a truly ravishing Monokuma."
+msgstr ""
+
+#. それじゃあいってらっしゃいー！
+msgctxt "0036"
+msgid ""
+"Bring it to me the absolute *instant* you're finished.\n"
+"No pit stops!"
+msgstr ""
+
+#. ロープとこれを組み合わせれば、
+#. 『花飾り』を作ることができまちゅ！
+msgctxt "0037"
+msgid "Okay, have a nice day!"
+msgstr ""

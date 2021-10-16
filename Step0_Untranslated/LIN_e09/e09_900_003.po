@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>こうして２人でこの景色を見るのも<CLT>
+#. <CLT 04>今日で最後か…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>I decided to talk to Mondo one more time before we all\n"
+"left...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>色々と無茶苦茶なサバイバル生活だったけど<CLT>
+#. <CLT 04>改めて振り返ってみると…楽しかったな。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>I wonder if this is the last time we'll ever see this\n"
+"place...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかんだ言っても、<CLT>
+#. <CLT 04>人が死ぬような事態にはならなかったし。<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>The time we spent here didn't make much sense,\n"
+"but...looking back, I can't say I didn't have fun.\n"
+"<CLT>"
+msgstr ""
+
+#. ようやくこのくだらん茶番から
+#. 解放されるというわけか。
+msgctxt "0004"
+msgid ""
+"<CLT 4>There are still some mysteries left. What was\n"
+"Monokuma, really? Why'd we end up here?\n"
+"<CLT>"
+msgstr ""
+
+#. まあ、この程度の時空結界など
+#. いつでも破壊する事はできたのだがな。
+msgctxt "0005"
+msgid ""
+"<CLT 4>I still don't have answers, but I'll have time to\n"
+"figure all that out once we escape...\n"
+"<CLT>"
+msgstr ""
+
+#. そんな設定だったのか…
+msgctxt "0006"
+msgid "It's almost time... We're almost free!"
+msgstr ""
+
+#. でも、それならどうしてお前は
+#. 自分の意思でここにとどまってたんだよ。
+msgctxt "0007"
+msgid "Yeah!"
+msgstr ""
+
+#. そ、それは…
+msgctxt "0008"
+msgid "Now I can get back out on my hog!"
+msgstr ""
+
+#. い………い、色々と興味深いことが…あったからだ！
+msgctxt "0009"
+msgid "Damn, man, she must be so lonely..."
+msgstr ""
+
+#. それに、貴様らのような者たちの身近に暮らしたことで
+#. 学んだ事もいくつかある。
+msgctxt "0010"
+msgid ""
+"I'll hafta take extra special good care of her once I\n"
+"get back!"
+msgstr ""
+
+#. 特にお前という特異点と巡り合えた事で
+#. この俺様の宿星は大きく変化した。
+msgctxt "0011"
+msgid "So are you gonna go back to the Crazy Diamonds, then?"
+msgstr ""
+
+#. この俺様のまとう"氣"の変化…
+#. 日向、お前にならば分かるはずだ。
+msgctxt "0012"
+msgid "..."
+msgstr "..."
+
+#. なにせお前は俺様の認めた
+#. 我が魂の伴侶なのだからな！
+msgctxt "0013"
+msgid "I told ya, didn't I?"
+msgstr ""
+
+#. <CLT 04>いつの間にそんな壮大なことに…<CLT>
+msgctxt "0014"
+msgid "After everyone in the gang graduates..."
+msgstr ""
+
+#. <CLT 04>まあ、それはいいとして<CLT>
+#. <CLT 04>田中が変わったところといえば…<CLT>
+msgctxt "0015"
+msgid "...I have a new goal."
+msgstr ""
+
+#. 弱そうになった
+msgctxt "0016"
+msgid "Oh, um..."
+msgstr ""
+
+#. うーん…なんかちょっと
+#. 弱くなったような…
+msgctxt "0017"
+msgid "You're gonna make a new gang, right?"
+msgstr ""
+
+#. 会ったばかりの頃の田中ってもっと
+#. 尊大で近寄りがたかった気がするぞ。
+msgctxt "0018"
+msgid "You're gonna make a new gang, right?"
+msgstr ""
+
+#. ふん、貴様の洞察力はその程度か？
+msgctxt "0019"
+msgid "What!?"
+msgstr ""
+
+#. それはただ単に、人間社会に対して
+#. 適応値を上げたにすぎん。
+msgctxt "0020"
+msgid "The hell are you talking about!?"
+msgstr ""
+
+#. 弱体化したのではない！
+#. 意図的にそう見せているだけだ！
+msgctxt "0021"
+msgid "I'll rip your fuckin' guts out!"
+msgstr ""
+
+#. <CLT 04>…今更そうする事になんの意味があるのかは<CLT>
+#. <CLT 04>聞かないでおこう。<CLT>
+msgctxt "0022"
+msgid "S-Sorry!"
+msgstr ""
+
+#. <CLT 04>となると…<CLT>
+msgctxt "0023"
+msgid ""
+"Did you seriously forget what we talked about?\n"
+"Shit, man..."
+msgstr ""
+
+#. 優しくなった
+msgctxt "0024"
+msgid "N-No, I didn't forget! You said, uh..."
+msgstr ""
+
+#. そうだな…なんとなく優しくなったかな。
+msgctxt "0025"
+msgid "You're gonna become a cop, right?"
+msgstr ""
+
+#. 笑顔なんかも、前より全然自然な気がするし…
+msgctxt "0026"
+msgid "You're gonna become a cop, right?"
+msgstr ""
+
+#. な、なんだと…！？
+msgctxt "0027"
+msgid "Seriously...? Who the hell do you think I am!?"
+msgstr ""
+
+#. 馬鹿な、この俺様ともあろうものが
+#. いつそんなウイルスに感染したというのだ！？
+msgctxt "0028"
+msgid ""
+"Maybe I should cut your ears off and feed 'em to ya so\n"
+"you remember!"
+msgstr ""
+
+#. くッ…どうやら早急に
+#. 血清を手に入れねばならんようだなッ…！
+msgctxt "0029"
+msgid "S-Sorry! I swear I'll get it right this time!"
+msgstr ""
+
+#. <CLT 04>どうやら不本意なようだ。<CLT>
+#. <CLT 04>だとすると…<CLT>
+msgctxt "0030"
+msgid "You're gonna become a carpenter, right?"
+msgstr ""
+
+#. より凶悪になった
+msgctxt "0031"
+msgid "..."
+msgstr "..."
+
+#. ええと…より凶悪になった、とか？
+msgctxt "0032"
+msgid "You're gonna become a carpenter, right?"
+msgstr ""
+
+#. ふはははは！
+#. やはり貴様には感知できるようだな！
+msgctxt "0033"
+msgid "R-Right..."
+msgstr ""
+
+#. いかにも、以前までの俺様とは違う…
+msgctxt "0034"
+msgid ""
+"I've destroyed so much stuff, man. Now it's time to\n"
+"start creating it."
+msgstr ""
+
+#. この俺様こそは、不滅の煉獄にして箱庭の観測者
+#. 黄昏を征きし者、田中眼蛇夢だ！
+msgctxt "0035"
+msgid ""
+"It was tough for me to admit at first, but now I don't\n"
+"even care if you laugh at me."
+msgstr ""
+
+#. あー、はいはい。
+msgctxt "0036"
+msgid "I'm not gonna laugh..."
+msgstr ""
+
+#. で、強大になった田中はどうするんだ？
+#. 世界征服でもするのか？
+msgctxt "0037"
+msgid "You're a hell of a guy, Makoto!"
+msgstr ""
+
+#. ふん、そんなものに興味はない。
+#. 人の世の支配など雑魚にさせておけばいい。
+msgctxt "0038"
+msgid "Oh, I know!"
+msgstr ""
+
+#. 俺様はただ、静かに生きたいだけだ。
+#. 我が四天王とその眷属たち、そして…
+msgctxt "0039"
+msgid ""
+"Once I become a world-class carpenter, I'll come and\n"
+"build you a kick-ass house!"
+msgstr ""
+
+#. …お前とな。
+msgctxt "0040"
+msgid "Better look forward to it."
+msgstr ""
+
+#. 田中…
+msgctxt "0041"
+msgid "That sounds awesome! I'll be waiting."
+msgstr ""
+
+#. な、何だその呆けた顔は！
+msgctxt "0042"
+msgid ""
+"It's a place for my best friend to live, so I'm gonna\n"
+"give it everything I got!"
+msgstr ""
+
+#. 貴様にはこれから存分に
+#. 我が魔獣合成を手伝ってもらうからな！
+msgctxt "0043"
+msgid "So till then, don't buy a house, okay?"
+msgstr ""
+
+#. その命尽きるまで我が傍らにあるがいい！
+#. この俺様の奴隷兼下僕兼生贄兼召使兼親友としてな！！
+msgctxt "0044"
+msgid "Wait, what? But... So that's it?"
+msgstr ""
+
+#. …今なんか最後だけ違うのが混ざってなかったか？
+msgctxt "0045"
+msgid "Yeah, what else is there?"
+msgstr ""
+
+#. き…気のせいだ！！
+msgctxt "0046"
+msgid ""
+"What, you think I can't become a fuckin' awesome\n"
+"carpenter!?"
+msgstr ""
+
+#. …そうと決まればさっさと帰るぞ、日向。
+#. 我々の、在るべき元の世界へな！
+msgctxt "0047"
+msgid "N-No, not at all! I know you can do it."
+msgstr ""
+
+#. <CLT 04>差し出された手をしっかりと握る。<CLT>
+msgctxt "0048"
+msgid "Damn straight."
+msgstr ""
+
+#. <CLT 04>田中の将来に不安は残るが、<CLT>
+#. <CLT 04>その信頼が、今はただ素直に嬉しい。<CLT>
+msgctxt "0049"
+msgid "Alright! Then it's a promise! A man's promise!"
+msgstr ""
+
+#. <CLT 04>この島に来るまで感じた事もない、<CLT>
+#. <CLT 04>明るい想いが俺の胸を満たしていた。<CLT>
+msgctxt "0050"
+msgid ""
+"Whatever it takes, I'll become a friggin' amazing\n"
+"carpenter and build you a friggin' amazing house!"
+msgstr ""
+
+#. <CLT 04>これを"希望"と呼ぶのかはわからない。<CLT>
+#. <CLT 04>でもこの想いがあるから俺は…歩いていけるだろう。<CLT>
+msgctxt "0051"
+msgid ""
+"<CLT 4>Mondo thrust out his hand.\n"
+"<CLT>"
+msgstr ""
+
+#. はい
+msgctxt "0052"
+msgid ""
+"<CLT 4>I held out my own, and he gripped it tight and gave it\n"
+"a powerful shake.\n"
+"<CLT>"
+msgstr ""
+
+#. いいえ
+msgctxt "0053"
+msgid ""
+"<CLT 4>We can't know what's waiting for us out there, but as\n"
+"long as we have hope, we'll have a future.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>他にも話しかけたい人がいますか？<CLT>
+msgctxt "0054"
+msgid "<CLT 23>You received<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>Mondo's Undergarments<CLT> <CLT 23>as a present.<CLT>"
+msgstr ""
+
+#. <CLT 04>こうして俺たちの<CLT>
+#. <CLT 04>南の島での生活は終わりを告げた――<CLT>
+msgctxt "0055"
+msgid "Yes"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"<CLT 23>Is there anyone else you'd like to talk to?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid ""
+"<CLT 4>And that's how my school life at Hope's Peak Academy\n"
+"came to an end...\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "...What do you want?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Um, well...the breakfast meeting..."
+msgstr ""
+
+msgctxt "0003"
+msgid "You honestly expect me to go?"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT 4>Right...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT 4>Oh, as long as I'm here...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT 4>...I should ask Byakuya what he made of the stuff\n"
+"Alter Ego told us.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"<CLT 4>Actually no, I'd better not. The surveillance camera\n"
+"would catch us, for sure.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0008"
+msgid "...So?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Oh, um...well..."
+msgstr ""
+
+msgctxt "0010"
+msgid "Hmph..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>He's gone...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "Whoa! Makoto!"
+msgstr ""
+
+msgctxt "0013"
+msgid "H-Huh? Why do you sound so surprised?"
+msgstr ""
+
+msgctxt "0014"
+msgid "S-Sorry about that. It's just..."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"If you'd gotten here even a minute earlier, it\n"
+"would've cost me a few more minutes off my life!"
+msgstr ""
+
+msgctxt "0016"
+msgid "What? Why?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Cuz Kyoko, like, JUST left!"
+msgstr ""
+
+msgctxt "0018"
+msgid "Kyoko?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Ya know, Makoto..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"When a guy and girl go at it, it shortens the lives of\n"
+"the people who have to watch it happen, too."
+msgstr ""
+
+msgctxt "0021"
+msgid "And since it's me saying it, you know it's true!"
+msgstr ""
+
+msgctxt "0022"
+msgid "So like, hurry up and make it better."
+msgstr ""
+
+msgctxt "0023"
+msgid "Anyway, see ya at breakfast!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 4>That's easy for him to say. But what am I supposed to\n"
+"do?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid "Good morning, Hina."
+msgstr ""
+
+msgctxt "0026"
+msgid "Mornin'!"
+msgstr ""
+
+msgctxt "0027"
+msgid "Hey, so...yesterday...you were kinda cool!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "0029"
+msgid "You know, when you said Alter Ego was your friend!"
+msgstr ""
+
+msgctxt "0030"
+msgid "I was thinking the same thing."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"But when stuff like that happens, I never know how to\n"
+"say what I'm thinking..."
+msgstr ""
+
+msgctxt "0032"
+msgid "So I'm really glad you said it for me!"
+msgstr ""
+
+msgctxt "0033"
+msgid "So...thanks! Ehehe..."
+msgstr ""
+
+msgctxt "0034"
+msgid "Y-You're welcome..."
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"You're usually like, totally normal. But when the time\n"
+"comes, BAM! You bust out your special power."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"I mean, even before yesterday, when stuff comes up,\n"
+"it's like...you always do something about it."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"<CLT 4>Even before yesterday...? Are you talking about the\n"
+"class trials and stuff?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"I mean, that stuff is just...it just kinda took care\n"
+"of itself, ya know?"
+msgstr ""
+
+msgctxt "0039"
+msgid "It totally didn't!"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"With your power, and Sakura's, and everyone else...I'm\n"
+"sure we'll get outta here..."
+msgstr ""
+
+msgctxt "0041"
+msgid "Yeah, I think you're right."
+msgstr ""
+
+msgctxt "0042"
+msgid "I am, right!? Alright!"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"Now that we've got that fighting spirit, let's go get\n"
+"some grub!"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT 4>She's right... Even if the road is long...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT 4>If we don't keep on moving forward, we'll never reach\n"
+"our goal!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"<CLT 4>I don't need to go back to my room. Everyone should be\n"
+"in the dining hall...\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 残念です…わたくし、
+#. お掃除をしてみたかったのに…
+msgctxt "0001"
+msgid "Did you come h-here to yell at me?"
+msgstr ""
+
+#. どうして王女がお掃除をしてはいけないのでしょう？
+#. わけわかめです！
+msgctxt "0002"
+msgid ""
+"My whole life is one u-unpleasant experience after\n"
+"another...!"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Spend some time with Toko"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>どうしよう？
+#. ソニアと一緒に過ごすか？<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Toko while she's acting\n"
+"like this?\n"
+"<CLT>"
+msgstr ""
+
+#. こうなったら、わたくし勝手にお掃除をします！
+#. 一緒にがんばりましょう！
+msgctxt "0006"
+msgid "I was p-perfectly happy spending time by m-myself..."
+msgstr ""
+
+#. <CLT 04>ソニアと、ホテルのあちこちを
+#. 勝手に掃除して過ごした。<CLT>
+msgctxt "0007"
+msgid ""
+"But I guess if you're so d-desperate for attention, I\n"
+"can h-hang out for a little bit..."
+msgstr ""
+
+#. <CLT 04>恐れ多くもソニアと少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>I spent some time with a cold and distant Toko...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"<CLT 4>Toko and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid "Yes, definitely"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Toko a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

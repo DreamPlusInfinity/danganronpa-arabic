@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 06>渡すプレゼントを選択してくださいませ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 23>Sorry, but we can't let you give her that. It's what\n"
+"we in the industry like to call a<CLT> <CLT 3>key item<CLT><CLT 23>.<CLT>"
+msgstr ""
+
+#. うーん…これはさすがの唯吹も
+#. リアクションに困るっす…
+msgctxt "0002"
+msgid ""
+"<CLT 23>What would you like to give her?\n"
+"<CLT>"
+msgstr ""
+
+#. クーリングオフよろしくっす！
+msgctxt "0003"
+msgid "I...can have this?"
+msgstr ""
+
+#. うわーないわー。
+#. これはちょっとマジないっすわー。
+msgctxt "0004"
+msgid "Thank you. This has made me feel a little better..."
+msgstr ""
+
+#. 創ちゃんのセンスのなさが
+#. マジ半端ないっすわー。
+msgctxt "0005"
+msgid ""
+"<CLT 4>Does that mean she liked it...?\n"
+"<CLT>"
+msgstr ""
+
+#. …唯吹は基本的に
+#. 来る物拒まずなんすけどね。
+msgctxt "0006"
+msgid "Thank you, Makoto..."
+msgstr ""
+
+#. さすがにこれは拒んでいいっすかね…
+msgctxt "0007"
+msgid ""
+"Ehehe. This is the first time I've ever gotten\n"
+"something like this...!"
+msgstr ""
+
+#. またまたもー、
+#. 創ちゃんてば冗談ばっかり！
+msgctxt "0008"
+msgid ""
+"<CLT 4>I get the impression that she liked it. That's good...\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0009"
+msgid "Huh? A present...?"
+msgstr ""
+
+#. え！？
+#. マジでコレ対唯吹用っすか！？
+msgctxt "0010"
+msgid "Yaay! Thank you so much!"
+msgstr ""
+
+#. ほうほう！
+#. なんかすごいの出てきたっす！
+msgctxt "0011"
+msgid "Ooh, it's really amazing!"
+msgstr ""
+
+#. ヤバいっす！
+#. ワクテカが止まらないっす！
+msgctxt "0012"
+msgid ""
+"I'll take really good care of it. I'll hold on to it\n"
+"forever..."
+msgstr ""
+
+#. これ、ホントに唯吹にくれるっすか…？
+msgctxt "0013"
+msgid ""
+"<CLT 4>Seeing Chihiro so pleased with something I gave her\n"
+"makes me happy!\n"
+"<CLT>"
+msgstr ""
+
+#. もーチョー嬉しいっす！
+#. ありがと、創ちゃん！
+msgctxt "0014"
+msgid "I-I'm grateful, really. But..."
+msgstr ""
+
+#. 誕生日でもクリスマスでもないのに
+#. こんなすごいプレゼントなんて…
+msgctxt "0015"
+msgid "It's enough that you even thought of me."
+msgstr ""
+
+#. すごーい幸せ…
+#. チョーサンキューっす！
+msgctxt "0016"
+msgid "I can't take this. It's...too nice."
+msgstr ""
+
+#. うひょー！
+#. マジでくれちゃうっすか！
+msgctxt "0017"
+msgid ""
+"I think it'd be better if you held on to this,\n"
+"Makoto..."
+msgstr ""
+
+#. 超ヤバいっす！
+#. 唯吹これで一生、１人遊びできちゃうっす！
+msgctxt "0018"
+msgid ""
+"<CLT 4>Uh-oh... I don't think she was too happy with that...\n"
+"<CLT>"
+msgstr ""
+
+#. 創ちゃんはどうして
+#. 唯吹の欲しい物がわかっちゃうっすか？
+msgctxt "0019"
+msgid "Um...well..."
+msgstr ""
+
+#. ヤバいっすよも～。
+#. 思わずメロメロしちゃいそうっす！
+msgctxt "0020"
+msgid ""
+"I'm sure someone else will appreciate having that more\n"
+"than me."
+msgstr ""
+
+#. ふおおおおお！
+#. 創ちゃんと唯吹は以心伝心っす！
+msgctxt "0021"
+msgid ""
+"Maybe you should find someone to give it to who can\n"
+"make better use of it..."
+msgstr ""
+
+#. ちょうどこういうのが欲しい気分だったっす！
+#. 超サイコーっすよー！
+msgctxt "0022"
+msgid "I hope you don't hate me for this, but..."
+msgstr ""
+
+#. およよ？
+#. これ、唯吹がもらっちゃっていいんすか？
+msgctxt "0023"
+msgid "Well, see...I mean, it's not that I can't accept it..."
+msgstr ""
+
+#. それじゃあこれでまた何か
+#. 新しい遊びを考えるっす！
+msgctxt "0024"
+msgid "I-I'm sorry...!"
+msgstr ""
+
+#. わーい！
+#. 創ちゃんからイイモノもらったっす！
+msgctxt "0025"
+msgid ""
+"<CLT 4>I...think I upset her. She probably thinks worse of me\n"
+"now...\n"
+"<CLT>"
+msgstr ""
+
+#. さっそく投げつけ合って遊ぶっす！
+msgctxt "0026"
+msgid "Maybe not..."
+msgstr ""
+
+#. せっかく創ちゃんがくれたんだから
+#. ありがたくもらうっすけど…
+msgctxt "0027"
+msgid "Yeah, I'm sure"
+msgstr ""
+
+#. ビミョーに唯吹向けじゃない気がするっすね…
+msgctxt "0028"
+msgid ""
+"<CLT 23>Are you sure you don't want to give her something?\n"
+"<CLT>"
+msgstr ""

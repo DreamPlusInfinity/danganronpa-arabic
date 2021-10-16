@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. ホラーでも観る？
+msgctxt "0004"
+msgid "Wow! They're so full of energy!"
+msgstr ""
+
+#. ギャー！
+#. ホラーっすか！ それいっちゃうっすか！
+msgctxt "0005"
+msgid "They must raise the chickens here at the school..."
+msgstr ""
+
+#. 創ちゃんってばナイスチョイス！
+#. そこに痺れたり憧れたりしなくもない！
+msgctxt "0006"
+msgid ""
+"Even though Hope's Peak is really fancy, they still do\n"
+"basic school stuff like this."
+msgstr ""
+
+#. 正直、登場人物の誰より
+#. 唯吹のほうがパニくれる自信があるっすよ！
+msgctxt "0007"
+msgid ""
+"You think there might be some bunnies or hamsters\n"
+"somewhere in the school, too?"
+msgstr ""
+
+#. やっべ、超テンション上がってきた！
+#. 早く早く行くっす！
+msgctxt "0008"
+msgid ""
+"Hey, Makoto! If you could get a pet, what would you\n"
+"want?"
+msgstr ""
+
+#. アクションがいいな
+msgctxt "0009"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. アクションは無難でいいっすね！
+msgctxt "0010"
+msgid "Yeah, it *is* kinda hot, huh?"
+msgstr ""
+
+#. 話とかよくわかんなくっても
+#. 数分に１回はお楽しみがあるってことっす！
+msgctxt "0011"
+msgid ""
+"But I guess it must be just right for the plants and\n"
+"the chickens, huh?"
+msgstr ""
+
+#. ぶっちゃけ話が面白くなくても
+#. 見終わって雰囲気悪くなる可能性は低いっす！
+msgctxt "0012"
+msgid ""
+"Still...it's not the kind of place I'd want to hang\n"
+"out in for too long."
+msgstr ""
+
+#. まぁ、アクションが最悪だった場合は
+#. 諦めるしかないっすけどね。
+msgctxt "0013"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. ラブストーリーにしよう
+msgctxt "0014"
+msgid "It seems kinda hard. All that manual labor..."
+msgstr ""
+
+#. うわぁ…
+msgctxt "0015"
+msgid "Oh, but..."
+msgstr ""
+
+#. ………………
+msgctxt "0016"
+msgid "One thing I think I *can* do is water the flowers!"
+msgstr ""
+
+#. うわぁぁぁ…
+msgctxt "0017"
+msgid "Okay, I'm gonna handle it...!"
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0018"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. さっすが、創ちゃん！
+#. わかってるっすね！
+msgctxt "0019"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. ポップコーンのない映画鑑賞なんて、
+#. ブランコのない公園、スイカのない夏休みっす！
+msgctxt "0020"
+msgid "Oooh, that sounds wonderful!"
+msgstr ""
+
+#. さぁ、何味にするっすかね～
+#. 塩もいいけどキャラメルも捨てがたい…
+msgctxt "0021"
+msgid ""
+"I know we're still inside, but walking around in here\n"
+"feels totally different than the rest of the school."
+msgstr ""
+
+#. この始まるまでのワクワク感こそが
+#. 映画館の醍醐味ってヤツっすね～！
+msgctxt "0022"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. 私語は厳禁だぞ
+msgctxt "0023"
+msgid "But still...it's not real."
+msgstr ""
+
+#. え…？
+msgctxt "0024"
+msgid "I hope we can get out of here soon..."
+msgstr ""
+
+#. あ、いやいやいや！
+#. ちゃんとわかってるっすよ？
+msgctxt "0025"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. えっと…独り言もダメっすかね？
+msgctxt "0026"
+msgid ""
+"Yeah, I'm sure eating your lunch here would probably\n"
+"make you really tired, too."
+msgstr ""
+
+#. うう…頑張ってガマンするっす…
+msgctxt "0027"
+msgid "Oh, that's a good idea!"
+msgstr ""
+
+#. <CLT 04>唯吹には確かにちょっと辛そうだな…<CLT>
+msgctxt "0028"
+msgid ""
+"If you don't mind, sometime we should bring some food\n"
+"and drinks from the dining hall!"
+msgstr ""
+
+#. やっぱり出よう
+msgctxt "0029"
+msgid "It'll be like a little picnic! Ehehe..."
+msgstr ""
+
+#. ええーヤダヤダヤダー！
+msgctxt "0030"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ポップコーン食べながら映画観るまで
+#. 帰らないっすー！
+msgctxt "0031"
+msgid "That flower is huge!"
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0032"
+msgid "Y-Yeah. It's kinda scary..."
+msgstr ""
+
+#. …いいっすか？
+#. マジでいいんすか！？
+msgctxt "0033"
+msgid "It's so weird. I've never seen anything like it...!"
+msgstr ""
+
+#. 唯吹は最前列が一番好きなのに、
+#. 一緒に座ってくれる人はなかなかいないっす…
+msgctxt "0034"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. 創ちゃんってば、超いい人っす！
+#. さすが、少年の心を忘れてないだけはある…！
+msgctxt "0035"
+msgid "Huh...?"
+msgstr ""
+
+#. さあ、そうと決まれば
+#. かぶりつきに行くっすよぉぉ！
+msgctxt "0036"
+msgid "Y-Yeah...I don't think they're here for eating."
+msgstr ""
+
+#. トイレに行っておこう…
+msgctxt "0037"
+msgid "No matter how hungry we get, we can't eat 'em, okay?"
+msgstr ""
+
+#. おおっ！
+#. 創ちゃん、天才っすね！
+msgctxt "0038"
+msgid "This really doesn't feel like a classroom."
+msgstr ""
+
+#. 意外にこれがちゃんと行っとかないと
+#. 色々後悔するっていうか…
+msgctxt "0039"
+msgid "Classroom..."
+msgstr ""
+
+#. もう最後の方で何と戦ってるのか
+#. わかんなくなったりするっすからね！
+msgctxt "0040"
+msgid ""
+"With all the other rooms they have here, do you think\n"
+"they actually have normal classes?"
+msgstr ""
+
+#. 正義と悪と尿意の三つ巴…
+#. それはもう壮絶な戦いっすよ…
+msgctxt "0041"
+msgid "Really, I just wish I could go outside..."
+msgstr ""
+
+#. <CLT 04>嫌な戦いだな…<CLT>
+msgctxt "0042"
+msgid ""
+"Still, it's nice that there's somewhere in here with a\n"
+"little different scenery."
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0043"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

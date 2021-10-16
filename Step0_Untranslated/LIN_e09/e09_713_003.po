@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. サスペンスとか？
+msgctxt "0004"
+msgid ""
+"Wow, chickens, huh? It's not super normal, but I guess\n"
+"lots of schools have animals and stuff, right?"
+msgstr ""
+
+#. サスペンスって…あの…
+#. 謎解きとか大変じゃないですかぁ？
+msgctxt "0005"
+msgid "So? You wanna grab 'em and eat 'em?"
+msgstr ""
+
+#. 私、そういうのあんまり
+#. 得意じゃないっていうか…
+msgctxt "0006"
+msgid ""
+"What if we did that? Just started eating 'em raw,\n"
+"right here? What if that was my special dish!?"
+msgstr ""
+
+#. う、嘘じゃないですぅ…
+msgctxt "0007"
+msgid "Just kidding! Duh! I could never strangle a chicken!"
+msgstr ""
+
+#. ホラーにしようか
+msgctxt "0008"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. ホラーは…いいですよね。
+#. 血糊多めなところとか…
+msgctxt "0009"
+msgid ""
+"You think so? This is nothing compared to the tropics\n"
+"of southeast Asia."
+msgstr ""
+
+#. あ、あと、偉そうな人に限って
+#. すぐ死んじゃったりとか…
+msgctxt "0010"
+msgid "What!? You've been to the tropics of southeast Asia!?"
+msgstr ""
+
+#. みんなが怯えて為す術もなく逃げ惑うのとか、
+#. 見所たくさんですよね。
+msgctxt "0011"
+msgid ""
+"Oh, uh, yeah. Just once. For a photo shoot or\n"
+"something..."
+msgstr ""
+
+#. <CLT 04>そこが見所なんだ…<CLT>
+msgctxt "0012"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. ラブストーリーとか…
+msgctxt "0013"
+msgid "Nah. Don't wanna get dirty."
+msgstr ""
+
+#. え、ええと…
+#. どういう内容かよくわからないですけど…
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 途中で寝ちゃったら、ごめんなさぁぃ…
+msgctxt "0015"
+msgid "What's with that shack thing back there?"
+msgstr ""
+
+#. カレー味か…
+msgctxt "0016"
+msgid "Wow, you have really good eyes, Makoto!"
+msgstr ""
+
+#. カレー味って…本当に偉大ですよね。
+msgctxt "0017"
+msgid ""
+"But it's just a normal tool shed, right? I bet it's\n"
+"all dirty inside. Let's just leave it alone..."
+msgstr ""
+
+#. だって、大体どんな物でもカレー粉さえあれば
+#. それなりに食べられますから！
+msgctxt "0018"
+msgid "I'd rather have rabbits than chickens..."
+msgstr ""
+
+#. あ、ポップコーンは初めから美味しいですけど…
+msgctxt "0019"
+msgid "Yeah! Bunnies are totally cute, right?"
+msgstr ""
+
+#. でも、それならより美味しいって事ですよね！
+msgctxt "0020"
+msgid "There's even one on my hairtie. Did you notice?"
+msgstr ""
+
+#. <CLT 04>そういうもんなのか…<CLT>
+msgctxt "0021"
+msgid ""
+"I even did a magazine spread where I talked about what\n"
+"kind of bunny presents I'd like to get."
+msgstr ""
+
+#. たまにはキャラメルとか
+msgctxt "0022"
+msgid ""
+"And thanks to that, my room's a total disaster zone\n"
+"now! Someone even sent me a rabbit bigger than me!"
+msgstr ""
+
+#. キャラメルは…いいですよね。
+msgctxt "0023"
+msgid ""
+"Ya know...you're kinda like a cute, wide-eyed,\n"
+"helpless little bunny."
+msgstr ""
+
+#. たまに買ってもらえたときは１粒を４つに割って
+#. 毎日少しずつ大事に食べたり…
+msgctxt "0024"
+msgid "You mind if I...devour you?"
+msgstr ""
+
+#. …あ、す、すみません、
+#. ポップコーンの話ですよね！
+msgctxt "0025"
+msgid "I-I'll pass, thanks..."
+msgstr ""
+
+#. <CLT 04>今度キャラメルを買ってやろう…<CLT>
+msgctxt "0026"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. やっぱり塩味だな！
+msgctxt "0027"
+msgid "Listen, that's not, like...an invitation, is it?"
+msgstr ""
+
+#. 塩味ですか…そうですね…
+msgctxt "0028"
+msgid ""
+"No way! I can't do stuff like that! You shouldn't\n"
+"judge people by how they look, okay!?"
+msgstr ""
+
+#. …あ、ええと、
+#. 無難でいいと思います。
+msgctxt "0029"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 味の指定をされなかったときに選ぶと
+#. ぶたれる確率が一番低いですから…
+msgctxt "0030"
+msgid "Do you have a favorite flower?"
+msgstr ""
+
+#. 観るより撮る方が…
+msgctxt "0031"
+msgid "Not really..."
+msgstr ""
+
+#. 日向さん、映画が作れるんですか…？
+msgctxt "0032"
+msgid ""
+"I mean, to be honest...whether or not a flower is\n"
+"pretty depends on the situation, right?"
+msgstr ""
+
+#. すごいです！
+#. 私、尊敬しちゃいます！
+msgctxt "0033"
+msgid "It's like..."
+msgstr ""
+
+#. あ、あの、私でよかったら
+#. どんな役でもやりますから！
+msgctxt "0034"
+msgid ""
+"One lone flower on the battlefield, or you almost step\n"
+"on one but pull back at the last second."
+msgstr ""
+
+#. 通行人でも水死体でも馬の足でも…
+#. あ、椅子とか性奴隷とかでも大丈夫です！
+msgctxt "0035"
+msgid "I'm not sure what that's supposed to mean..."
+msgstr ""
+
+#. <CLT 04>そんなの頼まないって…<CLT>
+msgctxt "0036"
+msgid "The grass is so lush and green..."
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0037"
+msgid "Oh, yeah! It reminds me of my old ghillie suit."
+msgstr ""
+
+#. え…？
+#. 日向さん、寝ちゃうんですか…？
+msgctxt "0038"
+msgid ""
+"Er—ah, I mean! My old grouch suit! You know!\n"
+"Oscar the Grouch!"
+msgstr ""
+
+#. あ、ええと…それじゃあ日向さんの分まで
+#. 私がしっかり観ておきます！
+msgctxt "0039"
+msgid "That's totally a thing!"
+msgstr ""
+
+#. 後でわからないところがあったら
+#. 遠慮なく質問してくださいね！
+msgctxt "0040"
+msgid ""
+"I had a little Oscar costume when I was a kid, but\n"
+"this grass just made me remember it!"
+msgstr ""
+
+#. 大丈夫です、ちゃんと観ながらメモ取りますから！
+msgctxt "0041"
+msgid ""
+"...For some reason, being around you keeps making me\n"
+"drop my guard lower and lower."
+msgstr ""
+
+#. <CLT 04>寝ないように頑張ろう…<CLT>
+msgctxt "0042"
+msgid "That flower's kinda creepy..."
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0043"
+msgid "Like, is it even a flower?"
+msgstr ""
+
+#. え…？
+#. そ、そんなの無理ですよ！
+msgctxt "0044"
+msgid "Gross... Don't get too close to that thing."
+msgstr ""
+
+#. 後ろにたくさん人がいるかと思うと…
+#. こ、怖いですぅ…
+msgctxt "0045"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

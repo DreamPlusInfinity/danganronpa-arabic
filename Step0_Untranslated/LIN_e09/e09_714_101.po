@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. どうしたらいいっすかね…
+msgctxt "0001"
+msgid "What should I do?"
+msgstr ""
+
+#. いくら創ちゃんと
+#. 唯吹の仲とはいえ…
+msgctxt "0002"
+msgid "I just don't know..."
+msgstr ""
+
+#. いきなりあんな事
+#. お願いしたら…
+msgctxt "0003"
+msgid ""
+"I want to change,\n"
+"I know that.\n"
+"But I'm just so scared..."
+msgstr ""
+
+#. <CLT 17>絶対ドン引きされる<CLT>っすよね…
+msgctxt "0004"
+msgid ""
+"I believe in Makoto,\n"
+"but...will he really accept me?"
+msgstr ""
+
+#. いやいやいやでも！
+msgctxt "0005"
+msgid "Most likely..."
+msgstr ""
+
+#. 創ちゃんならきっと…
+msgctxt "0006"
+msgid ""
+"Everyone's gonna hate me.\n"
+"They're all gonna <CLT 9>think I'm awful<CLT>...!"
+msgstr ""
+
+#. 唯吹のこの思いを
+#. 分かってくれるはず！
+msgctxt "0007"
+msgid ""
+"I don't want that...\n"
+"I don't want them to hate me!"
+msgstr ""
+
+#. だって２人はもう…
+msgctxt "0008"
+msgid ""
+"Maybe it's best if\n"
+"I <CLT 9>don't say anything yet<CLT>..."
+msgstr ""
+
+#. <CLT 17>他人じゃない<CLT>っすから…ふひひ！
+msgctxt "0009"
+msgid "Maybe I'll wait for a better chance."
+msgstr ""

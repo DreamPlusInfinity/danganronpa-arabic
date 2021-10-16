@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "No, Kyoko *could* have <CLT 3>gotten into her room<CLT>."
+msgstr ""
+
+msgctxt "0002"
+msgid "You said so yourself, didn't you Kyoko?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Actually, to be precise...not quite."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"I used <CLT 3>Monokuma's secret tool<CLT>, which can open any\n"
+"lock in the school."
+msgstr ""
+
+msgctxt "0005"
+msgid "What...!?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Monokuma's secret tool...?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Kyoko stole it from the headmaster's room. It lets you\n"
+"get into any room in the school."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Which means, she could have used it to get into her\n"
+"own room."
+msgstr ""
+
+msgctxt "0009"
+msgid "..."
+msgstr "..."
+
+msgctxt "0010"
+msgid "Then I guess that's it."
+msgstr ""
+
+msgctxt "0011"
+msgid "You're giving up just like that? You admit to killing—"
+msgstr ""
+
+msgctxt "0012"
+msgid "No, I'm simply recognizing that I lost."
+msgstr ""
+
+msgctxt "0013"
+msgid "Wh-What are you talking about?"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"Like I said, this was a <CLT 3>trap<CLT>. And I wasn't able to\n"
+"escape it."
+msgstr ""
+
+msgctxt "0015"
+msgid "So I lost..."
+msgstr ""
+
+msgctxt "0016"
+msgid "That's all this means."
+msgstr ""
+
+msgctxt "0017"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Then...are you saying...? You really didn't...?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Kyoko, you really..."
+msgstr ""
+
+msgctxt "0020"
+msgid "...aren't the killer?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Okaaay! <CLT 3>Time's up<CLT>!"
+msgstr ""
+
+msgctxt "0022"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"I'm sorry to say, but your time is up! All done, all\n"
+"finished. The class trial is allll over!"
+msgstr ""
+
+msgctxt "0024"
+msgid "B-But that's ridiculous! Since when is there any—?"
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"It's because you were late! So the trial started late,\n"
+"and time ran out!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"So then, it's time for voting time, okay? Everyone,\n"
+"please vote using the lever in front of you!"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"But I guess we already know who the blackened is,\n"
+"don't we!?"
+msgstr ""
+
+msgctxt "0028"
+msgid "Puhuhu... Puuuhuhuhu!"
+msgstr ""

@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like he had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. あー、なんか今日は久々に
+#. 何も考えずに遊んだ気がするぜ。
+msgctxt "0002"
+msgid "Damn man, that was a blast!"
+msgstr ""
+
+#. やっぱ男同士って気楽でいいよな…
+#. またいつでも誘えよ。
+msgctxt "0003"
+msgid ""
+"But...it feels kinda weird, having so much fun in a\n"
+"creepy place like this."
+msgstr ""
+
+#. お前とどっか行くの、
+#. オレけっこう気に入ってっからさ。
+msgctxt "0004"
+msgid "It's not normal, no matter how you put it."
+msgstr ""
+
+#. さーて、んじゃそろそろホテルに戻るとすっか！
+#. 行こうぜ、日向。
+msgctxt "0005"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid ""
+"B-But screw the details! I had fun, that's all that\n"
+"matters."
+msgstr ""
+
+#. なんかすげえ普通に遊んだな…
+#. お前のおかげで楽しかったぜ。
+msgctxt "0007"
+msgid "Okay, let's head back!"
+msgstr ""
+
+#. 今日は誘ってくれてありがとな。
+msgctxt "0008"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. んじゃ腹も減ったし、
+#. そろそろ戻るとすっか。
+msgctxt "0009"
+msgid "I had a good time today, Makoto!"
+msgstr ""
+
+#. 行こうぜ、日向！
+msgctxt "0010"
+msgid ""
+"You and me get along pretty well, huh? Let's do it\n"
+"again sometime."
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid ""
+"It's kinda nice. I can just relax and be myself around\n"
+"you, ya know?"
+msgstr ""
+
+#. はぁ…
+#. なんか不毛な一日だったな…
+msgctxt "0012"
+msgid "Alright! Ready to head back?"
+msgstr ""
+
+#. オレ、ちょっとどっかで
+#. 気晴らししてから戻るわ。
+msgctxt "0013"
+msgid ""
+"<CLT 4>I get the feeling he didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. んじゃな！
+msgctxt "0014"
+msgid "Ugh... That wasn't really as refreshing as I'd hoped."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0015"
+msgid ""
+"I guess I shouldn't have expected to have much fun in\n"
+"a place like this..."
+msgstr ""
+
+#. …日向、はっきり言ってオメーの
+#. デートプラン、最悪だぞ。
+msgctxt "0016"
+msgid ""
+"Ahh...I'm starting to get depressed again. I'm gonna\n"
+"go back to my room and go to sleep."
+msgstr ""
+
+#. オレが女子だったらマジ
+#. 一発で終わってるとこだったぜ。
+msgctxt "0017"
+msgid "See ya, man..."
+msgstr ""
+
+#. はぁ…とにかくもうちょっとなんとかしろよ？
+#. じゃーな。
+msgctxt "0018"
+msgid ""
+"<CLT 4>I don't think things could have gone any worse than\n"
+"that. Crap...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid "God I'm tired...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "I almost wish I'd just spent the day alone in my room."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid ""
+"I'll have to think twice about going out next time you\n"
+"invite me..."
+msgstr ""

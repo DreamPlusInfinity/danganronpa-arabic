@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Grh...I'm getting the chills..."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 4>I feel kinda...dizzy...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0003"
+msgid "..."
+msgstr "..."
+
+msgctxt "0004"
+msgid "I can't help it... I need sleep..."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT 4>Nighttime wasn't for a while, but...I felt like\n"
+"my body had reached its limit...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT 4>As I dropped onto my bed, I felt like I was falling\n"
+"into a bottomless pit.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"<CLT 4>I was unconscious before my head hit the pillow.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT 4>Well, that's not quite true. I didn't pass out\n"
+"completely.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT 4>It was more like...my consciousness went dim.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT 4>I weaved back and forth between sleep and wakefulness.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>Which is all to say...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT 4>...I was restless.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "Gh...nn..."
+msgstr ""
+
+msgctxt "0014"
+msgid "Nnngg..."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>At some point, I found myself wandering through a\n"
+"strange dream.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT 4>And within the dream, a voice echoed across the walls\n"
+"of my mind.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "..."
+msgstr "..."
+
+msgctxt "0018"
+msgid "I under..."
+msgstr ""
+
+msgctxt "0019"
+msgid "Understand..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT 4>That voice...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"<CLT 4>It's so familiar...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"<CLT 4>Ah—! It's...!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0023"
+msgid "I...understand..."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 4>It's...me...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid "I...understand..."
+msgstr ""
+
+msgctxt "0026"
+msgid "I should...understand everything."
+msgstr ""
+
+msgctxt "0027"
+msgid "My goal isn't to get out of here..."
+msgstr ""
+
+msgctxt "0028"
+msgid "It's...to stay here."
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"<CLT 4>...Huh?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"<CLT 4>What am I trying to say...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0031"
+msgid "Hope..."
+msgstr ""
+
+msgctxt "0032"
+msgid "This is all...for hope."
+msgstr ""
+
+msgctxt "0033"
+msgid "And that's why..."
+msgstr ""
+
+msgctxt "0034"
+msgid "I have to stay..."
+msgstr ""
+
+msgctxt "0035"
+msgid "I have...to stay here."
+msgstr ""
+
+msgctxt "0036"
+msgid "Ah—grh!"
+msgstr ""
+
+msgctxt "0037"
+msgid "My dream just now... What...?"
+msgstr ""
+
+msgctxt "0038"
+msgid "So strange..."
+msgstr ""
+
+msgctxt "0039"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0040"
+msgid "...!"
+msgstr ""
+
+msgctxt "0041"
+msgid "Gh—!"
+msgstr ""
+
+msgctxt "0042"
+msgid "Gwaaaaaaahh!"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"<CLT 4>...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT 4>... ... ...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT 4>... ... ... ... ...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0046"
+msgid "*Pant...*"
+msgstr ""
+
+msgctxt "0047"
+msgid "*Pant...pant...*"
+msgstr ""
+
+msgctxt "0048"
+msgid "*Pant...pant...pant...*"
+msgstr ""
+
+msgctxt "0049"
+msgid "Nn...?"
+msgstr ""
+
+msgctxt "0050"
+msgid "Kyoko...?"
+msgstr ""
+
+msgctxt "0051"
+msgid "... ... ..."
+msgstr ""
+
+msgctxt "0052"
+msgid "... ... ..."
+msgstr ""
+
+msgctxt "0053"
+msgid "What the...?"
+msgstr ""
+
+msgctxt "0054"
+msgid "What did you...?"
+msgstr ""
+
+msgctxt "0055"
+msgid "..."
+msgstr "..."
+
+msgctxt "0056"
+msgid "... ... ..."
+msgstr ""
+
+msgctxt "0057"
+msgid "What did you...say?"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"... ... ... ... ... ... ... ... ... ... ... ... ...\n"
+"... ... ... ... ... ... ... ... ... ... ... ... ..."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"Every day is peaceful. Every day is joyful. Happy days\n"
+"from the time you wake up to the time you go to sleep."
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"Wishing only for those unchanging, unending happy\n"
+"days, days of boredom repeating forever and ever."
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"No abnormalities as far as the eye can see. Life\n"
+"without the tiniest speck of abnormality..."
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"If the world were like that, I'd consider *that*\n"
+"pretty damn abnormal."
+msgstr ""

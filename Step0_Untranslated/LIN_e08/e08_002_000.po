@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 06>渡すプレゼントを選択してくださいませ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 23>Sorry, but we can't let you give him that. It's what\n"
+"we in the industry like to call a<CLT> <CLT 3>key item<CLT><CLT 23>.<CLT>"
+msgstr ""
+
+#. 俺をバカにするにも程があるな…
+#. こんなゴミで俺が喜ぶ訳ないだろう…
+msgctxt "0002"
+msgid ""
+"<CLT 23>What would you like to give him?\n"
+"<CLT>"
+msgstr ""
+
+#. 同じゴミなら、
+#. 生ゴミの方がまだマシだっ…！
+msgctxt "0003"
+msgid "..."
+msgstr "..."
+
+#. ふッ…くくく…
+#. この俺をここまで震撼させるとは…
+msgctxt "0004"
+msgid "If you insist, I suppose I can accept it."
+msgstr ""
+
+#. ある意味、見直したぞ…
+msgctxt "0005"
+msgid ""
+"<CLT 4>Does that mean he liked it...?\n"
+"<CLT>"
+msgstr ""
+
+#. 物で人を釣ろうとする行為を
+#. 責める気はないが…
+msgctxt "0006"
+msgid "...Fine, I'll take it. I hope you appreciate this."
+msgstr ""
+
+#. それなら、もっと美味そうな物を選べ。
+#. 簡単な事だ…！
+msgctxt "0007"
+msgid ""
+"Normally I would expect something a little nicer,\n"
+"but..."
+msgstr ""
+
+#. そんな物では俺の心は動かん。
+msgctxt "0008"
+msgid "Hmm... You get an F+. You pass, but barely."
+msgstr ""
+
+#. …他に色々あるだろう？
+#. アレとか…アレとかだ！
+msgctxt "0009"
+msgid ""
+"<CLT 4>I get the impression that he liked it. That's good...\n"
+"<CLT>"
+msgstr ""
+
+#. 大した物ではなさそうだが、
+#. 受け取っておいてやろう…
+msgctxt "0010"
+msgid ""
+"Now this is a rare moment. Coming from a noble family,\n"
+"I've never been exposed to such vulgarity."
+msgstr ""
+
+#. 次も楽しみにしているぞ…
+msgctxt "0011"
+msgid "Interesting. I think I'll keep it."
+msgstr ""
+
+#. なかなか珍しい物を持っているな…
+#. 高貴な俺では触れた事のない下品さだ…
+msgctxt "0012"
+msgid ""
+"You...you bastard! How did you get your hands on\n"
+"this!?"
+msgstr ""
+
+#. 興味深い。預かっておこう。
+msgctxt "0013"
+msgid ""
+"Even the collective force of the entire Togami\n"
+"Corporation wouldn't be enough to obtain this gem!"
+msgstr ""
+
+#. 普段なら、こんなあからさまな機嫌取りなど
+#. 意にも介さないところだが…
+msgctxt "0014"
+msgid "I...I'm going to hold on to this!"
+msgstr ""
+
+#. この品にはそれだけの価値はある。
+#. 今、俺の中でお前の株は急上昇したぞ。
+msgctxt "0015"
+msgid ""
+"<CLT 4>Seeing Byakuya so pleased with something I gave him\n"
+"makes me happy!\n"
+"<CLT>"
+msgstr ""
+
+#. 貴様…これをどこで手に入れた…！
+msgctxt "0016"
+msgid ""
+"I don't blame you for trying to buy other people's\n"
+"affection."
+msgstr ""
+
+#. これは、我が十神財閥の総力をもってしても、
+#. 見つからなかったほどの逸品だ…！
+msgctxt "0017"
+msgid ""
+"But if you're going to do that, at least give them\n"
+"something a little better than...whatever this is."
+msgstr ""
+
+#. これは…預かっておくぞ…！
+msgctxt "0018"
+msgid "You think you can move me with this?"
+msgstr ""
+
+#. こんな物で俺が喜ぶと思っているのか…？
+msgctxt "0019"
+msgid "I'm not so easily impressed."
+msgstr ""
+
+#. 正解だ！
+#. よくやったぞ、日向！
+msgctxt "0020"
+msgid ""
+"<CLT 4>Uh-oh... I don't think he was too happy with that...\n"
+"<CLT>"
+msgstr ""
+
+#. ふん、お前は俺のストーカーか何かか？
+#. ちょうどこれが欲しいと思っていたところだ。
+msgctxt "0021"
+msgid "...You expect me to *touch* that?"
+msgstr ""
+
+#. 一応礼は言っておいてやるが…
+#. ストーカー行為だけはやめておけ…
+msgctxt "0022"
+msgid ""
+"That thing makes my skin crawl. I'd rather kill you\n"
+"and be done with it."
+msgstr ""
+
+#. 悪くはない…が、どうも今ひとつだな。
+msgctxt "0023"
+msgid ""
+"I don't take kindly to people trying to make a fool of\n"
+"me."
+msgstr ""
+
+#. だが、貴様がどうしてもと言うなら
+#. 受け取っておいてやろう。
+msgctxt "0024"
+msgid ""
+"There is no reality in which I would be happy to\n"
+"receive such garbage."
+msgstr ""
+
+#. もっとマシな物をよこせと
+#. 言いたいところだが…
+msgctxt "0025"
+msgid ""
+"<CLT 4>I...think I made him mad. He probably thinks worse of\n"
+"me now...\n"
+"<CLT>"
+msgstr ""
+
+#. この俺の為に必死に選んだというなら
+#. 仕方ない…貰ってやろう。
+msgctxt "0026"
+msgid "Maybe not..."
+msgstr ""
+
+#. ………………
+msgctxt "0027"
+msgid "Yeah, I'm sure"
+msgstr ""
+
+#. いや、何も言うまい。
+#. お前が俺の為に用意した物だからな。
+msgctxt "0028"
+msgid ""
+"<CLT 23>Are you sure you don't want to give him something?\n"
+"<CLT>"
+msgstr ""

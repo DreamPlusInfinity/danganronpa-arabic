@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ふあぁぁ、なんかヒマで眠くなってきたっす…
+msgctxt "0001"
+msgid "*Sigh*"
+msgstr ""
+
+#. なんて言ってると千秋ちゃんとキャラが被る！
+#. それはマズくないっすか！？
+msgctxt "0002"
+msgid "..."
+msgstr "..."
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Oh, Makoto. I didn't realize you were there..."
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "Spend some time with Chihiro"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 澪田と一緒に過ごすか？<CLT>
+msgctxt "0005"
+msgid "Go see who else is around"
+msgstr ""
+
+#. ぐぬぬ…けど眠いものは眠いっす…
+#. コーヒー飲めば目が覚めますかね？
+msgctxt "0006"
+msgid ""
+"<CLT 4>Hmm... Should I try to cheer up Chihiro...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>澪田と一緒に、コーヒーを飲んで過ごした。<CLT>
+msgctxt "0007"
+msgid "Yeah, I could use a little change of scenery..."
+msgstr ""
+
+#. <CLT 04>澪田と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid "Do you mind keeping me company for a while..."
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"<CLT 4>I spent a nice, relaxing time with Chihiro...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid ""
+"<CLT 4>Chihiro and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Chihiro a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0002"
+msgid "You think *I'm* the killer...?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Sorry, man..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Yeah, s-sorry..."
+msgstr ""
+
+msgctxt "0005"
+msgid "It's all your f-fault...!"
+msgstr ""
+
+msgctxt "0006"
+msgid "..."
+msgstr "..."
+
+msgctxt "0007"
+msgid "Everyone...you're wrong...!"
+msgstr ""
+
+msgctxt "0008"
+msgid "You've got it all wrong! I didn't do it!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Good job, everyone!"
+msgstr ""
+
+msgctxt "0010"
+msgid "G-Good job...?"
+msgstr ""
+
+msgctxt "0011"
+msgid "Yeah. They got it right!"
+msgstr ""
+
+msgctxt "0012"
+msgid "N-No, I know that's not true..."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"None of this makes any sense... This whole trial\n"
+"doesn't make any sense!"
+msgstr ""
+
+msgctxt "0014"
+msgid "It makes perfect seeeeEEEENNNSSSSSEEE!!!"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"It's the same as always! It's just like all the other\n"
+"class trials! And I'm gonna end it the same way!"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"It's time for your heartpounding, positively thrilling\n"
+"punishment!"
+msgstr ""
+
+msgctxt "0017"
+msgid "W-Wait! Why do I—!?"
+msgstr ""
+
+msgctxt "0018"
+msgid "..."
+msgstr "..."
+
+msgctxt "0019"
+msgid "Kyoko—!"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"I don't expect you to forgive me. I know this is all\n"
+"my fault..."
+msgstr ""
+
+msgctxt "0021"
+msgid "Kyoko...?"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"Let's give it everything we've got! It's...PUNISHMENT\n"
+"TIIIME!"
+msgstr ""

@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>図書館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the school store...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>大きな建物の中には見渡す限りの本棚。<CLT>
+#. <CLT 04>そのすべてにびっしりと本が詰まっている。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Look at all this stuff. It's hard to imagine what they\n"
+"*don't* have in here.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "You think there's any red bean bread here?"
+msgstr ""
+
+#. ヒマだな
+msgctxt "0004"
+msgid "Do you like that type of thing?"
+msgstr ""
+
+#. もう、自分で連れてきたクセに
+#. なに言ってんのよ。
+msgctxt "0005"
+msgid "I am not a fan. It is so very...common."
+msgstr ""
+
+#. でも、アタシもあんまり
+#. じっと座って読書とかしないからな。
+msgctxt "0006"
+msgid "You wanna give the toy machine a shot?"
+msgstr ""
+
+#. …あ、そうだ。
+#. どうせだから写真集とか探してみよっか。
+msgctxt "0007"
+msgid ""
+"If you want to play with it, you can do so alone.\n"
+"It is a very stupid machine..."
+msgstr ""
+
+#. もしかしたら、
+#. お母さんのも置いてるかも！
+msgctxt "0008"
+msgid "That vase looks pretty expensive..."
+msgstr ""
+
+#. いい写真が撮れそうだな
+msgctxt "0009"
+msgid "It does indeed look quite valuable."
+msgstr ""
+
+#. 確かに、ちょっとすごい建物だよね。
+#. 歴史がありそうな…
+msgctxt "0010"
+msgid ""
+"If I were to display it in my home, I can't imagine\n"
+"anything but roses inside."
+msgstr ""
+
+#. 人が笑顔になれそうな場所じゃないけど
+#. 雰囲気はいいかも。
+msgctxt "0011"
+msgid ""
+"Of course, you must be very conscious of the language\n"
+"of flowers and what you are saying."
+msgstr ""
+
+#. でも建物とか風景とかは得意じゃないっていうか…
+#. あんまり興味ないんだよね。
+msgctxt "0012"
+msgid ""
+"For example, I would recommend never giving yellow\n"
+"roses as a gift. Too many meanings..."
+msgstr ""
+
+#. そうだ、たまには日向の真面目な写真でも
+#. 撮ってみようか？
+msgctxt "0013"
+msgid ""
+"Though I don't imagine *you* will ever have to worry\n"
+"about giving someone a gift like that."
+msgstr ""
+
+#. 何か読もうか
+msgctxt "0014"
+msgid ""
+"Well...if you like, I would allow you to give me such\n"
+"a gift."
+msgstr ""
+
+#. うーん…
+#. まぁ、図書館だからね…
+msgctxt "0015"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. でも、今はそういう気分じゃないから。
+#. 読書したいんなら、１人ですれば？
+msgctxt "0016"
+msgid "Is there anything interesting in here?"
+msgstr ""
+
+#. 眠くなってきた…
+msgctxt "0017"
+msgid "Interesting..."
+msgstr ""
+
+#. あはは、わかるわかる！
+msgctxt "0018"
+msgid ""
+"The definition of \"interesting\" changes from person to\n"
+"person. So the word itself is something of a fraud."
+msgstr ""
+
+#. 図書館って不思議だよね。
+#. なんでか眠くなっちゃう。
+msgctxt "0019"
+msgid ""
+"Perhaps I should test your value system and your sense\n"
+"of taste. Find out what makes you tick."
+msgstr ""
+
+#. ここはとくにそうだね。
+#. 風通しも良いし、静かだし…
+msgctxt "0020"
+msgid "And later on..."
+msgstr ""
+
+#. 誰もいないみたいだし、
+#. ちょっと昼寝してこっか？
+msgctxt "0021"
+msgid ""
+"Ah, sorry. I was talking to myself just now. Please\n"
+"forget I said anything."
+msgstr ""
+
+#. なんかごめん
+msgctxt "0022"
+msgid ""
+"Now, pick something out for me. Something you find\n"
+"\"interesting.\""
+msgstr ""
+
+#. うーん…ま、いいよ。
+msgctxt "0023"
+msgid "Who do you think would buy art like that?"
+msgstr ""
+
+#. あたしもなんとなく
+#. 来てみたいとは思ってたし。
+msgctxt "0024"
+msgid ""
+"Moments like this show who has been raised to\n"
+"recognize real worth from a young age."
+msgstr ""
+
+#. とはいえ…やる事ないよね、ここ。
+msgctxt "0025"
+msgid ""
+"It may be useful for me to raise you to a certain\n"
+"level of culture and sophistication."
+msgstr ""
+
+#. 勉強でもするか？
+msgctxt "0026"
+msgid "That's an accordion."
+msgstr ""
+
+#. えっと…それ本気？
+msgctxt "0027"
+msgid "Yes, I can tell by looking at it."
+msgstr ""
+
+#. そりゃ、確かに大事だけど
+#. まさかこんなとこでしなくてもさ…
+msgctxt "0028"
+msgid "So by you explicitly stating, \"That's an accordion\"..."
+msgstr ""
+
+#. 静かだな
+msgctxt "0029"
+msgid ""
+"...how is that supposed to expand our field of\n"
+"discussion? Just curious..."
+msgstr ""
+
+#. うん…
+msgctxt "0030"
+msgid ""
+"<CLT 4>Gah...that piercing gaze...\n"
+"<CLT>"
+msgstr ""
+
+#. たまにはこういうとこもいいかもね。
+#. 読書は…あんまり得意じゃないけど。
+msgctxt "0031"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0032"
+msgid "Is that lantern for sale, too?"
+msgstr ""
+
+#. や、やっぱり静かすぎて
+#. 落ち着かないかも…
+msgctxt "0033"
+msgid "You couldn't possibly want such a thing, could you?"
+msgstr ""
+
+#. よし、かくれんぼだ
+msgctxt "0034"
+msgid "I fear to imagine how your room must look..."
+msgstr ""
+
+#. もう、なに子供みたいなこと言ってんの！
+msgctxt "0035"
+msgid "Do you see anything you want?"
+msgstr ""
+
+#. いくらなんでもそれは、
+#. 少年の心、持ちすぎでしょ…
+msgctxt "0036"
+msgid ""
+"If you wish to get me a present, I have no reason to\n"
+"decline."
+msgstr ""
+
+#. あたしは絶対付き合わないからね。
+msgctxt "0037"
+msgid ""
+"However... Whatever you get me, you had better make\n"
+"sure it is appropriate."
+msgstr ""
+
+#. よく燃えそうだな
+msgctxt "0038"
+msgid "Hmhm... I look forward to seeing what you choose."
+msgstr ""
+
+#. ちょ、ちょっと！
+#. なに物騒な事言い出してんのよ！
+msgctxt "0039"
+msgid "Who would buy a set of armor...?"
+msgstr ""
+
+#. いくらなんでもそこまで燃料が足りなくなるとか
+#. あるわけないでしょ！
+msgctxt "0040"
+msgid "Someone who admires that kind of thing, I imagine."
+msgstr ""
+
+#. た…多分だけど…
+msgctxt "0041"
+msgid ""
+"Can you not imagine a suit of armor adorning the\n"
+"hallway of a luxurious European castle?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"This particular armor, however, is a little\n"
+"too...rustic for my taste."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

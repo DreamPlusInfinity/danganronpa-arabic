@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like he had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. もうこんな時間とは…
+#. 時が経つのを忘れるなど久しぶりだ。
+msgctxt "0002"
+msgid "It's grown so late already..."
+msgstr ""
+
+#. どうやら俺は、お前と過ごす時間を
+#. 楽しいと感じているようだな。
+msgctxt "0003"
+msgid ""
+"Look how you've consumed my precious time. Perhaps it\n"
+"was too great an honor for you..."
+msgstr ""
+
+#. …また声をかけろ。
+#. お前の誘いになら乗ってやる。
+msgctxt "0004"
+msgid ""
+"Well, I expect you to make the same effort to earn\n"
+"such an honor next time, as well."
+msgstr ""
+
+#. さて、名残惜しいが…
+#. そろそろホテルに戻るとしよう。
+msgctxt "0005"
+msgid "So then...let's go."
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. ふん…たまにはこうしてお前の
+#. くだらん誘いに乗るのも悪くはないな。
+msgctxt "0007"
+msgid ""
+"I suppose there are worse fates than spending some\n"
+"idle time on your worthless invitations."
+msgstr ""
+
+#. この十神白夜を満足させられるプランがあれば
+#. また声をかけるといい。
+msgctxt "0008"
+msgid ""
+"Frankly, I didn't think you would ever convince me of\n"
+"that."
+msgstr ""
+
+#. …気が向けば付き合ってやる。
+msgctxt "0009"
+msgid "Let's see if you can do the same thing next time..."
+msgstr ""
+
+#. さ、ホテルに戻るぞ。
+#. そろそろ晩飯の時間だからな。
+msgctxt "0010"
+msgid "Well then...we should head back."
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>I get the feeling he didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. …まったく、こんな結果になるなら
+#. 始めから俺が行き先を決めるんだった。
+msgctxt "0012"
+msgid "Such a waste of time..."
+msgstr ""
+
+#. 次から俺に声をかけるときは
+#. 食す価値のある物が見つかってからにしろ。
+msgctxt "0013"
+msgid ""
+"If you're going to beg me to indulge you, at least\n"
+"make adequate preparations to entertain me."
+msgstr ""
+
+#. 俺は先にホテルに戻るぞ。
+#. じゃあな。
+msgctxt "0014"
+msgid "No need to accompany me back. Goodbye."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>I don't think things could have gone any worse than\n"
+"that. Crap...\n"
+"<CLT>"
+msgstr ""
+
+#. まったく、とんだ時間の無駄だったな。
+msgctxt "0016"
+msgid "I never want to see your face again. Understand?"
+msgstr ""
+
+#. 俺はもう少しそこらを歩いてから戻る。
+#. お前は１人でさっさと帰れ。
+msgctxt "0017"
+msgid "Hmph."
+msgstr ""

@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "By covering the body with the tarp..."
+msgstr ""
+
+msgctxt "0002"
+msgid "...the killer prevented it from getting wet."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"So the reason the tarp\n"
+"was <CLT 9>only dirty on one side<CLT>..."
+msgstr ""
+
+msgctxt "0004"
+msgid "...is because the sprinkler got that side wet!"
+msgstr ""
+
+msgctxt "0005"
+msgid "But the underside of the tarp..."
+msgstr ""
+
+msgctxt "0006"
+msgid "It was totally spotless, right?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"It's cuz that side\n"
+"<CLT 9>was protected from the water<CLT>!"
+msgstr ""
+
+msgctxt "0008"
+msgid "Since it was facing down toward the body..."
+msgstr ""
+
+msgctxt "0009"
+msgid "...of course it <CLT 9>didn't get dirty<CLT>!"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>Did Makoto really do it?<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>That's gotta be it...!<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>She has a point...<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>That's right...<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>Is there any explanation?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>If that's true, so what?<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>That makes sense...<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>Ah, that's right!<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>Hiro might actually be right!<CLT>"
+msgstr ""

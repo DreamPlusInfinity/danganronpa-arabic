@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0004"
+msgid "I am afraid not."
+msgstr ""
+
+#. あはは、それ本気？
+#. っていうか、そんなのここにあるの？
+msgctxt "0005"
+msgid ""
+"My day begins with jam or butter on a freshly baked\n"
+"baguette, and cafe au lait."
+msgstr ""
+
+#. メリーゴーランドかぁ…
+#. 最後に乗ったのっていつだったけ。
+msgctxt "0006"
+msgid ""
+"Pickled vegetables and miso soup is the last thing I\n"
+"want in the morning."
+msgstr ""
+
+#. 確かお母さんが撮ってくれた写真があったな。
+#. ちっちゃなアタシが、すっごい笑ってた。
+msgctxt "0007"
+msgid ""
+"Although...gyoza is allowed. That irresistibly crude\n"
+"fragrance is most refreshing."
+msgstr ""
+
+#. ふふふ…もし本当にあったら、
+#. 一緒に乗ってあげてもいいよ。
+msgctxt "0008"
+msgid ""
+"<CLT 4>Gyoza in the morning? Isn't she worried about smelling\n"
+"like garlic for the rest of the day...?\n"
+"<CLT>"
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0009"
+msgid "Want something to drink?"
+msgstr ""
+
+#. う、嘘でしょ…
+#. そういうの、好きなわけ？
+msgctxt "0010"
+msgid "Ah. Milk tea, please."
+msgstr ""
+
+#. あたしは別に、その、怖くなんかないけど…
+msgctxt "0011"
+msgid "That is okay, is it not?"
+msgstr ""
+
+#. ………………
+msgctxt "0012"
+msgid ""
+"I hope you are not planning to tell me it is too much\n"
+"trouble..."
+msgstr ""
+
+#. ま、まあいいわよ。
+#. もしあったら、入っても…
+msgctxt "0013"
+msgid "So, what do you want to talk about?"
+msgstr ""
+
+#. その代わり、責任はちゃんと取ってもらうからね！
+msgctxt "0014"
+msgid "Do you seriously have nothing planned for us?"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0015"
+msgid ""
+"You invited me out, and you had not even a single\n"
+"topic of conversation in mind?"
+msgstr ""
+
+#. や、やだ！
+#. 絶対にやだからね！
+msgctxt "0016"
+msgid "Are you always this ill-prepared?"
+msgstr ""
+
+#. …っていうか、ここにそんなのあるの？
+msgctxt "0017"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. と、とにかく！
+#. あってもなくても絶対やだから！
+msgctxt "0018"
+msgid "So what do you like to do at night?"
+msgstr ""
+
+#. いい写真が撮れそうだな
+msgctxt "0019"
+msgid ""
+"I spend most evenings alone in my room, reading and\n"
+"drinking tea."
+msgstr ""
+
+#. うん！
+#. こういうところは、笑顔の宝庫だからね。
+msgctxt "0020"
+msgid ""
+"Luckily there are enough books here that I don't think\n"
+"I will ever run out."
+msgstr ""
+
+#. …とは言っても、
+#. アンタとアタシしかいないけど。
+msgctxt "0021"
+msgid "Ah, and in case you were wondering, it is black tea."
+msgstr ""
+
+#. ………………
+msgctxt "0022"
+msgid ""
+"Contrary to what you might imagine, I am not fond of\n"
+"oolong or green tea."
+msgstr ""
+
+#. 仕方ないから今日は全力で
+#. 日向の写真でも撮る事にしよっかな。
+msgctxt "0023"
+msgid "How do you get your hair to do that?"
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0024"
+msgid "...Why does it matter?"
+msgstr ""
+
+#. だよね…
+#. アタシもちょっと、自信ない。
+msgctxt "0025"
+msgid "Are you perhaps thinking of trying this look yourself?"
+msgstr ""
+
+#. 方向音痴、ってわけじゃないんだけど
+#. 地図見るの、苦手なんだよね。
+msgctxt "0026"
+msgid "Er, no...that's definitely not it..."
+msgstr ""
+
+#. ま、でもその辺は
+#. 日向が男らしくなんとかしてくれるかな？
+msgctxt "0027"
+msgid ""
+"If it is simply idle curiosity, take the time to\n"
+"research and find out for yourself."
+msgstr ""
+
+#. <CLT 04>無理とは言えない雰囲気だ…<CLT>
+msgctxt "0028"
+msgid "Let's pack a lunch and go somewhere."
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0029"
+msgid "Pack a lunch...?"
+msgstr ""
+
+#. もう、なにオッサンくさい事言ってんのよ！
+msgctxt "0030"
+msgid ""
+"I expect you will make sure the sandwiches are\n"
+"prepared by top chefs, yes?"
+msgstr ""
+
+#. せっかく来たんだからもうちょっと
+#. 楽しそうにしてもいいと思うんだけど？
+msgctxt "0031"
+msgid ""
+"<CLT 4>Um...no...\n"
+"<CLT>"
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0032"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. …言うと思った。
+msgctxt "0033"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. 男の子ってなんだか知らないけど
+#. 高いところに登りたがるよね。
+msgctxt "0034"
+msgid ""
+"Absolutely not. That type of food is much too crude\n"
+"for my taste."
+msgstr ""
+
+#. んー…でも確かにあそこまで登ったら
+#. すっごく見晴らしいいかも。
+msgctxt "0035"
+msgid ""
+"Not to mention the threat of the contents dripping out\n"
+"all over my lovely garments..."
+msgstr ""
+
+#. 頑張ってみるけど…
+#. ダメだったら、日向がおぶってよね？
+msgctxt "0036"
+msgid "All the food here is really good."
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0037"
+msgid ""
+"That is actually quite true. Every meal has been fully\n"
+"acceptable."
+msgstr ""
+
+#. え…？
+msgctxt "0038"
+msgid ""
+"Which makes me wonder...who is preparing these meals\n"
+"for us?"
+msgstr ""
+
+#. ば、バカじゃないの？
+#. 繋がないってば！
+msgctxt "0039"
+msgid ""
+"If it is Monokuma himself, he truly is a high-quality\n"
+"piece of machinery."
+msgstr ""
+
+#. だってほら…シャッターチャンスだって
+#. 逃しちゃうし…
+msgctxt "0040"
+msgid "But to use such technology on cooking..."
+msgstr ""
+
+#. え、えーっと…
+msgctxt "0041"
+msgid ""
+"Actually, I am fine with that. A fine meal helps\n"
+"expand the soul."
+msgstr ""
+
+#. たまに…だったら考えてもいいよ。
+msgctxt "0042"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. 記念写真を撮ろう
+msgctxt "0043"
+msgid "What a foolish question."
+msgstr ""
+
+#. 撮って欲しいなら撮るけど…
+msgctxt "0044"
+msgid "Why would I ever have to know how to cook?"
+msgstr ""
+
+#. 自分撮りとかその辺に置いてセルフタイマーとか、
+#. アタシ、そういうの絶対しないからね。
+msgctxt "0045"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

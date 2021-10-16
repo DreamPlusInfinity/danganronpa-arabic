@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 花飾り…？
+#. なんだそれ？
+msgctxt "0001"
+msgid "Make a...Monokuma Casanova? What does that even mean?"
+msgstr ""
+
+#. 綺麗なお花を使った髪飾りでちゅ！
+#. とってもらーぶ、らーぶなんでちゅよ！
+msgctxt "0002"
+msgid ""
+"Exactly what it says! You know what a casanova is,\n"
+"right? I want a good-looking version of me!"
+msgstr ""
+
+#. これを１つ作ってくだちゃいね！
+msgctxt "0003"
+msgid "Good-looking? But...y-you're a bear..."
+msgstr ""
+
+#. 作るって言われても…
+#. 一体どうやればいいのよ？
+msgctxt "0004"
+msgid ""
+"We'd better not think about it too much, or we'll\n"
+"never get anywhere..."
+msgstr ""
+
+#. そうですね…
+#. 材料などもありませんし…
+msgctxt "0005"
+msgid ""
+"Anyway, how are we even supposed to start building\n"
+"something like that?"
+msgstr ""
+
+#. 材料は島の色々な場所に出かけて、
+#. みなさんで集めてきてくだちゃい。
+msgctxt "0006"
+msgid "Yeah! I mean, where are the materials or whatever?"
+msgstr ""
+
+#. あ、でも心配はいりまちぇん！
+#. 最初の目標の分はもう集めておきまちたからね。
+msgctxt "0007"
+msgid ""
+"I can't do everything for you! Look around the school\n"
+"yourselves for whatever you might need."
+msgstr ""
+
+#. まずは作る練習をやってみまちょー！
+msgctxt "0008"
+msgid ""
+"Oh, but as an extra special service, I *will* give you\n"
+"some materials—just this once."
+msgstr ""
+
+#. …ということで、これをあげまちゅ。
+msgctxt "0009"
+msgid ""
+"I figure you could use at least a little practice\n"
+"before you start on the real thing!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid "Okay? So...here ya go!"
+msgstr ""

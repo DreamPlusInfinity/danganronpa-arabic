@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. これは…
+msgctxt "0001"
+msgid ""
+"<CLT 4>The door to the girls locker room. I have no way of\n"
+"unlocking it, so I couldn't go in if I wanted to.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>元通りになってる…
+#. まるで…ここでは何も起こらなかったみたいに。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>The boys locker room card reader. I can open it using\n"
+"my e-Handbook.\n"
+"<CLT>"
+msgstr ""
+
+#. …モノクマが片付けたのか？
+msgctxt "0003"
+msgid ""
+"<CLT 4>The girls locker room card reader. I'm listed as\n"
+"\"male\" in my e-Handbook, so it can't open this door.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>でも…起こった事件はなくならない。
+#. もう取り返しはつかないんだ…！<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Is that...a real gun? Why is there something like that\n"
+"here...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小泉の死体<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>There are a bunch of different pool-related items on\n"
+"the shelf.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>血痕<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>A flotation donut...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>金属バット<CLT>
+msgctxt "0007"
+msgid "Yes"
+msgstr ""
+
+#. <CLT 04>仮面<CLT>
+msgctxt "0008"
+msgid "No"
+msgstr ""
+
+#. 道路側から出る
+msgctxt "0009"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""

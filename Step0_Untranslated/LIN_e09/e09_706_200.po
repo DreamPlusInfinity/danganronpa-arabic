@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like he had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. たまにはこうやって何も考えずに
+#. 羽を伸ばすのもいいもんじゃのう…
+msgctxt "0002"
+msgid ""
+"Man, that was fun! I always have a blast hangin' out\n"
+"with you, man!"
+msgstr ""
+
+#. 日向よ、ワシを誘ってくれた事、
+#. 感謝するぞ。
+msgctxt "0003"
+msgid ""
+"I feel like the cloud that was hanging over my\n"
+"spiritual horizon has totally lifted!"
+msgstr ""
+
+#. そうじゃ、今日の礼に帰ったら特別にアレを…
+#. スペシャルメニューでしてやろう！
+msgctxt "0004"
+msgid ""
+"I feel like now my accuracy might go up to 30%, or\n"
+"maybe even 40!"
+msgstr ""
+
+#. さあ、そうと決まれば、
+#. とっととホテルに帰るとしようかのう！
+msgctxt "0005"
+msgid "Okay, we should head back. C'mon, let's walk and talk!"
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. お前さんのおかげで
+#. いい気晴らしができたのう。
+msgctxt "0007"
+msgid ""
+"Hahaha! Man, that was nice to get my mind off of stuff\n"
+"for a while."
+msgstr ""
+
+#. 悪くないデートコースだったが…
+#. お前さんもまだまだ余力がありそうじゃの？
+msgctxt "0008"
+msgid ""
+"I feel like I don't have to worry about a thing when\n"
+"I'm with you. It's nice!"
+msgstr ""
+
+#. よし、晩飯前にもうひとメニューこなして
+#. ひとっ風呂浴びるとしようかのう！
+msgctxt "0009"
+msgid "You're the only one here I can talk to like that..."
+msgstr ""
+
+#. そうと決まれば、まずはホテルまで全力疾走ッ！
+#. わはは、さあ行くぞ日向！
+msgctxt "0010"
+msgid "Well, let's get going."
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>I get the feeling he didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. うーむ…いまいち盛り上がりに欠ける
+#. デートじゃったのう…
+msgctxt "0012"
+msgid "So...why'd you invite me to hang out again?"
+msgstr ""
+
+#. デートもトレーニングも、綿密な計画を立ててこそ
+#. 最大の成果を上げられるというもんじゃあ。
+msgctxt "0013"
+msgid ""
+"If you're trying to get your fortune read, I do expect\n"
+"proper payment..."
+msgstr ""
+
+#. こんなことではこのワシは落とせんぞ！
+#. じゃあのう！
+msgctxt "0014"
+msgid "Anyway, I need to get going."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>I don't think things could have gone any worse than\n"
+"that. Crap...\n"
+"<CLT>"
+msgstr ""
+
+#. ふぅ…
+#. なにやら妙に気疲れしたのう…
+msgctxt "0016"
+msgid "Ugh, I'm totally beat."
+msgstr ""
+
+#. ワシは気晴らしにちょっと
+#. その辺を走ってくる事にするぞ！
+msgctxt "0017"
+msgid ""
+"But I don't really wanna head back to my room yet.\n"
+"I'm gonna go look for something to do."
+msgstr ""
+
+#. じゃあの！
+msgctxt "0018"
+msgid "See ya, Makoto."
+msgstr ""

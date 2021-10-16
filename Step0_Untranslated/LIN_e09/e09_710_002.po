@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>図書館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the school store...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>大きな建物の中には見渡す限りの本棚。<CLT>
+#. <CLT 04>そのすべてにびっしりと本が詰まっている。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Look at all this stuff. It's hard to imagine what they\n"
+"*don't* have in here.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I want this awesome armor!"
+msgstr ""
+
+#. 何か読もうか
+msgctxt "0004"
+msgid "What? You have t-terrible taste..."
+msgstr ""
+
+#. もちろんです！
+#. そのための図書館ですから！
+msgctxt "0005"
+msgid ""
+"I bet you'd cover your e-entire room in gold leaf if\n"
+"you c-could afford it."
+msgstr ""
+
+#. わたくし…本当に嬉しいです…
+#. 日向さんという良き理解者に恵まれて…
+msgctxt "0006"
+msgid "I remember those toy vending machines!"
+msgstr ""
+
+#. さあ、今日は何にしましょうか。
+#. 世界の邪神図鑑…カルトマナー大全もなかなか…
+msgctxt "0007"
+msgid "...Me too."
+msgstr ""
+
+#. <CLT 04>そっち方面限定なのか…<CLT>
+msgctxt "0008"
+msgid ""
+"They never b-betray you. Put money in, something\n"
+"c-comes out. You can trust that."
+msgstr ""
+
+#. 静かだな
+msgctxt "0009"
+msgid "Oh, it's some Monokuma merchandise..."
+msgstr ""
+
+#. ええ…本当に。
+msgctxt "0010"
+msgid "Ngeh...! Even a s-stuffed animal version is repulsive!"
+msgstr ""
+
+#. 昔から１人になりたいときは城をこっそり
+#. 抜け出して、図書館に隠れたものです。
+msgctxt "0011"
+msgid ""
+"But even that type of c-creepy cute is in these days.\n"
+"I bet they'd a-all love it."
+msgstr ""
+
+#. でもそのおかげで、よりいっそう
+#. 視野を広げる事ができたのだと思います。
+msgctxt "0012"
+msgid "Gyeh...modern trends m-make me want to vomit..."
+msgstr ""
+
+#. いわゆるひとつのタナブタですね！
+msgctxt "0013"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ブタは落ちてこないと思うぞ…<CLT>
+msgctxt "0014"
+msgid "There's some rope..."
+msgstr ""
+
+#. 眠くなってきた…
+msgctxt "0015"
+msgid "Rope...!?"
+msgstr ""
+
+#. そうですか…
+msgctxt "0016"
+msgid ""
+"Are you p-planning on tying me down? What kind of\n"
+"indecent acts are y-you planning, you fiend!?"
+msgstr ""
+
+#. せっかく来たのに残念ですが、
+#. 日向さんが退屈なら出ましょうか…
+msgctxt "0017"
+msgid "I wasn't thinking that at all!"
+msgstr ""
+
+#. ………ふう。
+msgctxt "0018"
+msgid "Oh, r-really...?"
+msgstr ""
+
+#. 暇つぶしによさそうだな
+msgctxt "0019"
+msgid "..."
+msgstr "..."
+
+#. はい！
+#. いくらでも食いつぶせるのです！
+msgctxt "0020"
+msgid "D-Don't send conflicting messages!"
+msgstr ""
+
+#. 我が国の王立図書館ほどではありませんが、
+#. なかなかの蔵書量のようですし…
+msgctxt "0021"
+msgid ""
+"<CLT 4>You're the one that came up with the other \"message\"\n"
+"and decided to believe it for no reason...\n"
+"<CLT>"
+msgstr ""
+
+#. なによりこの図書館は見晴らしがいいですから、
+#. 人が行方不明になる心配もありませんね！
+msgctxt "0022"
+msgid "Ngg... I did it a-again, didn't I...?"
+msgstr ""
+
+#. さあ、はりきって探検に参りましょう！
+msgctxt "0023"
+msgid ""
+"<CLT 4>I guess this has caused her trouble more than once...\n"
+"<CLT>"
+msgstr ""
+
+#. 勉強が捗りそうだな
+msgctxt "0024"
+msgid "That's a pretty cute doll."
+msgstr ""
+
+#. 図書館で勉強、ですか？
+msgctxt "0025"
+msgid "You're right. It's r-really easy on the eyes."
+msgstr ""
+
+#. そういえばこの国では、試験前になると
+#. 図書館が大人気スポットになると聞いた事があります。
+msgctxt "0026"
+msgid "Yeah, d-definitely cute..."
+msgstr ""
+
+#. 確かに静かだし、資料も豊富ですから
+#. 捗りそうな気もしますが…
+msgctxt "0027"
+msgid ""
+"Wh-What!? You want to tell me how someone as u-ugly as\n"
+"me shouldn't be talking about c-cute stuff, huh...!?"
+msgstr ""
+
+#. わたくしはきっと、本ばかり読んでしまって
+#. 集中できないような気がします…
+msgctxt "0028"
+msgid "But wh-what's the big deal?"
+msgstr ""
+
+#. 特にする事はないな…
+msgctxt "0029"
+msgid "Even I get those f-feelings sometimes..."
+msgstr ""
+
+#. そうなんですか…？
+msgctxt "0030"
+msgid "There's all kinds of paintings here..."
+msgstr ""
+
+#. こんなに本がたくさんあるのに
+#. する事がないだなんて…
+msgctxt "0031"
+msgid "So you can appreciate r-real art, then?"
+msgstr ""
+
+#. 日向さんとは気が合うと思っていたのに、
+#. 涙がチョチョ切れそうです…
+msgctxt "0032"
+msgid ""
+"I assumed you were o-only into that empty anime a-art\n"
+"of yours."
+msgstr ""
+
+#. よし、宝探しだ
+msgctxt "0033"
+msgid ""
+"Or is anything okay as l-long as there's a girl in\n"
+"it...?"
+msgstr ""
+
+#. はい！
+#. 図書館と言えば、宝物庫も同然ですからね！
+msgctxt "0034"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 禁書に古文書…
+#. 本物の呪術書が眠っていないとも限りません。
+msgctxt "0035"
+msgid "Let's dig for treasure!"
+msgstr ""
+
+#. それどころか、建物自体が古い場合は
+#. もしかしたら隠し扉や秘密の地下室なんかも…
+msgctxt "0036"
+msgid "In this tiny room, exists the entire world..."
+msgstr ""
+
+#. ああ、早く探しに行きましょう！
+msgctxt "0037"
+msgid ""
+"Is that the kind of dream you have,\n"
+"my little Big Mac!?"
+msgstr ""
+
+#. よし、かくれんぼだ
+msgctxt "0038"
+msgid "Well okaaay! Let's dig for that treasure!"
+msgstr ""
+
+#. あら、隠れんぼですか？
+#. ふふふ、取り消すなら今のうちですからね。
+msgctxt "0039"
+msgid "The treasure I'm gonna dig for...is your raw liver!"
+msgstr ""
+
+#. わたくしを図書館に隠れさせたら
+#. 右に出る者はいませんよ？
+msgctxt "0040"
+msgid "Do they have any anime DVDs in stock?"
+msgstr ""
+
+#. 祖国の王立図書館で隠れんぼ大会を行った時は
+#. 見つけてもらえず、危うく衰弱死しかけましたから。
+msgctxt "0041"
+msgid "Oh yeah! Let's see what's fighting for supremacy!"
+msgstr ""
+
+#. それきり大会は中止になってしまったので
+#. 久しぶりにできるのは超ウレピーです！
+msgctxt "0042"
+msgid ""
+"Well it's gotta be our little adorable boy-on-boy\n"
+"action, right!?"
+msgstr ""
+
+#. <CLT 04>責任重大すぎるだろ…！<CLT>
+msgctxt "0043"
+msgid "Ah, a pair of scissors."
+msgstr ""
+
+#. よし、鬼ごっこだ
+msgctxt "0044"
+msgid "What? I mean, what!?"
+msgstr ""
+
+#. いけません！
+#. 図書館で走るなんて言語道断！
+msgctxt "0045"
+msgid ""
+"MY scissors are my own personal, fashionable creation\n"
+"that even Gaea herself kneels down and prays to!"
+msgstr ""
+
+#. 我が国でしたらパランケの世話２００時間の刑に
+#. 処せられますからね！
+msgctxt "0046"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

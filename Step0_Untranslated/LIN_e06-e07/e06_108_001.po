@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"So who did it...?\n"
+"Who killed her?"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"Whoever did it is the same one\n"
+"who's <CLT 9>behind everything<CLT>."
+msgstr ""
+
+msgctxt "0003"
+msgid "That much I'm sure of."
+msgstr ""
+
+msgctxt "0004"
+msgid "But when you think about it..."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Is the mastermind\n"
+"really here in the school?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0007"
+msgid "They hafta be <CLT 9>here somewhere<CLT>!"
+msgstr ""
+
+msgctxt "0008"
+msgid "What makes you so sure?"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"Umm...\n"
+"what *does* make me so sure...?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Exactly. You're j-just making stuff up.\n"
+"There's no way the m-mastermind is here."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"The mastermind is\n"
+"p-probably <CLT 9>a million miles away<CLT>..."
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"C-Cuz masterminds always\n"
+"lurk off in the b-background, right?"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>How can you be so sure?<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>The question is...who is the mastermind?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>And where are they now?<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Wh-What...?<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>Well now, do you have proof?<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>I'm not sure...<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT 26>If that's really true...<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT 26>How did they pull off the murder?<CLT>"
+msgstr ""
+
+msgctxt "0021"
+msgid "<CLT 26>That's what I was wondering!<CLT>"
+msgstr ""
+
+msgctxt "0022"
+msgid "<CLT 26>I highly doubt that...<CLT>"
+msgstr ""

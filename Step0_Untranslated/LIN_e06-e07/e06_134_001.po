@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"Come on, bitches!\n"
+"Remember or die!"
+msgstr ""
+
+msgctxt "0002"
+msgid "What the fuck happened outside!?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"You want us to remember\n"
+"or whatever, but..."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"When it comes to that <CLT 9>crazy\n"
+"confusing video<CLT> you showed us..."
+msgstr ""
+
+msgctxt "0005"
+msgid "...I don't understand a damn thing!"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"What's the meaning\n"
+"of <CLT 9>the footage we saw<CLT>...?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Is this another one of your practical jokes?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"I mean,\n"
+"you're telling us to remember, but..."
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"...what am I supposed\n"
+"to be remembering!?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"I-If <CLT 9>nobody can \n"
+"remember anything<CLT>..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"...this is the end f-for all of us!\n"
+"What other ch-choice do we have!?"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>I don't know what it means!<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>It's a despair that'll seek and destroy!<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>What, you don't get it?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>For the apparent heir to the Togami legacy...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>A practical joke? Really?<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>No. My despair is always serious business.<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>Even now...<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT 26>The power that lies within you...<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT 26>Is it some kinda sixth sense?<CLT>"
+msgstr ""
+
+msgctxt "0021"
+msgid "<CLT 26>Hurry up and release it!<CLT>"
+msgstr ""
+
+msgctxt "0022"
+msgid "<CLT 26>There's no such thing...<CLT>"
+msgstr ""
+
+msgctxt "0023"
+msgid "<CLT 26>Hmhmhm... I'm so ecstatic!<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid "<CLT 26>Look at your faces...<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid "<CLT 26>Well, should we finish this?<CLT>"
+msgstr ""
+
+msgctxt "0026"
+msgid "<CLT 26>This trial represents your own hope, right?<CLT>"
+msgstr ""

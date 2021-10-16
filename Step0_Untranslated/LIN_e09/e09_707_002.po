@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>図書館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the school store...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>大きな建物の中には見渡す限りの本棚。<CLT>
+#. <CLT 04>そのすべてにびっしりと本が詰まっている。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Look at all this stuff. It's hard to imagine what they\n"
+"*don't* have in here.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I want this awesome armor!"
+msgstr ""
+
+#. 特にする事はないな…
+msgctxt "0004"
+msgid "That armor...?"
+msgstr ""
+
+#. その意見には賛成だがよ…
+msgctxt "0005"
+msgid ""
+"You have pretty odd taste, huh? I'm not sure I could\n"
+"ever understand it..."
+msgstr ""
+
+#. だったらなんで、オレとこんなとこ
+#. 来ようと思ったんだよ…
+msgctxt "0006"
+msgid "Are there any cool DVDs here?"
+msgstr ""
+
+#. 暇つぶしによさそうだな
+msgctxt "0007"
+msgid ""
+"That's hard to say, isn't it? I mean, everyone's\n"
+"definition of \"cool\" is different, right?"
+msgstr ""
+
+#. そりゃまぁ、こんだけ本がありゃな…
+msgctxt "0008"
+msgid ""
+"But if you want to look around, go ahead, no rush.\n"
+"I'll just wait right here."
+msgstr ""
+
+#. けど、本読むのって途中で絶対飽きるだろ。
+#. じゃなきゃ寝るだろ。
+msgctxt "0009"
+msgid "You wanna give the toy machine a shot?"
+msgstr ""
+
+#. …ああでも、背表紙眺めて歩くのは
+#. なんとなく嫌いじゃねーな。
+msgctxt "0010"
+msgid "Wow, there's all kinds of stuff inside, huh?"
+msgstr ""
+
+#. ま、せっかく来たんだし、
+#. ちょっと回ってみっか。
+msgctxt "0011"
+msgid ""
+"But it's hard to see what any of it is. I wonder\n"
+"what's gonna come out..."
+msgstr ""
+
+#. 勉強が捗りそうだな
+msgctxt "0012"
+msgid "Monokuma merchandise, maybe...?"
+msgstr ""
+
+#. こんな島まで来て勉強だぁ！？
+#. クソ真面目っつーかなんつーか…
+msgctxt "0013"
+msgid "Let's give it a shot, Makoto!"
+msgstr ""
+
+#. …とにかく、やるなら一人でやってくれや。
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>何を言うか？
+#. <CLT>
+msgctxt "0015"
+msgid "I wonder if they have any of your CDs..."
+msgstr ""
+
+#. 写真集でも見るか…
+msgctxt "0016"
+msgid "Huh? Mine!?"
+msgstr ""
+
+#. お、そんなんも置いてんのかよ！
+msgctxt "0017"
+msgid ""
+"I-I can't imagine a school store would carry that kind\n"
+"of thing..."
+msgstr ""
+
+#. 写真はいいよな！
+#. やっぱわかりやすいのが一番だぜ！
+msgctxt "0018"
+msgid ""
+"But I'd be so embarrassed if they did and you found\n"
+"it...!"
+msgstr ""
+
+#. 銃に刺青の図案に、あと美味そうな菓…
+msgctxt "0019"
+msgid "That's a pretty cute doll."
+msgstr ""
+
+#. お、おら、とっとと探そうぜ！
+msgctxt "0020"
+msgid "Ooh, it really is!"
+msgstr ""
+
+#. 専門書でも読むか…
+msgctxt "0021"
+msgid ""
+"But what's it doing in a place like this? Did someone\n"
+"make a point to put it here?"
+msgstr ""
+
+#. へぇ…テメー、そういうのが趣味かよ。
+msgctxt "0022"
+msgid ""
+"I guess I understand, though. Something like this\n"
+"helps soften the feel of any room it's in."
+msgstr ""
+
+#. オレは読むなら断然、実録物だな。
+#. ウチの伯父貴のも確かあるぜ。
+msgctxt "0023"
+msgid ""
+"So even though we're in this awful situation, it still\n"
+"helps me feel a little better."
+msgstr ""
+
+#. せっかくだから、ちょっと探してみっか。
+msgctxt "0024"
+msgid "Maybe I'll stop by to look at it again later. Hehehe!"
+msgstr ""
+
+#. 漫画でも読むか…
+msgctxt "0025"
+msgid "I remember those toy vending machines!"
+msgstr ""
+
+#. そりゃ、オレだって漫画は別に
+#. 嫌いじゃねーけどよ…
+msgctxt "0026"
+msgid ""
+"I know what you mean. Although I didn't really use\n"
+"them much as a kid myself."
+msgstr ""
+
+#. だからって、こんなとこに来てまで
+#. 読まなきゃなんねーもんか？
+msgctxt "0027"
+msgid "Would you like to give it a try now, Makoto?"
+msgstr ""
+
+#. <CLT 04>何を言うか？
+#. <CLT>
+msgctxt "0028"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 宝探しでもするか
+msgctxt "0029"
+msgid "I dunno what most of this stuff is for..."
+msgstr ""
+
+#. 宝探し？
+#. こんな、本しかねえところでか？
+msgctxt "0030"
+msgid "Oh, well... Yeah, I don't know, either."
+msgstr ""
+
+#. …あ、そうか、アレだ！
+#. 本をくりぬいてチャカとか隠すっていう…
+msgctxt "0031"
+msgid "This school is full of mysteries, huh?"
+msgstr ""
+
+#. それ以外にも、ここなら隠し扉や地下通路の
+#. ひとつくらいあってもおかしかねーか…
+msgctxt "0032"
+msgid "Let's organize things in here a little..."
+msgstr ""
+
+#. よし、いっちょ気合い入れて探すか！
+#. 埋蔵金とか出るかもしんねーしな！
+msgctxt "0033"
+msgid ""
+"You think we might get in trouble if we touch things\n"
+"without permission?"
+msgstr ""
+
+#. 静かだな
+msgctxt "0034"
+msgid "Maybe we should ask Monokuma first..."
+msgstr ""
+
+#. ああ…まぁ図書館だからな。
+msgctxt "0035"
+msgid "There's all kinds of paintings here..."
+msgstr ""
+
+#. さすがにオレだってここが騒ぐ場所じゃねーって
+#. 事くらいは知ってるぜ。
+msgctxt "0036"
+msgid "Oh wow, you're right."
+msgstr ""
+
+#. …あんまり来た事はねーけどよ。
+msgctxt "0037"
+msgid "Ah, look at that one! It's beautiful!"
+msgstr ""
+
+#. ふん…たまにゃこういうのも新鮮でいいかもな。
+msgctxt "0038"
+msgid "Maybe I should take it and put it in my room..."
+msgstr ""
+
+#. 昼寝でもするか
+msgctxt "0039"
+msgid ""
+"My room is kinda bare right now. A painting like that\n"
+"would really help it come to life."
+msgstr ""
+
+#. あぁ？
+#. 人をわざわざ連れだしといて昼寝だと？
+msgctxt "0040"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

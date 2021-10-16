@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 注目の発言力
+msgctxt "0001"
+msgid "Attentive Influence"
+msgstr ""
+
+#. 羨望の発言力
+msgctxt "0002"
+msgid "Envious Influence"
+msgstr ""
+
+#. 抜群の集中力
+msgctxt "0003"
+msgid "Extraordinary Focus"
+msgstr ""
+
+#. 脅威の集中力
+msgctxt "0004"
+msgid "Menacing Focus"
+msgstr ""
+
+#. 長考
+msgctxt "0005"
+msgid "Lost in Thought"
+msgstr ""
+
+#. カリスマ
+msgctxt "0006"
+msgid "Charisma"
+msgstr ""
+
+#. 冷静沈着
+msgctxt "0007"
+msgid "Cool and Composed"
+msgstr ""
+
+#. 明鏡止水
+msgctxt "0008"
+msgid "Tranquility"
+msgstr ""
+
+#. シフトダウン
+msgctxt "0009"
+msgid "Downshift"
+msgstr ""
+
+#. シフトアップ
+msgctxt "0010"
+msgid "Upshift"
+msgstr ""
+
+#. 桃色筋肉
+msgctxt "0011"
+msgid "Robot Jock"
+msgstr ""
+
+#. トリガーハッピー
+msgctxt "0012"
+msgid "Trigger Happy"
+msgstr ""
+
+#. テイスティング
+msgctxt "0013"
+msgid "Crystal Prediction"
+msgstr ""
+
+#. Ｉ．Ｕ．Ｆ
+msgctxt "0014"
+msgid "Cheat Code"
+msgstr ""
+
+#. チートコード
+msgctxt "0015"
+msgid "Algorithm"
+msgstr ""
+
+#. アルゴリズム
+msgctxt "0016"
+msgid "Kinetic Depth Perception"
+msgstr ""
+
+#. オートフォーカス
+msgctxt "0017"
+msgid "Steel Patience"
+msgstr ""
+
+#. 七光
+msgctxt "0018"
+msgid "Neural Liberation"
+msgstr ""
+
+#. 右脳解放
+msgctxt "0019"
+msgid "Delusion"
+msgstr ""
+
+#. 妄想
+msgctxt "0020"
+msgid "Breathing Technique"
+msgstr ""
+
+#. 静感マッサージ
+msgctxt "0021"
+msgid "Melodious Voice"
+msgstr ""
+
+#. 美声
+msgctxt "0022"
+msgid "Vocabulary"
+msgstr ""
+
+#. ボキャブラリー
+msgctxt "0023"
+msgid "Ambidextrousness"
+msgstr ""
+
+#. 両手利き
+msgctxt "0024"
+msgid "Handiwork"
+msgstr ""
+
+#. クラフトワーク
+msgctxt "0025"
+msgid "Trance"
+msgstr ""
+
+#. トランス
+msgctxt "0026"
+msgid "Observation"
+msgstr ""
+
+#. スティング
+msgctxt "0027"
+msgid "Run On"
+msgstr ""
+
+#. ムードメーカー
+msgctxt "0028"
+msgid "Raise"
+msgstr ""
+
+#. 紫電一閃
+msgctxt "0029"
+msgid "※"
+msgstr "※"
+
+#. 業物
+msgctxt "0030"
+msgid "※"
+msgstr "※"
+
+#. 大業物
+msgctxt "0031"
+msgid "※"
+msgstr "※"
+
+#. 活殺自在
+msgctxt "0032"
+msgid "※"
+msgstr "※"
+
+#. 速弾き
+msgctxt "0033"
+msgid "※"
+msgstr "※"
+
+#. クロックアップ
+msgctxt "0034"
+msgid "※"
+msgstr "※"
+
+#. マニューバ
+msgctxt "0035"
+msgid "※"
+msgstr "※"
+
+#. ムーンサルト
+msgctxt "0036"
+msgid "※"
+msgstr "※"
+
+#. 要返し
+msgctxt "0037"
+msgid "※"
+msgstr "※"
+
+#. 希望
+msgctxt "0038"
+msgid "※"
+msgstr "※"
+
+#. ＳＰ最大＋１
+msgctxt "0039"
+msgid "※"
+msgstr "※"
+
+#. ＳＰ最大＋２
+msgctxt "0040"
+msgid "※"
+msgstr "※"
+
+#. ＳＰ最大＋３
+msgctxt "0041"
+msgid "Hope"
+msgstr ""
+
+#. ＳＰ最大＝９９
+msgctxt "0042"
+msgid "Max SP +1"
+msgstr ""
+
+#. ？？？
+msgctxt "0043"
+msgid "Max SP +2"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid "Max SP +3"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "Max SP = 99"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "？？？"
+msgstr ""

@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>十神の奴、何か考え込んでるみたいだな…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>What's going on? It looks like Byakuya's lost in\n"
+"thought...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（ふぅ…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(So dull...)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>…ん？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>十神の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Byakuya's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. 何を悩んでるかは知らないけど、
+#. 無理に変わる必要なんてないんじゃないか？
+msgctxt "0007"
+msgid ""
+"We might be a dime a dozen to you, but we're fighting\n"
+"right alongside you in all this...!"
+msgstr ""
+
+#. 俺の知ってる十神白夜は、
+#. 今のままでも十分すごい奴だと思うぜ。
+msgctxt "0008"
+msgid ""
+"Maybe we don't all have an extra special life, but we\n"
+"still have normal lives we want to protect!"
+msgstr ""
+
+#. そうか…
+msgctxt "0009"
+msgid "You have passion, I see that."
+msgstr ""
+
+#. たとえ真実ではないとしても、
+#. 俺が自分で選び、進んできた道だ。
+msgctxt "0010"
+msgid ""
+"But the battle you're engaged in is nothing compared\n"
+"to what I went through. It's a child's game."
+msgstr ""
+
+#. もしかすると、この道でしか、
+#. 辿り着くことのできない場所もあるのかもな…
+msgctxt "0011"
+msgid ""
+"If all you care about is self-satisfaction, you should\n"
+"remain on a level that can provide that."
+msgstr ""
+
+#. 自分を変えるって楽じゃないけどさ、
+#. でも…必要なときってのはあるよな。
+msgctxt "0012"
+msgid ""
+"Right now, we're on the same level. We're in the same\n"
+"place, standing face to face."
+msgstr ""
+
+#. ふん…
+#. 口で言うのは簡単だ。
+msgctxt "0013"
+msgid ""
+"Hmph. What do you know? Swinging your immature\n"
+"metaphysical theories around like you're someone."
+msgstr ""
+
+#. ましてや、この十神白夜の一大変革を
+#. 貴様等一般人と同列に語るとは…
+msgctxt "0014"
+msgid "You need to recognize your limitations."
+msgstr ""
+
+#. 貴様に期待した俺が愚かだったな。
+msgctxt "0015"
+msgid "You and me do live in different worlds, it's true."
+msgstr ""
+
+#. 十神の気持ちは嬉しいけど…
+msgctxt "0016"
+msgid "Why are you telling me what I already know?"
+msgstr ""
+
+#. 俺なんかがお前と同じ道を歩けるとは
+#. 到底思えないんだよな…
+msgctxt "0017"
+msgid "Are you nervous, standing before me like this?"
+msgstr ""
+
+#. 挑みもせずに諦めるのか。
+msgctxt "0018"
+msgid ""
+"No, nothing like that. But so much of the time,\n"
+"I don't understand the things you say."
+msgstr ""
+
+#. ふん…負け犬はどこまでいっても
+#. 底辺を這いずるだけの負け犬というわけだな。
+msgctxt "0019"
+msgid ""
+"Why should you? It's impossible for a commoner to\n"
+"understand the inner workings of a noble."
+msgstr ""
+
+#. お前が何を悩んでるのかは知らないけど、
+#. 俺でよければ力になる。
+msgctxt "0020"
+msgid ""
+"It shows a certain wisdom for you to recognize that\n"
+"you could never call yourself my equal."
+msgstr ""
+
+#. …まあ、俺みたいな凡人が
+#. 十神白夜の力になれるかは分からないけどな。
+msgctxt "0021"
+msgid ""
+"If you see yourself as having a tragic life, then\n"
+"you'll never rise above others."
+msgstr ""
+
+#. 日向…
+msgctxt "0022"
+msgid "Do you have what it takes to climb over them?"
+msgstr ""
+
+#. お前がそこまで言うのなら、
+#. 俺も話さねばなるまい。
+msgctxt "0023"
+msgid ""
+"I don't want to have to do that. I don't want to have\n"
+"to fight other people to improve my own life."
+msgstr ""
+
+#. ここへ来る途中に感じたあの…匂いの事を！
+msgctxt "0024"
+msgid ""
+"That's just an excuse. You avoid the struggle and use\n"
+"that to justify your position in life."
+msgstr ""
+
+#. …は？
+msgctxt "0025"
+msgid "Those are the thoughts of an unmotivated loser."
+msgstr ""
+
+#. 間違いない…
+#. あれは肉を塊で焼く匂いだった！
+msgctxt "0026"
+msgid ""
+"If you simply exist, you're no different from any\n"
+"other piece of livestock."
+msgstr ""

@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like he had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 今日は誘ってくれてありがとう。
+#. キミのおかげで充実した一日だったよ！
+msgctxt "0002"
+msgid "We certainly got fired up today, didn't we!?"
+msgstr ""
+
+#. キミのエスコートが完璧すぎて、
+#. 思わずボクもキュンとしちゃったね！
+msgctxt "0003"
+msgid "I'm amazed at how much fun we had together, Mr. Naegi."
+msgstr ""
+
+#. おっと、もちろんハートだけじゃなくて
+#. 下半身もさ！
+msgctxt "0004"
+msgid "It was most unexpected!"
+msgstr ""
+
+#. さ、それじゃ一緒に戻ろうか。
+#. ホテルに入るまでがデートだからね！
+msgctxt "0005"
+msgid ""
+"It's rare for someone to exceed my expectations, you\n"
+"know."
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid ""
+"I eagerly await our next opportunity to deepen our\n"
+"friendship!"
+msgstr ""
+
+#. 今日はキミのおかげで
+#. なかなかナイスな時間が過ごせたよ。
+msgctxt "0007"
+msgid "For now, let us return!"
+msgstr ""
+
+#. デートというには少し物足りなかったけど…
+#. まあ何事にも順序というのはあるからね！
+msgctxt "0008"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 次はもっと濃厚なのを期待しているよ！
+msgctxt "0009"
+msgid "I had fun today!"
+msgstr ""
+
+#. それじゃ、お腹も空いた事だし
+#. 一緒にホテルに戻ろっか。
+msgctxt "0010"
+msgid ""
+"I will gladly accept any future invitation, so please\n"
+"don't hesitate to ask anytime."
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid "Oh! But..."
+msgstr ""
+
+#. 日向くん、まさかキミがここまで
+#. デートのなんたるかを分かってないとはね…
+msgctxt "0012"
+msgid "Not during my nightly refresh period!"
+msgstr ""
+
+#. 仕方ないからそのうちボクが
+#. 手取り足取りレクチャーしてあげるよ。
+msgctxt "0013"
+msgid "Okay, we should get back now!"
+msgstr ""
+
+#. …気が向いたらね。
+msgctxt "0014"
+msgid ""
+"<CLT 4>I get the feeling he didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. それじゃボクは忙しいから
+#. この辺で失礼するよ！
+msgctxt "0015"
+msgid "Hmm... I'm pretty exhausted."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0016"
+msgid ""
+"We're done, right? I wanna go back to my room and\n"
+"watch some Pudgy Princess."
+msgstr ""
+
+#. うーん…
+msgctxt "0017"
+msgid "If you'll excuse me..."
+msgstr ""
+
+#. 遊びにいくときはさ…
+#. 事前のチェックをお勧めするよ。
+msgctxt "0018"
+msgid ""
+"<CLT 4>I don't think things could have gone any worse than\n"
+"that. Crap...\n"
+"<CLT>"
+msgstr ""
+
+#. じゃあね…
+msgctxt "0019"
+msgid "Hugyah...! It's more than just being tired..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid ""
+"When you invite me out, I feel...trapped, pressured.\n"
+"Could you kindly learn some social skills?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid "Now then...time to vanish."
+msgstr ""

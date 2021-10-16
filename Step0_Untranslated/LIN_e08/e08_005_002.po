@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 島のスーパーの食材が良くないね…
+#. 大量生産品しかないじゃないか。
+msgctxt "0001"
+msgid "Have you ever experienced it?"
+msgstr ""
+
+#. 新鮮なとれたて産地直送でないと
+#. ぼくのアーバンな感性を活かし切れないよ。
+msgctxt "0002"
+msgid ""
+"The sweltering heat of the summer cons, the frigid\n"
+"cold of the winter cons..."
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid ""
+"It's my duty to create a product that will satisfy the\n"
+"brave fans who suffer for their passion!"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid ""
+"I don't have time to be cooped up in a place like\n"
+"this..."
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 花村を誘ってみるか？<CLT>
+msgctxt "0005"
+msgid "Spend some time with Hifumi"
+msgstr ""
+
+#. ンフフ、嬉しいなぁ…
+#. 今宵の食卓をキミが彩ってくれると言うんだね？
+msgctxt "0006"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>俺の代わりの食材を探し出すべく、
+#. 花村とスーパーを漁って過ごした。<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Hifumi for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>花村と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid "You wanna hear what I have to say, huh?"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"Well, what would you like to talk about? Comics? Video\n"
+"games? Anime? Collectible figures? Take your pick!"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid ""
+"<CLT 4>I listened to Hifumi's half-obsessed ranting for\n"
+"longer than I would've liked...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>Hifumi and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Hifumi a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

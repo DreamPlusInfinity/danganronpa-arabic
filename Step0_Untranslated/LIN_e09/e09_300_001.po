@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 最初にみなさんにやってもらう目標はー…
+msgctxt "0001"
+msgid ""
+"So, the concept for the very first backup I need\n"
+"you to make is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0002"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0003"
+msgid "Um, okay. So, the next concept is..."
+msgstr ""
+
+#. もっかいおなじやつー！
+msgctxt "0004"
+msgid "...the same thing! Do it right this time!"
+msgstr ""
+
+#. 今度はちゃんと素材を集めてから
+#. 作ってくだちゃいね！
+msgctxt "0005"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. ５日後に出来てるかどうかチェックしまちゅ！
+msgctxt "0006"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0007"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0008"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0009"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0010"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0011"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0012"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0013"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0014"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0015"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0016"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0017"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0018"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0019"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0020"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0021"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0022"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0023"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0024"
+msgid "...right here!"
+msgstr ""
+
+#. 次の目標はー…
+msgctxt "0025"
+msgid "So, the next concept is..."
+msgstr ""
+
+#. これでーちゅ！
+msgctxt "0026"
+msgid "...right here!"
+msgstr ""

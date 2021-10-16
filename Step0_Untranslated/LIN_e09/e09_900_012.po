@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>こうして２人でこの景色を見るのも<CLT>
+#. <CLT 04>今日で最後か…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>I decided to talk to Celeste one more time before we\n"
+"all left...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>色々と無茶苦茶なサバイバル生活だったけど<CLT>
+#. <CLT 04>改めて振り返ってみると…楽しかったな。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>I wonder if this is the last time we'll ever see this\n"
+"place...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかんだ言っても、<CLT>
+#. <CLT 04>人が死ぬような事態にはならなかったし。<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>The time we spent here didn't make much sense,\n"
+"but...looking back, I can't say I didn't have fun.\n"
+"<CLT>"
+msgstr ""
+
+#. もう…終わっちゃうんだね。
+msgctxt "0004"
+msgid ""
+"<CLT 4>There are still some mysteries left. What was\n"
+"Monokuma, really? Why'd we end up here?\n"
+"<CLT>"
+msgstr ""
+
+#. ここでの事も、これから元の生活に戻るって事も…
+#. なんだか全然、現実味ないな。
+msgctxt "0005"
+msgid ""
+"<CLT 4>I still don't have answers, but I'll have time to\n"
+"figure all that out once we escape...\n"
+"<CLT>"
+msgstr ""
+
+#. 長かったような、短かったような…
+msgctxt "0006"
+msgid "Makoto...do you remember my dream?"
+msgstr ""
+
+#. でも、こうやって日向と、その…
+#. 仲良くなれたのは、よかった…かな。
+msgctxt "0007"
+msgid "To realize that dream..."
+msgstr ""
+
+#. ねえ、あのときの約束…覚えてる？
+msgctxt "0008"
+msgid "...I will allow you to give me all of yourself."
+msgstr ""
+
+#. <CLT 04>小泉とした約束？<CLT>
+#. <CLT 04>っていうと…<CLT>
+msgctxt "0009"
+msgid "At last, things are ready to begin."
+msgstr ""
+
+#. デートのこと？
+msgctxt "0010"
+msgid "S-Sorry, but...what are you talking about?"
+msgstr ""
+
+#. ええと、確か…戻ったら
+#. デートするって約束だったっけ？
+msgctxt "0011"
+msgid ""
+"You do not have to play dumb. You do not have to\n"
+"pretend to be shy anymore."
+msgstr ""
+
+#. な、何言ってんの！
+#. そんな約束してないわよ！
+msgctxt "0012"
+msgid "From now on..."
+msgstr ""
+
+#. デートなんて…その、
+#. 別に、するのは構わないけど…
+msgctxt "0013"
+msgid "...you may serve me, as my knight."
+msgstr ""
+
+#. <CLT 04>…とりあえず、違ったみたいだ。<CLT>
+msgctxt "0014"
+msgid ""
+"I am granting you the opportunity to obtain true peace\n"
+"of mind."
+msgstr ""
+
+#. 洗濯のこと？
+msgctxt "0015"
+msgid "Go ahead, you may rejoice."
+msgstr ""
+
+#. ええと…
+#. 服はちゃんと洗濯するって約束だっけ？
+msgctxt "0016"
+msgid "Umm...I mean, yeah, I'm pretty happy right now."
+msgstr ""
+
+#. そ、それは…確かにしたけど、
+#. そうじゃなくて…
+msgctxt "0017"
+msgid "How very modest of you."
+msgstr ""
+
+#. …っていうか、
+#. あれから服、ちゃんと洗ってるんでしょうね？
+msgctxt "0018"
+msgid "Well, that is fine."
+msgstr ""
+
+#. <CLT 04>ヤブ蛇だった…<CLT>
+msgctxt "0019"
+msgid "By the way..."
+msgstr ""
+
+#. カメラのこと？
+msgctxt "0020"
+msgid ""
+"You obviously know our next destination after we leave\n"
+"this place, yes?"
+msgstr ""
+
+#. 覚えてるよ。
+#. カメラ、俺にくれるんだろ？
+msgctxt "0021"
+msgid "Destination...?"
+msgstr ""
+
+#. でも、本当にいいのか？
+msgctxt "0022"
+msgid "A nice, quiet hot spring hotel?"
+msgstr ""
+
+#. うん。
+#. あたしの気持ちだから。
+msgctxt "0023"
+msgid ""
+"Did you want to go on a nice, refreshing trip to a hot\n"
+"spring hotel?"
+msgstr ""
+
+#. これでも日向には感謝してるんだよ？
+#. 話とか、色々聞いてもらったし。
+msgctxt "0024"
+msgid "Now is no time for such forgetfulness, Makoto."
+msgstr ""
+
+#. あたしね、ここで日向と会えて
+#. 新しい自分を見つけられた気がするんだ。
+msgctxt "0025"
+msgid ""
+"I will ask you one more time. What is our next\n"
+"destination?"
+msgstr ""
+
+#. ひとりでただ写真を撮ってるだけじゃ
+#. 絶対に見つけられなかった自分を…
+msgctxt "0026"
+msgid "A round-the-world trip in a luxury yacht?"
+msgstr ""
+
+#. それに、これからもあたしと一緒にいるなら
+#. カメラの一台くらい持っててくれないとね。
+msgctxt "0027"
+msgid ""
+"You wanted to go around the world in a nice, fancy\n"
+"yacht, right?"
+msgstr ""
+
+#. <CLT 04>これからも…か。<CLT>
+msgctxt "0028"
+msgid "Ah..."
+msgstr ""
+
+#. <CLT 04>そうだよな。<CLT>
+#. <CLT 04>これからも俺たちはずっと…一緒にいるんだ。<CLT>
+msgctxt "0029"
+msgid "That is not a bad idea, either."
+msgstr ""
+
+#. 小泉、ありがとな。
+#. ここにいてくれて。
+msgctxt "0030"
+msgid "Yeah...it definitely seems like something you'd do."
+msgstr ""
+
+#. 何よ急に…
+msgctxt "0031"
+msgid "However..."
+msgstr ""
+
+#. ………………
+msgctxt "0032"
+msgid "That is not correct. Rejected. Try again."
+msgstr ""
+
+#. うん…
+#. でも、あたしも同じ気持ちかも。
+msgctxt "0033"
+msgid ""
+"I will ask you one more time. What is our next\n"
+"destination?"
+msgstr ""
+
+#. もし日向がいてくれなかったら、あたし…
+#. 大切なことに気付けなかった。
+msgctxt "0034"
+msgid "A European castle?"
+msgstr ""
+
+#. 誰かをこんな風に大切に想う気持ち…
+#. きっとずっと忘れちゃってたと思う。
+msgctxt "0035"
+msgid "..."
+msgstr "..."
+
+#. だから…
+msgctxt "0036"
+msgid "You wanted to buy a European castle, right?"
+msgstr ""
+
+#. ほんと…ありがとね。
+#. あたしのこと、見つけてくれて。
+msgctxt "0037"
+msgid ""
+"I knew you would remember. You truly are worthy of\n"
+"serving as my knight."
+msgstr ""
+
+#. それから、えっと………
+msgctxt "0038"
+msgid "Perhaps it's time to consider promoting you to B-rank."
+msgstr ""
+
+#. …大好きだよ。
+msgctxt "0039"
+msgid "What?"
+msgstr ""
+
+#. <CLT 04>…しっかりと手を繋ぐ。<CLT>
+msgctxt "0040"
+msgid "Perhaps it's time to consider promoting you to B-rank."
+msgstr ""
+
+#. <CLT 04>これからは何があろうと、<CLT>
+#. <CLT 04>俺が小泉を守る。<CLT>
+msgctxt "0041"
+msgid "Umm...huh?"
+msgstr ""
+
+#. <CLT 04>繋いだこの手こそがきっと、<CLT>
+#. <CLT 04>俺にとっての"希望"の象徴だから…<CLT>
+msgctxt "0042"
+msgid "Perhaps it's time to consider promoting you to B-rank."
+msgstr ""
+
+#. <CLT 04>この島に来るまで感じた事もない、<CLT>
+#. <CLT 04>あたたかな想いが俺の胸を満たしていた。<CLT>
+msgctxt "0043"
+msgid "Th-Thank you...?"
+msgstr ""
+
+#. はい
+msgctxt "0044"
+msgid "Hmhm. Naturally."
+msgstr ""
+
+#. いいえ
+msgctxt "0045"
+msgid "However..."
+msgstr ""
+
+#. <CLT 06>他にも話しかけたい人がいますか？<CLT>
+msgctxt "0046"
+msgid "You should not thank me just yet."
+msgstr ""
+
+#. <CLT 04>こうして俺たちの<CLT>
+#. <CLT 04>南の島での生活は終わりを告げた――<CLT>
+msgctxt "0047"
+msgid ""
+"Bear in mind that your promotion depends on the work\n"
+"you put in from this point forward."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid "Got it..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "My dream..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "To live in a European castle..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"And collect beautiful butler-slash-bodyguards from\n"
+"around the world, and dress them like vampires..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"Then I will spend the rest of my life worshipping such\n"
+"beauty in my world of decadence."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"Now then, Makoto. Please begin making our preparations\n"
+"immediately."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid "Huh? I-I have to do it!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"Graduating from Hope's Peak was to guarantee me a\n"
+"lifetime of success."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid ""
+"That was how I intended to raise the funds I would\n"
+"need."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"But unfortunately, that no longer appears to be an\n"
+"option."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid ""
+"O-Oh... But doing what you ask isn't as easy as you\n"
+"make it sound, you know."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid "Perhaps, but it is not impossible."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid "With you standing next to me, I am certain..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0061"
+msgid ""
+"<CLT 4>Celeste has a solid grasp on her hope for the\n"
+"future...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0062"
+msgid ""
+"<CLT 4>What's *in* the dream is all over the place, but she\n"
+"was shining so bright, I thought I might go blind.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0063"
+msgid ""
+"Remember—this is your master's dream. As such, you\n"
+"should consider it *your* dream, as well."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0064"
+msgid ""
+"Now, let us depart. Onward, toward the day we stand\n"
+"atop our castle together."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid ""
+"<CLT 4>Celeste held out her hand to me...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid ""
+"<CLT 4>Trying my best to assume the role of a \"knight,\" I\n"
+"took it with as much respect as possible.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid ""
+"<CLT 4>I don't know what the future holds, but I know what to\n"
+"expect when it comes to the people here.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid ""
+"<CLT 4>Celeste has high expectations, so I have to think hard\n"
+"about what I can do to live up to them.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid ""
+"<CLT 4>For the first time since coming to this school, a\n"
+"vivid image of the future filled my heart...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid "<CLT 23>You received<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>Celeste's Undergarments<CLT> <CLT 23>as a present.<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0071"
+msgid "Yes"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0072"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0073"
+msgid ""
+"<CLT 23>Is there anyone else you'd like to talk to?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0074"
+msgid ""
+"<CLT 4>And that's how my school life at Hope's Peak Academy\n"
+"came to an end...\n"
+"<CLT>"
+msgstr ""

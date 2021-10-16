@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. うーん…狛枝くんを誘い出すって、
+#. どうやればいいのかな？
+msgctxt "0001"
+msgid "Oh man... Oh man...!"
+msgstr ""
+
+#. 色気は無理っしょ。
+msgctxt "0002"
+msgid "What's up...?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "I'm gettin' totally fired up!"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "What? How come!?"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 七海と一緒に過ごすか？<CLT>
+msgctxt "0005"
+msgid ""
+"How come doesn't matter! Now that I'm revved up, I\n"
+"need to get it out! Let's race!"
+msgstr ""
+
+#. うーん…日向くんはどうやったらいいと思う？
+#. やっぱ色気は無理っしょ。
+msgctxt "0006"
+msgid ""
+"I-I don't think that's a good idea. I wouldn't stand a\n"
+"chance, anyway..."
+msgstr ""
+
+#. <CLT 04>七海と、狛枝を誘い出す方法を考えながら過ごした。<CLT>
+msgctxt "0007"
+msgid "Really? Well, I don't mind a solo run!"
+msgstr ""
+
+#. <CLT 04>七海と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid "W-Well, hold on... You always seem so excited, Hina..."
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid "Huh? Hey, are you makin' fun of me!?"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid "N-No, I'm just impressed..."
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Really...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"I used to know this one guy, he was always like,\n"
+"\"Hina, you're like, a <CLT 3>super spaz<CLT>!\""
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "Super spaz...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid ""
+"Yeah! Like, he'd see me wearing shorts in winter, and\n"
+"he'd say stuff like that."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"But if you lose to the cold like that, it just means\n"
+"you weren't dedicated enough!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid "Wow, you did stuff like that and didn't get sick?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"Getting sick is for the weak! If you're really\n"
+"dedicated, winter means even lighter clothes!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "It's all part of your training!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"<CLT 4>Training, huh...?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "So, like, are you the type who gets sick easy?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid "Actually...yeah."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid "See? You're soft! You need more training!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid ""
+"Okay! I've got the perfect remedy to keep someone like\n"
+"you fit as a fiddle!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "Huh? What kind of remedy...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "Actually, I do this myself every morning!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid ""
+"You just strip down to your waist, then take a dry\n"
+"towel and start rubbing down your bare skin!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "I call it...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "I call it...uh..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "What do I call it again?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "Towel treatment"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid "Bamboo beatdown"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "Bamboo beatdown, maybe?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "Huh? I don't remember saying anything about bamboo..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"Although, some people think that using bamboo to apply\n"
+"pressure to the bottom of your feet is good for you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"That's just crazy, though. Now rubbing yourself down\n"
+"with a towel? That's where it's at!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "And I call it...uhh..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "Yoga"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "Is that like...yoga?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid ""
+"Huh? No, nothing like that. That's too short, too\n"
+"simple. I'm sure the name was way longer..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "But yoga's pretty great, though!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"I heard if you become a master, you can breathe fire\n"
+"and make your body all stretchy!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"I think that's limited to, like...video games and\n"
+"stuff."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"Gaaaah...! I'm gonna throw up if I can't remember what\n"
+"it's called! Help me out, Makoto!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"<CLT 4>A way to keep healthy by stripping down and rubbing a\n"
+"towel across your skin...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"<CLT 4>Let's take a shot at this...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "Is it something like...towel treatment?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "Oh my god! Yeah, that's it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"I love going out on my apartment balcony, <CLT 3>stripping\n"
+"down<CLT>, feeling the wind on my skin..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"God, it feels so amazing! I never let a morning pass\n"
+"without getting in a good rubdown!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"<CLT 4>Wait, so you went out on your balcony, and...stripped\n"
+"down?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"<CLT 4>And you were okay with that?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"You should give it a try! If you haven't got your\n"
+"health, you haven't got anything!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "I'd hate to see you catch cold or something..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"<CLT 23>Hina's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with her.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"<CLT 23>Your maximum number of <CLT><CLT 3>Skill Points<CLT><CLT 23> has increased!\n"
+"Hey, look at you go!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid ""
+"<CLT 4>After being introduced to a unique sickness prevention\n"
+"method, I went back to my room.\n"
+"<CLT>"
+msgstr ""

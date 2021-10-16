@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0004"
+msgid "Music really is wonderful, isn't it?"
+msgstr ""
+
+#. あぁ？
+#. あー…まぁそうだな…
+msgctxt "0005"
+msgid "It has the power to move people's hearts."
+msgstr ""
+
+#. ここに突っ立っててもしかたねーし
+#. あっちの木陰にでも行くか。
+msgctxt "0006"
+msgid ""
+"The melodies and words join together to touch their\n"
+"souls..."
+msgstr ""
+
+#. って言うか、テメーはオレとここで
+#. 何がしたかったんだよ…
+msgctxt "0007"
+msgid ""
+"If my voice can play even a small part in that, that's\n"
+"enough to make me happy."
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0008"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. あぁ！？
+#. 散歩だぁ！？
+msgctxt "0009"
+msgid "Y-You're really asking me that...?"
+msgstr ""
+
+#. …まぁ、別にいいけどよ…
+#. テメーはホント変わってんな。
+msgctxt "0010"
+msgid "Well...I'm okay with the tambourine, I guess."
+msgstr ""
+
+#. このオレと公園でお散歩してーなんて言うのは
+#. テメーくらいだろうぜ。
+msgctxt "0011"
+msgid "But that's about it for me."
+msgstr ""
+
+#. いい景色だな
+msgctxt "0012"
+msgid "Um...are you disappointed to hear that?"
+msgstr ""
+
+#. ………………
+msgctxt "0013"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. テメーはそんなくだらねー事を聞かせるために
+#. オレをこんなとこまで連れてきたのか？
+msgctxt "0014"
+msgid "Yeah, I'd like to go, too!"
+msgstr ""
+
+#. 木登りでもするか
+msgctxt "0015"
+msgid ""
+"I haven't had much time lately to do anything like\n"
+"that, thanks to my own work schedule..."
+msgstr ""
+
+#. 木登りか…
+#. そういやガキの頃はよく登ってたな。
+msgctxt "0016"
+msgid ""
+"But going to see other people perform is a really good\n"
+"learning experience!"
+msgstr ""
+
+#. 庭にけっこう生えててよ、上の方まで登ると
+#. そう簡単には見つからねーんだよ。
+msgctxt "0017"
+msgid ""
+"Wait...you weren't talking about going to see *me*\n"
+"perform, right?"
+msgstr ""
+
+#. オヤジやお袋の説教から逃げるのに
+#. よく登ったもんだぜ。
+msgctxt "0018"
+msgid "..."
+msgstr "..."
+
+#. …まぁバレちまってからは、犬をけしかけられたり
+#. 揺さぶって落とされたりしたけどな。
+msgctxt "0019"
+msgid "Ahh, now I'm all embarrassed..."
+msgstr ""
+
+#. んじゃ、ちょっと久々に登ってみるか。
+msgctxt "0020"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 変な像だな
+msgctxt "0021"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. あぁ、そうだな。
+#. あれが"ジャバウォック"なのか？
+msgctxt "0022"
+msgid "Oh, that sounds fun! Will you do a duet with me?"
+msgstr ""
+
+#. 強そうなのか弱そうなのか、
+#. いまいちよくわかんねー形だよな。
+msgctxt "0023"
+msgid "It's okay! I don't mind leading."
+msgstr ""
+
+#. あの程度、ウチのオヤジなら間違いなく
+#. 片手で放り投げるぞ。
+msgctxt "0024"
+msgid ""
+"Oh, but...when it's anything besides karaoke...would\n"
+"you mind leading?"
+msgstr ""
+
+#. ………………
+msgctxt "0025"
+msgid "Kidding, kidding! Ehehe..."
+msgstr ""
+
+#. オレもちょっとやってみっかな…
+msgctxt "0026"
+msgid "I'd love to hear you sing sometime..."
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0027"
+msgid "What!? M-Me...?"
+msgstr ""
+
+#. 確かにあの辺の木陰で昼寝とか
+#. 悪くはなさそうだけどよ…
+msgctxt "0028"
+msgid ""
+"U-Um, it's kind of embarrassing, but...if you really\n"
+"want to..."
+msgstr ""
+
+#. わざわざそのために連んで公園くんだりまで
+#. 来た訳じゃねーよな…？
+msgctxt "0029"
+msgid "...maybe just for a second, okay?"
+msgstr ""
+
+#. <CLT 04>何を言うか？
+#. <CLT>
+msgctxt "0030"
+msgid ""
+"<CLT 4>I was lucky enough to hear Sayaka do a quick a\n"
+"cappella performance.\n"
+"<CLT>"
+msgstr ""
+
+#. 屋台でもあればな…
+msgctxt "0031"
+msgid "This is a really nice place to perform."
+msgstr ""
+
+#. ははっ、確かにこんなデカい公園なら
+#. １つや２つあってもおかしくねーよな。
+msgctxt "0032"
+msgid ""
+"Yeah, it really is. I can hardly believe there's\n"
+"something like this in a high school..."
+msgstr ""
+
+#. あー、なんか急にソースの匂いが
+#. 恋しくなってきちまったじゃねーか。
+msgctxt "0033"
+msgid ""
+"But I guess Hope's Peak isn't a normal high school,\n"
+"huh? It's a place for all the ultimates to gather..."
+msgstr ""
+
+#. 花村でも抱き込んでなんかやってみるのも
+#. アリかもしんねーな…
+msgctxt "0034"
+msgid ""
+"But still, doesn't it seem like kind of a waste,\n"
+"making something like this just for students to use?"
+msgstr ""
+
+#. ここならショバ代もかからねーし…
+msgctxt "0035"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. …って、そもそもオレらしかいねーんだから
+#. ろくに金もとれねーけどな。
+msgctxt "0036"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. ゴミ拾いでもするか
+msgctxt "0037"
+msgid "You mean...a chorus performance?"
+msgstr ""
+
+#. はぁ！？
+#. 急に何言い出してんだ、テメーは！？
+msgctxt "0038"
+msgid ""
+"Getting together with all our friends...and...\n"
+"Oh, it's so much fun...!"
+msgstr ""
+
+#. そりゃオレだって、自分とこの屋台が出した
+#. ゴミならちゃんと片付けるけどよ…
+msgctxt "0039"
+msgid "I need to get out of here and get back to my friends!"
+msgstr ""
+
+#. 公園で自分のでもねーゴミ拾いって…
+#. どんだけ優等生なんだよ…
+msgctxt "0040"
+msgid ""
+"<CLT 4>Dammit... I think I just made her more depressed.\n"
+"<CLT>"
+msgstr ""
+
+#. …オレは手伝わねーからな。
+msgctxt "0041"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. あの像にでも登るか…
+msgctxt "0042"
+msgid "Yeah, definitely."
+msgstr ""
+
+#. アレにかぁ？
+msgctxt "0043"
+msgid ""
+"I don't know too much about pianos, but it must be\n"
+"pretty valuable."
+msgstr ""
+
+#. やめとけよ…
+#. つるつるしてて危ねーぞ？
+msgctxt "0044"
+msgid ""
+"Not only is it a genuine antique, but it still sounds\n"
+"lovely, too."
+msgstr ""
+
+#. どうせ登るんならあっちの木にしとけ。
+#. それなら付き合ってやるからよ。
+msgctxt "0045"
+msgid ""
+"I'd love to have a piano like this accompany me during\n"
+"a performance."
+msgstr ""
+
+#. <CLT 04>木登りはいいのか…<CLT>
+msgctxt "0046"
+msgid "Too bad I can't play it and sing at the same time..."
+msgstr ""
+
+#. <CLT 04>何を言うか？
+#. <CLT>
+msgctxt "0047"
+msgid "Can you play the piano?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid "Sorry... Singing is pretty much my specialty."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "I guess that's to be expected, huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like she had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 今日はありがとな。
+#. すげー楽しかったぜ。
+msgctxt "0002"
+msgid ""
+"...I had no reason to believe I'd have this much fun\n"
+"with you."
+msgstr ""
+
+#. デートって金もらってやる事だって聞いてたけど
+#. なんか…全然違うんだな。
+msgctxt "0003"
+msgid ""
+"In fact, I think I was able to clear up something that\n"
+"had been hanging over my heart for a while now."
+msgstr ""
+
+#. お前となら…また行ってやってもいいぜ。
+#. だから、また絶対誘えよな。
+msgctxt "0004"
+msgid "...Not that I can say for sure."
+msgstr ""
+
+#. ホントはまだ帰りたくねえけど…
+#. やっぱ空腹には勝てねえんだよな…
+msgctxt "0005"
+msgid "Thank you, Makoto."
+msgstr ""
+
+#. とりあえずゆっくり歩くか。
+#. んじゃ、行こうぜ。
+msgctxt "0006"
+msgid "Well then, should we head back?"
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 今日はけっこう面白かったぜ。
+#. なかなかやるもんだな！
+msgctxt "0008"
+msgid ""
+"Even just normal conversation can be a nice\n"
+"distraction sometimes."
+msgstr ""
+
+#. こんなんだったらまた
+#. 付き合ってやってもいいぜ。
+msgctxt "0009"
+msgid ""
+"But...it probably has something to do with the fact\n"
+"that it was you with me."
+msgstr ""
+
+#. だからまた声、かけろよな！
+msgctxt "0010"
+msgid ""
+"If you want to...I wouldn't mind if you invited me out\n"
+"again."
+msgstr ""
+
+#. んじゃ、そろそろホテルに戻るか。
+#. へへっ、行こうぜ。
+msgctxt "0011"
+msgid "So, shall we head back?"
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0012"
+msgid ""
+"<CLT 4>I get the feeling she didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. デートってもうちょっと
+#. 楽しいモンかと思ってたけど…
+msgctxt "0013"
+msgid ""
+"All this running around wore me out. I'm going to go\n"
+"back to my room and lay down."
+msgstr ""
+
+#. 腹は減るし、戦えねえし、
+#. 全然面白くねえもんだな…
+msgctxt "0014"
+msgid "Goodbye."
+msgstr ""
+
+#. あークソ、イライラするぜ！
+#. その辺で食いモンでも漁るとすっか！
+msgctxt "0015"
+msgid ""
+"<CLT 4>Crap... I don't think things went very well at all...\n"
+"<CLT>"
+msgstr ""
+
+#. じゃーな！
+msgctxt "0016"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0017"
+msgid ""
+"Sorry, but I don't have as much free time as you.\n"
+"Think well before inviting me out again."
+msgstr ""
+
+#. あー…腹減った…
+msgctxt "0018"
+msgid "...Goodbye."
+msgstr ""

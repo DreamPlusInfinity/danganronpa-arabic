@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Sorry, but <CLT 9>I didn't kill anyone<CLT>!"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"You say that, but do you\n"
+"really expect any of us to believe it?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Perhaps if you had an alibi,\n"
+"that would change things..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Ohh, an alibi, huh? Now we're talkin'!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"When you compare your past\n"
+"murders to this incident..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"...<CLT 9>the modus operandi matches<CLT> \n"
+"completely."
+msgstr ""
+
+msgctxt "0007"
+msgid "What more proof do we need?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Kyeeeehahahahaha!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Give it up. You killed her."
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>Wrong, wrong, wrong!<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>You're gonna have to do better than that...<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>That's right!<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>So what about the alibi?<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>The alibi...<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>When the murder took place...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>I wasn't there!<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>That's what I'm trying to tell you...!<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>No one's listening...<CLT>"
+msgstr ""

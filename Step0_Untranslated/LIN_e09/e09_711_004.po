@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0004"
+msgid ""
+"If all I have is bread, it feels as if I've eaten\n"
+"nothing at all."
+msgstr ""
+
+#. わーい！
+#. 行こう行こう！
+msgctxt "0005"
+msgid ""
+"I usually go for fish with miso soup, natto, and a raw\n"
+"egg. And then there's the main dish..."
+msgstr ""
+
+#. 中の人が本物の人間だったら
+#. 余計に面白いんだけどなー。
+msgctxt "0006"
+msgid ""
+"When you call something traditional, that makes it so.\n"
+"But that's all it has going for it."
+msgstr ""
+
+#. 驚かそうと思って出てきたヤツを
+#. 逆に驚かすのが楽しいんだよね！
+msgctxt "0007"
+msgid ""
+"Oh, and don't forget the rice. Lots of energy, and\n"
+"even protein..."
+msgstr ""
+
+#. ククク…何をしかけてやろうかな…
+msgctxt "0008"
+msgid "Do you drink much coffee?"
+msgstr ""
+
+#. <CLT 04>ものすごく生き生きしてるな…<CLT>
+msgctxt "0009"
+msgid "Ah, a fellow coffee lover, eh?"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0010"
+msgid ""
+"Since we're here, why don't I make you a nice cup of\n"
+"protein coffee?"
+msgstr ""
+
+#. あんなのが好きなんて
+#. おにぃもまだまだ子供だね！
+msgctxt "0011"
+msgid "So are you and Hina, like...?"
+msgstr ""
+
+#. まぁでも、そう言うと思って
+#. ちゃんと対策してきてあげたから。
+msgctxt "0012"
+msgid ""
+"I'm not sure what you're thinking, but Hina is the\n"
+"first real friend I've ever had."
+msgstr ""
+
+#. いつもより高い下駄履いてきたからね。
+#. これで色々バッチリだよ。
+msgctxt "0013"
+msgid ""
+"I'm sure this is a silly question, but...you're not\n"
+"having any Hifumi-like delusions, are you?"
+msgstr ""
+
+#. <CLT 04>確かにありそうだな…身長制限。<CLT>
+msgctxt "0014"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0015"
+msgid "I could go for something sweet..."
+msgstr ""
+
+#. ええーそんなのつまんないー！
+msgctxt "0016"
+msgid ""
+"If Hina were here, I'm sure she'd say something about\n"
+"donuts..."
+msgstr ""
+
+#. 不細工な動物とかに乗ってぐるぐる回るだけとか
+#. 存在意義を疑うよ！
+msgctxt "0017"
+msgid "So you like sweets too, huh?"
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0018"
+msgid "Very well. I will indulge with you."
+msgstr ""
+
+#. うん！
+#. ここ来るの、すっごい楽しみにしてたんだ！
+msgctxt "0019"
+msgid "You kinda remind me of Byakuya, in a way."
+msgstr ""
+
+#. しかもこれって、デートなわけだから…
+msgctxt "0020"
+msgid ""
+"We have no personal relationship. I'd never met him\n"
+"before coming here."
+msgstr ""
+
+#. わたしの要望をおにぃが全部
+#. きいてくれるシチュエーションだよね！
+msgctxt "0021"
+msgid "You certainly have a vivid imagination, don't you?"
+msgstr ""
+
+#. わーい、何からやろうかな！
+msgctxt "0022"
+msgid "I'd like to train with you."
+msgstr ""
+
+#. <CLT 04>なんとなく釈然としないが…<CLT>
+msgctxt "0023"
+msgid ""
+"Oh? Well you're welcome to join me, of course. I'll\n"
+"train you alongside Hina."
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0024"
+msgid ""
+"If there's something you'd like to focus on, just let\n"
+"me know."
+msgstr ""
+
+#. えー！
+#. ちょっとしっかりしてよ！
+msgctxt "0025"
+msgid ""
+"I'll design a special regimen for you.\n"
+"...Ah, why do you look so nervous?"
+msgstr ""
+
+#. 地図くらい、おにぃがちゃんと読んでよー。
+#. わたしに読めるわけないんだから。
+msgctxt "0026"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. まぁもし迷っても
+#. おんぶしてもらうからいいけどさ。
+msgctxt "0027"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0028"
+msgid "Anything is fine. But put some thought into it..."
+msgstr ""
+
+#. うわ…最悪だね、その発言。
+msgctxt "0029"
+msgid "I have no topics to offer, personally..."
+msgstr ""
+
+#. 女の子をデートに、しかも遊園地に誘っておいて
+#. それ言っちゃうとか、万死に値するよ。
+msgctxt "0030"
+msgid ""
+"But I don't mind listening if you have something you\n"
+"want to say."
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0031"
+msgid "Is protein really all that great?"
+msgstr ""
+
+#. あ、いいかもね！
+#. すっごい見晴らし良さそう！
+msgctxt "0032"
+msgid "What are you talking about?"
+msgstr ""
+
+#. 高いところから見下ろすのって
+#. すっごい気分いいしね。
+msgctxt "0033"
+msgid ""
+"Protein is supreme. Everything can be solved by adding\n"
+"a little more protein."
+msgstr ""
+
+#. もちろん、おにぃがあそこまで
+#. おんぶしていってくれるんでしょ？
+msgctxt "0034"
+msgid "You should try adding more to your diet."
+msgstr ""
+
+#. わーい！
+#. 行こう行こうー！
+msgctxt "0035"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0036"
+msgid "Do I look like I don't?"
+msgstr ""
+
+#. …それってもしかして、
+#. 迷子になるとか思ってる？
+msgctxt "0037"
+msgid ""
+"Part of my training is learning to be self-sufficient.\n"
+"I may look like this, but I *am* a good cook."
+msgstr ""
+
+#. だとしたらムカツク！
+#. 子供扱いしすぎだから！
+msgctxt "0038"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

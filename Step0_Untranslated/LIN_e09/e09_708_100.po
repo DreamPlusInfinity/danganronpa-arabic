@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>終里の奴…
+#. 急に黙り込んで、どうしたんだ…？<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Huh? Kyoko seems to be lost in thought, but...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（マジかよ…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(Why...?)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>終里の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Kyoko's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. いや、他にも色々あるだろ！
+#. 食料より大事な物って…
+msgctxt "0007"
+msgid ""
+"Maybe you can't do anything, but that's no reason to\n"
+"feel so impatient, is it?"
+msgstr ""
+
+#. あぁ？
+#. 何言ってんだ、オメー。
+msgctxt "0008"
+msgid ""
+"Is it so wrong to just wait patiently for the right\n"
+"opportunity?"
+msgstr ""
+
+#. 食わなきゃ死ぬんだぞ？
+#. 大事に決まってんだろーが！
+msgctxt "0009"
+msgid ""
+"Are you saying that for now, I need to just wait and\n"
+"bide my time?"
+msgstr ""
+
+#. 確かに、究極的に言えば
+#. 一番大事なのは食料なのかもな…
+msgctxt "0010"
+msgid "Listen to you trying to encourage me."
+msgstr ""
+
+#. あたり前じゃねぇか！
+#. だって食わなきゃ死ぬんだぜ！？
+msgctxt "0011"
+msgid "Such arrogance..."
+msgstr ""
+
+#. それに飯さえ食えば
+#. 失った体力も回復するしな！
+msgctxt "0012"
+msgid "What!? Did I make you mad!?"
+msgstr ""
+
+#. ところで…何の話だったっけ？
+msgctxt "0013"
+msgid "Hmhm. No, not mad exactly..."
+msgstr ""
+
+#. ま、こまけー事はどうでもいいか！
+msgctxt "0014"
+msgid ""
+"What you were trying to say...has been properly\n"
+"conveyed."
+msgstr ""
+
+#. それは…気のせいだと思うぞ。
+#. 俺なんかと戦ってもしょうがないだろ。
+msgctxt "0015"
+msgid ""
+"None of us know what's going on. How can any of us do\n"
+"anything?"
+msgstr ""
+
+#. お、おう、そうか。
+#. そうだよな！
+msgctxt "0016"
+msgid "You're absolutely right."
+msgstr ""
+
+#. 宇宙一の戦闘民族だってならまだしも、
+#. ただの日向だもんなあ！
+msgctxt "0017"
+msgid ""
+"If we act without thinking, we may make things even\n"
+"worse than they are already."
+msgstr ""
+
+#. でも、じゃあ結局この気持ちってのは
+#. なんなんだ…？
+msgctxt "0018"
+msgid ""
+"But I...I don't want to use that as an excuse to just\n"
+"stop and do nothing."
+msgstr ""
+
+#. ………………
+msgctxt "0019"
+msgid ""
+"I'm sure you don't need anyone. You're always so\n"
+"composed, you always have everything together."
+msgstr ""
+
+#. ま、こまけー事はどうでもいいか！
+msgctxt "0020"
+msgid "So that's how you see me..."
+msgstr ""
+
+#. 実は…そうなんじゃないのか？
+#. この俺と戦ってみたい…とか？
+msgctxt "0021"
+msgid ""
+"You're right. Even if I'm alone, I'll figure\n"
+"everything out. I don't need anyone."
+msgstr ""
+
+#. 日向…
+#. オメー、死にてえのか？
+msgctxt "0022"
+msgid ""
+"Hey, um...Kyoko? I have to think even I could be\n"
+"useful for something."
+msgstr ""
+
+#. 今のは聞かなかった事にしてくれ。
+msgctxt "0023"
+msgid "Oh? Nominating yourself, are you?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid ""
+"You seem pretty confident. I wonder if the day will\n"
+"come when you convince me to think the same way."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "S-Sorry... Did I overstep?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "No, I wouldn't say so."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"Hmhm. I'll be waiting for that day. I'm looking\n"
+"forward to it, in fact."
+msgstr ""

@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0004"
+msgid ""
+"There are limitless types of music. Are you saying\n"
+"you're a big fan of all of them?"
+msgstr ""
+
+#. こんなベンチもないようなところにか？
+msgctxt "0005"
+msgid ""
+"That may be the most shallow statement I've ever\n"
+"heard."
+msgstr ""
+
+#. まさかこの俺に向かって、
+#. 地べたに座れと言う奴がいるとはな…
+msgctxt "0006"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. そうか…この十神白夜が…
+#. 地面に直接腰を下ろす、か…
+msgctxt "0007"
+msgid ""
+"All the standard ones, yes. It's part of a typical\n"
+"education for one who would call himself a Togami."
+msgstr ""
+
+#. <CLT 04>喜んでるのか怒ってるのか…微妙にわかりにくいな…<CLT>
+msgctxt "0008"
+msgid ""
+"Showing any weakness opens the door to defeat.\n"
+"My knowledge is my armor."
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0009"
+msgid ""
+"Not that someone like you could even imagine what I'm\n"
+"talking about."
+msgstr ""
+
+#. …まぁ、公園でする事といったら
+#. それくらいしかないからな。
+msgctxt "0010"
+msgid ""
+"<CLT 4>He's right, I can't. How is not being able to play an\n"
+"instrument gonna lead to \"defeat\"?\n"
+"<CLT>"
+msgstr ""
+
+#. とはいえ、黙って歩いていても仕方あるまい。
+#. 何か建設的な話題はないのか？
+msgctxt "0011"
+msgid "I'd love to go to a concert or something."
+msgstr ""
+
+#. たとえば…そうだな、どうやってこの島の
+#. 肉の流通量を増やすか、とか…
+msgctxt "0012"
+msgid "Hm? Are you interested in music?"
+msgstr ""
+
+#. あるいは、どうにかしてあの牧場の牛の肉質を
+#. 飛躍的に向上させるか、とか…
+msgctxt "0013"
+msgid ""
+"If you wish, I could take you to the National Concert\n"
+"Hall."
+msgstr ""
+
+#. <CLT 04>実現する前に島を出る日が来ると思うぞ…<CLT>
+msgctxt "0014"
+msgid ""
+"It has the world's greatest facilities, and of course\n"
+"the world's best musicians to go along with it."
+msgstr ""
+
+#. いい景色だな
+msgctxt "0015"
+msgid ""
+"Try as you might, someone like you could never fully\n"
+"experience such a performance."
+msgstr ""
+
+#. …おい。
+msgctxt "0016"
+msgid "But you know, perhaps if I felt like it, I could..."
+msgstr ""
+
+#. まさかそんなくだらん世間話をするために
+#. 来たわけじゃないだろうな？
+msgctxt "0017"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. そういうどうでもいい話は、
+#. 他のどうでもいい奴らとしろ。
+msgctxt "0018"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. あの像、気になるな…
+msgctxt "0019"
+msgid ""
+"You would indulge yourself by simply imitating that\n"
+"which you long for? How terribly foolish."
+msgstr ""
+
+#. ほう、お前も気付いたか。
+#. 俺もあの像には何か秘密があると睨んでいる。
+msgctxt "0020"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. とはいえ、それがなんなのかを考察するには
+#. あまりにも情報が少なすぎるがな。
+msgctxt "0021"
+msgid "Whatever..."
+msgstr ""
+
+#. 謎があろうがあるまいが、解けようが解けまいが
+#. …本当はどうでもいい事なのかもしれん。
+msgctxt "0022"
+msgid ""
+"Even the most famous pop song is forgotten within a\n"
+"year. Mindless drivel."
+msgstr ""
+
+#. それでも、俺が十神白夜である限り
+#. 目の前の不安要素を放置するわけにはいかない…
+msgctxt "0023"
+msgid "Maybe we should go somewhere else..."
+msgstr ""
+
+#. 俺の考えはまぁ…そんなところだ。
+msgctxt "0024"
+msgid "Finally, you've said something halfway intelligent."
+msgstr ""
+
+#. お前も何か気付いた事があれば
+#. 遠慮無く俺に話せよ。
+msgctxt "0025"
+msgid ""
+"It was foolish of you to bring me here in the first\n"
+"place."
+msgstr ""
+
+#. 読書でもするか
+msgctxt "0026"
+msgid ""
+"Not that it's the first foolish thing you've done\n"
+"since I met you. Or the most severe."
+msgstr ""
+
+#. お前は呑気だな…
+msgctxt "0027"
+msgid "Standing around here is a waste of time. Let's go."
+msgstr ""
+
+#. だが、考えてみればそれも悪くないかもしれん。
+#. ここの図書館はなかなかのものだ。
+msgctxt "0028"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 今のこの状況に色々と不満はあるが
+#. もし本当にこれがただの修学旅行なら…
+msgctxt "0029"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. 好きに過ごさなければ馬鹿を見るだけだしな。
+msgctxt "0030"
+msgid "Go ahead, be my guest."
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0031"
+msgid "This piano looks expensive..."
+msgstr ""
+
+#. 分からなくはない。
+#. 分からなくはないが…ここで並んで昼寝か？
+msgctxt "0032"
+msgid "It does have a classic, regal feel to it."
+msgstr ""
+
+#. さすがに俺はそこまでヒマじゃない。
+#. お前は好きにしろ。
+msgctxt "0033"
+msgid ""
+"But it's intended for whatever ultimate musician may\n"
+"want to use it, right? So it's only natural."
+msgstr ""
+
+#. あの像にでも登るか…
+msgctxt "0034"
+msgid "Not that I couldn't play it if I wanted to, but..."
+msgstr ""
+
+#. …好きにしろ。
+#. 俺がここで見ていてやる。
+msgctxt "0035"
+msgid ""
+"...I didn't bring any sheet music with me. Too bad.\n"
+"For you, I mean."
+msgstr ""
+
+#. なんなら罪木も呼んでおいてやるぞ？
+msgctxt "0036"
+msgid "You think this room might be haunted?"
+msgstr ""
+
+#. <CLT 04>落ちる事前提かよ…<CLT>
+msgctxt "0037"
+msgid ""
+"I'm glad you said that. It further solidifies in my\n"
+"mind just what an ignorant fool you are."
+msgstr ""
+
+#. 何もないとこだな
+msgctxt "0038"
+msgid ""
+"Fate dictates that members of the herd such as you\n"
+"find themselves consumed by predators like me."
+msgstr ""
+
+#. ああ、まったくだ。
+msgctxt "0039"
+msgid ""
+"How sad when they imagine themselves in any kind of\n"
+"meaningful role."
+msgstr ""
+
+#. 強いて言うなら、あの像には何かが
+#. 隠されているような気がするが…
+msgctxt "0040"
+msgid ""
+"But you see it now, don't you? The cruel but\n"
+"inevitable fate of mindless livestock?"
+msgstr ""
+
+#. それが本当に今の俺たちにとって
+#. 役に立つとは限らないからな。
+msgctxt "0041"
+msgid "You have my pity, of course."
+msgstr ""
+
+#. さあ、もういいだろう。
+#. ここには俺たちのすべきことはない。
+msgctxt "0042"
+msgid ""
+"You play out your hopeless life, yet you never truly\n"
+"live. Now *that* is a truly frightful ghost story."
+msgstr ""
+
+#. そろそろ食料のある場所に移動するぞ。
+msgctxt "0043"
+msgid ""
+"<CLT 4>Jeez, he just says whatever he feels like, huh...?\n"
+"<CLT>"
+msgstr ""
+
+#. よし、ゴミ拾いだ
+msgctxt "0044"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

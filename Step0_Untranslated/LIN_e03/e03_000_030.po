@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>液晶パネルがある…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Lockers...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>これにパスワードを入力すれば開くんだろうか？<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Well, I would expect to see that at any normal pool.\n"
+"<CLT>"
+msgstr ""
+
+#. いや、今は事件の調査が先だな…
+msgctxt "0003"
+msgid "Yes"
+msgstr ""
+
+#. <CLT 04>これって…本当に銃なのか？<CLT>
+msgctxt "0004"
+msgid "No"
+msgstr ""
+
+#. <CLT 04>そうだと決まったわけじゃないが、
+#. うかつに手を出すのは危険だよな…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 23>Leave the pool?\n"
+"<CLT>"
+msgstr ""

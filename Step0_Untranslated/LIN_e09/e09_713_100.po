@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. どうしたんだ？
+#. 急に黙り込んで…
+msgctxt "0002"
+msgid ""
+"<CLT 4>What happened? Why'd Junko get so quiet\n"
+"all of a sudden?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（…ふぅ）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(*Sigh*)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>罪木の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Junko's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. いや、俺は何もしないって。
+msgctxt "0007"
+msgid "Really?"
+msgstr ""
+
+#. そう、日向さんは何もしない…
+#. それって私がどうでもいいって事ですよね？
+msgctxt "0008"
+msgid "...Huh? Really what?"
+msgstr ""
+
+#. だから、なんでそうなるんだよ！
+#. 俺はただ…
+msgctxt "0009"
+msgid ""
+"You can't just go around saying junk without\n"
+"warning..."
+msgstr ""
+
+#. でもでも、私なんかとお話しして
+#. 日向さん本当に楽しいんですかぁ？
+msgctxt "0010"
+msgid "This definitely *isn't* going according to plan."
+msgstr ""
+
+#. なんだか…不安なんですぅ…
+msgctxt "0011"
+msgid "What!? Wh-What plan...!?"
+msgstr ""
+
+#. <CLT 04>どういえばちゃんと伝わるんだ…<CLT>
+msgctxt "0012"
+msgid "O-Oh! Yeah, I know what you mean..."
+msgstr ""
+
+#. それはその、内容によるっていうか…
+msgctxt "0013"
+msgid ""
+"I mean, are we *ever* gonna have that totally lame\n"
+"entrance ceremony? We should be way past that!"
+msgstr ""
+
+#. 日向さん…？
+msgctxt "0014"
+msgid ""
+"Anything would be better than what's going on right\n"
+"now..."
+msgstr ""
+
+#. あ、えっと…そうだ！
+#. 今日は"ボーリングごっこ"しませんか？
+msgctxt "0015"
+msgid ""
+"By the time you notice the happiness that's been\n"
+"there all along..."
+msgstr ""
+
+#. 私がピンになって倒れますから、
+#. 日向さんはボールを投げつけてください！
+msgctxt "0016"
+msgid ""
+"Just kidding! Did that sound like, totally\n"
+"philosophical?"
+msgstr ""
+
+#. いや、そういうのはちょっと…
+msgctxt "0017"
+msgid "I don't think it's because of me."
+msgstr ""
+
+#. そうですかぁ？
+#. ええと、じゃあ他には…
+msgctxt "0018"
+msgid "But...what other reason could there be?"
+msgstr ""
+
+#. <CLT 04>もっと普通のことでいいんだけどな…<CLT>
+msgctxt "0019"
+msgid ""
+"And why did you want to spend so much time with me,\n"
+"anyway?"
+msgstr ""
+
+#. そんな事、あるわけないだろ。
+msgctxt "0020"
+msgid ""
+"Why not just face the truth? You and I live in\n"
+"completely different worlds."
+msgstr ""
+
+#. え…？
+msgctxt "0021"
+msgid "...Huh? Why'd you get so serious all of a sudden?"
+msgstr ""
+
+#. 俺はただ、罪木と色々
+#. 話したいと思ってるだけだ。
+msgctxt "0022"
+msgid "Ah—!"
+msgstr ""
+
+#. そもそも、どうでもいいと思ってたら
+#. 初めからから声なんてかけないよ。
+msgctxt "0023"
+msgid ""
+"I-I just...ya know, feel like bein' serious sometimes!\n"
+"What's the big deal?"
+msgstr ""
+
+#. 日向さん…
+#. あの、ありがとう…ございます。
+msgctxt "0024"
+msgid "A-Anyway, just hurry up and tell me!"
+msgstr ""
+
+#. 私、そういうのあまり慣れてないんですけど…
+#. でも、頑張りますぅ！
+msgctxt "0025"
+msgid ""
+"W-Well...I guess it's just...I'm an ordinary teenager,\n"
+"ya know?"
+msgstr ""
+
+#. えっと、それじゃ今日は
+#. 何をお話ししましょうか？
+msgctxt "0026"
+msgid ""
+"Right? Whenever I'm with you, I feel like...I don't\n"
+"have to be \"on.\""
+msgstr ""
+
+#. そう…実はそうなんだ。
+msgctxt "0027"
+msgid "But...but still..."
+msgstr ""
+
+#. え…？
+msgctxt "0028"
+msgid ""
+"When we talk like that...you don't think I'm annoying,\n"
+"do you?"
+msgstr ""
+
+#. あ、いやその…なんでもない。
+msgctxt "0029"
+msgid ""
+"It's all just...strange. I don't know what's happening\n"
+"to me. I can't stop thinking about it..."
+msgstr ""
+
+#. ………………
+msgctxt "0030"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"<CLT 4>Junko's acting really strange again...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "*Sigh* Well, whatever!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"I have fun hanging out with you. That's all that\n"
+"matters for now!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "R-Right..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "Yeah, I've kinda just been doin' whatever I feel like."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "...Why would you say that?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid ""
+"Whenever guys start talking to me, they just come and\n"
+"go and do whatever they feel like."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"If that's what you wanna do, don't bother asking me to\n"
+"hang out anymore, okay?"
+msgstr ""

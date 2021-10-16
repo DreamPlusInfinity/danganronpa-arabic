@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 06>突然の小泉様の反論に驚かれましたか？<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 23>*Ding dong, bing bong*\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>ここだけの話…私もなんです！<CLT>
+msgctxt "0002"
+msgid ""
+"Erm, so ah...I'm getting tired of waiting. What say we\n"
+"just get started, hm?"
+msgstr ""
+
+#. <CLT 06>…ウソです。申し訳ございません。<CLT>
+msgctxt "0003"
+msgid "It's time for the long-awaited..."
+msgstr ""
+
+#. <CLT 06>さて、このような反論が入った場合…
+#. <CLT><CLT 03>反論ショーダウン<CLT><CLT 06>と呼ばれる１対１の議論に入ります。<CLT>
+msgctxt "0004"
+msgid "Class trial!"
+msgstr ""
+
+#. <CLT 06>このモードの目的は…お相手様の主張を<CLT><CLT 03>切り返し<CLT><CLT 06>、
+#. ウィークポイントを引き出して論破する事…<CLT>
+msgctxt "0005"
+msgid ""
+"Now then, allow me to appoint a proper location for\n"
+"the proceedings."
+msgstr ""
+
+#. <CLT 06><CLT><CLT 03>%CTRL_SLASH%<CLT><CLT 06>で、お相手様の発言セリフを、<CLT>
+#. <CLT 03>"切り返して"<CLT><CLT 06>くださいませ。<CLT>
+msgctxt "0006"
+msgid ""
+"Please go through the red door on the 1st floor of the\n"
+"school!"
+msgstr ""
+
+#. <CLT 06>お相手の発言の形や動きによって、
+#. 縦と横と斜めの切り方を使い分けるのがミソなのです。<CLT>
+msgctxt "0007"
+msgid "Puhuhu. See you soon!"
+msgstr ""

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Is it really possible?"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"Could Chihiro really have gotten\n"
+"into the boys locker room somehow?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Ah! I've got it!"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"She must have\n"
+"<CLT 9>hacked her e-Handbook<CLT>!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"She was the Ultimate Programmer,\n"
+"after all."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"I'm sure that would've\n"
+"been no problem for her!"
+msgstr ""
+
+msgctxt "0007"
+msgid "No, I don't think that's it..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"She used the thing\n"
+"that was in the main hall!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Huh? What thing?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"I'm talkin' about <CLT 9>Leon's handbook<CLT>,\n"
+"of course!"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"If she had that, she could get into\n"
+"the boys locker room no problem!"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>That's gotta be it...<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>I never thought of that!<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>No matter what...<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>What thing?<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Huh? Kyeehahaha!<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>I wonder what it is...<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>What!?<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT 26>Huh? But that's...<CLT>"
+msgstr ""

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 何もする事がないっていう事の辛さがわかるね…
+msgctxt "0001"
+msgid "I've been really worried about something..."
+msgstr ""
+
+#. けど、これもボクらが乗り越えるべき絶望に過ぎない！
+#. 最終的にはみんなの希望が輝くんだ！
+msgctxt "0002"
+msgid "Are we going to have midterms or finals or anything!?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Actually, are we going to have any classes at all!?"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid ""
+"A student can only truly shine when he has the\n"
+"opportunity to buckle down, study hard, and succeed!"
+msgstr ""
+
+#. <CLT 04>…どうする？
+#. こんな狛枝みたいなヤツと一緒に過ごすか？<CLT>
+msgctxt "0005"
+msgid "Spend some time with Taka"
+msgstr ""
+
+#. うん、ボクは構わないよ…
+#. 時間はたっぷりとあるしね。
+msgctxt "0006"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>狛枝と話をしながら過ごした…<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Taka for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>狛枝と…少し仲良くなってしまったみたいだ…<CLT>
+msgctxt "0008"
+msgid ""
+"Well, I suppose we should take a break once in a\n"
+"while. Let's partake of some of my delicious tea!"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"<CLT 4>We went to the dining hall, and Taka made us some of\n"
+"his delicious tea...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid ""
+"<CLT 4>Taka and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Taka a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. それにしても…これだけの規模の建物が
+#. あの島のどこにあったんだろうね…？
+msgctxt "0001"
+msgid "You know what I'd really like to do?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0002"
+msgid ""
+"I'd like to found and subsequently lead an official\n"
+"morals committee here in the school!"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0003"
+msgid ""
+"My mission is to secure everyone's moral fortitude and\n"
+"create an environment conducive to study!"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 狛枝と一緒に過ごすか？<CLT>
+msgctxt "0004"
+msgid ""
+"After announcing my candidacy, next comes the\n"
+"election! I hope I can count on your vote!"
+msgstr ""
+
+#. あはっ、光栄だな！
+#. 嬉しくて漏らしちゃいそうだよ！
+msgctxt "0005"
+msgid "Spend some time with Taka"
+msgstr ""
+
+#. じゃあ、この建物に関する
+#. お互いの意見を交換してみない？
+msgctxt "0006"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>狛枝と意見を交換しながら過ごした。<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Taka for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>狛枝と…少し仲良くなってしまったみたいだ…<CLT>
+msgctxt "0008"
+msgid ""
+"Well, I suppose we should take a break once in a\n"
+"while. Let's partake of some of my delicious tea!"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"<CLT 4>We went to the dining hall, and Taka made us some of\n"
+"his delicious tea...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid ""
+"<CLT 4>Taka and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Taka a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

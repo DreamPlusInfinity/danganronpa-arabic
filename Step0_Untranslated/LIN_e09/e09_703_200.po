@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like he had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 日向創…
+#. よもやこの俺様をここまで楽しませるとはな。
+msgctxt "0002"
+msgid "Heh! I dunno about you, but that was fun as hell!"
+msgstr ""
+
+#. 心なしか我が四天王の機嫌もいい。
+#. 貴様、なかなかの術者のようだな。
+msgctxt "0003"
+msgid ""
+"Seriously, I never thought I could have that much fun\n"
+"in here."
+msgstr ""
+
+#. このままもう少し貴様と話をするのも悪くない…
+#. 特別に我が空間へと招待してやろう。
+msgctxt "0004"
+msgid "Thanks for cheerin' me up, man."
+msgstr ""
+
+#. 無論、貴様に拒否権はないがな！
+#. ふはは、さあ行くぞ！
+msgctxt "0005"
+msgid ""
+"I really appreciate it, man! Okay, we should prolly\n"
+"head back, huh?"
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. なかなかに有意義な一日だったぞ。
+msgctxt "0007"
+msgid ""
+"It's fun screwin' around like this once in a while,\n"
+"right?"
+msgstr ""
+
+#. たまには人間の娯楽も悪くない。
+#. 貴様の誘いならばまた受けてやってもいいぞ。
+msgctxt "0008"
+msgid ""
+"I mean, as long as you're there to screw around with\n"
+"me...!"
+msgstr ""
+
+#. さて、そろそろ戻って
+#. 我が四天王に新鮮な餌をやらねばな。
+msgctxt "0009"
+msgid ""
+"Next time you're in the mood, lemme know. I'm good to\n"
+"go anytime!"
+msgstr ""
+
+#. さ、行くぞ日向。
+msgctxt "0010"
+msgid "Okay, ready to head back?"
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>I get the feeling he didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. ふん…まったく時間の無駄だったな。
+msgctxt "0012"
+msgid ""
+"Listen, man. You don't have to hang out with me if you\n"
+"don't want to."
+msgstr ""
+
+#. この程度の事で、二度と俺様の手を煩わせるな。
+#. 次は無事に帰れるとは限らんぞ。
+msgctxt "0013"
+msgid ""
+"I mean, I know how much effort you put into helpin'\n"
+"people out."
+msgstr ""
+
+#. …ではな。
+msgctxt "0014"
+msgid "Anyway...I'm gonna get goin'."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>I don't think things could have gone any worse than\n"
+"that. Crap...\n"
+"<CLT>"
+msgstr ""
+
+#. …俺様は少々、貴様という人間を
+#. 見くびっていたようだ。
+msgctxt "0016"
+msgid "Well, that was a total waste of my fuckin' time."
+msgstr ""
+
+#. まさかここまで時間を無駄に
+#. 消費させられるとは…
+msgctxt "0017"
+msgid ""
+"Next time, figure out what the hell you wanna do\n"
+"BEFORE you drag me out."
+msgstr ""
+
+#. しばらくは貴様避けの結界を張る事にしよう。
+#. …ではな。
+msgctxt "0018"
+msgid "Got it?"
+msgstr ""

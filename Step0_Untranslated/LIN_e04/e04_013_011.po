@@ -1,0 +1,612 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "[fight]"
+msgstr ""
+
+msgctxt "0002"
+msgid "Let me guess...the fight was because of <CLT 3>Sakura<CLT>?"
+msgstr ""
+
+msgctxt "0003"
+msgid "At first, I tried to just ignore it."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"If you let jerk buttholes get to you all the time,\n"
+"you'll never have time left to live your life."
+msgstr ""
+
+msgctxt "0005"
+msgid "But she wouldn't let it go. So I just..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Without thinking about it, I felt like I wanted to\n"
+"punch her like a dozen times!"
+msgstr ""
+
+msgctxt "0007"
+msgid "A dozen punches isn't really \"without thinking\"..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"And when things got out of hand, Genocide Jack got let\n"
+"loose. Right?"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"It's my own fault. But I just...couldn't take it\n"
+"anymore."
+msgstr ""
+
+msgctxt "0010"
+msgid "Because... Because...!"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Because she was saying all these terrible things about\n"
+"my friend, ya know!?"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT 4>Before I knew it, Hina's eyes started welling up with\n"
+"tears.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT 4>And just as the tears were on the brink of spilling\n"
+"over...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT 4>...the door to the nurse's office burst open. I\n"
+"thought the door was gonna fly off its hinges.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>And there she stood before us...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "...Hina?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Sakura!"
+msgstr ""
+
+msgctxt "0018"
+msgid "You're hurt... What happened?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Oh! N-Nothing, it's not a big deal...!"
+msgstr ""
+
+msgctxt "0020"
+msgid "Makoto! Hiro! What's the meaning of this!?"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"I-It wasn't me! It was Genocide Jill! It's all that\n"
+"demented murderous fiend's fault!"
+msgstr ""
+
+msgctxt "0022"
+msgid "Grrrrnnnnhhhh!!!"
+msgstr ""
+
+msgctxt "0023"
+msgid "To hurt Hina... Damn you...!"
+msgstr ""
+
+msgctxt "0024"
+msgid "To leave me alone, but hurt her..."
+msgstr ""
+
+msgctxt "0025"
+msgid "What is this...?"
+msgstr ""
+
+msgctxt "0026"
+msgid "What isssss thiiiiiissss!?"
+msgstr ""
+
+msgctxt "0027"
+msgid "Hyaaaaaahh!"
+msgstr ""
+
+msgctxt "0028"
+msgid "I-I'm okay, really! It's just a scratch...!"
+msgstr ""
+
+msgctxt "0029"
+msgid "Grrrrnnnnhhhh!!!"
+msgstr ""
+
+msgctxt "0030"
+msgid "Unforgivable..."
+msgstr ""
+
+msgctxt "0031"
+msgid "I can't forgive them!"
+msgstr ""
+
+msgctxt "0032"
+msgid "HYAAAAAAAAAHHH!!!"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"Hiro...if you want to hate someone, hate me. If you\n"
+"want to hurt someone, hurt ME!"
+msgstr ""
+
+msgctxt "0034"
+msgid "I-I-I don't...*hate* you, exactly..."
+msgstr ""
+
+msgctxt "0035"
+msgid "WHHHHYYYYYYYY!!!"
+msgstr ""
+
+msgctxt "0036"
+msgid "S-S-S-S-S-S—!"
+msgstr ""
+
+msgctxt "0037"
+msgid "Somebody save meeeeeee!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"<CLT 4>Hiro nearly tripped over himself as he ran screaming\n"
+"out of the nurse's office.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"<CLT 4>But just a second later...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0040"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "0041"
+msgid "What's all this noise about?"
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"<CLT 4>Kyoko stood in the doorway of the nurse's office,\n"
+"taking Hiro's spot in the room.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0043"
+msgid "I gather that something happened?"
+msgstr ""
+
+msgctxt "0044"
+msgid "K-Kyoko! Please, you have to stop Sakura!"
+msgstr ""
+
+msgctxt "0045"
+msgid "You don't need to stop me..."
+msgstr ""
+
+msgctxt "0046"
+msgid "I'm okay."
+msgstr ""
+
+msgctxt "0047"
+msgid "I'm not going to do anything. I just..."
+msgstr ""
+
+msgctxt "0048"
+msgid "I'm <CLT 3>drawing a line<CLT>, right here and now."
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"<CLT 4>Drawing a line...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0050"
+msgid "...Goodbye."
+msgstr ""
+
+msgctxt "0051"
+msgid "W-Wait! Sakura!"
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"<CLT 4>Hina sprang into action, leaving the nurse's office to\n"
+"chase after Sakura.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"<CLT 4>The only ones left were...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0054"
+msgid "..."
+msgstr "..."
+
+msgctxt "0055"
+msgid "..."
+msgstr "..."
+
+msgctxt "0056"
+msgid "[complicated home life]"
+msgstr ""
+
+msgctxt "0057"
+msgid "Her...complicated home life?"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"Well, remember what she said? She lived with her dad,\n"
+"her mom, and her...other mom."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"<CLT 4>That's true. I wonder what led to her having two\n"
+"moms...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"Whatever it was, it must've been serious. So a little\n"
+"bit of...y'know, is to be expected."
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"I don't care! That doesn't matter! I can't forgive\n"
+"her!"
+msgstr ""
+
+msgctxt "0062"
+msgid "When a woman snaps, it's honestly terrifying..."
+msgstr ""
+
+msgctxt "0063"
+msgid "[that issue]"
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"Then...do you forgive me for not being able to talk\n"
+"about it...?"
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"You could have told me about Sakura and Monokuma\n"
+"fighting, but you stayed quiet."
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"You were only thinking of Sakura, and that's why you\n"
+"didn't tell me, right?"
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"You didn't want to confuse everyone until you could\n"
+"talk to her and be sure of what you saw."
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"That's what you were thinking, and that's why you\n"
+"didn't tell me. Right?"
+msgstr ""
+
+msgctxt "0069"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "0070"
+msgid "To think like that..."
+msgstr ""
+
+msgctxt "0071"
+msgid "I wouldn't have expected such arrogance from you."
+msgstr ""
+
+msgctxt "0072"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0073"
+msgid "Because ultimately, that means you don't trust me."
+msgstr ""
+
+msgctxt "0074"
+msgid "N-No, that's not it..."
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"But if that's how you feel, I can't really change your\n"
+"mind. I'm sorry..."
+msgstr ""
+
+msgctxt "0076"
+msgid "It's fine. I've already forgotten about it."
+msgstr ""
+
+msgctxt "0077"
+msgid "Besides..."
+msgstr ""
+
+msgctxt "0078"
+msgid "I may have...overreacted."
+msgstr ""
+
+msgctxt "0079"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0080"
+msgid ""
+"Anyway, it's over and done with. Like I said, let's\n"
+"just forget about it."
+msgstr ""
+
+msgctxt "0081"
+msgid "O-Okay. Thank you..."
+msgstr ""
+
+msgctxt "0082"
+msgid "[something else]"
+msgstr ""
+
+msgctxt "0083"
+msgid "What is it you wanted to talk to me about?"
+msgstr ""
+
+msgctxt "0084"
+msgid ""
+"Actually...I'd like you to <CLT 3>come somewhere with me<CLT>. I\n"
+"have business there..."
+msgstr ""
+
+msgctxt "0085"
+msgid "Where...?"
+msgstr ""
+
+msgctxt "0086"
+msgid "Just come with me, and you'll find out."
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"<CLT 4>I-I guess, but...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0088"
+msgid ""
+"<CLT 4>By the time I finished taking care of Hina's injury in\n"
+"the nurse's office...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0089"
+msgid ""
+"<CLT 4>...she seemed to have finally regained her composure.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0090"
+msgid "Th-Thank you..."
+msgstr ""
+
+msgctxt "0091"
+msgid "Are you sure you're feeling better?"
+msgstr ""
+
+msgctxt "0092"
+msgid "Yeah...it really was just a scratch."
+msgstr ""
+
+msgctxt "0093"
+msgid "But still, that was super close!"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"If I hadn't yelled out, you'd be dead right now! It's\n"
+"all thanks to me, ya know!"
+msgstr ""
+
+msgctxt "0095"
+msgid "Yes, well, a thousand thanks to you, sir."
+msgstr ""
+
+msgctxt "0096"
+msgid ""
+"So sarcastic! That just makes you sound even MORE\n"
+"hostile!"
+msgstr ""
+
+msgctxt "0097"
+msgid "Hey, Hina...what the heck happened?"
+msgstr ""
+
+msgctxt "0098"
+msgid ""
+"Oh, um...we just got into a <CLT 1>[fight]<CLT>. And I lost my\n"
+"temper, and flew off the handle..."
+msgstr ""
+
+msgctxt "0099"
+msgid ""
+"But it's cuz she's just so...awful! Just the most\n"
+"super awful girl ever!"
+msgstr ""
+
+msgctxt "0100"
+msgid ""
+"C'mon, go easy on her. It's probably cuz of her\n"
+"<CLT 1>[complicated home life]<CLT>. Forgive and forget, yeah?"
+msgstr ""
+
+msgctxt "0101"
+msgid "Not a chance! She just...pisses me right off!"
+msgstr ""
+
+msgctxt "0102"
+msgid "It's seriously scary when a woman snaps like that..."
+msgstr ""
+
+msgctxt "0103"
+msgid ""
+"But man, I couldn't believe it. I was positive I was\n"
+"about to see someone's life come to an end..."
+msgstr ""
+
+msgctxt "0104"
+msgid ""
+"If I ever saw something like that, I'd never be able\n"
+"to sleep again! Which would suck! I love sleep!"
+msgstr ""
+
+msgctxt "0105"
+msgid ""
+"<CLT 4>Yeah, never mind the person who actually died,\n"
+"right...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0106"
+msgid "U-Umm...Kyoko...?"
+msgstr ""
+
+msgctxt "0107"
+msgid "..."
+msgstr "..."
+
+msgctxt "0108"
+msgid "Are you...still mad?"
+msgstr ""
+
+msgctxt "0109"
+msgid "..."
+msgstr "..."
+
+msgctxt "0110"
+msgid "Yeah, I figured."
+msgstr ""
+
+msgctxt "0111"
+msgid "It's...fine."
+msgstr ""
+
+msgctxt "0112"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0113"
+msgid ""
+"About <CLT 1>[that issue]<CLT> we discussed earlier... It\n"
+"doesn't matter anymore."
+msgstr ""
+
+msgctxt "0114"
+msgid ""
+"Anyway, there's <CLT 1>[something else]<CLT> I wanted to talk to\n"
+"you about."
+msgstr ""
+
+msgctxt "0115"
+msgid ""
+"<CLT 1>[That issue]<CLT> we discussed doesn't matter anymore. I\n"
+"want to talk to you about <CLT 1>[something else]<CLT>."
+msgstr ""
+
+msgctxt "0116"
+msgid ""
+"<CLT 4>There's no point in going somewhere else right now.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0117"
+msgid "Well then, shall we get going?"
+msgstr ""
+
+msgctxt "0118"
+msgid ""
+"<CLT 4>With her typical indifference, Kyoko turned and walked\n"
+"away, setting a brisk pace.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0119"
+msgid "Ah! Kyoko...!"
+msgstr ""
+
+msgctxt "0120"
+msgid ""
+"<CLT 4>I hurried to catch up to her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0121"
+msgid ""
+"<CLT 4>She walked ahead in silence...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0122"
+msgid ""
+"<CLT 4>...and in silence, I chased her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0123"
+msgid ""
+"<CLT 4>And eventually, we arrived...\n"
+"<CLT>"
+msgstr ""

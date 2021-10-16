@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0004"
+msgid "Where does such a standard of judgment come from?"
+msgstr ""
+
+#. お前がどうしてもと言うなら
+#. 付き合ってやらない事もないが…
+msgctxt "0005"
+msgid ""
+"Certainly you're not saying that just because you're\n"
+"Japanese, are you?"
+msgstr ""
+
+#. 俺のリアクションは期待するだけ無駄だぞ。
+msgctxt "0006"
+msgid ""
+"An empty statement inspired by a pitiful,\n"
+"microscopic worldview."
+msgstr ""
+
+#. どう転んでも、期待しているようなことには
+#. ならないからな！
+msgctxt "0007"
+msgid "Want something to drink?"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0008"
+msgid "Well...how considerate of you."
+msgstr ""
+
+#. …実に予想通りの答えだな。
+msgctxt "0009"
+msgid "I'll have a coffee, then. Drip brew only."
+msgstr ""
+
+#. 仕方ない…こういう場所に来たからには、
+#. 避けては通れないアトラクションだ。
+msgctxt "0010"
+msgid "Make sure it's civet coffee. I accept no substitutes."
+msgstr ""
+
+#. いいだろう、乗ってやる。
+#. この俺を満足させる座席があればだがな。
+msgctxt "0011"
+msgid ""
+"<CLT 4>...That's a pretty tall order.\n"
+"<CLT>"
+msgstr ""
+
+#. 重量オーバーや安全バーがロックできないといった
+#. 見苦しい言い訳はいっさい聞かんぞ！
+msgctxt "0012"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0013"
+msgid ""
+"Fatty junk food loaded with empty calories. A stupid\n"
+"meal for a stupid person."
+msgstr ""
+
+#. お前と俺が二人で仲良くメリーゴーランドか…
+msgctxt "0014"
+msgid "I don't understand why anyone would ever eat one."
+msgstr ""
+
+#. ………………
+msgctxt "0015"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. もしかしてそれは…嫌がらせで言ってるのか…？
+msgctxt "0016"
+msgid "What are you into these days...?"
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0017"
+msgid ""
+"Cleansing the administrators of this school in a\n"
+"purifying holocaust."
+msgstr ""
+
+#. 本来はそういう場所だからな。
+msgctxt "0018"
+msgid ""
+"Starting with that Monokuma, who has taken control of\n"
+"this school and so involved me in this wretchedness."
+msgstr ""
+
+#. とはいえ、お前とオレで
+#. どこまで楽しめるかはわからんが…
+msgctxt "0019"
+msgid "I must weed out all those who obstruct me."
+msgstr ""
+
+#. ここまで来たからには行くしかあるまい。
+#. さっさと目的地に向かうぞ。
+msgctxt "0020"
+msgid ""
+"But don't worry. I'll install an entirely new\n"
+"administration as soon as I'm done."
+msgstr ""
+
+#. <CLT 04>目的地ってどこなんだよ…<CLT>
+msgctxt "0021"
+msgid "You kinda remind me of Sakura, in a way..."
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0022"
+msgid "...What's that supposed to mean?"
+msgstr ""
+
+#. あぁ…すでに十分気が重い。
+msgctxt "0023"
+msgid ""
+"Is that supposed to be funny? Sorry, but your mere\n"
+"existence is already enough of a joke."
+msgstr ""
+
+#. だが来てしまったからには仕方ない。
+#. 中に入るとしよう。
+msgctxt "0024"
+msgid "I wanna watch TV..."
+msgstr ""
+
+#. 地図はすでに入手済みだ。
+#. 最適ルートも把握している。
+msgctxt "0025"
+msgid ""
+"You shouldn't rely on the 24-hour news cycle. It's\n"
+"simply another way to abandon your own judgment."
+msgstr ""
+
+#. さあ、そうと決まれば
+#. とっとと目的地を目指すぞ。
+msgctxt "0026"
+msgid ""
+"You should take this opportunity to wean yourself from\n"
+"that intellectual poison."
+msgstr ""
+
+#. <CLT 04>なにげにやる気満々だな…<CLT>
+msgctxt "0027"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0028"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. 何を言っている。
+#. ちゃんと地図があるだろう。
+msgctxt "0029"
+msgid ""
+"Any meaningful conversation between you and me is\n"
+"completely impossible."
+msgstr ""
+
+#. それともお前にはそれを理解する能力がないのか？
+msgctxt "0030"
+msgid "Just how desperate have you become?"
+msgstr ""
+
+#. どちらにせよ、この俺が一緒だ。
+#. 間違ってもそんな間抜けな事態にはならん。
+msgctxt "0031"
+msgid ""
+"Oh, that's right. You were hoping to make some kind of\n"
+"\"connection\" with me, right?"
+msgstr ""
+
+#. よし、食べ歩きだ
+msgctxt "0032"
+msgid ""
+"That's actually a wise decision. Perhaps that's enough\n"
+"for me to remember your face."
+msgstr ""
+
+#. …なるほど。
+#. お前も初めからそのつもりだったというわけか。
+msgctxt "0033"
+msgid ""
+"But if you want me to remember your name? You'll have\n"
+"to do a lot better than that."
+msgstr ""
+
+#. そう、それこそが俺がこの場所を許容した
+#. 唯一の理由だ。
+msgctxt "0034"
+msgid "Do you like cup ramen?"
+msgstr ""
+
+#. すでに地図は入手済みだ。
+#. 最適ルートもシミュレートしてある。
+msgctxt "0035"
+msgid ""
+"That's the lord and ruler of all junk food. I know of\n"
+"its existence, but I would never eat it myself."
+msgstr ""
+
+#. 全フードワゴンの位置も把握した！
+#. さあ、出発するぞ！
+msgctxt "0036"
+msgid "The only instant food I approve of is sushi."
+msgstr ""
+
+#. やっぱり帰るか…
+msgctxt "0037"
+msgid ""
+"<CLT 4>But...sushi isn't instant.\n"
+"<CLT>"
+msgstr ""
+
+#. 男二人で遊園地に来ることの
+#. すさまじい奇異さと虚しさ…
+msgctxt "0038"
+msgid ""
+"<CLT 4>Or are you saying for you, it is...?\n"
+"<CLT>"
+msgstr ""
+
+#. 貴様のような凡人では所詮、
+#. 持ちこたえられんというわけか…
+msgctxt "0039"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. ふん、まあいいだろう。
+#. 目的達成はまたの機会にしておいてやる。
+msgctxt "0040"
+msgid "What are you talking about?"
+msgstr ""
+
+#. それまでにはその惰弱な精神を
+#. なんとかしておくんだな！
+msgctxt "0041"
+msgid "Food is prepared by a chef. That's how this works."
+msgstr ""
+
+#. <CLT 04>また一緒に来ることは確定なのか…<CLT>
+msgctxt "0042"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

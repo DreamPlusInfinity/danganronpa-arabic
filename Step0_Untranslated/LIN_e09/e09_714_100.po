@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. どうしたんだ？
+#. 澪田が黙るなんて…
+msgctxt "0002"
+msgid ""
+"<CLT 4>Huh? Chihiro seems to be lost in thought, but...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（うーん…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(What should I do?)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>澪田の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Chihiro's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. 今更、澪田の言う事にいちいち
+#. 引いたりしないって…
+msgctxt "0007"
+msgid ""
+"Why would you ever think that? Nobody's gonna think\n"
+"you're awful."
+msgstr ""
+
+#. …へ？
+#. な、なんなんすか急に！
+msgctxt "0008"
+msgid "R...really?"
+msgstr ""
+
+#. あ、いやなんとなく澪田が突拍子もない事
+#. 言い出しそうな気がしただけだ。
+msgctxt "0009"
+msgid ""
+"The idea that we would hate you or look down on you\n"
+"for something you're obviously so upset about..."
+msgstr ""
+
+#. むむむ、さすが創ちゃん！
+#. 唯吹の事、よく分かってるっす！
+msgctxt "0010"
+msgid ""
+"There's no way. And if there's something causing you\n"
+"this much worry..."
+msgstr ""
+
+#. けど、それはそれでなんだか
+#. ちょっとつまらないような…
+msgctxt "0011"
+msgid "...then *that's* what we should hate, don't you think?"
+msgstr ""
+
+#. ともかく、その創ちゃんの心意気に免じて、
+#. これを言うのはちょっと待ってあげるっす！
+msgctxt "0012"
+msgid "Makoto..."
+msgstr ""
+
+#. ゆっくりドン引く準備をしとくことっすね！
+msgctxt "0013"
+msgid "I'm not trying to force you or anything, but..."
+msgstr ""
+
+#. まあ…それはあるかもな。
+msgctxt "0014"
+msgid ""
+"...if you think talking to me will help you feel\n"
+"better, then please don't hesitate."
+msgstr ""
+
+#. やっぱそうっすかね…
+msgctxt "0015"
+msgid "Th-Thank you, Makoto..."
+msgstr ""
+
+#. …って、なんで創ちゃん、
+#. 唯吹の考えが読めるっすか！？
+msgctxt "0016"
+msgid ""
+"I think just hearing you say that is good enough for\n"
+"now."
+msgstr ""
+
+#. まさか唯吹のあんな妄想やこんな妄想まで…
+msgctxt "0017"
+msgid "You've given me a lot of courage, honest!"
+msgstr ""
+
+#. ひー！
+#. あんまり傍に寄っちゃダメっす！
+msgctxt "0018"
+msgid "So...if something happens and I lose that courage..."
+msgstr ""
+
+#. ちょ、ちょっと待て！
+#. お前と俺は他人じゃないならなんなんだ！？
+msgctxt "0019"
+msgid "...is it okay if I come talk to you again?"
+msgstr ""
+
+#. やだなぁ創ちゃんってば、
+#. そんなの決まってるじゃないっすか！
+msgctxt "0020"
+msgid "Of course! Anytime you want."
+msgstr ""
+
+#. …っていうかなんで
+#. 唯吹の考えてた事が分かるっすか！？
+msgctxt "0021"
+msgid ""
+"I don't know what you might be talking about, but I\n"
+"would never hate you."
+msgstr ""
+
+#. それとも唯吹ってば、いつの間にか
+#. 口に出してたっすか？
+msgctxt "0022"
+msgid "I was hoping you'd say something like that."
+msgstr ""
+
+#. あわわ、創ちゃん、
+#. もうちょっと離れるっす！
+msgctxt "0023"
+msgid "Sorry, Makoto..."
+msgstr ""
+
+#. …確かにそうかもな。
+msgctxt "0024"
+msgid ""
+"What's wrong is...my own problem. I have to fix it\n"
+"myself."
+msgstr ""
+
+#. え…？
+msgctxt "0025"
+msgid ""
+"I know what I have to do, it's obvious, but I just\n"
+"can't..."
+msgstr ""
+
+#. 創ちゃん、もしかして今
+#. 唯吹の考えを…？
+msgctxt "0026"
+msgid "It's no use..."
+msgstr ""
+
+#. うひー！
+#. これぞ以心伝心ってヤツっす！
+msgctxt "0027"
+msgid "Are you sure that's a good idea?"
+msgstr ""
+
+#. やっぱり創ちゃんは唯吹の
+#. 生き別れの双子のお兄様…いや弟さん？
+msgctxt "0028"
+msgid "...Huh?"
+msgstr ""
+
+#. それはどっちもないと思うぞ…
+msgctxt "0029"
+msgid ""
+"Putting something off because you're afraid is just\n"
+"gonna push it even further away."
+msgstr ""
+
+#. それで、言ったら俺がドン引く事ってなんだ？
+msgctxt "0030"
+msgid "Well...maybe, but..."
+msgstr ""
+
+#. それは…まだ秘密っす！
+msgctxt "0031"
+msgid "You're my friend, Chihiro."
+msgstr ""
+
+#. ちゃんと創ちゃんの心の準備が出来たら
+#. そのときこそ言うっす！
+msgctxt "0032"
+msgid ""
+"So don't worry too much, okay? I want you to talk to\n"
+"me about whatever's on your mind."
+msgstr ""
+
+#. <CLT 04>一体何なんだ…気になるな…<CLT>
+msgctxt "0033"
+msgid ""
+"Whatever secret or problem you might have, I'm sure\n"
+"I'll be able to accept it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "That probably sounded kinda lame, but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "N-No! You sounded totally cool!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "It was really...manly. Ehehe..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "I have to work really hard so I can be as cool as you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"Once we get to know each other better, I'd love to\n"
+"hear about whatever's bothering you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "I see..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid ""
+"So if I want to talk to you, we have to get to know\n"
+"each other better first."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid "Maybe I've been relying on you too much..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"B-But someday, when the time is right...you'll be\n"
+"there to listen, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "It's something...I really want you to know..."
+msgstr ""

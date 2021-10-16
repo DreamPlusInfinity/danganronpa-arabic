@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. うゆぅぅぅ…
+#. こんなの…こんなのおかしいですよぉ…
+msgctxt "0001"
+msgid "Getting stuck in here is, like...totally disgusting."
+msgstr ""
+
+#. もう、いっぱいいっぱいですぅ…
+#. １人でいたら…おかしくなっちゃうぅぅ…
+msgctxt "0002"
+msgid "*Siiiiigh* I wanna get outta here!"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Spend some time with Junko"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 罪木と一緒に過ごしてやるか？<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Junko for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. えっ…うええええぇ！？
+#. わ、私なんかと一緒で…いいんですか…？
+msgctxt "0006"
+msgid "Looking around for a way out sucks. I'm so bored!"
+msgstr ""
+
+#. あ、ありがとうございますぅ…！
+msgctxt "0007"
+msgid "C'mon, let's get outta here and have some fun!"
+msgstr ""
+
+#. <CLT 04>感極まってしまって
+#. 何も言えなくなってる罪木の隣に座って過ごした。<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>I spent some time with Junko...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>罪木と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0009"
+msgid ""
+"<CLT 4>Junko and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0010"
+msgid "Yes, definitely"
+msgstr ""
+
+#. 渡さない
+msgctxt "0011"
+msgid "Not really, no"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0012"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Junko a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Actually...<CLT 3>she<CLT> might remember."
+msgstr ""
+
+msgctxt "0002"
+msgid "Wh-Who might remember...?"
+msgstr ""
+
+msgctxt "0003"
+msgid "The other Toko...<CLT 3>Genocide Jack<CLT>!"
+msgstr ""
+
+msgctxt "0004"
+msgid "What?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"The two of them share certain kinds of knowledge, but\n"
+"their memories aren't linked, right?"
+msgstr ""
+
+msgctxt "0006"
+msgid "I see... If their memories are separate..."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"...then even if one personality's forgotten, there's a\n"
+"chance the other may still have those memories."
+msgstr ""
+
+msgctxt "0008"
+msgid "Whaddya say, Toko!?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Are y-you telling me to swap places...w-with HER!?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"N-No! Absolutely not! That'd be like f-forfeiting my\n"
+"entire identity!"
+msgstr ""
+
+msgctxt "0011"
+msgid "Toko...you're the only one we can rely on now."
+msgstr ""
+
+msgctxt "0012"
+msgid "...Achoo!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"Dun dada duuun! It's me, your friendly neighborhood\n"
+"serial killer!"
+msgstr ""
+
+msgctxt "0014"
+msgid "Boy, she just gave in like it was nothin'..."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"I'm going to ask you a question. And I want to have it\n"
+"answered immediately."
+msgstr ""
+
+msgctxt "0016"
+msgid "Do you know anything about this video?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Huh? What video...!?"
+msgstr ""
+
+msgctxt "0018"
+msgid "The video that's playing right now..."
+msgstr ""
+
+msgctxt "0019"
+msgid "Who the hell are you!?"
+msgstr ""
+
+msgctxt "0020"
+msgid "Oh, um...I'm the mastermind."
+msgstr ""
+
+msgctxt "0021"
+msgid "Oh! Nice to meetcha!"
+msgstr ""
+
+msgctxt "0022"
+msgid "Ah...nice to meet you, too."
+msgstr ""
+
+msgctxt "0023"
+msgid "That's enough! Just look at the stupid screen!"
+msgstr ""
+
+msgctxt "0024"
+msgid "Aye aye! Roger! You got it, captain!"
+msgstr ""
+
+msgctxt "0025"
+msgid "..."
+msgstr "..."
+
+msgctxt "0026"
+msgid "Well? Does it look familiar?"
+msgstr ""
+
+msgctxt "0027"
+msgid "I don't have all the details, but..."
+msgstr ""
+
+msgctxt "0028"
+msgid "Of course it does!"
+msgstr ""
+
+msgctxt "0029"
+msgid "Then you remember all the stuff it's showing?"
+msgstr ""
+
+msgctxt "0030"
+msgid "Of course I do!"
+msgstr ""
+
+msgctxt "0031"
+msgid "So you didn't lose your memory, after all..."
+msgstr ""
+
+msgctxt "0032"
+msgid "Then why didn't you say something earlier!?"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"I only answer questions when someone bothers to ask\n"
+"me! I'm the quiet type, ya know?"
+msgstr ""
+
+msgctxt "0034"
+msgid "Oh my god! She's the worst liar in the world!"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"More importantly...if you really do remember, what is\n"
+"it?"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"Huh? What's the matter, Master? Do you really not\n"
+"remember The Tragedy?"
+msgstr ""
+
+msgctxt "0037"
+msgid "\"The Tragedy\"...?"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"Oh no! You seriously forgot!? Maybe I can help you\n"
+"remember...with a kiss!"
+msgstr ""
+
+msgctxt "0039"
+msgid "Just answer the question! What happened out there!?"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"Well, I can't really say if it \"happened\" or if it's\n"
+"still happening..."
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"But it was the <CLT 3>biggest, most awful, most tragic event\n"
+"in human history<CLT>."
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"<CLT 4>What...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0043"
+msgid "Why is that phrase coming up now?"
+msgstr ""
+
+msgctxt "0044"
+msgid "Cuz it's all because of that event."
+msgstr ""
+
+msgctxt "0045"
+msgid "What is...?"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"Are you serious? I'm talking about the way the world\n"
+"is now."
+msgstr ""
+
+msgctxt "0047"
+msgid "Is...now?"
+msgstr ""
+
+msgctxt "0048"
+msgid "The world's been destroyed, get it!?"
+msgstr ""
+
+msgctxt "0049"
+msgid "Destroyed...?"
+msgstr ""
+
+msgctxt "0050"
+msgid "Explain yourself! Tell us everything you know!"
+msgstr ""
+
+msgctxt "0051"
+msgid "Copy that, darling!"
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"Okay, so, this big, awful, tragic event—they started\n"
+"just calling it The Tragedy—happened about a year ago!"
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"It was so big and so bad that even this murderous\n"
+"fiend went pale at the sight of it."
+msgstr ""
+
+msgctxt "0054"
+msgid "I guess you could say what happened was man-made..."
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"But it was more on the level of a worldwide natural\n"
+"disaster!"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"Either way, there's no doubt that it was the biggest,\n"
+"most awful, most tragic event in human history."
+msgstr ""
+
+msgctxt "0057"
+msgid "And as a result, in basically no time flat..."
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"...the world turned out the way it did. And that's\n"
+"that."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"That's all there is to it!? Come on, there wasn't a\n"
+"single concrete description in there!"
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"Well it just so happens I don't know any of the\n"
+"specifics!"
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"Miss Morose saw it all play out in real-time, so why\n"
+"don't you ask her?"
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"We already did, and she didn't know anything! That's\n"
+"why we're asking you!"
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"Ahh! I couldn't live up to Master's expectations! To\n"
+"die, to die...! This is the true tragedy!"
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"Okay, okay, that's enough of your little lover's\n"
+"quarrel."
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"Whatever happened, it doesn't matter at this exact\n"
+"point in time, right?"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"The end justifies the means. Everything serves the\n"
+"outcome. In other words..."
+msgstr ""
+
+msgctxt "0067"
+msgid "The world has ended. That's the important thing."
+msgstr ""
+
+msgctxt "0068"
+msgid "H-How can the world just end!? It's...it's the world!"
+msgstr ""
+
+msgctxt "0069"
+msgid "Calm down, it's okay. There's no need to panic."
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"Every living person will be dead in a hundred years\n"
+"anyway, so the world ending isn't that big a deal."
+msgstr ""
+
+msgctxt "0071"
+msgid "Oh, come on... Now you're just being ridiculous!"
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"Well, as long as we're being ridiculous, I have\n"
+"another ridiculous story to tell you."
+msgstr ""
+
+msgctxt "0073"
+msgid ""
+"It's the story of the Togami Corporation, which has\n"
+"given Byakuya's life all its meaning."
+msgstr ""
+
+msgctxt "0074"
+msgid "What...? What did you say...!?"
+msgstr ""
+
+msgctxt "0075"
+msgid "I'm glad to see you took the bait."
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"You bit into it like a middle-aged secretary at an\n"
+"all-you-can-eat cake buffet."
+msgstr ""
+
+msgctxt "0077"
+msgid "The Togami family fell"
+msgstr ""
+
+msgctxt "0078"
+msgid "The Togami family fell"
+msgstr ""
+
+msgctxt "0079"
+msgid "The Togami family fell"
+msgstr ""
+
+msgctxt "0080"
+msgid ""
+"Hey, hey! So? What do you think happened to the Togami\n"
+"family, hm!?"
+msgstr ""

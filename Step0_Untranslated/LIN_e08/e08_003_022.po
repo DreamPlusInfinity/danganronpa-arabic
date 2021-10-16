@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Hey, Makoto..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Listen, there's somethin' I gotta ask you..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Wh-What is it? You sound really serious..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Just shut up and listen."
+msgstr ""
+
+msgctxt "0005"
+msgid "So...are you a dog person or a cat person?"
+msgstr ""
+
+msgctxt "0006"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Just tell me before I beat the shit outta you!"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"I'm a <CLT 3>dog person<CLT>, by the way! So what are you!?\n"
+"C'mon, tell me!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Dog person"
+msgstr ""
+
+msgctxt "0010"
+msgid "Cat person"
+msgstr ""
+
+msgctxt "0011"
+msgid "C-Cat..."
+msgstr ""
+
+msgctxt "0012"
+msgid "What'd you just say? What'd you just say!?"
+msgstr ""
+
+msgctxt "0013"
+msgid "N-Nothing!"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT 4>I think it might be best to just follow his lead...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "Bear person"
+msgstr ""
+
+msgctxt "0016"
+msgid "A...bear person?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Bears? That's fucked up, man."
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"You're not tryin' to say you think Monokuma's cute,\n"
+"are ya?"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"Shit, I don't even wanna talk about it. Just thinkin'\n"
+"about him popping out pisses me off..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Anyway, I asked whether you were specifically a DOG\n"
+"person or a CAT person! Which one!?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Answer before I piledrive you!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"What's taking so long!? Just answer the goddamn\n"
+"question!"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>Am I a dog person, or a cat person?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 4>Well Mondo's a dog person, so...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid "I-I'm kind of a dog person, too..."
+msgstr ""
+
+msgctxt "0026"
+msgid "Really? You're not just sayin' that, right!?"
+msgstr ""
+
+msgctxt "0027"
+msgid "N-No, it's true!"
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"Actually, I grew up with a dog in the house.\n"
+"It was a mutt, but it was still pretty cute."
+msgstr ""
+
+msgctxt "0029"
+msgid "Right!? Cats are okay, but dogs are WAY cuter!"
+msgstr ""
+
+msgctxt "0030"
+msgid "So, how old is your dog?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"Oh, uh... Well, we had it when I was a kid.\n"
+"It's...dead now."
+msgstr ""
+
+msgctxt "0032"
+msgid "O-Oh..."
+msgstr ""
+
+msgctxt "0033"
+msgid "I know how that feels man..."
+msgstr ""
+
+msgctxt "0034"
+msgid "It's tough to lose a dog you love so much."
+msgstr ""
+
+msgctxt "0035"
+msgid "I totally know how you feel!"
+msgstr ""
+
+msgctxt "0036"
+msgid "So you used to have a dog, too?"
+msgstr ""
+
+msgctxt "0037"
+msgid "Yeah, Chuck. A maltese. He died when he was nine..."
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"<CLT 4>A maltese? I figured Mondo would be more of a pitbull\n"
+"guy, or a doberman...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"He was so smart, man. He'd bring in the newspaper\n"
+"every morning."
+msgstr ""
+
+msgctxt "0040"
+msgid "Really? That's so cool!"
+msgstr ""
+
+msgctxt "0041"
+msgid "Right? And then he'd beg me to take him for a walk."
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"He'd look up at me with those eyes of his, and wiggle\n"
+"that little butt..."
+msgstr ""
+
+msgctxt "0043"
+msgid "Gah! I don't wanna remember this shit!"
+msgstr ""
+
+msgctxt "0044"
+msgid "Ugh...this seriously sucks!"
+msgstr ""
+
+msgctxt "0045"
+msgid "Don't look at me right now!"
+msgstr ""
+
+msgctxt "0046"
+msgid "Ah, god dammit...!"
+msgstr ""
+
+msgctxt "0047"
+msgid "I gotta go!"
+msgstr ""
+
+msgctxt "0048"
+msgid "Ngaaah...! Chuck! My baby boy!"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"<CLT 4>Mondo left in a state I'd never seen him in before...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0050"
+msgid "I had no idea he <CLT 3>loved dogs that much<CLT>..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"<CLT 4>I feel like I've learned a little more about him\n"
+"today.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"<CLT 23>Mondo's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with him.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"<CLT 23>You just unlocked the skill <CLT><CLT 3>Upshift<CLT><CLT 23>!\n"
+"Give yourself a pat on the back. You've earned it!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"<CLT 4>Once we were all done, I headed back to my room for a\n"
+"little while...\n"
+"<CLT>"
+msgstr ""

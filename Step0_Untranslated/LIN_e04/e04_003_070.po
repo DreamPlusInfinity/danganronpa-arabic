@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>橋を渡っていくと、
+#. その向こうから"新しい島"の全貌が見えてきた。<CLT>
+msgctxt "0001"
+msgid ""
+"I'm glad this floor got opened up and all, but...\n"
+"there's like a ton of locked rooms up here!"
+msgstr ""
+
+#. これは…遊園地か…？
+msgctxt "0002"
+msgid "Yes"
+msgstr ""
+
+#. <CLT 04>まるで、この島全体が、
+#. １つの巨大な遊園地になっているような…<CLT>
+msgctxt "0003"
+msgid "No"
+msgstr ""
+
+#. <CLT 04>楽しげで、華やかで、騒々しくて、煌びやかで…<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""

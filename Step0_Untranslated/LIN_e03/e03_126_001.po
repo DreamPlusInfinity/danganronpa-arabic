@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Hifumi was trying to tell us something..."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"He wanted us to know\n"
+"the <CLT 9>killer's last name—Yasuhiro<CLT>."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"If there's one person here\n"
+"who might have that last name..."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"It would have to be you,\n"
+"Celeste. You haven't told anyone\n"
+"what your real name is."
+msgstr ""
+
+msgctxt "0005"
+msgid "How many times do I have to tell you...?"
+msgstr ""
+
+msgctxt "0006"
+msgid "My...name...is..."
+msgstr ""
+
+msgctxt "0007"
+msgid "Celestia Ludenberg, goddammit!"
+msgstr ""
+
+msgctxt "0008"
+msgid "How long do you plan to go on pretending...?"
+msgstr ""
+
+msgctxt "0009"
+msgid "I'm not pretending. It's the truth!"
+msgstr ""
+
+msgctxt "0010"
+msgid "And since you have <CLT 9>no way to contradict me<CLT>..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"...that's the only truth there is!\n"
+"Moron!"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>It wasn't Hiro!?<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>Whoever that is...must have done it!<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>Who else could be using a fake name?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>The truth...?<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Celeste...was it you?<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>I love it when Master yells at people!<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>What can we do...?<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT 26>Is there no clear evidence!?<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT 26>We need to end this now...<CLT>"
+msgstr ""

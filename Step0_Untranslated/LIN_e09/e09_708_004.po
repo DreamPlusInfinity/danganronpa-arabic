@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0004"
+msgid "What's wrong with a simple bowl of cereal?"
+msgstr ""
+
+#. ジェットコースターって、
+#. あの、すっげー速いヤツか！？
+msgctxt "0005"
+msgid "Why would you try to force that image on me?"
+msgstr ""
+
+#. 絶壁から落っこちたり、
+#. 立ったままぐるぐる回されたりするんだろ！？
+msgctxt "0006"
+msgid "Would you like some coffee?"
+msgstr ""
+
+#. アイツとは前から一度、勝負してみたいと
+#. 思ってたんだよな～。
+msgctxt "0007"
+msgid "Yes, that would be nice. Thank you."
+msgstr ""
+
+#. やべぇ、めちゃくちゃワクワクしてきたぞ！
+msgctxt "0008"
+msgid "Does that mean you're a coffee person yourself?"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0009"
+msgid ""
+"Then why don't we discuss our favorite types of\n"
+"coffee? I'd be happy to test your knowledge."
+msgstr ""
+
+#. メリーゴーランドってあの…
+#. 馬とかブタとかに乗るヤツだよな…？
+msgctxt "0010"
+msgid "If you surpass my expectations, then...let's see..."
+msgstr ""
+
+#. うーん…ぐるぐる回って何か楽しいのか？
+msgctxt "0011"
+msgid "I'll brew a cup especially for you. How's that sound?"
+msgstr ""
+
+#. オレはもっとこう、
+#. ワクワクするヤツがいいぞ。
+msgctxt "0012"
+msgid "You always seem so distant."
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0013"
+msgid "...That isn't my intention."
+msgstr ""
+
+#. …で、まずはどこに行くんだ？
+msgctxt "0014"
+msgid ""
+"If I was really so detached, do you think I would be\n"
+"spending time with you like this?"
+msgstr ""
+
+#. <CLT 04>徹底無視か…<CLT>
+msgctxt "0015"
+msgid ""
+"In fact, why don't you do something bold right now to\n"
+"reveal how I really feel?"
+msgstr ""
+
+#. やっぱり帰るか…
+msgctxt "0016"
+msgid "Hmhm... Don't worry, I know it's impossible for you."
+msgstr ""
+
+#. な、なんでだよ！？
+msgctxt "0017"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. せっかく来たんだから、
+#. 乗ったり食ったりさせろって！
+msgctxt "0018"
+msgid "Do you like cup ramen?"
+msgstr ""
+
+#. さっきから美味そうな匂いがしてて…
+#. ヨダレ溢れてくんのガマンしてんだからな！
+msgctxt "0019"
+msgid "Wh-What...? Why would you ask me that all of a sudden?"
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0020"
+msgid "Just thinking about it...makes me start to feel ill..."
+msgstr ""
+
+#. おう！
+#. なんかこう…ワクワクすんな！
+msgctxt "0021"
+msgid "So...what should we talk about?"
+msgstr ""
+
+#. こういうとこってまともに来たことねーから
+#. すっげー楽しみにしてたんだぜ！
+msgctxt "0022"
+msgid ""
+"Nothing comes to mind. Is it a problem if we just stay\n"
+"here in silence?"
+msgstr ""
+
+#. まずは腹ごしらえといきたいとこだけど、
+#. どうも甘い匂いばっかなのが気になんだよな…
+msgctxt "0023"
+msgid ""
+"It's annoying when people try to bury the silence with\n"
+"some absurd attempt at \"small talk.\""
+msgstr ""
+
+#. ま、探せば肉くらい見つかんだろ。
+#. おら、行くぞ！
+msgctxt "0024"
+msgid "I could go for something sweet..."
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0025"
+msgid ""
+"Well, maintaining a proper blood sugar level is\n"
+"certainly important."
+msgstr ""
+
+#. まだ来たばっかだろーがよ！
+msgctxt "0026"
+msgid ""
+"For a quick burst of energy, sugar is the best.\n"
+"It's absorbed immediately, increasing mental acuity."
+msgstr ""
+
+#. ったく、根性のねー野郎だな…
+msgctxt "0027"
+msgid ""
+"Which is why, when I'm particularly tired, I add a bit\n"
+"of chocolate to my coffee."
+msgstr ""
+
+#. よし、食べ歩きだ
+msgctxt "0028"
+msgid ""
+"Specifically, I put the chocolate in my mouth, then\n"
+"take a sip of coffee and roll the chocolate around."
+msgstr ""
+
+#. い、いいのかよ！？
+msgctxt "0029"
+msgid ""
+"Not only does it wake me up, but it helps me relax,\n"
+"as well."
+msgstr ""
+
+#. さっきから色んな匂いがしてきて
+#. めちゃくちゃ気になってたんだよな！
+msgctxt "0030"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. 甘い匂いがほとんどだけど、
+#. ほのかに肉っぽい匂いもするっていうか…
+msgctxt "0031"
+msgid "What are you into these days...?"
+msgstr ""
+
+#. ああ、クソ！
+#. もうガマンできねーぜ！
+msgctxt "0032"
+msgid "...You."
+msgstr ""
+
+#. とばすから、しっかりついてこいよ！！
+msgctxt "0033"
+msgid ""
+"You don't seem to realize just how mysterious a lot of\n"
+"the things you do are."
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0034"
+msgid "This, for example. Why did you invite me here?"
+msgstr ""
+
+#. はぁ？
+#. な、なんだよいきなり…
+msgctxt "0035"
+msgid ""
+"Actually, sorry. Pretend you didn't hear that. I'll\n"
+"make myself more clear someday, don't worry..."
+msgstr ""
+
+#. 子供じゃねーんだから、そんなことしなくたって
+#. 迷子になったりしねーよ！
+msgctxt "0036"
+msgid "You always wear those gloves..."
+msgstr ""
+
+#. ま、まぁ、お前がグズグズしてたら
+#. おいてっちまうかもしんねーけど…
+msgctxt "0037"
+msgid "You must be curious about it, huh?"
+msgstr ""
+
+#. …ああ、クソ！
+#. 別にどっちだっていいよ！
+msgctxt "0038"
+msgid ""
+"But do you really think it's a good idea to\n"
+"thoughtlessly ask people about their bodies?"
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0039"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. おー、見晴らし良さそうなとこだな！
+msgctxt "0040"
+msgid "Why would you ask me that...?"
+msgstr ""
+
+#. けど、高いとこなんていつでも登れんだろ？
+#. まずは乗ったり食ったりが先だぜ！
+msgctxt "0041"
+msgid "Are you...asking me to make you something?"
+msgstr ""
+
+#. おら、行くぞ！
+msgctxt "0042"
+msgid "Listen, Makoto..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "Subtle manipulation just doesn't suit you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"Why don't you just say exactly what you're thinking?\n"
+"That's more in line with your honest-to-a-fault self."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"Besides, speaking directly and honestly is more likely\n"
+"to resonate within someone's heart."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "Surely even you understand that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

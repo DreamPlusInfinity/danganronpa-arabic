@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Do you like Japanese breakfast or Western?"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0004"
+msgid "Huh? Why would you even ask that? Isn't it obvious?"
+msgstr ""
+
+#. フッ…
+#. 貴様なかなかわかっているようだな。
+msgctxt "0005"
+msgid "A real man goes Japanese without a word."
+msgstr ""
+
+#. それであれば、我が四天王も存分に
+#. 羽を休めることができるというもの。
+msgctxt "0006"
+msgid ""
+"Nothing beats a steaming bowl of rice! Hell, I could\n"
+"eat three bowls of rice by themselves!"
+msgstr ""
+
+#. 風や音によってダメージを受けることもない。
+#. この場においては理想的な乗り物だろう…
+msgctxt "0007"
+msgid "So, what about you, Makoto?"
+msgstr ""
+
+#. ただし、この俺様が騎乗するに値する
+#. 魔獣がいればの話だがな！
+msgctxt "0008"
+msgid "Want something to drink?"
+msgstr ""
+
+#. ふはははは！
+#. では行くとするか！！
+msgctxt "0009"
+msgid "Oh, good call! We should take a quick break."
+msgstr ""
+
+#. <CLT 04>ものすごいうれしそうだな…<CLT>
+msgctxt "0010"
+msgid ""
+"Well...I guess this whole thing is kinda one giant\n"
+"break, huh?"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0011"
+msgid "But ya know..."
+msgstr ""
+
+#. フン、あんな子供だましに執心とは、
+#. あまり俺様を失望させるなよ？
+msgctxt "0012"
+msgid ""
+"It's pretty awesome how we don't have to study or do\n"
+"homework or any of that shit!"
+msgstr ""
+
+#. …貴様がどうしてもと泣いて懇願するのであれば
+#. 同乗してやらんこともないが…
+msgctxt "0013"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. まずは我が四天王の安全を図るのが先だからな。
+msgctxt "0014"
+msgid "Hamburgers...?"
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0015"
+msgid ""
+"I don't hate 'em, but they're kinda tough to get the\n"
+"hang of."
+msgstr ""
+
+#. お化け屋敷か…
+#. ふっ…そうか…お化け屋敷か…
+msgctxt "0016"
+msgid ""
+"I mean, you try to eat one, and everything keeps on\n"
+"movin' around. Is there some kinda trick to it?"
+msgstr ""
+
+#. よもやこの俺様に
+#. 作り物の恐怖を楽しめ、とはな…
+msgctxt "0017"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. そんなに恐怖が欲しければ
+#. この俺様が与えてやってもいいんだぞ…？
+msgctxt "0018"
+msgid "So what do you like to do at night?"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0019"
+msgid "At night? Uh...hmm..."
+msgstr ""
+
+#. それを否定する気はないが…
+#. そもそも、ここに来たいと言ったのは貴様だぞ。
+msgctxt "0020"
+msgid ""
+"Since we got here, mostly nothin'. It's not like I can\n"
+"go ridin' or anything."
+msgstr ""
+
+#. 自分の発言には最後まで責任を持ったらどうだ。
+msgctxt "0021"
+msgid "How do you get your hair to do that?"
+msgstr ""
+
+#. <CLT 04>ものすごい正論だ…<CLT>
+msgctxt "0022"
+msgid ""
+"Ah, you noticed, huh? Yeah, it's kind of a bitch to\n"
+"get it to stay like this."
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0023"
+msgid ""
+"At first, I could never get it to set the way I wanted\n"
+"it to."
+msgstr ""
+
+#. フン…ここはいわば夢の城だからな。
+#. 人間共の世界にはそういう場所も必要だろう。
+msgctxt "0024"
+msgid ""
+"But my brother got his hands on some real primo\n"
+"hairspray, and a few shots of that did the job!"
+msgstr ""
+
+#. ここには一切の危険はない。
+#. そう…表向きはな…
+msgctxt "0025"
+msgid "Whaddya think, Makoto? Wanna give it a shot?"
+msgstr ""
+
+#. 貴様のような凡人のための場所だ。
+#. 遠慮なくはしゃぎ回るがいい。
+msgctxt "0026"
+msgid "Let's pack a lunch and go somewhere."
+msgstr ""
+
+#. だが、もし俺様と来るというのなら、
+#. 貴様はこの場所の真の姿を見ることになるだろう。
+msgctxt "0027"
+msgid "Pack a lunch?"
+msgstr ""
+
+#. さあ、好きな方を選ぶがいい！
+msgctxt "0028"
+msgid ""
+"What, are you tryin' to play house with me or\n"
+"somethin'? You a little girl now? Don't be weird."
+msgstr ""
+
+#. <CLT 04>うーん…どっちが楽しいだろうな…<CLT>
+msgctxt "0029"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. やっぱり帰るか…
+msgctxt "0030"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. な、なにぃ！？
+#. 今来たばかりだろう…
+msgctxt "0031"
+msgid ""
+"Hmm... Good question. You ready for a\n"
+"manly heart-to-heart?"
+msgstr ""
+
+#. ここまで来て城門すらくぐらずに引き返すとは…
+#. とんだ臆病者だな。
+msgctxt "0032"
+msgid ""
+"We haven't really had a chance yet, right? It's okay\n"
+"to spill your guts every once in a while, right?"
+msgstr ""
+
+#. 貴様には失望したぞ…
+msgctxt "0033"
+msgid ""
+"Like, goin' into crazy detail about your favorite\n"
+"bikes!"
+msgstr ""
+
+#. 戦闘開始だ！
+msgctxt "0034"
+msgid "So let 'er rip! I wanna know what you're in love with!"
+msgstr ""
+
+#. ククク…なかなか威勢がいいな。
+#. いいだろう、ならばついてこい！
+msgctxt "0035"
+msgid ""
+"Come on, it's fine! We're both men, right? There's\n"
+"nothing to hide!"
+msgstr ""
+
+#. この場に限り、特別に貴様を
+#. 我が使い魔の一人と認めてやる。
+msgctxt "0036"
+msgid ""
+"<CLT 4>This seems strange... Shouldn't we be talking about\n"
+"our favorite *girls* or something?\n"
+"<CLT>"
+msgstr ""
+
+#. この俺様の傍らにいる限り、貴様は無敵だ！
+#. その力、存分に振るうがいい！
+msgctxt "0037"
+msgid "Hey, is that clock stopped?"
+msgstr ""
+
+#. 我らの力をもって、この夢の城を
+#. 完膚無きまでに蹂躙し尽くしてやるのだ！
+msgctxt "0038"
+msgid "I think...I have no idea."
+msgstr ""
+
+#. ふはははは！
+#. では行くぞ！！
+msgctxt "0039"
+msgid ""
+"But it's not like it matters. What's the point of\n"
+"looking at it at all?"
+msgstr ""
+
+#. マスコットはどこだ？
+msgctxt "0040"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. 探しても無駄だ…奴はこの俺様に対抗するため
+#. 地下に潜ったのだろう。
+msgctxt "0041"
+msgid "Huh...? Why, you askin' me to make you somethin'?"
+msgstr ""
+
+#. 奴が力を蓄えるのが先か、
+#. この夢の城が我が手に堕ちるのが先か…
+msgctxt "0042"
+msgid "That's totally not manly! No chance!"
+msgstr ""
+
+#. どちらにせよ、次に相まみえたときこそ
+#. 決着をつけるときだ…
+msgctxt "0043"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

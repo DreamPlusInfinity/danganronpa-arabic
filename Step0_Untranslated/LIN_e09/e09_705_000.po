@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "So...what's your favorite kind of music?"
+msgstr ""
+
+#. いい景色だな
+msgctxt "0004"
+msgid "Gehehe... What a foolish question. Isn't it obvious?"
+msgstr ""
+
+#. うーん…この南の島っぽさは
+#. 確かに悪くないとは思うけど…
+msgctxt "0005"
+msgid ""
+"The opening theme to\n"
+"Demon Angel☆Pretty Pudgy Princess!"
+msgstr ""
+
+#. さすがにもう、何も無いと…ねぇ？
+msgctxt "0006"
+msgid ""
+"The shock of that first refrain! I'd love to just\n"
+"split it into halves and give you a piece!"
+msgstr ""
+
+#. ぼくとしてはネオン瞬く都会の夜景の方が
+#. 断然セクシーで好みかな！
+msgctxt "0007"
+msgid ""
+"The entire show is magnificent, of course, but that\n"
+"opening is just pure bliss!"
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0008"
+msgid ""
+"Ahh... Just thinking about it now is positively\n"
+"enchanting!"
+msgstr ""
+
+#. 公園まで来て立ち話ってのもなんだしね。
+msgctxt "0009"
+msgid "Can you play the piano?"
+msgstr ""
+
+#. ああ、どうせならティーセットを
+#. 用意してくるべきだったよ。
+msgctxt "0010"
+msgid "Hmm? Did you say something, Mr. Naegi?"
+msgstr ""
+
+#. 南国の庭園で敢えてロマノフ朝風ティーパーティ…
+#. あ、意外といけるかも…
+msgctxt "0011"
+msgid ""
+"<CLT 4>Maybe I shouldn't have asked...\n"
+"<CLT>"
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0012"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. 散歩か…
+msgctxt "0013"
+msgid ""
+"Oh, you mean like a live performance of an anime\n"
+"theme, right?"
+msgstr ""
+
+#. 散歩ってつまり、この辺をぐるぐると
+#. あてもなく歩き回るってことだよね…？
+msgctxt "0014"
+msgid ""
+"Like when they bring out the actors to announce a\n"
+"show's soft release. I go to those all the time!"
+msgstr ""
+
+#. 無意味なウォーキングってさ…
+#. もうほとんど苦行だと思うよ…
+msgctxt "0015"
+msgid ""
+"Only a true believer is into the culture enough to\n"
+"know about those special events."
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0016"
+msgid ""
+"And when you go, you're showing your support to the\n"
+"show's creators!"
+msgstr ""
+
+#. あーそうだねぇ…この穏やかな風と緑は
+#. 故郷を思い出すようなそうでもないような…
+msgctxt "0017"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. …たまにならこういう、都会の喧噪を
+#. 綺麗さっぱり忘れられるところもいいかもね。
+msgctxt "0018"
+msgid "Do you do karaoke a lot?"
+msgstr ""
+
+#. ほらほら、ぼくが添い寝してあげるから。
+#. さ、向こうの茂みに行こうね…
+msgctxt "0019"
+msgid ""
+"Yeah, all the time! It's one of my staple activities\n"
+"when I meet up with my online friends!"
+msgstr ""
+
+#. <CLT 04>寝るとは言ってないんだけどな…<CLT>
+msgctxt "0020"
+msgid ""
+"Loading up an anime theme, busting out that melody\n"
+"with one loud, shared heart."
+msgstr ""
+
+#. 読書でもするか
+msgctxt "0021"
+msgid ""
+"It's a great way to close the distance between people\n"
+"who don't know each other all that well."
+msgstr ""
+
+#. 穏やかな午後の日差しの中、
+#. 公園で優雅に読書を楽しむ…
+msgctxt "0022"
+msgid "Are you a fan of music?"
+msgstr ""
+
+#. ああっ、まるでアーバンなこのぼくのために
+#. あるようなシチュエーションだね！
+msgctxt "0023"
+msgid ""
+"If I have to say yes or no, I'd say yes. But if I\n"
+"could say not really, then...not really."
+msgstr ""
+
+#. …まぁ、ここが汗の止まらない南国の島で
+#. なかったらの話だけどさ…
+msgctxt "0024"
+msgid ""
+"Because it's not just the openings and the background\n"
+"songs I like, but the entire work!"
+msgstr ""
+
+#. あの像、気になるな…
+msgctxt "0025"
+msgid ""
+"<CLT 4>Wait, what? Why'd things get so specific all of a\n"
+"sudden...?\n"
+"<CLT>"
+msgstr ""
+
+#. うーん…
+#. そう言われてみれば、なんとなく…
+msgctxt "0026"
+msgid "Are you good at any instruments?"
+msgstr ""
+
+#. 調理のし甲斐がありそうな
+#. パーツでできてるかも？
+msgctxt "0027"
+msgid "Nope!"
+msgstr ""
+
+#. <CLT 04>明らかに人型も混ざってるんだが…<CLT>
+msgctxt "0028"
+msgid "..."
+msgstr "..."
+
+#. よし、ゴミ拾いだ
+msgctxt "0029"
+msgid ""
+"<CLT 4>Damn... I guess that's a non-starter.\n"
+"<CLT>"
+msgstr ""
+
+#. 公園でゴミ拾いなんて…
+msgctxt "0030"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 君はなんて立派な人物なんだ…
+msgctxt "0031"
+msgid "This place is pretty nice..."
+msgstr ""
+
+#. それじゃ、ぼくは邪魔にならないように
+#. あの木陰から応援してるよ！
+msgctxt "0032"
+msgid "Yeah, I guess it is."
+msgstr ""
+
+#. 何もないとこだな
+msgctxt "0033"
+msgid ""
+"But the layout is kind of inconvenient if I wanted to\n"
+"hold an exhibition here."
+msgstr ""
+
+#. そうだねぇ…公園なら公園らしく、
+#. もう少し人を楽しませる設備があってもいいのに。
+msgctxt "0034"
+msgid "Then again, it might be okay for a screening..."
+msgstr ""
+
+#. 遊具とは言わないけどせめて、
+#. ベンチとかトイレとかトイレとかさ…
+msgctxt "0035"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. まぁ、木陰があるだけマシかな。
+#. じゃあ、座って一休みしよっか。
+msgctxt "0036"
+msgid "There's something familiar about this shape..."
+msgstr ""
+
+#. あの像にでも登るか…
+msgctxt "0037"
+msgid "..."
+msgstr "..."
+
+#. 君がそれを心から楽しんでいるなら
+#. 止めないけどさ…
+msgctxt "0038"
+msgid ""
+"I think this might be the same kind that the heroine\n"
+"of that one anime used."
+msgstr ""
+
+#. …本当に後悔しない？
+msgctxt "0039"
+msgid "Ng-gh-gh...! I can't remember what it was called!"
+msgstr ""
+
+#. <CLT 04>真剣に哀れまれている気がする…<CLT>
+msgctxt "0040"
+msgid ""
+"If only I was at home, I could just go through my DVDs\n"
+"and figure it out in no time."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid "...I wanna go home. I wanna go home right now!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid "There's lots of speakers here..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "Hmhm, yes! Quite a good number, indeed!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"There might be more here than in a small movie\n"
+"theater..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"With all this nice audio equipment... I wanna watch\n"
+"all my anime in here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "Let's bring some up with us next time, okay?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

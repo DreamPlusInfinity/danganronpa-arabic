@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like she had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. …まさかこんなに楽しめるとは
+#. 思ってもみなかったぜ。
+msgctxt "0002"
+msgid "I had so much fun today! Thank you!"
+msgstr ""
+
+#. お前のおかげで、なんかもやもやしてたモンが
+#. キレーに吹っ飛んだっていうか…
+msgctxt "0003"
+msgid ""
+"But...it's more than just \"fun.\" When I'm with you, I\n"
+"feel like...I can relax."
+msgstr ""
+
+#. とにかく、今日は楽しかったぜ。
+#. …ありがとな、日向。
+msgctxt "0004"
+msgid ""
+"What about you, Makoto? I really hope you feel the\n"
+"same way."
+msgstr ""
+
+#. へッ、ガラにもねえこと言っちまったな。
+#. さ、そろそろホテルに戻るとしようぜ。
+msgctxt "0005"
+msgid ""
+"Well, please invite me out again sometime. It's a\n"
+"promise, okay?"
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid "Anyway, we should probably get back."
+msgstr ""
+
+#. …なんか悪くねえな。
+#. たまにゃこうやってただバカやるのもよ。
+msgctxt "0007"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. また声かけろよな。
+#. お前の誘いになら乗ってやるよ。
+msgctxt "0008"
+msgid "Thanks for showing me around today!"
+msgstr ""
+
+#. さて、んじゃそろそろホテルに戻るか。
+#. …行こうぜ。
+msgctxt "0009"
+msgid ""
+"Just spending time with someone helps me recharge,\n"
+"you know?"
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0010"
+msgid ""
+"If you want, feel free to invite me out again. And if\n"
+"I have some free time, I'll do the same thing."
+msgstr ""
+
+#. ったく、ただ疲れただけだったぜ…
+msgctxt "0011"
+msgid "So, do you want to head back?"
+msgstr ""
+
+#. テメーもよ、このオレの機嫌取るなら
+#. もうちょっとマシなプラン練ってこいってんだよ。
+msgctxt "0012"
+msgid ""
+"<CLT 4>I get the feeling she didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. …じゃねえとマジでハジくからな。
+msgctxt "0013"
+msgid "Finding good ways to pass the time isn't easy."
+msgstr ""
+
+#. じゃ、あばよ。
+msgctxt "0014"
+msgid ""
+"I never really realized it till I came here, but I\n"
+"really don't know what to do when I have free time."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0015"
+msgid ""
+"I've always been so busy, I guess I just...forgot how\n"
+"to keep myself entertained."
+msgstr ""
+
+#. ちッ…テメーのくだらねえ誘いに乗ったおかげで
+#. 一日を無駄にしたぜ…
+msgctxt "0016"
+msgid "Well...see you later."
+msgstr ""
+
+#. オレはくだらねえお友達ごっこしてるほど
+#. ヒマじゃねえんだよ。
+msgctxt "0017"
+msgid ""
+"<CLT 4>Crap... I don't think things went very well at all...\n"
+"<CLT>"
+msgstr ""
+
+#. …じゃあな。
+msgctxt "0018"
+msgid "I just feel so drained..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"Are you not feeling well? I'm not feeling well. I'm\n"
+"gonna go lay down for a while."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "Goodbye..."
+msgstr ""

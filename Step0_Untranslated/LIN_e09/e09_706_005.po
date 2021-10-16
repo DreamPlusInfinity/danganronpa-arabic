@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>軍事施設に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the library...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかよく分からない兵器らしきものが<CLT>
+#. <CLT 04>無造作にうち捨てられている…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's pretty dusty, but I've never seen a place so\n"
+"filled with books and other documents.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm gettin' kinda sleepy..."
+msgstr ""
+
+#. やっぱり違う場所に行こう
+msgctxt "0004"
+msgid ""
+"Well duh. Reading makes you sleep. That's just\n"
+"science."
+msgstr ""
+
+#. なんじゃ、来たばかりでもう帰るのか？
+msgctxt "0005"
+msgid ""
+"I dunno why anyone would read books and junk if it's\n"
+"not for a class or something."
+msgstr ""
+
+#. こんなことなら最初から島一周マラソンにでも
+#. しておけばよかったものを…
+msgctxt "0006"
+msgid ""
+"And I'm extra sensitive to stuff like that, so I need\n"
+"to be super careful not to fall asleep."
+msgstr ""
+
+#. どうも落ち着かないな
+msgctxt "0007"
+msgid "Let's be careful with these books, okay?"
+msgstr ""
+
+#. 確かに、こうもごちゃごちゃしてると
+#. ランニングもロクにできんのう。
+msgctxt "0008"
+msgid "I love reading!"
+msgstr ""
+
+#. それとも中にジムのような
+#. 設備があるんじゃろうか？
+msgctxt "0009"
+msgid "I love nudie mags!"
+msgstr ""
+
+#. よし、早速見に行ってみようかの！
+msgctxt "0010"
+msgid ""
+"Oh, don't worry. I'm old enough to buy 'em. I've been\n"
+"held back a few times, don't forget."
+msgstr ""
+
+#. ちょっとわくわくするな
+msgctxt "0011"
+msgid "I guess everyone's situation is different..."
+msgstr ""
+
+#. せっかくトレーニングに最適な南の島に来とるのに
+#. こんな場所を好むとはのう…
+msgctxt "0012"
+msgid "Should we spend some time studying?"
+msgstr ""
+
+#. うーむ、
+#. ワシにはまったくわからんぞ…
+msgctxt "0013"
+msgid ""
+"Oh, I don't wanna bother you while you're studyin'.\n"
+"I'll leave ya alone. See ya, Makoto...!"
+msgstr ""
+
+#. よし、腕立てだ
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. サー、イエッサー！
+msgctxt "0015"
+msgid "Maybe we should tidy up a little."
+msgstr ""
+
+#. …って、ワシがやってどうする！
+msgctxt "0016"
+msgid ""
+"It's very important to establish the proper\n"
+"environment for your fortune-telling."
+msgstr ""
+
+#. いやしかし、これが連帯責任という奴か？
+#. ならば共に３０回を５セットじゃ！
+msgctxt "0017"
+msgid ""
+"My inspiration has serious trouble functioning in a\n"
+"dirty or cluttered room!"
+msgstr ""
+
+#. さあ、始め！
+msgctxt "0018"
+msgid ""
+"Oh, but don't assume that means my own room is clean.\n"
+"Don't assume that, okay Makoto!?"
+msgstr ""
+
+#. よし、腹筋だ
+msgctxt "0019"
+msgid ""
+"<CLT 4>His prediction percentage might go up if he kept\n"
+"things a little cleaner...\n"
+"<CLT>"
+msgstr ""
+
+#. 腹筋…？
+#. 腹筋じゃと…！？
+msgctxt "0020"
+msgid "I wonder if any of Toko's books are here."
+msgstr ""
+
+#. 何を言っとるか！
+#. ここは腕立てがお約束じゃろうが！
+msgctxt "0021"
+msgid ""
+"With the way she is, even if they *do* have any,\n"
+"I don't think I wanna read 'em."
+msgstr ""
+
+#. というかそもそも、こんな固いところで
+#. 腹筋などしたら腰を痛めるわ！
+msgctxt "0022"
+msgid "Can you tell my fortune?"
+msgstr ""
+
+#. よし、探検だ
+msgctxt "0023"
+msgid "Jeez, man! I thought you'd never ask!"
+msgstr ""
+
+#. うーむ、あまり気は乗らんが…
+msgctxt "0024"
+msgid ""
+"I was all sad that you and everyone else never asked\n"
+"me to display my skills."
+msgstr ""
+
+#. せめて運動施設のようなものでも
+#. あってくれればいいんじゃがのう。
+msgctxt "0025"
+msgid ""
+"Obviously being stuck in here, nobody wants to have to\n"
+"pay the fee..."
+msgstr ""
+
+#. 食料を探そう
+msgctxt "0026"
+msgid ""
+"So I'll make you a deal! You don't have to pay right\n"
+"away. But the interest is 10% every 10 days!"
+msgstr ""
+
+#. なるほど…さてはレーションを探す気じゃな？
+msgctxt "0027"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ひょっとするとプロテインがあったりも
+#. するかもしれん…
+msgctxt "0028"
+msgid "Did you learn your skills from a book?"
+msgstr ""
+
+#. 軍用プロテイン…
+#. うーむ、魔性の響きじゃのう…
+msgctxt "0029"
+msgid ""
+"Huh? No, I just practiced. Books never had anything to\n"
+"do with it."
+msgstr ""
+
+#. よし、捜索開始じゃ！！
+msgctxt "0030"
+msgid "Why would anyone wanna hafta rely on a book?"
+msgstr ""
+
+#. 燃料を探そう
+msgctxt "0031"
+msgid "Have you ever published a book?"
+msgstr ""
+
+#. うーむ、燃料があれば夜間トレーニングも
+#. できるかもしれんが…
+msgctxt "0032"
+msgid ""
+"Um...no. I mean, nobody's ever asked me to publish one\n"
+"or anything, so..."
+msgstr ""
+
+#. 体を作るためには、
+#. 夜はやはり寝るに限るぞ。
+msgctxt "0033"
+msgid "Wait, I got an idea!"
+msgstr ""
+
+#. 武器を探そう
+msgctxt "0034"
+msgid ""
+"I'm gonna write a book and become an overnight\n"
+"success! \"The End of Waiting Days\"!"
+msgstr ""
+
+#. 何ィ？　武器だぁ？
+#. そんなもん探して何する気じゃあ？
+msgctxt "0035"
+msgid "You're gonna help me write it, right!?"
+msgstr ""
+
+#. …このワシの目が黒いウチは、
+#. 反則行為なんぞは絶対にさせんぞい！
+msgctxt "0036"
+msgid ""
+"Just make something up! Say that my predictions helped\n"
+"you become a billionaire or something!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "I just wanna read comics..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "Yeah, how come these people hate comics so much?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid ""
+"Our teachers are always like, \"Don't be prejudiced!\"\n"
+"But they're the most prejudiced ones of all!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "School libraries need to learn to be more open-minded!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

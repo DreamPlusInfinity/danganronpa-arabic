@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ご苦労さまでちゅ！
+msgctxt "0001"
+msgid "Puhuhu... It looks like you're really working hard!"
+msgstr ""
+
+#. さぁ、ここからは自由時間でちゅ。
+#. 好きに過ごしてもらっていいんでちゅが…
+msgctxt "0002"
+msgid ""
+"Well right now, it's time for free time! Do whatever\n"
+"you want!"
+msgstr ""
+
+#. <CLT 03>５０日目までに全員の希望のカケラを集める<CLT>こと！
+#. これがみなさんの目的でちゅからね！
+msgctxt "0003"
+msgid ""
+"Even a strange, childish little boy like you might\n"
+"stumble on some bittersweet love if you're lucky!"
+msgstr ""
+
+#. 何度も言ってごめんなちゃいでちゅけど…
+#. 忘れないようにしてくだちゃいね！
+msgctxt "0004"
+msgid ""
+"You can also use the Trip Tickets I gave you to go\n"
+"adventuring with your friends."
+msgstr ""
+
+#. もし無理だと思っても…
+#. どうか最後まで諦めないでくだちゃい。
+msgctxt "0005"
+msgid ""
+"Although, spending all this time building your\n"
+"friendships and deepening your bonds..."
+msgstr ""
+
+#. <CLT 03>いつかは必ず達成できる<CLT>よう、
+#. あちしがなんとかしまちゅから…！
+msgctxt "0006"
+msgid ""
+"It might just make things that much harder\n"
+"later on, ya know?"
+msgstr ""
+
+#. だから心配せずに、みんなとたくさんお話して
+#. どんどん希望のカケラをあつめてくだちゃいね！
+msgctxt "0007"
+msgid "Ahh-hahahaha!"
+msgstr ""
+
+#. あと、さっき渡した<CLT 03>おでかけチケット<CLT>を使えば、
+#. どこかに遊びにいくこともできまちゅ。
+msgctxt "0008"
+msgid ""
+"<CLT 23>I know you're busy having fun and all, but do you have\n"
+"a second?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>らーぶ、らーぶな結末<CLT>を目指せまちゅけど、
+#. <CLT 03>希望のカケラは集まらない<CLT>ので気をつけてね！
+msgctxt "0009"
+msgid ""
+"<CLT 23>Monokuma touched on it just now, but...\n"
+"<CLT>"
+msgstr ""
+
+#. 学級目標が達成できたときには
+#. この"おでかけチケット"をあげまちゅからね！
+msgctxt "0010"
+msgid ""
+"<CLT 23>...at this point, you can now spend time with whoever\n"
+"you like.\n"
+"<CLT>"
+msgstr ""
+
+#. それじゃあ、はりきっていきまちょー！
+msgctxt "0011"
+msgid ""
+"<CLT 23>However, as these scenes play out, you'll notice\n"
+"they're exactly the same as in the main game.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>申し訳ございません。
+#. 少々よろしいでしょうか？<CLT>
+msgctxt "0012"
+msgid ""
+"<CLT 23>So you might notice people talking about having to\n"
+"kill each other. I know that seems strange, but...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>ただいまウサミが説明したように、これからあなた様は
+#. お好きなお相手を誘って過ごすことができます。<CLT>
+msgctxt "0013"
+msgid ""
+"<CLT 23>...this *is*<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>School Mode<CLT><CLT 23>, after all. It's a bonus,\n"
+"an addition to the main story.<CLT>"
+msgstr ""
+
+#. <CLT 06>ただし、希望のカケラを集めた際に発生するイベントは
+#. 完全に本編と一緒でございます。<CLT>
+msgctxt "0014"
+msgid ""
+"<CLT 23>So please keep that in mind, and try not to judge us\n"
+"too harshly.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>その時だけはコロシアイをしている前提となりますが、
+#. それを不思議に思ってはなりません。<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 23>Anyway, take your time to explore and enjoy!\n"
+"<CLT>"
+msgstr ""

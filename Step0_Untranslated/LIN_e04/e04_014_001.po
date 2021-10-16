@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Uwah! Makoto!?"
+msgstr ""
+
+msgctxt "0002"
+msgid "What the...? Why do you seem so surprised?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"N-Nothing's wrong! Why would anything be wrong!?\n"
+"Ahahaha! Ahaha...hah."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT 4>He's acting really strange...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT 4>Well, I guess he's *always* acting really strange.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Okay, well, gonna go back to my room now! Take 'er\n"
+"easy, pardner!"
+msgstr ""
+
+msgctxt "0007"
+msgid "S-See ya! Ahahaha...!"
+msgstr ""
+
+msgctxt "0008"
+msgid "Bibibabibabibubiii!"
+msgstr ""
+
+msgctxt "0009"
+msgid "My obsession!"
+msgstr ""
+
+msgctxt "0010"
+msgid "Bibibabibabibubiii!"
+msgstr ""
+
+msgctxt "0011"
+msgid "What are you doing...?"
+msgstr ""
+
+msgctxt "0012"
+msgid "Living!"
+msgstr ""
+
+msgctxt "0013"
+msgid "I see..."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"Anyway, I'm headed back to my room! I'll just be\n"
+"there, living, totally calm!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Bibibabibabibubiii!"
+msgstr ""
+
+msgctxt "0016"
+msgid "That's the girls bathroom."
+msgstr ""
+
+msgctxt "0017"
+msgid "Come on, we have to hurry..."
+msgstr ""

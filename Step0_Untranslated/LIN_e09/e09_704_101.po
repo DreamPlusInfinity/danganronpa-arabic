@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. いつまで
+#. くだらねーこと悩んでんだ…
+msgctxt "0001"
+msgid "I know what I told everyone..."
+msgstr ""
+
+#. こんなん、
+#. 日向にバレたらよぉ…
+msgctxt "0002"
+msgid ""
+"I said I was gonna become\n"
+"a famous musician."
+msgstr ""
+
+#. ぜってー<CLT 17>
+#. バカにされる<CLT>に決まってる…
+msgctxt "0003"
+msgid ""
+"But right now...\n"
+"I don't give a crap about music!"
+msgstr ""
+
+#. けど、もしかしてコイツなら…
+msgctxt "0004"
+msgid ""
+"After all this time...\n"
+"<CLT 9>I just wanna play baseball<CLT>."
+msgstr ""
+
+#. いやいやいや、
+#. 期待すんなオレ！
+msgctxt "0005"
+msgid ""
+"I never thought\n"
+"that'd be possible, but..."
+msgstr ""
+
+#. だって、こんなのってよぉ…
+msgctxt "0006"
+msgid "Man! I'm so uncool right now!"
+msgstr ""
+
+#. <CLT 17>どう考えたって異常<CLT>だろ…
+msgctxt "0007"
+msgid "Just friggin' pitiful..."
+msgstr ""
+
+#. わかってもらえるはず
+#. なんてねーよ…
+msgctxt "0008"
+msgid ""
+"And I don't even have\n"
+"the balls to tell anyone...!"
+msgstr ""
+
+#. はぁ…
+msgctxt "0009"
+msgid ""
+"All I can do is\n"
+"<CLT 9>keep it hidden from\n"
+"everyone till this is all over<CLT>..."
+msgstr ""

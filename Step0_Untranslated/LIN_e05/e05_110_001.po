@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "We've established a timeframe for the murder."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"It took place somewhere\n"
+"between <CLT 9>10 o'clock at night<CLT>..."
+msgstr ""
+
+msgctxt "0003"
+msgid "...and 9 o'clock in the morning."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"Yup. And Makoto doesn't have\n"
+"an alibi for most of that time."
+msgstr ""
+
+msgctxt "0005"
+msgid "Yeah, from 10 o'clock..."
+msgstr ""
+
+msgctxt "0006"
+msgid "...<CLT 9>to 7:30<CLT>."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"That's more than enough time\n"
+"to commit murder, I should think."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"So Makoto, if you have any objections,\n"
+"now would be the time..."
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT 26>Makoto doesn't have an alibi...<CLT>"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>10 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>11 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>12 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>1 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>2 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>3 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>4 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>5 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>6 o'clock...<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT 26>7:30...<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT 26>Or 9:30...<CLT>"
+msgstr ""

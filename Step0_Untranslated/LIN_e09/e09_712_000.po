@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "There's some pretty nice equipment here..."
+msgstr ""
+
+#. 誰もいないな
+msgctxt "0004"
+msgid ""
+"Naturally. This school is home to the nation's most\n"
+"ultimate students, yes?"
+msgstr ""
+
+#. う、うん…
+msgctxt "0005"
+msgid "Top-class students deserve only top-class facilities."
+msgstr ""
+
+#. あ…っと、別に喜んでないから。
+#. どっちかってと残念なんだからね。
+msgctxt "0006"
+msgid ""
+"In a way, this entire school is a stage designed to\n"
+"show the world our talent."
+msgstr ""
+
+#. だって、アンタしか被写体いないし…
+msgctxt "0007"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. 仕方ないからアンタの写真、
+#. 撮ってあげてもいいよ。
+msgctxt "0008"
+msgid ""
+"I would rather listen to a first-rate musician than\n"
+"bother playing something myself."
+msgstr ""
+
+#. ほら、あっちに立って。
+msgctxt "0009"
+msgid ""
+"<CLT 4>So that's a no, then...\n"
+"<CLT>"
+msgstr ""
+
+#. いい景色だな
+msgctxt "0010"
+msgid "Are you a good singer?"
+msgstr ""
+
+#. んー…そうかなぁ？
+msgctxt "0011"
+msgid ""
+"I'm not sure I understand your reason for asking,\n"
+"but..."
+msgstr ""
+
+#. なんかあの像の自己主張が強すぎて
+#. 気になるんだよね。
+msgctxt "0012"
+msgid "...there is nothing I can't do, if I so desire."
+msgstr ""
+
+#. あれのせいで、どんな写真撮っても
+#. 同じ構図になっちゃいそうだし。
+msgctxt "0013"
+msgid "..."
+msgstr "..."
+
+#. あの像、被写体にどう？
+msgctxt "0014"
+msgid ""
+"But do you think you are qualified to hear my singing\n"
+"voice in a place like this?"
+msgstr ""
+
+#. ちょっと…それ本気で言ってんの？
+msgctxt "0015"
+msgid "Hmhmhm..."
+msgstr ""
+
+#. あんなわけわかんない像なんか撮って
+#. なにが面白いのよ。
+msgctxt "0016"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 被写体は表情があってナンボでしょ！
+#. アレならまだウサミのがよっぽどマシよ。
+msgctxt "0017"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. 変な像だな
+msgctxt "0018"
+msgid "Karaoke...?"
+msgstr ""
+
+#. あはは、
+#. 日向らしいね。
+msgctxt "0019"
+msgid ""
+"If everyone else is going to join in, then...that\n"
+"might provide some amount of entertainment."
+msgstr ""
+
+#. よし、じゃあ今日は変な像の前で
+#. 変な顔してる日向でも撮ろっか。
+msgctxt "0020"
+msgid "But *only* if everyone else participates."
+msgstr ""
+
+#. で、それをみんなに見てもらって
+#. 笑ってるみんなをまた撮るの。
+msgctxt "0021"
+msgid "Are you confident in your singing voice, Makoto?"
+msgstr ""
+
+#. なんかいい思い出の一枚が撮れそう！
+msgctxt "0022"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. 空が青いな
+msgctxt "0023"
+msgid ""
+"There's no guarantee you will be pleased with how she\n"
+"sounds in person."
+msgstr ""
+
+#. そうだね。
+#. さすが南の島って感じ。
+msgctxt "0024"
+msgid ""
+"What you're used to hearing is filtered, modified, and\n"
+"edited to make it sound as good as possible."
+msgstr ""
+
+#. いいなぁ、この雰囲気。
+#. 写真の撮りがいがあるよ。
+msgctxt "0025"
+msgid ""
+"Performing live requires a different set of abilities\n"
+"entirely."
+msgstr ""
+
+#. 空は青いし、海も綺麗だし…
+#. こういうところって自然と笑顔にしてくれるしね。
+msgctxt "0026"
+msgid ""
+"Set your expectations too high, and there's a very\n"
+"good chance you will be let down."
+msgstr ""
+
+#. 青空と人の笑顔…
+#. あたしの一番好きな組み合わせだな。
+msgctxt "0027"
+msgid "Wanna listen to a CD or something?"
+msgstr ""
+
+#. あの花、被写体にどう？
+msgctxt "0028"
+msgid "If you absolutely insist, I won't stop you."
+msgstr ""
+
+#. …はぁ。
+msgctxt "0029"
+msgid ""
+"But is there some pressing need to listen to something\n"
+"right here and now?"
+msgstr ""
+
+#. 言った事なかったっけ？
+#. アタシ、静物はあんまり興味ないんだけど。
+msgctxt "0030"
+msgid ""
+"Also, if you do put something on, please ensure that\n"
+"it sets the proper mood."
+msgstr ""
+
+#. 花なんか撮るくらいなら
+#. アンタのマヌケ顔でも撮るわよ。
+msgctxt "0031"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. あの像にでも登るか…
+msgctxt "0032"
+msgid "This stage is really nice looking."
+msgstr ""
+
+#. ちょ、ちょっと！
+#. 何バカな事言ってんのよ。
+msgctxt "0033"
+msgid "It is indeed."
+msgstr ""
+
+#. まったくもう…
+#. これだから男ってのは。
+msgctxt "0034"
+msgid "..."
+msgstr "..."
+
+#. 服、汚れたり破れたりするでしょ？
+#. それに、危ないし…
+msgctxt "0035"
+msgid "Oh, is that all you had to say?"
+msgstr ""
+
+#. ああもう、勝手にすれば？
+#. その代わり、シャッターチャンスは逃さないわよ。
+msgctxt "0036"
+msgid ""
+"How am I supposed to react to such a bland,\n"
+"meaningless statement?"
+msgstr ""
+
+#. 何もないとこだな
+msgctxt "0037"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. …だね。
+msgctxt "0038"
+msgid ""
+"I imagine so. I'll have something like this in my own\n"
+"home one day."
+msgstr ""
+
+#. 天気は良いし、良い風も吹いてるけど
+#. あるのはあの変な像だけだし。
+msgctxt "0039"
+msgid "Not that I have any intention of actually playing..."
+msgstr ""
+
+#. しょうがないから変な像の前で
+#. 日向の変な写真でも撮ろっか。
+msgctxt "0040"
+msgid ""
+"It's simply the perfect fit for a European castle.\n"
+"As far as I am concerned, it is a necessity."
+msgstr ""
+
+#. <CLT 04>変なのは確定なのか…<CLT>
+msgctxt "0041"
+msgid ""
+"Which means I should probably start thinking about my\n"
+"potential pianist servants. Hmhm..."
+msgstr ""
+
+#. いい風が吹いてるな
+msgctxt "0042"
+msgid "Maybe we should sing something..."
+msgstr ""
+
+#. うん、良い天気だし爽やかだし…
+msgctxt "0043"
+msgid "You mean, the two of us? A duet? Why?"
+msgstr ""
+
+#. 散歩するにはちょうどいいかもね。
+msgctxt "0044"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

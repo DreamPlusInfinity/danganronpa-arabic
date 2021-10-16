@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "That's the <CLT 3>full truth<CLT> of the case..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Kh...waaaah...!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Sakura...took her own life."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"And you claimed to be the killer to hide that fact,\n"
+"isn't that right?"
+msgstr ""
+
+msgctxt "0005"
+msgid "..."
+msgstr "..."
+
+msgctxt "0006"
+msgid "That's...what happened?"
+msgstr ""
+
+msgctxt "0007"
+msgid "But...Makoto, how did you—?"
+msgstr ""
+
+msgctxt "0008"
+msgid "How did you manage to—?"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"How were you able to uncover the truth...that even I\n"
+"couldn't discern!?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Huh? Oh, well, I mean..."
+msgstr ""
+
+msgctxt "0011"
+msgid "You still haven't realized?"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"We don't all act according to calculations and\n"
+"cost-benefit diagrams. That's what makes us so complicated."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"That's what you don't understand, and that's why you\n"
+"couldn't solve this case."
+msgstr ""
+
+msgctxt "0014"
+msgid "Gh—!"
+msgstr ""
+
+msgctxt "0015"
+msgid "See? Didn't I tell you?"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"When you dismiss other people's feelings, it'll always\n"
+"come back to bite you in the end."
+msgstr ""
+
+msgctxt "0017"
+msgid "..."
+msgstr "..."
+
+msgctxt "0018"
+msgid ""
+"Okay, okay. I think we can all agree you made your\n"
+"point."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"Did you guys forget already!? You still haven't voted\n"
+"yet!"
+msgstr ""
+
+msgctxt "0020"
+msgid "Oh yeah...that's right..."
+msgstr ""
+
+msgctxt "0021"
+msgid "You seriously forgot!?"
+msgstr ""
+
+msgctxt "0022"
+msgid "Urrg...I can feel my energy draining outta me..."
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"Well, whatever. You don't really have a choice,\n"
+"anyway. You just gotta do it!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"Maybe you don't want to, but please grab your lever\n"
+"and cast your vote!"
+msgstr ""
+
+msgctxt "0025"
+msgid "So, who will be chosen as the blackened...?"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"Will you make the right choice, or the dreadfully\n"
+"wrong one...?"
+msgstr ""
+
+msgctxt "0027"
+msgid "What's it gonna be? What's it gonna beeee...?"
+msgstr ""

@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>どうしたんだ？
+#. 急に黙り込んで…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>What's going on? It looks like Sakura's lost in\n"
+"thought...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（…どうしよう）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(What am I thinking...?)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>西園寺の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Sakura's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. そんな事するわけないだろ。
+msgctxt "0007"
+msgid ""
+"Your strength is beyond admirable, but it's okay to\n"
+"rely on other people."
+msgstr ""
+
+#. え…？
+msgctxt "0008"
+msgid "I don't understand..."
+msgstr ""
+
+#. 西園寺、言いたいことがあるなら
+#. はっきり言ってくれよ。
+msgctxt "0009"
+msgid ""
+"I mean yeah, if you're totally dependent on others,\n"
+"that's not good. But..."
+msgstr ""
+
+#. 俺はその…鈍感だからさ。
+msgctxt "0010"
+msgid ""
+"Pushing aside the hand that tries to help you isn't a\n"
+"sign of strength."
+msgstr ""
+
+#. じゃあ…言うけど…
+msgctxt "0011"
+msgid ""
+"...I see. Yes, that would be nothing more than\n"
+"arrogance, wouldn't it?"
+msgstr ""
+
+#. 日向おにぃはそろそろ
+#. 私専属の奴隷になるべきだと思うんだよね。
+msgctxt "0012"
+msgid ""
+"And some truths can only be revealed by binding\n"
+"together the strength of many people, I think."
+msgstr ""
+
+#. …聞くんじゃなかった。
+msgctxt "0013"
+msgid ""
+"In fact, just now I was able to change my perception\n"
+"based on your words."
+msgstr ""
+
+#. そうなんだよな…
+#. なんとなく嫌な予感がするんだよ。
+msgctxt "0014"
+msgid "I have to thank you, Makoto."
+msgstr ""
+
+#. …なんかすっごい失礼な事、
+#. 言われてる気がするんだけど？
+msgctxt "0015"
+msgid "I don't think I can be there for you, Sakura."
+msgstr ""
+
+#. あーあ、あたしはただ日向おにぃに
+#. 私専属の奴隷になって欲しいだけなのにな。
+msgctxt "0016"
+msgid "Your world is just too different from the one I know."
+msgstr ""
+
+#. そんな事だろうと思ったよ…
+msgctxt "0017"
+msgid "...You're right."
+msgstr ""
+
+#. そんな事、あるわけないだろ。
+msgctxt "0018"
+msgid ""
+"Your reaction is only natural. Don't trouble yourself\n"
+"over it."
+msgstr ""
+
+#. え…？
+msgctxt "0019"
+msgid "I'm sorry for troubling you with unnecessary concerns."
+msgstr ""
+
+#. だいたい、お前の事が嫌いだったら、
+#. こんな風に誘って出かけたりするわけないだろ。
+msgctxt "0020"
+msgid ""
+"If there's anything you want to talk about, you can\n"
+"tell me. No matter what it is..."
+msgstr ""
+
+#. そっか…
+msgctxt "0021"
+msgid "Hmm...? What do you mean?"
+msgstr ""
+
+#. …えへへ。
+msgctxt "0022"
+msgid ""
+"I might not always be able to understand the burden\n"
+"you're carrying, but..."
+msgstr ""
+
+#. それじゃ今日は何する？
+#. 私はおにぃと一緒ならなんでもいいよ！
+msgctxt "0023"
+msgid "But I can still listen to you."
+msgstr ""
+
+#. そう…実はそうなんだ。
+msgctxt "0024"
+msgid ""
+"Whatever it is, giving up without doing anything\n"
+"doesn't help anyone."
+msgstr ""
+
+#. え…？
+msgctxt "0025"
+msgid "Makoto..."
+msgstr ""
+
+#. あ、いやその…なんでもない。
+msgctxt "0026"
+msgid ""
+"I-I suppose I caught you unaware. I'm sorry for all of\n"
+"this..."
+msgstr ""
+
+#. ………………
+msgctxt "0027"
+msgid "N-No, you don't have to apologize!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "Please, I feel like I have to, or I won't get past it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "But you know...you're so mysterious."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"For some reason...I have no doubt that you mean what\n"
+"you say."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"Someday, I'll open up to you. I know that's selfish of\n"
+"me to say, but please...just wait."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "You're right. Asking for help is a sign of weakness."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "Indeed. It's just as you say."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "I need to train harder..."
+msgstr ""

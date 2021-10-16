@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. はーい、いらっしゃーい！
+msgctxt "0001"
+msgid "Hmm... So this is..."
+msgstr ""
+
+#. ただ今上映中ですので、
+#. 次回まで５分少々お待ちくださーい！
+msgctxt "0002"
+msgid ""
+"A recreation room. A place for students to come and\n"
+"relax..."
+msgstr ""
+
+#. 上映中って…なんの事だ？
+msgctxt "0003"
+msgid ""
+"I never would've imagined a school having a place like\n"
+"this..."
+msgstr ""
+
+#. その目は誰かに描いて貰ったお飾りかしら？
+#. よく見てみなさいよ、ここは映画館でしょ？
+msgctxt "0004"
+msgid ""
+"Well, no normal school would. It has Othello, shogi,\n"
+"even a dartboard and a pool table..."
+msgstr ""
+
+#. だったら、決まってるじゃないですか！
+#. 映画を上映してるに決まってるじゃないですか！
+msgctxt "0005"
+msgid "And look at this..."
+msgstr ""
+
+#. 映画を上映って…
+msgctxt "0006"
+msgid ""
+"They have even provided us with a remarkable number of\n"
+"magazines."
+msgstr ""
+
+#. いや…聞くまでもないか。
+msgctxt "0007"
+msgid ""
+"Those will certainly be helpful in keeping our boredom\n"
+"at bay."
+msgstr ""
+
+#. どうせ<CLT 03>"トワイライトシンドローム殺人事件"<CLT>みたいに、
+#. これが動機とか言うんだろ？
+msgctxt "0008"
+msgid "Ring ring ring! Hello there! Allow me to expound!"
+msgstr ""
+
+#. 今度こそ絶対に見ないぞ！
+#. なんであろうと俺は絶対に見ないからな！
+msgctxt "0009"
+msgid ""
+"We've got fashion, motorcycles, martials arts, video\n"
+"games, baseball, science, all kinds of magazines!"
+msgstr ""
+
+#. あれまっ！　せっかく招待券あげようと思ったのに！
+msgctxt "0010"
+msgid ""
+"Oh, but nothing dirty! This is a school, after all. If\n"
+"you need a quick fix, check out the swimsuit mags!"
+msgstr ""
+
+#. でも、見ないなんて許しませんよ！
+#. せっかくボクが作った映画なんだから！
+msgctxt "0011"
+msgid ""
+"And will you be adding to our collection as new issues\n"
+"come out?"
+msgstr ""
+
+#. ちゃんと見て貰わないと、ボクが寂しいでしょ！
+msgctxt "0012"
+msgid "Sorry, no can do."
+msgstr ""
+
+#. お前が作った映画なんて…
+#. やっぱり、前のゲームと同じじゃないか。
+msgctxt "0013"
+msgid "Even if I wanted to, right now magazines are kinda..."
+msgstr ""
+
+#. 前のゲームは駄作だったけど、
+#. 今回のはマジで超大作だよ。
+msgctxt "0014"
+msgid "Kinda what...?"
+msgstr ""
+
+#. とにかく、ボクが許可しない限りは、
+#. 見ないなんて選択肢は許しません！
+msgctxt "0015"
+msgid "Oops!"
+msgstr ""
+
+#. アイ・アム・モノクマ！
+#. この島ではオレがルールなのだッ！！
+msgctxt "0016"
+msgid ""
+"Nothing, never mind, no no no! Anyway, that's it for\n"
+"my expoundation. Bye-bye!"
+msgstr ""
+
+#. もし見なかったら…どうするつもりだ？
+msgctxt "0017"
+msgid "..."
+msgstr "..."
+
+#. そんな暴挙を許す訳にはいかない…
+#. 許す訳にはいかない…が…
+msgctxt "0018"
+msgid "What he just said..."
+msgstr ""
+
+#. でも、あそこのグッズ売り場で、
+#. <CLT 03>"モノクマステッカー"<CLT>を購入すれば許してあげるよ。
+msgctxt "0019"
+msgid "I know, right? It bothers me, too..."
+msgstr ""
+
+#. <CLT 04>モノクマステッカー？<CLT>
+msgctxt "0020"
+msgid ""
+"Life here would be that much nicer if he could add\n"
+"some new issues once in a while. How disappointing."
+msgstr ""
+
+#. この超大作を見ないなんて、
+#. そんな暴挙を許す訳にはいかない…
+msgctxt "0021"
+msgid "R-Really...?"
+msgstr ""
+
+#. 許す訳にはいかない…が…
+msgctxt "0022"
+msgid ""
+"It is rather unfortunate about the magazines, but\n"
+"still..."
+msgstr ""
+
+#. でも、あそこのグッズ売り場で、
+#. <CLT 03>"モノクマステッカー"<CLT>を購入すれば許してあげるよ。
+msgctxt "0023"
+msgid ""
+"I do believe our lives will improve significantly\n"
+"thanks to this little hideaway."
+msgstr ""
+
+#. え、えーっと…
+msgctxt "0024"
+msgid ""
+"<CLT 4>These monitors really are everywhere...\n"
+"<CLT>"
+msgstr ""
+
+#. どう日向クン？
+#. 狛枝クンもああ言ってるし、映画見る気になった？
+msgctxt "0025"
+msgid ""
+"There's not much point in worrying about it now. I\n"
+"should try to just forget about it..."
+msgstr ""
+
+#. …なる訳ないだろ！
+msgctxt "0026"
+msgid ""
+"<CLT 4>Assuming I make it out of here alive, I'll never look\n"
+"at surveillance cameras the same way again...\n"
+"<CLT>"
+msgstr ""
+
+#. はぁ…退屈過ぎて疲れたよ…
+msgctxt "0027"
+msgid "Yes"
+msgstr ""
+
+#. お金で済むんだったら…
+#. いっその事それで済ませておけば良かった…
+msgctxt "0028"
+msgid "No"
+msgstr ""
+
+#. 参考までに聞きたいんだが…
+#. もし１５０万円払えば見なくていいって言われたら…
+msgctxt "0029"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""
+
+#. 喜んで払わせてもらうよ。
+msgctxt "0030"
+msgid ""
+"<CLT 4>There are all different kinds of magazines here on the\n"
+"shelf...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>即答か…そこまで酷い内容なんだな。<CLT>
+msgctxt "0031"
+msgid ""
+"<CLT 4>They even have a bunch of monthly comics. But...\n"
+"without getting regular updates, what's the point?\n"
+"<CLT>"
+msgstr ""
+
+#. はぁ…
+#. 退屈すぎて疲れたよ…
+msgctxt "0032"
+msgid ""
+"<CLT 4>There's a copy of Othello here. I'm pretty bad at it,\n"
+"though...\n"
+"<CLT>"
+msgstr ""
+
+#. お金で済むんだったら…
+#. いっそそれで済ませておけば良かった…
+msgctxt "0033"
+msgid ""
+"<CLT 4>There's...even a dartboard. Did Monokuma put this\n"
+"here, or was it always part of the school...?\n"
+"<CLT>"
+msgstr ""
+
+#. ただ今上映中ですので、
+#. 次回まで５分少々お待ちくださーい！
+msgctxt "0034"
+msgid ""
+"<CLT 4>A pool table isn't normal school equipment... Is this\n"
+"thanks to Monokuma, or did the school buy it...?\n"
+"<CLT>"
+msgstr ""
+
+#. …っていうか、見たくないんじゃなかったの？
+msgctxt "0035"
+msgid ""
+"<CLT 4>It's a beat-up old locker.\n"
+"<CLT>"
+msgstr ""
+
+#. ホントは見たいんでしょ？
+#. だったら素直に招待券を受け取ってよ～。
+msgctxt "0036"
+msgid ""
+"<CLT 4>It doesn't seem especially important right now, so I\n"
+"don't need to open it.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんか…カウンターの上に、
+#. 妙なグッズが置いてある…<CLT>
+msgctxt "0037"
+msgid ""
+"<CLT 4>A firm-looking leather couch...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>こっちのは…モノミの顔がプリントされた
+#. 麻の布地のトートバッグみたいだ…<CLT>
+msgctxt "0038"
+msgid ""
+"<CLT 4>It looks pretty comfortable.\n"
+"<CLT>"
+msgstr ""
+
+#. あ、それが気に入っちゃった？
+#. 色んな用途がありそうな万能型トートバッグです！
+msgctxt "0039"
+msgid ""
+"<CLT 4>There's a table here.\n"
+"<CLT>"
+msgstr ""
+
+#. 限定品だよ。
+#. 手に入れられるのはたった１人だけ！
+msgctxt "0040"
+msgid ""
+"<CLT 4>It's kinda similar to the desks in the classroom...but\n"
+"also kinda not.\n"
+"<CLT>"
+msgstr ""
+
+#. ちなみに、トートバッグって、
+#. 当初は氷を運ぶ事を目的として作られたらしいよ。
+msgctxt "0041"
+msgid ""
+"<CLT 4>This looks like some kind of bottle, but...what the\n"
+"heck *is* it?\n"
+"<CLT>"
+msgstr ""
+
+#. …どう？　買っちゃう？
+msgctxt "0042"
+msgid ""
+"<CLT 4>Maybe it's just for decoration or something...\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0043"
+msgid ""
+"<CLT 4>This looks like some kind of bottle, but...what the\n"
+"heck *is* it?\n"
+"<CLT>"
+msgstr ""
+
+#. …いらないな。
+msgctxt "0044"
+msgid ""
+"<CLT 4>Maybe it's just for decoration or something...\n"
+"<CLT>"
+msgstr ""
+
+#. うん、そう言うと思ったよ。
+#. ぶっちゃけ手抜きで作ったヤツだからね。
+msgctxt "0045"
+msgid ""
+"<CLT 4>This looks like some kind of bottle, but...what the\n"
+"heck *is* it?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ぶっちゃけ過ぎだろ…<CLT>
+msgctxt "0046"
+msgid ""
+"<CLT 4>Maybe it's just for decoration or something...\n"
+"<CLT>"
+msgstr ""
+
+#. で、ステッカーってのはコレの事か？
+msgctxt "0047"
+msgid ""
+"<CLT 4>This looks like some kind of bottle, but...what the\n"
+"heck *is* it?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>『バカで生まれて来てスミマセン』<CLT>って…
+msgctxt "0048"
+msgid ""
+"<CLT 4>Maybe it's just for decoration or something...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>笑えないし…意図がわからない…
+#. なんて中途半端なんだ…！<CLT>
+msgctxt "0049"
+msgid ""
+"<CLT 4>This looks like some kind of bottle, but...what the\n"
+"heck *is* it?\n"
+"<CLT>"
+msgstr ""
+
+#. 実は、霊験あらたかな坊さんにお祈りして貰った、
+#. ありがたいステッカーなのですよ！
+msgctxt "0050"
+msgid ""
+"<CLT 4>Maybe it's just for decoration or something...\n"
+"<CLT>"
+msgstr ""
+
+#. …特別に１５０万円でどうだっ！
+msgctxt "0051"
+msgid ""
+"<CLT 4>This looks like some kind of bottle, but...what the\n"
+"heck *is* it?\n"
+"<CLT>"
+msgstr ""
+
+#. ひゃ、１５０万円って…？
+msgctxt "0052"
+msgid ""
+"<CLT 4>Maybe it's just for decoration or something...\n"
+"<CLT>"
+msgstr ""
+
+#. ふざけんな！
+#. 大体、俺は金なんて持ってないぞ！
+msgctxt "0053"
+msgid "Yes"
+msgstr ""
+
+#. じゃあ、ここから出た後の出世払いでもいいよ。
+#. それも嫌なら、やっぱりボクの映画を…
+msgctxt "0054"
+msgid "No"
+msgstr ""
+
+#. ………………
+msgctxt "0055"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""

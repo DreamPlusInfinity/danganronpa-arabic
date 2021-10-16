@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0004"
+msgid "So you're the type who loves Japanese food, huh?"
+msgstr ""
+
+#. ガキじゃあるまいし、
+#. そんなとこ行って何が楽しいんだよ…
+msgctxt "0005"
+msgid ""
+"I'm fine with anything. I don't usually eat a big\n"
+"breakfast, anyway."
+msgstr ""
+
+#. テメー、本当にわかってんのか！？
+#. お化け屋敷だぞ、お化け屋敷！
+msgctxt "0006"
+msgid "Want something to drink?"
+msgstr ""
+
+#. 何が悲しくて、わざわざビビらされに
+#. 行かなきゃなんねーんだよ…
+msgctxt "0007"
+msgid "Oh, thank you!"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0008"
+msgid ""
+"How about we get some cake to go along with our\n"
+"drinks? I saw some in the fridge this morning!"
+msgstr ""
+
+#. ジェットコースターか…
+#. お前、そういうの好きなのか？
+msgctxt "0009"
+msgid ""
+"It had the expiration date listed quite clearly, so I\n"
+"think we should be fine."
+msgstr ""
+
+#. ま、こんなとこで楽しめんのは
+#. それくらいなもんか。
+msgctxt "0010"
+msgid ""
+"Monokuma's kind of considerate, don't you think? Going\n"
+"out of his way to write down the expiration date..."
+msgstr ""
+
+#. …おい、選ぶときはちゃんと
+#. オレの乗れるもんにしやがれよ？
+msgctxt "0011"
+msgid ""
+"<CLT 4>Don't give him too much credit... I just want to hurry\n"
+"up and get out of here!\n"
+"<CLT>"
+msgstr ""
+
+#. 身長制限がどうとか言いやがったら
+#. タダじゃおかねーからな！！
+msgctxt "0012"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0013"
+msgid "Well...I generally prefer a sandwich to a hamburger."
+msgstr ""
+
+#. ………………
+msgctxt "0014"
+msgid ""
+"Not that I hate hamburgers! It's just...junk food is a\n"
+"powerful enemy..."
+msgstr ""
+
+#. …おい、もう一回言ってみろ。
+msgctxt "0015"
+msgid "Sorry, but I'm afraid I'm not interested."
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0016"
+msgid ""
+"<CLT 4>Ah, it must be because of the calories. Being a pop\n"
+"star must be really tough...\n"
+"<CLT>"
+msgstr ""
+
+#. あー、全く同感だぜ。
+msgctxt "0017"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. テメーが言うから来たけどよ、
+#. 入り口見てるだけで疲れてくんな…
+msgctxt "0018"
+msgid "So what do you like to do at night?"
+msgstr ""
+
+#. ま、並ばなくていいだけマシか。
+msgctxt "0019"
+msgid "At...night?"
+msgstr ""
+
+#. ったく、こんなとこの何が楽しいんだか
+#. オレには全然わかんねーけどよ…
+msgctxt "0020"
+msgid "Umm...I'd rather keep that a secret."
+msgstr ""
+
+#. 今日はテメーが楽しませてくれることに
+#. 期待してっからな。
+msgctxt "0021"
+msgid ""
+"Besides, do you really think you should be asking\n"
+"things like that so casually?"
+msgstr ""
+
+#. やっぱり帰るか…
+msgctxt "0022"
+msgid ""
+"Some people might not be too happy getting asked stuff\n"
+"like that..."
+msgstr ""
+
+#. あのなぁ、テメーが来たいつったんだろ。
+msgctxt "0023"
+msgid "Do you have any culinary specialties?"
+msgstr ""
+
+#. オレは別に構わねーけどよ…
+#. 無駄足ってのもイラつくだろーがよ。
+msgctxt "0024"
+msgid "Specialties? Hmm, let's see..."
+msgstr ""
+
+#. せっかく来たんだ、
+#. ちょっとくらい覗いてこうぜ。
+msgctxt "0025"
+msgid "Well, do you have a favorite dish?"
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0026"
+msgid ""
+"<CLT 4>She answered my question with a question. Why does she\n"
+"want to know what my favorite dish is...?\n"
+"<CLT>"
+msgstr ""
+
+#. まぁ、そういう場所だからな。
+msgctxt "0027"
+msgid "Let's make lunch and go eat somewhere!"
+msgstr ""
+
+#. オレはほとんど来た事ねえし、
+#. これからも縁のないとこだろうけどよ…
+msgctxt "0028"
+msgid "Oh, you mean a picnic!?"
+msgstr ""
+
+#. 戦闘開始だ！
+msgctxt "0029"
+msgid "There's plenty of ingredients here, that's for sure..."
+msgstr ""
+
+#. マジかよ…
+#. ウチの妹みてーなこと言いやがって…
+msgctxt "0030"
+msgid ""
+"And I think we're okay to use whatever we want, so I\n"
+"can make just about anything we can think of!"
+msgstr ""
+
+#. アイツもこういうとこに来ると
+#. 人が変わったみてーにはしゃいでたっけな。
+msgctxt "0031"
+msgid "Er, when I actually get good at cooking, that is..."
+msgstr ""
+
+#. その上、分刻みのスケジュール立ててきやがって
+#. どんだけ引きずり回されたことか…
+msgctxt "0032"
+msgid ""
+"But if you're here to help me, I'm sure whatever we\n"
+"make will be great!"
+msgstr ""
+
+#. …まぁ、そんなのも楽しかったけどな。
+msgctxt "0033"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. しかたねーから今日はテメーに付き合ってやるよ。
+msgctxt "0034"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. マスコットはどこだ？
+msgctxt "0035"
+msgid "Umm...hmm... What *should* we talk about?"
+msgstr ""
+
+#. なんだよ、テメーそういうのが趣味か！？
+#. 握手して喜んだりするつもりか！？
+msgctxt "0036"
+msgid "..."
+msgstr "..."
+
+#. はぁ…まあいいけどよ…
+#. ああいうのにはちょっと嫌な思い出があんだよ。
+msgctxt "0037"
+msgid "I-I can't think of anything..."
+msgstr ""
+
+#. マスコットか…
+msgctxt "0038"
+msgid "Hey, is that clock stopped?"
+msgstr ""
+
+#. そういや昔、妹に"着ぐるみ"っつって
+#. 殺されかけたっけな…
+msgctxt "0039"
+msgid ""
+"I don't think it's good to worry about the time too\n"
+"much."
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0040"
+msgid ""
+"What I mean is, if you're always worried about what\n"
+"time it is, doesn't it make you impatient?"
+msgstr ""
+
+#. マジであんなとこまで行くのかよ…
+msgctxt "0041"
+msgid "But while we're in here...outside, they're..."
+msgstr ""
+
+#. まぁ、よくわかんねー乗り物より
+#. 高いとこにでも登る方が楽しいかもしんねーが…
+msgctxt "0042"
+msgid "..."
+msgstr "..."
+
+#. めんどくせーな…
+msgctxt "0043"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. <CLT 04>何を言うか？
+#. <CLT>
+msgctxt "0044"
+msgid "Do I know how to cook?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "Umm...ask me later..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"Although I *have* had a few cooking shows offer to\n"
+"bring me on as a guest, so I've been studying up!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "What about you, Makoto? Do you cook?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

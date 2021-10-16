@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. ラブストーリーは？
+msgctxt "0004"
+msgid "Umm... One...two...three..."
+msgstr ""
+
+#. あ…うん、いいかも。
+msgctxt "0005"
+msgid ""
+"Five! There's five whole chickens! We officially have\n"
+"emergency rations now!"
+msgstr ""
+
+#. 面白いかどうかは別としても、
+#. 資料的価値はあるはずだから。
+msgctxt "0006"
+msgid ""
+"I love fried chicken! And chicken wings. Barbecued\n"
+"chicken. Chicken with rice. Chicken tenders..."
+msgstr ""
+
+#. 私１人だったら絶対に観ないけど、
+#. 一緒なら、後で色々話し合えるし…
+msgctxt "0007"
+msgid ""
+"Chicken teriyaki's good, too! Rotisserie? Bring it on!\n"
+"I wanna eat a whole roasted chicken someday..."
+msgstr ""
+
+#. わからなかったところとか、
+#. 後できくから教えてくれると嬉しいな。
+msgctxt "0008"
+msgid ""
+"*Sigh* Why do so many of my dreams revolve around\n"
+"chicken?"
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0009"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. んー確かに無難な選択だね。
+msgctxt "0010"
+msgid "Yeah! Let's grow some vegetables, just in case!"
+msgstr ""
+
+#. 最悪、シナリオがつまらなくても
+#. アクションに見応えがあれば許せるし…
+msgctxt "0011"
+msgid ""
+"If you just rely on donuts and meat, your nutritional\n"
+"balance is prolly gonna get all outta whack!"
+msgstr ""
+
+#. あ、たまに両方ダメなのもあるけど。
+msgctxt "0012"
+msgid ""
+"That's what gardening is about, right? Growing tons of\n"
+"vegetables?"
+msgstr ""
+
+#. コメディがいいな
+msgctxt "0013"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. コメディ映画ってさ…
+msgctxt "0014"
+msgid ""
+"Are you saying I make you so bored you wanna go to\n"
+"sleep?"
+msgstr ""
+
+#. もし、笑えなかったら…
+#. どうすればいいんだろうね？
+msgctxt "0015"
+msgid "And that's why we came here? Yeah, I get it..."
+msgstr ""
+
+#. カレー味か…
+msgctxt "0016"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. それはちょっと…
+#. 私の想像を遙かに超えた味だね。
+msgctxt "0017"
+msgid "Can we grow fruit here?"
+msgstr ""
+
+#. プレイヤーキャラが女の子固定のＦＰＳで
+#. しかもラブラブ百合エンドがありそうな勢いだよ。
+msgctxt "0018"
+msgid ""
+"Good question! There's trees planted here, so we\n"
+"should investigate!"
+msgstr ""
+
+#. …あれ、なんかそれはちょっと
+#. やってみたくなってきた。
+msgctxt "0019"
+msgid ""
+"Let's find all the fresh fruit and make everyone\n"
+"happy!"
+msgstr ""
+
+#. うん、割とアリだと思うよ。
+msgctxt "0020"
+msgid ""
+"Based on how hot and humid it is here, I'm guessing\n"
+"pineapples? Coconuts?"
+msgstr ""
+
+#. <CLT 04>ゲームとカレー味、どっちの話だよ…<CLT>
+msgctxt "0021"
+msgid "If it's coconuts, we can have Sakura break 'em open!"
+msgstr ""
+
+#. たまにはキャラメルとか
+msgctxt "0022"
+msgid "Man I love coconut juice!"
+msgstr ""
+
+#. キャラメル味のポップコーンって
+#. 誰が最初に考えたんだろうね…
+msgctxt "0023"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. だって、トウモロコシとキャラメルだよ？
+#. っていうことはつまり、キャラメル味の野菜だよ？
+msgctxt "0024"
+msgid "Yeah, totally..."
+msgstr ""
+
+#. もうね、音ゲーとフライトシューティングくらい
+#. 混ぜるな危険って感じが…
+msgctxt "0025"
+msgid ""
+"When you're training in places like this, it's\n"
+"important to stay hydrated!"
+msgstr ""
+
+#. …あれ？　意外とアリかな。
+msgctxt "0026"
+msgid ""
+"Be careful, Makoto! If you pass out here, it's no\n"
+"laughing matter!"
+msgstr ""
+
+#. <CLT 04>アリ…なのか…？<CLT>
+msgctxt "0027"
+msgid "It's a sprinkler..."
+msgstr ""
+
+#. やっぱり塩味だな！
+msgctxt "0028"
+msgid "Hey, um...don't tell anyone, okay?"
+msgstr ""
+
+#. あ、うん。
+#. ポップコーンの話だよね。
+msgctxt "0029"
+msgid ""
+"But I'd love to run around in the sprinklers, ya know?\n"
+"Doesn't it just seem like so much fun?"
+msgstr ""
+
+#. 手が汚れるし、音も気になるから
+#. 私としてはなくても構わないんだけど…
+msgctxt "0030"
+msgid "Is that weird? Ehehe..."
+msgstr ""
+
+#. どうしても食べなきゃならないとしたら
+#. やっぱり塩味がいいと思うよ。
+msgctxt "0031"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>別に無理に食べる事はないと思うけど…<CLT>
+msgctxt "0032"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. ３Ｄか…
+msgctxt "0033"
+msgid "Really? Well...I guess it's way better than nothing."
+msgstr ""
+
+#. あの眼鏡がね…
+#. どうしても気になっちゃうんだよね。
+msgctxt "0034"
+msgid "But I hope I can see the real sky soon..."
+msgstr ""
+
+#. あと、あの手法は作品を選ぶと思う。
+#. ３Ｄじゃなくても十分なのもあるし。
+msgctxt "0035"
+msgid "Let's make some flower garlands!"
+msgstr ""
+
+#. ２Ｄには２Ｄの良さがあると思うんだけどなぁ…
+msgctxt "0036"
+msgid "Huh? A garland...?"
+msgstr ""
+
+#. <CLT 04>映画の話…だよな？<CLT>
+msgctxt "0037"
+msgid "Yeah, okay. We can do that together, right?"
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0038"
+msgid ""
+"But I never thought you'd suggest something like that.\n"
+"You're like a pure maiden, huh?"
+msgstr ""
+
+#. うん…実は私も自信ないんだ。
+msgctxt "0039"
+msgid "Is it cuz of your younger sister, maybe...?"
+msgstr ""
+
+#. どんなに面白かったとしても
+#. こればっかりは習性だからね。
+msgctxt "0040"
+msgid "That flower's kinda creepy..."
+msgstr ""
+
+#. 暗い中でふかふかの椅子に座ってるとね…
+#. どんなに面白くてもうるさくても関係ないんだよ…
+msgctxt "0041"
+msgid "It's so big! It barely fits in my field of vision..."
+msgstr ""
+
+#. はぁ…せめて交互に寝れれば、
+#. 後で内容を教え合えるんだけどなぁ。
+msgctxt "0042"
+msgid ""
+"I feel like it could attack at any second. I don't\n"
+"like it... Let's not get too close, okay?"
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0043"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

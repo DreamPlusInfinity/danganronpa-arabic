@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>軍事施設に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the library...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかよく分からない兵器らしきものが<CLT>
+#. <CLT 04>無造作にうち捨てられている…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's pretty dusty, but I've never seen a place so\n"
+"filled with books and other documents.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm starting to get kinda sleepy..."
+msgstr ""
+
+#. やっぱり違う場所に行こう
+msgctxt "0004"
+msgid "You too, huh?"
+msgstr ""
+
+#. フン、怖じ気づいたのか？
+msgctxt "0005"
+msgid ""
+"What else would you do here besides sleep? This is the\n"
+"first time I've even spent much time in a library..."
+msgstr ""
+
+#. だがまぁ…いいだろう。
+#. 俺様も特別用事がある場所ではない。
+msgctxt "0006"
+msgid "But I could definitely use a nice, strong power nap."
+msgstr ""
+
+#. …とんだ時間の無駄だったな。
+msgctxt "0007"
+msgid "What do you think I should read to get me in the mood?"
+msgstr ""
+
+#. 嫌な感じだな
+msgctxt "0008"
+msgid "You wanna read something?"
+msgstr ""
+
+#. どうした？
+#. まさか、この場所に恐れをなしたのか？
+msgctxt "0009"
+msgid "Reading just makes me depressed."
+msgstr ""
+
+#. フッ…そう怯えなくとも、
+#. ここにあるのは抜け殻ばかりだ。
+msgctxt "0010"
+msgid ""
+"Now if you've got a comic filled with action and\n"
+"fighting, then I'm totally down!"
+msgstr ""
+
+#. それにこの程度の兵器では
+#. この俺様に傷一つつける事はできん。
+msgctxt "0011"
+msgid "Maybe we should study..."
+msgstr ""
+
+#. 安心してはしゃぎまわるがいい！
+msgctxt "0012"
+msgid "The hell?"
+msgstr ""
+
+#. ちょっとわくわくするな
+msgctxt "0013"
+msgid ""
+"You wanna study, go ahead. I'll go find somewhere to\n"
+"lay down."
+msgstr ""
+
+#. わくわく…だと…？
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 貴様…そんな戯言を言うために
+#. 俺様をここへ連れてきたのか…？
+msgctxt "0015"
+msgid "This place is pretty relaxing."
+msgstr ""
+
+#. そういう仲良しごっこは
+#. 同じレベルの人間どもとするんだな…
+msgctxt "0016"
+msgid "My spine is kinda...tingly."
+msgstr ""
+
+#. 戦車に乗ろう
+msgctxt "0017"
+msgid "This isn't calming! It's totally depressing!"
+msgstr ""
+
+#. そうだな…
+msgctxt "0018"
+msgid "Don't they have any comics here?"
+msgstr ""
+
+#. 貴様の棺桶としては上等だろう。
+msgctxt "0019"
+msgid "Hah! You and me, man. We're on the same wavelength."
+msgstr ""
+
+#. <CLT 04>興味なさそうだな…<CLT>
+msgctxt "0020"
+msgid "Okay, let's start our search!"
+msgstr ""
+
+#. 戦闘機はあるかな
+msgctxt "0021"
+msgid ""
+"There's enough books here, at least one comic had to\n"
+"sneak its way in here!"
+msgstr ""
+
+#. 戦闘力は申し分ないが…
+#. 所詮、俺様の使役する怪鳥の敵ではない。
+msgctxt "0022"
+msgid "Do they have any good fiction here...?"
+msgstr ""
+
+#. …とはいえ、背に乗るにはもう少し
+#. 成長を待たねばならんがな。
+msgctxt "0023"
+msgid ""
+"Fiction? You're talking about books, right? Filled\n"
+"with letters and words and shit?"
+msgstr ""
+
+#. この島に来る数日前に生まれたばかりでな、
+#. この俺様の後をついて歩く可愛い奴だ…
+msgctxt "0024"
+msgid "That's just gonna put ya to sleep, man."
+msgstr ""
+
+#. 今頃、どうしていることか…
+msgctxt "0025"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 軍艦はどこだ？
+msgctxt "0026"
+msgid "There's an envelope sitting there..."
+msgstr ""
+
+#. …軍艦だろうがなんだろうが、船があれば
+#. とうに島を脱出しているのではないか？
+msgctxt "0027"
+msgid "Envelope? Oh, yeah..."
+msgstr ""
+
+#. <CLT 04>そう言われてみれば…<CLT>
+msgctxt "0028"
+msgid "Is there somethin' special about it?"
+msgstr ""
+
+#. 燃料を探そう
+msgctxt "0029"
+msgid "Is that camera on...?"
+msgstr ""
+
+#. ほう…
+#. 貴様にしてはなかなか有益なことを言う。
+msgctxt "0030"
+msgid "Oh, that thing. Yeah, they're all over the place."
+msgstr ""
+
+#. 悪くない提案だ。
+#. 我が儀式にも炎は必要だからな。
+msgctxt "0031"
+msgid "Monokuma's watching us wherever we go, isn't he?"
+msgstr ""
+
+#. いいだろう、もし見つかれば、
+#. 砂浜で盛大に焚くとしようではないか！
+msgctxt "0032"
+msgid "Man that guy really pisses me off...!"
+msgstr ""
+
+#. 他のゴミどもにも特別に
+#. 周囲を取り巻く事を許可してやるとしよう！
+msgctxt "0033"
+msgid "Why'd you hafta go and remind me about all that shit?"
+msgstr ""
+
+#. <CLT 04>それキャンプファイヤーって言わないか…？<CLT>
+msgctxt "0034"
+msgid "This is a pretty nice desk."
+msgstr ""
+
+#. 武器を探そう
+msgctxt "0035"
+msgid ""
+"Damn, yeah. It's like, rock hard. I guess that's what\n"
+"Hope's Peak is all about..."
+msgstr ""
+
+#. ほう？
+#. 貴様の目当てはそれか。
+msgctxt "0036"
+msgid "Anything less and it'd break in no time, right?"
+msgstr ""
+
+#. 何に使う気かは知らないが、
+#. それにはうってつけの場所だろう。
+msgctxt "0037"
+msgid ""
+"You always want something that can stand up to plenty\n"
+"of good punches, kicks, and headbutts!"
+msgstr ""
+
+#. 人間共のひ弱な兵器などに興味はないが、
+#. 切れ味の良いナイフと砥石には俺様も用がある。
+msgctxt "0038"
+msgid ""
+"<CLT 4>Nobody but you, Mondo...\n"
+"<CLT>"
+msgstr ""
+
+#. そろそろ魔獣共の爪を
+#. 切ってやらねばならんからな…
+msgctxt "0039"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

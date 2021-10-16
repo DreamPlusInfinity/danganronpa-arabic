@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 我が祖国は
+#. この海の遙か向こう…
+msgctxt "0001"
+msgid "Why...?"
+msgstr ""
+
+#. …いやですわ、
+#. 王女ともあろう者が。
+msgctxt "0002"
+msgid ""
+"Why is M-Makoto spending\n"
+"so much time w-with me?"
+msgstr ""
+
+#. ホームシックだなんて
+#. <CLT 17>情けない<CLT>…
+msgctxt "0003"
+msgid ""
+"Does he have some\n"
+"k-kind of...ulterior motive?"
+msgstr ""
+
+#. でも…
+#. どうしてこんなに心細いのかしら。
+msgctxt "0004"
+msgid "He better n-not...!"
+msgstr ""
+
+#. 王女としてのわたくしと…
+msgctxt "0005"
+msgid ""
+"Or...could\n"
+"it be <CLT 9>s-something else<CLT>?"
+msgstr ""
+
+#. ただの女としてのわたくし…
+msgctxt "0006"
+msgid "Nng...I d-don't understand..."
+msgstr ""
+
+#. ２人の自分の間で
+#. 揺れ動いている…
+msgctxt "0007"
+msgid ""
+"He's m-making me start\n"
+"to have all kinds of\n"
+"<CLT 9>p-pointless expectations<CLT>..."
+msgstr ""
+
+#. 日向さんなら<CLT 17>決めてくれる<CLT>の…？
+msgctxt "0008"
+msgid "Why's he t-taking this so far?"
+msgstr ""
+
+#. 今のわたくしは
+#. どちらを優先すべきなのか…
+msgctxt "0009"
+msgid "Is he trying to make a f-fool of me!?"
+msgstr ""

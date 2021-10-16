@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "The dressing room...!?"
+msgstr ""
+
+msgctxt "0002"
+msgid "So the \"something else\" you mentioned...!"
+msgstr ""
+
+msgctxt "0003"
+msgid "That's right. It has to do with <CLT 3>Alter Ego<CLT>."
+msgstr ""
+
+msgctxt "0004"
+msgid "But...you said we didn't need Alter Ego anymore."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"I didn't say we didn't need him. I just said he had\n"
+"done his job."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Besides, it's not us that needs Alter Ego. *He* has\n"
+"business with *us*."
+msgstr ""
+
+msgctxt "0007"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Alter Ego asked me to bring others to come see him."
+msgstr ""
+
+msgctxt "0009"
+msgid "Apparently he has something he <CLT 3>wants to ask us<CLT>."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT 4>Alter Ego...wants to ask us something?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "Alter Ego asked me to bring others to come see him."
+msgstr ""
+
+msgctxt "0012"
+msgid "Apparently he has something he <CLT 3>wants to ask us<CLT>."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT 4>Alter Ego...wants to ask us something?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT 4>The laptop isn't in here anymore. Now it's sitting on\n"
+"the chair...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>I could really stand to take a bath. But I don't think\n"
+"that's a good idea right now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "...Hello."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Oh, um...so it's just the two of you?\n"
+"Kyoko and Makoto?"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT 4>Kyoko's fingers glided across the keyboard.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT 23>\"Is two not enough?\"\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "No, it's okay! Two should be plenty."
+msgstr ""
+
+msgctxt "0021"
+msgid "But what is it he wants to ask us?"
+msgstr ""
+
+msgctxt "0022"
+msgid "Let's find out, shall we?"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>Kyoko typed in the question.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 23>\"What did you want to ask us?\"\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid "Oh yeah, so..."
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"I'd like you to take me somewhere where you can\n"
+"connect me to the school <CLT 3>network<CLT>."
+msgstr ""
+
+msgctxt "0027"
+msgid "...What?"
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT 4>Kyoko and I quickly glanced at each other.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"<CLT 4>She replied...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"<CLT 23>\"Why?\"\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0031"
+msgid "Well, um..."
+msgstr ""
+
+msgctxt "0032"
+msgid "You said my job was done, right?"
+msgstr ""
+
+msgctxt "0033"
+msgid "But...to just stop here..."
+msgstr ""
+
+msgctxt "0034"
+msgid "Saying I've finished my work..."
+msgstr ""
+
+msgctxt "0035"
+msgid "I don't want that!"
+msgstr ""
+
+msgctxt "0036"
+msgid "I want to keep being helpful to everyone."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"I want to work as hard as everyone else so that we can\n"
+"all get out of here!"
+msgstr ""
+
+msgctxt "0038"
+msgid "That's...what Master would want, too."
+msgstr ""
+
+msgctxt "0039"
+msgid "So...to help everyone else..."
+msgstr ""
+
+msgctxt "0040"
+msgid "To solve the mystery of this school..."
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"The only way I can help is if you connect me to this\n"
+"school's network!"
+msgstr ""
+
+msgctxt "0042"
+msgid "B-But...if you did that..."
+msgstr ""
+
+msgctxt "0043"
+msgid "...that's basically suicide."
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"I'm positive the mastermind would find out about it.\n"
+"They'd find you, and they'd..."
+msgstr ""
+
+msgctxt "0045"
+msgid "You agree, right Kyoko?"
+msgstr ""
+
+msgctxt "0046"
+msgid "..."
+msgstr "..."
+
+msgctxt "0047"
+msgid "I realize how dangerous it could be."
+msgstr ""
+
+msgctxt "0048"
+msgid "But still...I have to do this."
+msgstr ""
+
+msgctxt "0049"
+msgid "I'm scared, but...I can handle it."
+msgstr ""
+
+msgctxt "0050"
+msgid "I...don't really understand why, but..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"When I think about everyone else, my courage starts to\n"
+"grow...!"
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"You might think I'm just some inhuman AI, but it's\n"
+"true!"
+msgstr ""
+
+msgctxt "0053"
+msgid "So...it's okay."
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"If it's for the sake of everyone else, I won't be\n"
+"afraid!"
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"<CLT 4>I couldn't help but get lost in that voice...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"<CLT 4>It was just too committed...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT 4>Too admirable...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"<CLT 4>Too...fragile.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0059"
+msgid "You remember what you asked before, Makoto?"
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"You asked what the difference is between a person and\n"
+"a program, right?"
+msgstr ""
+
+msgctxt "0061"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "0062"
+msgid "When I talk to Alter Ego, I don't know..."
+msgstr ""
+
+msgctxt "0063"
+msgid "I have no idea how to answer that question."
+msgstr ""
+
+msgctxt "0064"
+msgid ""
+"I think maybe that's a question even the program's\n"
+"creator can't answer."
+msgstr ""
+
+msgctxt "0065"
+msgid "But I can say this..."
+msgstr ""
+
+msgctxt "0066"
+msgid "There's no question that Alter Ego is our <CLT 3>friend<CLT>."
+msgstr ""
+
+msgctxt "0067"
+msgid "Kyoko..."
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"To be honest, I didn't want Alter Ego to push himself\n"
+"anymore."
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"Because if we take any more risks, the mastermind\n"
+"really will notice it..."
+msgstr ""
+
+msgctxt "0070"
+msgid "But..."
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"Let's do it, Makoto. Let's connect Alter Ego to the\n"
+"network."
+msgstr ""
+
+msgctxt "0072"
+msgid "B-But...!"
+msgstr ""
+
+msgctxt "0073"
+msgid ""
+"He's our friend, so I want to take his feelings into\n"
+"consideration."
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"And he says that he wants to fight alongside his\n"
+"friends."
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"If you were in his place, could you just sit by and do\n"
+"nothing in this situation?"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"If you saw everyone else fighting and doing their\n"
+"best, could you just look the other way?"
+msgstr ""
+
+msgctxt "0077"
+msgid "Or would you stand up?"
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"Stand up tall next to everyone else and tell them\n"
+"you're their friend?"
+msgstr ""
+
+msgctxt "0079"
+msgid "..."
+msgstr "..."
+
+msgctxt "0080"
+msgid "Hey, are you guys...fighting?"
+msgstr ""
+
+msgctxt "0081"
+msgid "If it's about me, please don't."
+msgstr ""
+
+msgctxt "0082"
+msgid "I...I want to believe in myself."
+msgstr ""
+
+msgctxt "0083"
+msgid "I want to be able to say, \"I know I can do this.\""
+msgstr ""
+
+msgctxt "0084"
+msgid "So please...let me try!"
+msgstr ""
+
+msgctxt "0085"
+msgid "..."
+msgstr "..."
+
+msgctxt "0086"
+msgid ""
+"And besides...there's one place where the mastermind\n"
+"might not notice..."
+msgstr ""
+
+msgctxt "0087"
+msgid "One place...?"
+msgstr ""
+
+msgctxt "0088"
+msgid ""
+"Remember? There's another place besides here where\n"
+"there's no surveillance camera."
+msgstr ""
+
+msgctxt "0089"
+msgid "The secret room"
+msgstr ""
+
+msgctxt "0090"
+msgid "The A/V room"
+msgstr ""
+
+msgctxt "0091"
+msgid ""
+"<CLT 4>The A/V room!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0092"
+msgid ""
+"<CLT 4>Wait, no...I'm pretty sure there *is* a surveillance\n"
+"camera there...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0093"
+msgid "The music room"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"<CLT 4>That's it! The music room!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0095"
+msgid ""
+"<CLT 4>Agh, now's no time to lose my concentration...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0096"
+msgid ""
+"<CLT 4>A room without a surveillance camera...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0097"
+msgid "That's it! The <CLT 3>secret room<CLT> you told me about...!"
+msgstr ""
+
+msgctxt "0098"
+msgid ""
+"I definitely remember there was no surveillance camera\n"
+"in there."
+msgstr ""
+
+msgctxt "0099"
+msgid ""
+"And I do believe you can connect to the network from\n"
+"there."
+msgstr ""
+
+msgctxt "0100"
+msgid "I remember seeing an ethernet port on the wall."
+msgstr ""
+
+msgctxt "0101"
+msgid ""
+"However, just because there's no camera there, doesn't\n"
+"mean there's no danger."
+msgstr ""
+
+msgctxt "0102"
+msgid ""
+"There's no way to be sure the mastermind isn't\n"
+"monitoring the network somehow."
+msgstr ""
+
+msgctxt "0103"
+msgid ""
+"We'll also have to move Alter Ego, and the mastermind\n"
+"may spot us going into the secret room."
+msgstr ""
+
+msgctxt "0104"
+msgid "If they pick up on any of this, then...it's all over."
+msgstr ""
+
+msgctxt "0105"
+msgid "You're right..."
+msgstr ""
+
+msgctxt "0106"
+msgid "But despite all that, I still think we need to try."
+msgstr ""
+
+msgctxt "0107"
+msgid ""
+"Because that's our best chance of finding any new\n"
+"clues."
+msgstr ""
+
+msgctxt "0108"
+msgid "..."
+msgstr "..."
+
+msgctxt "0109"
+msgid "Kyoko..."
+msgstr ""
+
+msgctxt "0110"
+msgid "In that case...will you let me carry him?"
+msgstr ""
+
+msgctxt "0111"
+msgid ""
+"There's no way you could hide him with what you're\n"
+"wearing, right? So let me do it."
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"Okay then, I'll leave it to you.\n"
+"...Thank you."
+msgstr ""
+
+msgctxt "0113"
+msgid "Then let's get started."
+msgstr ""
+
+msgctxt "0114"
+msgid ""
+"It's gonna be a little cramped for you, Alter Ego.\n"
+"Bear with us, okay?"
+msgstr ""
+
+msgctxt "0115"
+msgid ""
+"<CLT 4>We started packing him up right away.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0116"
+msgid ""
+"<CLT 4>I closed the laptop and stuffed it underneath my\n"
+"jacket.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0117"
+msgid "Ahaha! I-It tickles!"
+msgstr ""
+
+msgctxt "0118"
+msgid "Shh! You can't talk right now!"
+msgstr ""
+
+msgctxt "0119"
+msgid ""
+"We're going to move you to another room. Until we get\n"
+"there, you have to be absolutely silent, okay?"
+msgstr ""
+
+msgctxt "0120"
+msgid "Understood. Your command has been implemented."
+msgstr ""
+
+msgctxt "0121"
+msgid "G-Good..."
+msgstr ""
+
+msgctxt "0122"
+msgid ""
+"<CLT 4>To have him react like a machine like that all of a\n"
+"sudden... I didn't know how to react.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0123"
+msgid ""
+"In the secret room, there are a bunch of different\n"
+"<CLT 3>cables<CLT> in one of the <CLT 3>desk drawers<CLT>."
+msgstr ""
+
+msgctxt "0124"
+msgid "So there might be a network cable in there?"
+msgstr ""
+
+msgctxt "0125"
+msgid "Assuming the mastermind hasn't taken it already..."
+msgstr ""
+
+msgctxt "0126"
+msgid "Well, all we can do is go and check for ourselves."
+msgstr ""
+
+msgctxt "0127"
+msgid "Agreed. Let's head to the secret room..."
+msgstr ""
+
+msgctxt "0128"
+msgid ""
+"<CLT 4>The massage chair...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0129"
+msgid ""
+"<CLT 4>I don't think it matters right now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0130"
+msgid ""
+"<CLT 4>The massage chair...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0131"
+msgid ""
+"<CLT 4>It looks pretty old.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0132"
+msgid ""
+"<CLT 4>There's no point in leaving now.\n"
+"<CLT>"
+msgstr ""

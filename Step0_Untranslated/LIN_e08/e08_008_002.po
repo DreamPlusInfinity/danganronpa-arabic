@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. あーあ、ホテルの部屋が立派過ぎて
+#. 落ち着かねーぜ…
+msgctxt "0001"
+msgid "Who set all this up? And why did they choose us?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0002"
+msgid "There are so many mysteries..."
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0003"
+msgid "Spend some time with Kyoko"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 終里を誘ってみるか？<CLT>
+msgctxt "0004"
+msgid "Go see who else is around"
+msgstr ""
+
+#. どっか、オレが落ち着ける場所を探すか！
+#. オメーも付き合えよ！
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hmm... Should I talk to Kyoko for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>終里の落ち着ける場所を探して
+#. 島を彷徨して過ごした。<CLT>
+msgctxt "0006"
+msgid ""
+"I'm in no position to tell you what to do. You're free\n"
+"to do as you wish, right?"
+msgstr ""
+
+#. <CLT 04>終里と少し仲良くなれた気がする…<CLT>
+msgctxt "0007"
+msgid "But I have my own way of doing things."
+msgstr ""
+
+#. 渡す
+msgctxt "0008"
+msgid ""
+"<CLT 4>I joined Kyoko while she searched the school. We\n"
+"didn't say anything to each other...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0009"
+msgid ""
+"<CLT 4>Kyoko and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0010"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Kyoko a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

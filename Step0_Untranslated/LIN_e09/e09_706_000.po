@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. よし、ゴミ拾いだ
+msgctxt "0004"
+msgid "Me, too. I love music!"
+msgstr ""
+
+#. なんと…！
+msgctxt "0005"
+msgid ""
+"When I'm doing a reading, I use music to set the mood\n"
+"and reel them in."
+msgstr ""
+
+#. お前さんが本気なら、
+#. ワシも手を貸さんわけにはいかんな…
+msgctxt "0006"
+msgid "That's one of the most important parts!"
+msgstr ""
+
+#. そうと決まれば、まずはあの邪魔くさい像から
+#. 撤去するかのう！
+msgctxt "0007"
+msgid ""
+"The people who come to see me totally fall for stuff\n"
+"like that, ya know."
+msgstr ""
+
+#. <CLT 04>あれもゴミ扱いなのか…<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>He says that stuff like it's normal...\n"
+"<CLT>"
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0009"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. 応！
+#. たまには座ってゆっくり語らうのも悪くないな！
+msgctxt "0010"
+msgid ""
+"The only instrument I play is firecrackers. Which, I\n"
+"realize, does not count as an instrument..."
+msgstr ""
+
+#. なんなら寝そべっても構わんぞ！
+#. たっぷりアレしてやるからのう！
+msgctxt "0011"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. そうしたらその後はもちろん
+#. みっちりトレーニングじゃあ！
+msgctxt "0012"
+msgid "Nah, no thanks. Super loud, super boring."
+msgstr ""
+
+#. <CLT 04>トレーニングって何のなんだ…<CLT>
+msgctxt "0013"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. いい景色だな
+msgctxt "0014"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. うーむ…確かにそうなんじゃが…
+msgctxt "0015"
+msgid "That's a good way to relax, for sure."
+msgstr ""
+
+#. 妙な像があるだけで、ベンチも遊具もないとは
+#. いささか物足りん公園じゃのう…
+msgctxt "0016"
+msgid ""
+"But I can't imagine going to karaoke with any of the\n"
+"people here, ya know?"
+msgstr ""
+
+#. よし、ランニングだ
+msgctxt "0017"
+msgid ""
+"Mondo and Toko would probably just say how much they\n"
+"hate singing."
+msgstr ""
+
+#. うむ、公園でするトレーニングと言えば
+#. やはりランニングが定番じゃな！
+msgctxt "0018"
+msgid "And Byakuya's probably totally tone-deaf!"
+msgstr ""
+
+#. まずは軽く５０周程度から始めるかのう。
+msgctxt "0019"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. ワシがいつでもアレしてやるから
+#. 心置きなく己の限界に挑むといいぞ！
+msgctxt "0020"
+msgid ""
+"A live performance from a super popular pop star!\n"
+"Now that'd be something to look forward to."
+msgstr ""
+
+#. さぁ、遠慮せずにブッ倒れてこいやぁぁぁ！
+msgctxt "0021"
+msgid "We can record it and sell a limited edition!"
+msgstr ""
+
+#. <CLT 04>まぁ、頑張るしかないか…<CLT>
+msgctxt "0022"
+msgid "W-Wait, no, you didn't hear that!"
+msgstr ""
+
+#. あの像、気になるな…
+msgctxt "0023"
+msgid "You could hold a huge seminar here..."
+msgstr ""
+
+#. うむ、なんとも邪魔な像じゃのう。
+msgctxt "0024"
+msgid ""
+"What!? Makoto, do you already belong to another\n"
+"organization!?"
+msgstr ""
+
+#. あれさえなければ、もっと有効なグラウンドとして
+#. 使えるんじゃが…
+msgctxt "0025"
+msgid "You—you traitor!"
+msgstr ""
+
+#. トレーニングするなら他の場所の方が
+#. いいかもしれんな。
+msgctxt "0026"
+msgid ""
+"<CLT 4>What is he talking about...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>そんな予定は特にないんだけど…<CLT>
+msgctxt "0027"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0028"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. 何ィ！？
+#. このワシを前にいきなり昼寝じゃと…！？
+msgctxt "0029"
+msgid "Don't do it, Makoto! Don't you dare!"
+msgstr ""
+
+#. そんなヒマがあったら
+#. とっとと筋トレでも始めんかい！
+msgctxt "0030"
+msgid ""
+"All of us, in this enclosed space, chanting together!\n"
+"That's gonna summon a demon for sure!"
+msgstr ""
+
+#. 公園と言えばトイレ…
+msgctxt "0031"
+msgid ""
+"<CLT 4>Who said anything about chanting...?\n"
+"<CLT>"
+msgstr ""
+
+#. む…その名を聞いたら急にもよおしてきたぞ…
+msgctxt "0032"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. よし、親睦を深めるためにも
+#. 一緒に行くとしようかのう！
+msgctxt "0033"
+msgid ""
+"This is a school full of privilege, right? So\n"
+"everything in it's gotta be pretty valuable."
+msgstr ""
+
+#. わはは、恥ずかしがる事はないぞぅ！
+#. どうせワシの行き先は個室じゃからな！
+msgctxt "0034"
+msgid ""
+"But to get all this stuff, and keep it in working\n"
+"order, and then bring all of us in..."
+msgstr ""
+
+#. さあぁ、行くぞぉぉぉ！
+msgctxt "0035"
+msgid "What the hell have they got planned for us?"
+msgstr ""
+
+#. <CLT 04>問答無用かよ…<CLT>
+msgctxt "0036"
+msgid "What if we get involved in some serious trouble!?"
+msgstr ""
+
+#. 公園と言えば野球…
+msgctxt "0037"
+msgid ""
+"Oh, wait! We're *already* in serious trouble!\n"
+"Hahaha! Stupid me..."
+msgstr ""
+
+#. キャッチボール程度ならやれん事もないがのう。
+msgctxt "0038"
+msgid "Can you use music to tell fortunes?"
+msgstr ""
+
+#. しかし設備のない公園で球技の練習をするのはちと
+#. マナー違反な気もするからな。
+msgctxt "0039"
+msgid ""
+"Actually, I met a fellow clairvoyant a few years back\n"
+"who said he was gonna get into that kinda thing."
+msgstr ""
+
+#. この島にもバッティングセンターくらい
+#. あればよかったんじゃが…
+msgctxt "0040"
+msgid ""
+"He said he was gonna call it Prog Rock\n"
+"Prognostication."
+msgstr ""
+
+#. まぁ諦めて他のトレーニングに
+#. 精を出す方がいいと思うぞ！
+msgctxt "0041"
+msgid ""
+"Even the tight-knit world of fortune-telling is\n"
+"starting to come apart at the seams these days!"
+msgstr ""
+
+#. 公園と言えばサッカー…
+msgctxt "0042"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

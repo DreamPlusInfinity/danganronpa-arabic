@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like he had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 楽しい時間ほど早く過ぎるっていうのは
+#. 本当なんだね。
+msgctxt "0002"
+msgid ""
+"We spent some very meaningful time together! Every day\n"
+"should be more like this!"
+msgstr ""
+
+#. なんの不運もなくただ楽しいだけなんて…
+#. なんだか少し怖い気もするな。
+msgctxt "0003"
+msgid ""
+"A day like today will never come around again. But\n"
+"then again...no two days are really ever the same."
+msgstr ""
+
+#. だって、知人の１人や２人死んじゃっても
+#. おかしくないくらいの幸運を味わってるんだからね！
+msgctxt "0004"
+msgid ""
+"Well, I'll never regret the time I spent with you.\n"
+"We have to live each day to its fullest!"
+msgstr ""
+
+#. …なんて物騒な想像はやめてそろそろ帰ろうか。
+#. ボクたちの愛の巣へ！
+msgctxt "0005"
+msgid "Okay, I'd better get back to my room. Come on, Makoto!"
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 日向クン、今日はボクなんかを誘ってくれて
+#. 本当にありがとう。
+msgctxt "0007"
+msgid "That wasn't too bad, huh Makoto?"
+msgstr ""
+
+#. 少しはキミも楽しんでくれたなら
+#. いいんだけど。
+msgctxt "0008"
+msgid ""
+"Even being trapped here, if you just give up then\n"
+"you can never really grow."
+msgstr ""
+
+#. こんなゴミ虫みたいなボクでよかったら
+#. また声をかけてくれると嬉しいよ。
+msgctxt "0009"
+msgid ""
+"Let's find whatever mental escape we can in here, and\n"
+"just focus on that!"
+msgstr ""
+
+#. さて、それじゃあそろそろ帰ろう。
+msgctxt "0010"
+msgid "Okay, time to get back to my room!"
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>I get the feeling he didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. はぁ…
+#. なんかやけに疲れたよ。
+msgctxt "0012"
+msgid "I wasted so much time..."
+msgstr ""
+
+#. キミとでかけるのはもう少し楽しいかと思ったけど
+#. 案外期待はずれだったみたいだね。
+msgctxt "0013"
+msgid ""
+"If we do hang out again, I'd like to do something more\n"
+"productive next time."
+msgstr ""
+
+#. それじゃ。
+msgctxt "0014"
+msgid "Okay, I'm gonna head out now. See ya!"
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>Crap... I don't think things went too well...\n"
+"<CLT>"
+msgstr ""
+
+#. 日向クン…
+#. ボクはどうやら勘違いしてたみたいだよ。
+msgctxt "0016"
+msgid "Hrrrg..."
+msgstr ""
+
+#. 少しはキミに好かれてるかもなんて…
+#. はは、身の程知らずもいいところだったね。
+msgctxt "0017"
+msgid ""
+"If I knew it was gonna turn out like this, I would've\n"
+"spent the time studying by myself in my room...!"
+msgstr ""
+
+#. でもきっと、今日のこの不幸も
+#. 幸運への布石に違いない…
+msgctxt "0018"
+msgid "No, there's still time! It's not too late!"
+msgstr ""
+
+#. そう思う事にするよ。
+#. それじゃ…
+msgctxt "0019"
+msgid "I have to go now, Makoto!"
+msgstr ""

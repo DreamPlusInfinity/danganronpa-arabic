@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "No..."
+msgstr ""
+
+msgctxt "0002"
+msgid "No...!"
+msgstr ""
+
+msgctxt "0003"
+msgid "What's wrong, Chihiro?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Ahh, it hurts..."
+msgstr ""
+
+msgctxt "0005"
+msgid "Huh? Did you get hurt, Chihiro?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Oh, well...not really."
+msgstr ""
+
+msgctxt "0007"
+msgid "I <CLT 3>got bit by a mosquito<CLT> last night."
+msgstr ""
+
+msgctxt "0008"
+msgid "A mosquito...?"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"Oh, I figured something serious had happened, since\n"
+"you were saying how it hurt."
+msgstr ""
+
+msgctxt "0010"
+msgid "Oh, did I give you the wrong impression...?"
+msgstr ""
+
+msgctxt "0011"
+msgid "S-Sorry...!"
+msgstr ""
+
+msgctxt "0012"
+msgid "You don't have to apologize. It was my own fault."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"But you said it hurts? Did it really bite\n"
+"you that hard?"
+msgstr ""
+
+msgctxt "0014"
+msgid "Yeah, see? Look."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>She held out her arm. The huge red bump stood out\n"
+"clearly against her pale skin.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "Holy cow!"
+msgstr ""
+
+msgctxt "0017"
+msgid "It's way past itchy now. It really hurts...!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"But why's it so big? Did it bite you while you were\n"
+"sleeping or something?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Oh, no. I was awake."
+msgstr ""
+
+msgctxt "0020"
+msgid "But you didn't notice?"
+msgstr ""
+
+msgctxt "0021"
+msgid "No, I noticed. But..."
+msgstr ""
+
+msgctxt "0022"
+msgid "But what?"
+msgstr ""
+
+msgctxt "0023"
+msgid "Well, I felt it bite me, and I looked down at it."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"But I didn't do anything. I just sat there and watched\n"
+"it suck my blood..."
+msgstr ""
+
+msgctxt "0025"
+msgid "You just watched? Why didn't you smack it?"
+msgstr ""
+
+msgctxt "0026"
+msgid "Cuz...that would've killed it, right?"
+msgstr ""
+
+msgctxt "0027"
+msgid "Well yeah, but..."
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"It must have been really hungry to suck that much\n"
+"blood."
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"If it was that hungry, it would've been really sad not\n"
+"to let it have anything."
+msgstr ""
+
+msgctxt "0030"
+msgid "But...it's just a mosquito."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"Mosquitos are living things too, though. It might have\n"
+"its own mosquito family..."
+msgstr ""
+
+msgctxt "0032"
+msgid "S-Sorry, I know that's dumb..."
+msgstr ""
+
+msgctxt "0033"
+msgid "No, really, you don't have to apologize."
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"But don't go scratching it, okay? That'll just make\n"
+"things worse."
+msgstr ""
+
+msgctxt "0035"
+msgid "But what if it gets so itchy I can't take it?"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"Well...in that case, just take the tip of your\n"
+"fingernail and push it into the bump. That'll help."
+msgstr ""
+
+msgctxt "0037"
+msgid "Wow, I had no idea...!"
+msgstr ""
+
+msgctxt "0038"
+msgid "You're so smart, Makoto!"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"<CLT 4>As she said that, she smiled like a tiny, cute little\n"
+"animal. I wonder if she does that on purpose...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"<CLT 4>If so, that's a whole other level of scary.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0041"
+msgid "But anyway, don't you think it's kinda strange?"
+msgstr ""
+
+msgctxt "0042"
+msgid "Huh? What is?"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"Well this school is completely sealed off, right?\n"
+"So how'd a mosquito get in?"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"Maybe there's somewhere here in the school where bugs\n"
+"can live and grow. Some kind of...nature-y spot."
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT 4>A \"nature-y\" place in the school...? Well, I can't say\n"
+"for sure that there's not.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"Or or or! Maybe there's a secret passage somewhere\n"
+"that leads out of the school!"
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"<CLT 4>A secret passage...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"Well, even if there's not, I'm sure we'll get out of\n"
+"here somehow."
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"As long as <CLT 3>we all work together<CLT>, I'm sure we'll be\n"
+"out of here in no time!"
+msgstr ""
+
+msgctxt "0050"
+msgid "You're right! Working together is super important..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"Of course, I dunno how I can be useful. I'll probably\n"
+"just weigh you all down..."
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"That's not true! It makes me feel way better knowing\n"
+"you're here to help!"
+msgstr ""
+
+msgctxt "0053"
+msgid "It does? Really...?"
+msgstr ""
+
+msgctxt "0054"
+msgid "Yup! So let's all do our best, okay?"
+msgstr ""
+
+msgctxt "0055"
+msgid "O-Okay!"
+msgstr ""
+
+msgctxt "0056"
+msgid "Eheh... Thank you, Makoto."
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT 23>Chihiro's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"<CLT 23>Your maximum number of <CLT><CLT 3>Skill Points<CLT><CLT 23> has increased!\n"
+"Hey, look at you go!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"<CLT 4>Once we were all done, I headed back to my room for a\n"
+"little while...\n"
+"<CLT>"
+msgstr ""

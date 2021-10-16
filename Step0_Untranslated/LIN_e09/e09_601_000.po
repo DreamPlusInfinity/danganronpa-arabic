@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. うーん…体の調子が…
+#. しばらく休まないとダメだな…
+msgctxt "0001"
+msgid ""
+"I'm feeling really...out of whack. It might be a good\n"
+"idea for me to get some rest..."
+msgstr ""
+
+#. ははっ…
+#. 無駄死にだけは勘弁してほしいな。
+msgctxt "0002"
+msgid ""
+"In my fervor to do a good job, I seem to have\n"
+"neglected my health..."
+msgstr ""
+
+#. なぜこの俺が肉体労働など…
+#. ちッ…あとはお前らでなんとかするんだな！
+msgctxt "0003"
+msgid ""
+"Why should I subject myself to manual labor? Tch...\n"
+"You can do the rest yourselves!"
+msgstr ""
+
+#. い、いいだろう…
+#. たまには囚われの身となるのも悪くはない…
+msgctxt "0004"
+msgid ""
+"Ahh, I'm all tapped out. I need to go lay down for a\n"
+"while..."
+msgstr ""
+
+#. あーダリぃ…
+#. オレはもう働かねーぞ…
+msgctxt "0005"
+msgid "I seriously can't do this anymore! I quit!"
+msgstr ""
+
+#. うーん……
+#. 度を超えたプレイは感心しないなぁ…
+msgctxt "0006"
+msgid "Please, no more... No more! I'm gonna die...!"
+msgstr ""
+
+#. ワシともあろう者が完全にオーバーワークじゃ…
+#. 悪いがしばらく休ませてもらうぞ…！
+msgctxt "0007"
+msgid "The stars must be out of alignment for me today..."
+msgstr ""
+
+#. チッ…だからオレはやりたくなかったんだ…
+msgctxt "0008"
+msgid "Sorry... I think I pushed myself a little too hard."
+msgstr ""
+
+#. ダメだ…
+#. もうはらへってリキがでねーぞー…
+msgctxt "0009"
+msgid ""
+"I think I've reached my limit. Is it okay if I take a\n"
+"little break?"
+msgstr ""
+
+#. ………………
+#. この眠気が取れるまで３日はかかる気がするよ…
+msgctxt "0010"
+msgid ""
+"It's no use... I'm all out of energy! I think one more\n"
+"donut would finish the job, but..."
+msgstr ""
+
+#. もう…体力の限界です…
+#. そこに愛はあるのかい…ですよ…？
+msgctxt "0011"
+msgid ""
+"I-I can't keep this up... How long are we g-gonna be\n"
+"stuck living like this...!?"
+msgstr ""
+
+#. うぇぇぇーーん！
+#. もうこんな生活いやだよーーー！！
+msgctxt "0012"
+msgid ""
+"Sorry, I pushed myself a little too hard. I need some\n"
+"time to recover."
+msgstr ""
+
+#. はぁ…
+#. ちょっと頑張りすぎちゃったかも…
+msgctxt "0013"
+msgid ""
+"I no longer feel like doing this. Frankly, I am fed up\n"
+"with this entire endeavor."
+msgstr ""
+
+#. あ…あの、あ、あ、ああの…
+#. お休みさせて頂いてもよろしいでしょうか…！
+msgctxt "0014"
+msgid ""
+"I'm feelin' totally wiped. Sorry, can you guys take it\n"
+"from here?"
+msgstr ""
+
+#. つかれちゃったっす…
+#. ちょっとのーんびりしてくるね…
+msgctxt "0015"
+msgid ""
+"U-Um...sorry, but I'm not feeling too well. Would you\n"
+"hate me if I took a little break...?"
+msgstr ""

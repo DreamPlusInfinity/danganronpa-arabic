@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>図書館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the school store...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>大きな建物の中には見渡す限りの本棚。<CLT>
+#. <CLT 04>そのすべてにびっしりと本が詰まっている。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Look at all this stuff. It's hard to imagine what they\n"
+"*don't* have in here.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I want this awesome armor!"
+msgstr ""
+
+#. 昼寝でもするか
+msgctxt "0004"
+msgid ""
+"Seriously? But that thing's gonna totally restrict\n"
+"your movement!"
+msgstr ""
+
+#. あ、それ賛成。
+msgctxt "0005"
+msgid "Listen, Makoto! All a man needs to fight is his body!"
+msgstr ""
+
+#. ここ、適度に暗いし風も通るし…
+#. なんていうかお昼寝にちょうどいいよね…
+msgctxt "0006"
+msgid "Do they have any new DVDs here...?"
+msgstr ""
+
+#. 読書しながら寝落ちって…
+#. なんていうか幸せだなぁ…
+msgctxt "0007"
+msgid ""
+"There was a new anime I was watching when I came here.\n"
+"I've missed all the newest episodes in here..."
+msgstr ""
+
+#. …想像してたらもう眠くなってきちゃったよ。
+msgctxt "0008"
+msgid ""
+"I wonder what's been happening! Oh, it's a sports\n"
+"anime, of course..."
+msgstr ""
+
+#. うーん…途中で力尽きたら…
+#. 日向くん、適当に運んでね…
+msgctxt "0009"
+msgid ""
+"When I got here, the hero's team was in big trouble!\n"
+"But a mysterious someone had just shown up to help!"
+msgstr ""
+
+#. 宝探しでもするか
+msgctxt "0010"
+msgid ""
+"Judging from the silhouette they showed at the end,\n"
+"I'm almost positive it's the hero's former rival!"
+msgstr ""
+
+#. いいね、楽しそう。
+msgctxt "0011"
+msgid ""
+"Agh, it's just too exciting! I gotta find out what\n"
+"happened!"
+msgstr ""
+
+#. ベタに書棚を動かすと隠し扉とか
+#. 地下への入り口とかが出るのかな…
+msgctxt "0012"
+msgid "You think there's any uniforms here?"
+msgstr ""
+
+#. 蔵書を全部チェックして暗号を解くとかは
+#. 実際にやるのはちょっとしんどいね。
+msgctxt "0013"
+msgid "Why are you looking for a uniform...?"
+msgstr ""
+
+#. じゃ、まずは手分けして
+#. 怪しい場所をチェックしてみようか。
+msgctxt "0014"
+msgid ""
+"Don't tell me you're into like, girl uniforms or\n"
+"something, are you!?"
+msgstr ""
+
+#. <CLT 04>七海が言うと本当にありそうな気がしてくるな…<CLT>
+msgctxt "0015"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 何か読もう
+msgctxt "0016"
+msgid "Let's dig for treasure!"
+msgstr ""
+
+#. そうだね。
+#. せっかく来たんだし…
+msgctxt "0017"
+msgid "Let's do it! LET'S DO IT!!!"
+msgstr ""
+
+#. ………………
+msgctxt "0018"
+msgid ""
+"But just looking for it is boring. How about whatever\n"
+"we find, we give to each other as like, a present!?"
+msgstr ""
+
+#. …あ、えっと、読書って
+#. なんでか眠くなるよね…
+msgctxt "0019"
+msgid ""
+"Alright! I'm gonna find something you'll love for\n"
+"sure!"
+msgstr ""
+
+#. <CLT 04>読む前から寝てたけどな…<CLT>
+msgctxt "0020"
+msgid ""
+"Heh-heh! I can't wait to see what you find to give to\n"
+"me...!"
+msgstr ""
+
+#. 暇つぶしによさそうだな
+msgctxt "0021"
+msgid "That's a pretty cute doll."
+msgstr ""
+
+#. そうだね、これだけ本があれば
+#. 正直いくらでもいけるよね…
+msgctxt "0022"
+msgid ""
+"Personally, I'm a big fan of the super-deformed stuff\n"
+"over the realistic ones."
+msgstr ""
+
+#. しかも私、たぶん読んでる途中で寝落ちするから
+#. きっといつまでたっても読み終わらなくて…
+msgctxt "0023"
+msgid ""
+"If it looks too real, it's kinda...scary. And the ones\n"
+"where the eyes move? Not a chance!"
+msgstr ""
+
+#. …あれ？
+#. 私、一生ここから出られない？
+msgctxt "0024"
+msgid "What are these lanterns doing here?"
+msgstr ""
+
+#. …あ、違った。
+#. 暇じゃない時間まで潰さなくてもいいんだよね。
+msgctxt "0025"
+msgid ""
+"Good question. Why would there be a bunch of lanterns\n"
+"in a school store?"
+msgstr ""
+
+#. <CLT 04>すでに寝ぼけてるな…<CLT>
+msgctxt "0026"
+msgid ""
+"Are they for sale? Or are they just trying to create a\n"
+"festive mood?"
+msgstr ""
+
+#. 勉強が捗りそうだな
+msgctxt "0027"
+msgid ""
+"Well, whatever. It helps lighten the mood, right?\n"
+"Makes me think of food stalls and stuff...!"
+msgstr ""
+
+#. 図書館って…勉強するところだっけ？
+msgctxt "0028"
+msgid ""
+"Chow mein, candy apples, chocolate bananas, cotton\n"
+"candy, takoyaki, churros, all that junk!"
+msgstr ""
+
+#. そういえば、誰かと並んで一緒に勉強って
+#. した事ないな。
+msgctxt "0029"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. …うん、いいかも。
+#. 試しにちょっとやってみよう。
+msgctxt "0030"
+msgid "They have candy and sweets and stuff, too!"
+msgstr ""
+
+#. あ、途中で寝ちゃったら起こしていいからね。
+msgctxt "0031"
+msgid "Oh man, you're right!"
+msgstr ""
+
+#. 特にする事はないな…
+msgctxt "0032"
+msgid ""
+"None of it compares to donuts of course, but I'm\n"
+"totally fine with anything sugary!"
+msgstr ""
+
+#. え…そうかなぁ？
+msgctxt "0033"
+msgid ""
+"Cake, gummy bears, strawberry wafers, chocolate chip\n"
+"cookies, chocolate biscuits, whatever!"
+msgstr ""
+
+#. 私も読書家ってわけじゃないけど、
+#. それはちょっともったいないと思う。
+msgctxt "0034"
+msgid ""
+"Speaking of which...what exactly is the difference\n"
+"between a cookie and a biscuit?"
+msgstr ""
+
+#. よし、かくれんぼだ
+msgctxt "0035"
+msgid ""
+"Whatever, who cares!? They're both super tasty! All\n"
+"tasty things are equal in my eyes!"
+msgstr ""
+
+#. 確かに隠れ甲斐はありそうだけど…
+msgctxt "0036"
+msgid "Let's organize things in here a little..."
+msgstr ""
+
+#. 二人だけでやるのは
+#. ちょっと…めんどうくさいかも。
+msgctxt "0037"
+msgid ""
+"Are you good at that kind of thing, Makoto? Are you\n"
+"destined to be a stay-at-home dad?"
+msgstr ""
+
+#. それになかなか見つけてもらえなかったら
+#. 確実に寝落ちしてると思う。
+msgctxt "0038"
+msgid ""
+"That's the impression I get! I bet you even look good\n"
+"in an apron!"
+msgstr ""
+
+#. <CLT 04>七海なら十分にあり得るな…<CLT>
+msgctxt "0039"
+msgid "There's all kinds of paintings here..."
+msgstr ""
+
+#. よし、帰ろう
+msgctxt "0040"
+msgid ""
+"Are these all famous or something?\n"
+"Are they like...super expensive?"
+msgstr ""
+
+#. あ…うん。
+#. それもありかも。
+msgctxt "0041"
+msgid ""
+"I really don't know much about stuff like that,\n"
+"sorry... I bet I look real stupid now, huh?"
+msgstr ""
+
+#. 二人で並んで読書っていうのも
+#. せっかく一緒にいるのに勿体ないっていうか…
+msgctxt "0042"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

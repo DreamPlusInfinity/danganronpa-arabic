@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 第３の島へ
+msgctxt "0001"
+msgid ""
+"<CLT 4>There are wooden mallets hanging on the wall. If I had\n"
+"to guess, I'd say they use them for making sculptures.\n"
+"<CLT>"
+msgstr ""
+
+#. ライブハウスへ
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's the dolly that Hifumi used to move Taka...\n"
+"<CLT>"
+msgstr ""
+
+#. やめる
+msgctxt "0003"
+msgid "Yes"
+msgstr ""
+
+#. <CLT 06>どちらへ行きますか？<CLT>
+msgctxt "0004"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0005"
+msgid ""
+"<CLT 23>Leave the repository?\n"
+"<CLT>"
+msgstr ""

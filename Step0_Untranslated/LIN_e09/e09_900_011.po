@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>こうして２人でこの景色を見るのも<CLT>
+#. <CLT 04>今日で最後か…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>I decided to talk to Sakura one more time before we\n"
+"all left...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>色々と無茶苦茶なサバイバル生活だったけど<CLT>
+#. <CLT 04>改めて振り返ってみると…楽しかったな。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>I wonder if this is the last time we'll ever see this\n"
+"place...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかんだ言っても、<CLT>
+#. <CLT 04>人が死ぬような事態にはならなかったし。<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>The time we spent here didn't make much sense,\n"
+"but...looking back, I can't say I didn't have fun.\n"
+"<CLT>"
+msgstr ""
+
+#. うーん、ようやくこの変な島から
+#. 出られるんだねー。
+msgctxt "0004"
+msgid ""
+"<CLT 4>There are still some mysteries left. What was\n"
+"Monokuma, really? Why'd we end up here?\n"
+"<CLT>"
+msgstr ""
+
+#. 南の島ってのも悪くなかったけど
+#. 今は早く帰って畳でごろごろしたいよ。
+msgctxt "0005"
+msgid ""
+"<CLT 4>I still don't have answers, but I'll have time to\n"
+"figure all that out once we escape...\n"
+"<CLT>"
+msgstr ""
+
+#. あとは和服と和菓子と温泉！
+#. 広いお風呂にゆっくりつかりたーい！
+msgctxt "0006"
+msgid ""
+"We've reached the end, but I can't say I'm totally\n"
+"satisfied."
+msgstr ""
+
+#. ねぇ、日向おにぃは？
+#. 帰ったらまず何がしたい？
+msgctxt "0007"
+msgid "I know what you mean. But at least we're finally free."
+msgstr ""
+
+#. そうだなぁ、色々あるけど…
+msgctxt "0008"
+msgid ""
+"If things stayed like they were, you'd never be able\n"
+"to continue your training, right?"
+msgstr ""
+
+#. 西園寺が踊るところを一度くらいは
+#. ちゃんと見てみたいかな。
+msgctxt "0009"
+msgid "Indeed."
+msgstr ""
+
+#. え…？
+#. そ、そうなんだ。
+msgctxt "0010"
+msgid ""
+"I can feel the absence of the strength I lost in here.\n"
+"I need to gain it all back again."
+msgstr ""
+
+#. けど、おにぃみたいな凡夫に
+#. わたしのすごさが分かるか怪しいもんだよね。
+msgctxt "0011"
+msgid "Which means I must now train even harder."
+msgstr ""
+
+#. まぁ、どうしてもって言うなら
+#. 考えてあげない事もないけどさ。
+msgctxt "0012"
+msgid "Living here must have been really hard for you."
+msgstr ""
+
+#. そうか。
+#. じゃあ楽しみにしてるな。
+msgctxt "0013"
+msgid "Oh, no, not at all."
+msgstr ""
+
+#. ………………
+msgctxt "0014"
+msgid ""
+"It was uncomfortable at times, but my time here has\n"
+"given me another sort of strength."
+msgstr ""
+
+#. …おにぃは優しいね。
+msgctxt "0015"
+msgid "Another sort of strength...?"
+msgstr ""
+
+#. やっぱり…ちょっと似てるな…
+msgctxt "0016"
+msgid "Perseverance?"
+msgstr ""
+
+#. <CLT 04>似てるって…誰の事だろう？<CLT>
+msgctxt "0017"
+msgid "Perseverance?"
+msgstr ""
+
+#. おばあちゃん？
+msgctxt "0018"
+msgid "Well, that too, I suppose."
+msgstr ""
+
+#. ええと、まさか…おばあちゃんとか？
+msgctxt "0019"
+msgid "But the strength I've gained is larger even than that."
+msgstr ""
+
+#. あはは！
+#. もしそうだったら最悪だよね！
+msgctxt "0020"
+msgid "Oh...so then..."
+msgstr ""
+
+#. あ、でもそれならそれで
+#. 代わりにいびり倒すのも楽しかったかもね！
+msgctxt "0021"
+msgid "Raw physical power?"
+msgstr ""
+
+#. <CLT 04>…違ったみたいだ。<CLT>
+msgctxt "0022"
+msgid "Raw physical power?"
+msgstr ""
+
+#. お母さん？
+msgctxt "0023"
+msgid "Have you so quickly forgotten what we talked about?"
+msgstr ""
+
+#. 実はお母さん…とか？
+msgctxt "0024"
+msgid "Is that how little I meant to you...?"
+msgstr ""
+
+#. もしそうだったら完全無視だね。
+msgctxt "0025"
+msgid "N-No, not at all! Umm, what we talked about was..."
+msgstr ""
+
+#. 才能もないのにプライドばっか高いとか
+#. 存在してるだけ酸素の無駄遣いだよ。
+msgctxt "0026"
+msgid "Mental fortitude?"
+msgstr ""
+
+#. <CLT 04>違ったみたいだな…<CLT>
+msgctxt "0027"
+msgid "..."
+msgstr "..."
+
+#. お父さん？
+msgctxt "0028"
+msgid "Mental fortitude?"
+msgstr ""
+
+#. もしかして、お父さんか？
+msgctxt "0029"
+msgid "That's right."
+msgstr ""
+
+#. …あの人だけはずっとわたしの味方だったから。
+msgctxt "0030"
+msgid ""
+"You taught me the importance of withstanding\n"
+"difficulties like this."
+msgstr ""
+
+#. って言っても、しょせん婿養子だから
+#. なんの発言権もないんだけどね。
+msgctxt "0031"
+msgid ""
+"If I'd never come here, if I'd never met you, I never\n"
+"would have gained that kind of invisible strength."
+msgstr ""
+
+#. でも隣にいるだけですごく安心できて…
+#. そんなとこも似てるかも…
+msgctxt "0032"
+msgid "A-Aren't you exaggerating a little?"
+msgstr ""
+
+#. そうか…
+msgctxt "0033"
+msgid "No, not at all. I truly believe it."
+msgstr ""
+
+#. 俺だって何があろうと西園寺の味方だぞ。
+#. いつだってそばにいてやるから。
+msgctxt "0034"
+msgid ""
+"Before we leave, Makoto, I wanted to talk to you about\n"
+"something."
+msgstr ""
+
+#. 日向おにぃ…
+msgctxt "0035"
+msgid "As I told you before..."
+msgstr ""
+
+#. あ…当たり前…でしょおおおお！
+msgctxt "0036"
+msgid ""
+"...I've sworn to defeat Kenshiro and prove that I\n"
+"am the strongest human alive."
+msgstr ""
+
+#. おにぃは…えくっ…
+#. わたしの…ひっく、奴隷なんだから…
+msgctxt "0037"
+msgid ""
+"And when I fight him...I would like you to be there as\n"
+"our witness."
+msgstr ""
+
+#. わかったから…もう泣くなって。
+msgctxt "0038"
+msgid "What? M-Me...?"
+msgstr ""
+
+#. はぁ？
+#. こんなの…えっく…嘘泣きだし。
+msgctxt "0039"
+msgid ""
+"Normally, we would not need a witness for such a\n"
+"battle."
+msgstr ""
+
+#. おにぃは相変わらず…
+#. ちょろいんだから…
+msgctxt "0040"
+msgid ""
+"I know that neither he nor I would try to deceive or\n"
+"cheat the other."
+msgstr ""
+
+#. はいはい。
+msgctxt "0041"
+msgid ""
+"Then...why? I'm a total amateur, right? Having me\n"
+"there would be totally meaningless..."
+msgstr ""
+
+#. まぁ俺の前でいくら泣いたって
+#. 別にかまわないけどな。
+msgctxt "0042"
+msgid ""
+"No, there *would* be meaning in it, even if only for\n"
+"me."
+msgstr ""
+
+#. …泣かないもん。
+msgctxt "0043"
+msgid "For you...?"
+msgstr ""
+
+#. え？
+msgctxt "0044"
+msgid "..."
+msgstr "..."
+
+#. わたし…もう、泣かない。
+msgctxt "0045"
+msgid "I...I want you to see me defeat him."
+msgstr ""
+
+#. 泣いてたって誰も守れないから…
+#. 日向おにぃもお父さんも…
+msgctxt "0046"
+msgid "Not just because I want to earn the title. I..."
+msgstr ""
+
+#. 守るって…お前が俺を？
+msgctxt "0047"
+msgid ""
+"I want to put an end to the matter of my attraction to\n"
+"him."
+msgstr ""
+
+#. そーだよ？
+#. そんなの決まってんじゃーん。
+msgctxt "0048"
+msgid "And then I can ask you..."
+msgstr ""
+
+#. だって、奴隷を守るのは主人の役目だからね。
+msgctxt "0049"
+msgid ""
+"No...I can't talk about that yet. Not until I'm\n"
+"finished with him."
+msgstr ""
+
+#. だから、約束…
+#. 破ったら、ただじゃおかないから…
+msgctxt "0050"
+msgid "But can you grant me my wish...?"
+msgstr ""
+
+#. ああ…わかってるよ。
+#. どうせ俺はお前の奴隷だからな。
+msgctxt "0051"
+msgid "Yes, of course."
+msgstr ""
+
+#. そーだよ？
+#. 一生わたしから離れちゃダメなんだからねっ！
+msgctxt "0052"
+msgid ""
+"<CLT 4>When I answered, Sakura replied with a shy smile.\n"
+"<CLT>"
+msgstr ""
+
+#. えへへ…おにぃ、大好きだよ！
+msgctxt "0053"
+msgid "Thank you, Makoto. Truly..."
+msgstr ""
+
+#. <CLT 04>…はしゃぐ西園寺の頭をなでる。<CLT>
+msgctxt "0054"
+msgid ""
+"<CLT 4>It was the pleasant smile of a young girl.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>家柄や伝統、西園寺が背負っているものを<CLT>
+#. <CLT 04>俺はまだちゃんと理解できていない<CLT>
+msgctxt "0055"
+msgid ""
+"<CLT 4>I could feel the strength of our bond.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>それでも、俺の存在が少しでも<CLT>
+#. <CLT 04>その支えになれたらいいと思う。<CLT>
+msgctxt "0056"
+msgid ""
+"<CLT 4>And that bond...is unbreakable.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>お互いがお互いの"希望"になれたらいいと…
+#. <CLT 04>その想いは俺の心をあたたかく満たしていった…<CLT>
+msgctxt "0057"
+msgid "<CLT 23>You received<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>Sakura's Undergarments<CLT> <CLT 23>as a present.<CLT>"
+msgstr ""
+
+#. はい
+msgctxt "0058"
+msgid "Yes"
+msgstr ""
+
+#. いいえ
+msgctxt "0059"
+msgid "No"
+msgstr ""
+
+#. <CLT 06>他にも話しかけたい人がいますか？<CLT>
+msgctxt "0060"
+msgid ""
+"<CLT 23>Is there anyone else you'd like to talk to?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>こうして俺たちの<CLT>
+#. <CLT 04>南の島での生活は終わりを告げた――<CLT>
+msgctxt "0061"
+msgid ""
+"<CLT 4>And that's how my school life at Hope's Peak Academy\n"
+"came to an end...\n"
+"<CLT>"
+msgstr ""

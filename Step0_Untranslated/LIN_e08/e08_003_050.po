@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. さて、そろそろ次の一手を打つとするか…
+#. さしもの俺様も、退屈には殺されてしまうからな。
+msgctxt "0001"
+msgid ""
+"Hell yeah! I'm totally down to kill some time with\n"
+"you!"
+msgstr ""
+
+#. …それで？
+#. 貴様が俺様を楽しませてくれるのか？
+msgctxt "0002"
+msgid ""
+"<CLT 4>I killed some time with Mondo...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>田中と動物クイズをして過ごした…<CLT>
+msgctxt "0003"
+msgid "Huh? You wanna hang out with me?"
+msgstr ""
+
+#. <CLT 04>田中と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0004"
+msgid ""
+"Perfect! I was gettin' bored, anyway. Let's do\n"
+"somethin' fuckin' nuts!"
+msgstr ""
+
+#. 渡す
+msgctxt "0005"
+msgid ""
+"<CLT 4>I had a very exciting time with Mondo...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0006"
+msgid ""
+"You're kinda weird, ya know that? You ain't afraid of\n"
+"me, all wantin' to hang out..."
+msgstr ""
+
+#. <CLT 06><CLT><CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0007"
+msgid "Well, whatever. You wanna go get somethin' to drink?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid ""
+"<CLT 4>Mondo and I went to the dining hall and had some tea.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid ""
+"Shit, man. Normally I don't hang out with guys this\n"
+"much, know what I mean?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid "But I got some time to kill, so whatever."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"<CLT 4>I spent some time with Mondo...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"<CLT 4>Mondo and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Mondo a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

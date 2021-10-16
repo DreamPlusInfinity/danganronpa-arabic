@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 何もかも嘘まみれだ…
+msgctxt "0001"
+msgid "Makoto is an exceedingly dull boy."
+msgstr ""
+
+#. 俺の全て…
+#. この感情ですらも…
+msgctxt "0002"
+msgid ""
+"From everything he's told me,\n"
+"from the expectations he's set for himself..."
+msgstr ""
+
+#. 俺のいるべき場所は
+#. ここではない。
+msgctxt "0003"
+msgid ""
+"...I have not a single shred\n"
+"of interest in him."
+msgstr ""
+
+#. それとも俺は…
+msgctxt "0004"
+msgid "This is clear to me now."
+msgstr ""
+
+#. <CLT 17>変わらなければならない<CLT>のか…？
+msgctxt "0005"
+msgid ""
+"He doesn't even comprehend\n"
+"that <CLT 9>he and I live in different worlds<CLT>."
+msgstr ""
+
+#. やはり日向には伝えるべきか…
+msgctxt "0006"
+msgid ""
+"He is no different from the rest of\n"
+"the roiling masses out there."
+msgstr ""
+
+#. 俺がどんな思いを
+#. 抱いているのかを。
+msgctxt "0007"
+msgid ""
+"To even stand here eye to eye\n"
+"with him makes me ill."
+msgstr ""
+
+#. だが真実を話したその時…
+msgctxt "0008"
+msgid ""
+"<CLT 9>He knows nothing\n"
+"about fighting, about struggling<CLT>."
+msgstr ""
+
+#. こいつは
+#. <CLT 17>俺と共に来てくれるだろうか？<CLT>
+msgctxt "0009"
+msgid ""
+"All those ignorant cattle covet\n"
+"only peace and tranquility."
+msgstr ""

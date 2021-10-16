@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>図書館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the school store...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>大きな建物の中には見渡す限りの本棚。<CLT>
+#. <CLT 04>そのすべてにびっしりと本が詰まっている。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Look at all this stuff. It's hard to imagine what they\n"
+"*don't* have in here.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Who would buy this kind of armor?"
+msgstr ""
+
+#. 眠くなってきた…
+msgctxt "0004"
+msgid ""
+"Yeah. I dunno who was in charge of stocking this\n"
+"place, but they must be kinda crazy!"
+msgstr ""
+
+#. その気持ちはわからなくもないよ。
+msgctxt "0005"
+msgid ""
+"If they really wanna see sales soar, they should stock\n"
+"some of my fanfic!"
+msgstr ""
+
+#. まぁ、寝てる間に何されても構わないなら
+#. 今ここで寝てくれても構わないけどさ。
+msgctxt "0006"
+msgid "Do they have any anime DVDs in stock?"
+msgstr ""
+
+#. <CLT 04>花村の目は本気だ…<CLT>
+msgctxt "0007"
+msgid ""
+"There should be a few copies of Demon Angel☆Pretty\n"
+"Pudgy Princess floating around."
+msgstr ""
+
+#. 何か読もうか
+msgctxt "0008"
+msgid "Because, you see..."
+msgstr ""
+
+#. 二人で肩を並べて読書ってわけかい？
+#. まぁ、たまにはそういうプレイもいいかな…
+msgctxt "0009"
+msgid ""
+"...in order to spread the piggy gospel, I secretly\n"
+"placed some here myself!"
+msgstr ""
+
+#. もちろん、本はぼくが選んでいいんだよね？
+msgctxt "0010"
+msgid ""
+"I'm hoping more and more people will come by and check\n"
+"it out, and start requesting it more."
+msgstr ""
+
+#. そうだなぁ…ここはベタにエログロか…
+#. いや、どうせなら衆道モノで…
+msgctxt "0011"
+msgid ""
+"And thus, we propagate the pudgy princess into the\n"
+"rest of the culture!"
+msgstr ""
+
+#. <CLT 04>花村の目は本気だ…<CLT>
+msgctxt "0012"
+msgid "It was the perfect plan!"
+msgstr ""
+
+#. 勉強が捗りそうだな
+msgctxt "0013"
+msgid "Guhuhu... More and more fellow fans...!"
+msgstr ""
+
+#. …この開放的な南の島で、このぼくと二人っきり
+#. だってのにそんな事がしたいわけ？
+msgctxt "0014"
+msgid ""
+"<CLT 4>There's so much wrong with everything he just said...\n"
+"But I'm just gonna keep my mouth shut.\n"
+"<CLT>"
+msgstr ""
+
+#. ふぅ…ＴＰＯってのをもうちょっと
+#. 考えて欲しいもんだね。
+msgctxt "0015"
+msgid "That vase is shaped kinda funny!"
+msgstr ""
+
+#. 小説でも読むか…
+msgctxt "0016"
+msgid ""
+"Instead of these dull shapes, they should have vases\n"
+"shaped like different characters!"
+msgstr ""
+
+#. やっぱりね！
+#. ぼくも活字が至高だと思うよ！
+msgctxt "0017"
+msgid "Why do they have all this junk?"
+msgstr ""
+
+#. 余計な絵がない分、妄想の翼で
+#. どこまでも飛び立てるからね！
+msgctxt "0018"
+msgid "I just don't understand!"
+msgstr ""
+
+#. 正直なところ、ぼくは国語辞典だけでも
+#. 十分にいけるよ！
+msgctxt "0019"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>行けるって、どこへだ…<CLT>
+msgctxt "0020"
+msgid "Let's dig for treasure!"
+msgstr ""
+
+#. 漫画でも読むか…
+msgctxt "0021"
+msgid "Treasure hunting, huh? Yeah, not a bad idea."
+msgstr ""
+
+#. うーん、漫画かぁ…
+msgctxt "0022"
+msgid ""
+"Places like this often have unknown treasure just\n"
+"waiting to be discovered!"
+msgstr ""
+
+#. 漫画はお手軽でいいけど、
+#. 割とすぐ飽きちゃうんだよね。
+msgctxt "0023"
+msgid ""
+"Sometimes, smaller stores have items that are super\n"
+"popular, that normally just fly off the shelf."
+msgstr ""
+
+#. それよりぼくの脳内妄想の方が
+#. よほど具合が良いっていうか…
+msgctxt "0024"
+msgid ""
+"But maybe the normal customers don't know what they're\n"
+"looking at, and that stuff gets ignored!"
+msgstr ""
+
+#. そうだ、君のオススメを教えてよ！
+#. 下半身にズギューンて来そうなヤツをさ！
+msgctxt "0025"
+msgid ""
+"And if I order it online or something, I might not get\n"
+"it right on the release date."
+msgstr ""
+
+#. 専門書でも読むか…
+msgctxt "0026"
+msgid "And at that time...!"
+msgstr ""
+
+#. …言っておくけどぼくは
+#. 料理の本とかは読まないよ。
+msgctxt "0027"
+msgid ""
+"Rather than going to the places I know will have it\n"
+"for sure, I like to go to places like this!"
+msgstr ""
+
+#. ぼくが信じるのは自作のレシピノートだからね！
+msgctxt "0028"
+msgid ""
+"I figure, hey, this or that store might have it.\n"
+"And I go, and they do! And I win!"
+msgstr ""
+
+#. よし、宝探しだ
+msgctxt "0029"
+msgid ""
+"\"Aw, my package didn't come! Damn!\"\n"
+"\"Agh, the chain store was sold out again!\""
+msgstr ""
+
+#. 君はなかなかわかってるね！
+#. 図書館と言えば絶版本、プレミア本の宝庫！
+msgctxt "0030"
+msgid ""
+"With stores like this, I don't have to go\n"
+"through that crap."
+msgstr ""
+
+#. 今じゃ絶対に手に入らないアレやコレな本も
+#. 無造作に置いてあるんだからね…
+msgctxt "0031"
+msgid ""
+"Little out-of-the-way places like this are important\n"
+"in creating a world of convenience!"
+msgstr ""
+
+#. 絶版になった例のアレとか…
+#. 輸入禁止になったソレとかコレとかもね…
+msgctxt "0032"
+msgid "That's a pretty cute doll."
+msgstr ""
+
+#. さぁ、それじゃさっそく
+#. 桃源郷へ出発しようか！！
+msgctxt "0033"
+msgid "Psh. Shows what you know."
+msgstr ""
+
+#. よし、かくれんぼだ
+msgctxt "0034"
+msgid ""
+"Compared to Princess Piggles' cuteness quotient and\n"
+"loveliness level, this thing is crap!"
+msgstr ""
+
+#. …え？
+#. ここでやるのかい？
+msgctxt "0035"
+msgid "You need to go back for a proper education, Mr. Naegi!"
+msgstr ""
+
+#. あ、つまりそれって、人気のないところで
+#. ぼくと二人っきりになりたいって事だよね？
+msgctxt "0036"
+msgid "I remember those toy vending machines!"
+msgstr ""
+
+#. だったらそんな回りくどい事しなくたって
+#. いいのに…恥ずかしがり屋さんなんだね！
+msgctxt "0037"
+msgid ""
+"Ahh, such a treasure chest brings memories flooding\n"
+"back...!"
+msgstr ""
+
+#. <CLT 04>何か盛大に誤解された気がする…<CLT>
+msgctxt "0038"
+msgid ""
+"That unique feeling of putting your money in and\n"
+"turning the knob...!"
+msgstr ""
+
+#. 静かだな
+msgctxt "0039"
+msgid ""
+"Indeed, the act itself could be considered a\n"
+"self-contained microcosm of..."
+msgstr ""
+
+#. そりゃまぁ、図書館だからね。
+#. 静寂を楽しむのもひとつだとは思うけど…
+msgctxt "0040"
+msgid ""
+"And yet! I've poured coin after coin into hundreds,\n"
+"THOUSANDS of these machines!"
+msgstr ""
+
+#. でも、静かすぎるのって落ち着かないな。
+msgctxt "0041"
+msgid ""
+"Embarrassing as it is to admit, there was a toy set I\n"
+"absolutely had to collect."
+msgstr ""
+
+#. ああ、幸せな音の溢れる厨房が
+#. 恋しくなってきたよ…
+msgctxt "0042"
+msgid ""
+"I learned that if there's something in there you\n"
+"*really* want, you just gotta buy every last unit!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "And I call that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid "...adult purchasing power!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"I remember I'd go to a store, buy a piece of candy,\n"
+"and have them give me all coins for my change."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"Thinking back on it, I see that I was always destined\n"
+"to become the man I am today."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"Even then, I saw the proper method for completing any\n"
+"social system I'm focused on."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "Is that an accordion...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "If I'm being honest...I couldn't care less."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"Maybe if there was even a single anime out there\n"
+"focused on accordions, that would flip my switch."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "Things are piled up to the ceiling..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "Indeed! You've got a good eye!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"This is a very popular technique called \"condensed\n"
+"display.\" Excellent at provoking customer interest!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"Creating even a single circular condensed display can\n"
+"make a huge difference in sales."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid ""
+"Even if you display old or unpopular merchandise, it\n"
+"seems to work."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"Just by putting them all together, customers are more\n"
+"likely to buy at least one of them."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid "It's a pretty crazy phenomenon!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid "There's all kinds of paintings here..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid ""
+"I can't believe they even sell stuff like this at the\n"
+"school store."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0061"
+msgid ""
+"But to be totally honest, nothing really catches my\n"
+"eye. Oh well!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0062"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

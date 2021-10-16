@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid ""
+"\"The key is not the 'will to win.' Everybody has that.\n"
+"It's the will to *prepare* to win that's important.\""
+msgstr ""
+
+#. ………………
+msgctxt "0002"
+msgid ""
+"That's a quote from the famous basketball coach Bobby\n"
+"Knight!"
+msgstr ""
+
+#. ………………
+msgctxt "0003"
+msgid "So it's like...we have to work hard, ya know!?"
+msgstr ""
+
+#. 確認してみる
+msgctxt "0004"
+msgid "Spend some time with Hina"
+msgstr ""
+
+#. そっとしておく
+msgctxt "0005"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>起きてるのか？　寝てるのか？
+#. 確認してみるか？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Hmm... Should I talk to Hina for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0007"
+msgid "I was thinking of going to the pool for a quick dip."
+msgstr ""
+
+#. …あ、おはよう。
+msgctxt "0008"
+msgid "You should come with me!"
+msgstr ""
+
+#. 目覚ましに１杯何か飲もう…かな。
+#. 日向くんも来る？
+msgctxt "0009"
+msgid ""
+"<CLT 4>I went for a swim with Hina...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>七海と一緒に、
+#. レストランでお茶を飲んで過ごした。<CLT>
+msgctxt "0010"
+msgid ""
+"<CLT 4>Hina and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>七海と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0011"
+msgid "Yes, definitely"
+msgstr ""
+
+#. 渡す
+msgctxt "0012"
+msgid "Not really, no"
+msgstr ""
+
+#. 渡さない
+msgctxt "0013"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Hina a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

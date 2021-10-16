@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid ""
+"<CLT 4>This is one of the monitors Monokuma appears on.\n"
+"Right now, it's just showing the school crest.\n"
+"<CLT>"
+msgstr ""
+
+#. これが…十神殺害に使われた
+#. トリックの一部だったなんてな…
+msgctxt "0002"
+msgid "If I break it...Monokuma might come and punish *me*."
+msgstr ""
+
+#. <CLT 04>ここに…床下への入り口があるのか…<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>Someone's using these cameras to watch people die...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>もっと早く…それに気付いてればな…<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>It's infuriating...but I have to just try and not\n"
+"think about it.\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0005"
+msgid ""
+"<CLT 4>It's the DVD player.\n"
+"<CLT>"
+msgstr ""
+
+#. 花村…
+msgctxt "0006"
+msgid ""
+"<CLT 4>I don't want to stay here too long. The less I have to\n"
+"think about that creepy video, the better...\n"
+"<CLT>"
+msgstr ""
+
+#. 空になってる…
+#. あのテーブルクロスは処分されたのか？
+msgctxt "0007"
+msgid ""
+"<CLT 4>There's nothing in here anymore. I can't help but\n"
+"think about that creepy DVD...\n"
+"<CLT>"
+msgstr ""
+
+#. モノクマがやったのか…？
+msgctxt "0008"
+msgid "Yes"
+msgstr ""
+
+#. はい
+msgctxt "0009"
+msgid "No"
+msgstr ""
+
+#. いいえ
+msgctxt "0010"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""

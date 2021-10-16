@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "When it comes to that protein can..."
+msgstr ""
+
+msgctxt "0002"
+msgid "...there's not a doubt in my mind."
+msgstr ""
+
+msgctxt "0003"
+msgid "Until <CLT 9>the locked room was unlocked<CLT>..."
+msgstr ""
+
+msgctxt "0004"
+msgid "...it absolutely was not in there!"
+msgstr ""
+
+msgctxt "0005"
+msgid "So you're saying..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"...someone planted it there\n"
+"after we got the door open?"
+msgstr ""
+
+msgctxt "0007"
+msgid "No...no, that's impossible..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"I-It had to have been\n"
+"in there the whole time!"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"It had to be! It was in there before\n"
+"<CLT 9>the rec room was unlocked<CLT>!"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>What are you talking about...?<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>What does that mean?<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>Hmph...<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>The protein can...<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>It wasn't at the crime scene?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>Th-That's right...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>It's just like Byakuya said!<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>No, that can't be...<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>I have faith in Master!<CLT>"
+msgstr ""

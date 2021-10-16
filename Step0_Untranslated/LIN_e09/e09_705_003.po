@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "That flower's kinda creepy..."
+msgstr ""
+
+#. アニメもあるぞ
+msgctxt "0004"
+msgid ""
+"Something about it makes me feel like it could attack\n"
+"any second. It feels so bizarre..."
+msgstr ""
+
+#. へぇ…日向くんがソッチの人だったとは
+#. さすがのぼくも気付かなかったよ！
+msgctxt "0005"
+msgid ""
+"Kh... It's too bad, you know. If it only had\n"
+"tentacles, there'd be all kinds of uses for it..."
+msgstr ""
+
+#. そういう事なら、もっと早く
+#. 言ってくれればよかったのに。
+msgctxt "0006"
+msgid "Should we take a nap?"
+msgstr ""
+
+#. ちなみにぼくは２次元だろうが３次元だろうが
+#. ２．５次元だろうがなんでもウェルカムだからね！
+msgctxt "0007"
+msgid "I approve, Mr. Naegi!"
+msgstr ""
+
+#. 遠慮無く君の萌えたぎるパッションを
+#. 解放してくれて構わないよ！
+msgctxt "0008"
+msgid ""
+"Ignoring that grotesque plant, this is the perfect\n"
+"atmosphere for a nice, lazy nap."
+msgstr ""
+
+#. <CLT 04>一体何の話なんだ…<CLT>
+msgctxt "0009"
+msgid "Okay then, let's do it! Nap time!"
+msgstr ""
+
+#. コメディがいいか…
+msgctxt "0010"
+msgid "There's a sprinkler."
+msgstr ""
+
+#. うんうん、コメディはいいね！
+#. 頭使わずに無難に楽しめるし。
+msgctxt "0011"
+msgid ""
+"Nggg... Nghhhh...! Yes, that is most definitely...a\n"
+"sprinkler...!"
+msgstr ""
+
+#. 特に洋モノは色々と赤裸々だったりして
+#. 楽しみどころも多いからなぁ。
+msgctxt "0012"
+msgid "Wh-What are you suggesting we do with it...!?"
+msgstr ""
+
+#. あ、ちなみにぼくは下ネタ全然オッケーだから！
+#. むしろ大歓迎だから！
+msgctxt "0013"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ポロリもあると尚、いい感じだよね！
+msgctxt "0014"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0015"
+msgid "May as well. There's nothing else to do here..."
+msgstr ""
+
+#. アクション映画かぁ。
+#. ものによっては悪くないけどさ。
+msgctxt "0016"
+msgid "And while we're on our little sojourn..."
+msgstr ""
+
+#. アーバンかつセクシーでデリシャスな感じが
+#. 堪能できる作品なんだろうね？
+msgctxt "0017"
+msgid ""
+"...I can tell you all about the splendid magnificence\n"
+"of Princess Piggles!"
+msgstr ""
+
+#. ホットドッグも捨てがたい
+msgctxt "0018"
+msgid ""
+"Oh, but don't worry. I'll be sure to start with the\n"
+"very basics so you can keep up."
+msgstr ""
+
+#. 日向くん…君、なかなかわかってるね！
+msgctxt "0019"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. 確かにポップコーンは映画館において
+#. 最強の存在ではあるけど…
+msgctxt "0020"
+msgid "Alas, it's just an imitation."
+msgstr ""
+
+#. その場で熱々チーズをかけるホットドッグには
+#. また別の魅力があるとぼくは思うんだよね…
+msgctxt "0021"
+msgid "Oh, sorry. Did it sound like I was blaming you?"
+msgstr ""
+
+#. よし、それを検証するためにも
+#. 今日は両方食べる事にしようか！
+msgctxt "0022"
+msgid ""
+"No... It's just that my delicate heart can never be\n"
+"satisfied with a mere facsimile."
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0023"
+msgid "You wanna check out the tool shed?"
+msgstr ""
+
+#. 当然だよ！
+msgctxt "0024"
+msgid "Um...why would I want to do that?"
+msgstr ""
+
+#. むしろ映画館以外で食べるポップコーンに
+#. なんの意味があるのかと思うね！
+msgctxt "0025"
+msgid ""
+"We're not looking for anything, right? So why would we\n"
+"go in the tool shed?"
+msgstr ""
+
+#. 特に暗闇の中、２人で残り少ないポップコーンを
+#. 探り合ううち、手と手が触れ合いそして…
+msgctxt "0026"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. って事になる重要アイテムでもあるからね！
+msgctxt "0027"
+msgid "Who takes care of these plants? Monokuma?"
+msgstr ""
+
+#. さ、ぼくたちも暗闇の中、
+#. ２人で色々探り合うとしようか！
+msgctxt "0028"
+msgid ""
+"I would assume so. I mean, we don't even have a\n"
+"gardening committee here."
+msgstr ""
+
+#. <CLT 04>色々ってなんだよ…<CLT>
+msgctxt "0029"
+msgid "Or...maybe there's a janitor here somewhere."
+msgstr ""
+
+#. やっぱり出よう
+msgctxt "0030"
+msgid ""
+"Huh... I have no idea why I thought we'd need\n"
+"an entire committee..."
+msgstr ""
+
+#. そ、そんな…
+msgctxt "0031"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. 映画館に来て何も食べずに帰るなんて
+#. ぼくはゴメンだよ！
+msgctxt "0032"
+msgid ""
+"People become capable of anything when they're on the\n"
+"verge of death!"
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0033"
+msgid ""
+"You know how many stories I've heard of comic creators\n"
+"living off of muddy rainwater?"
+msgstr ""
+
+#. ぼくもアリだと思うよ、最前列。
+#. …だってほら、あるだろう？
+msgctxt "0034"
+msgid "Not that I've ever had to do that myself, of course!"
+msgstr ""
+
+#. 前の方に座った人が食べてるポップコーンとか
+#. ホットドッグとかチーズケーキとか…
+msgctxt "0035"
+msgid "Do you like this place?"
+msgstr ""
+
+#. とにかく気になっちゃって、
+#. 映画に集中できない事ってさ。
+msgctxt "0036"
+msgid "I don't think I can quite say that, but..."
+msgstr ""
+
+#. その点、一番前なら自分の食べ物と
+#. 映画だけに集中できるからね！
+msgctxt "0037"
+msgid "...I do come here once in a while for inspiration."
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0038"
+msgid ""
+"There just isn't enough variety going from the dorms\n"
+"to the normal school area."
+msgstr ""
+
+#. え…？
+#. そんな事ができるものなの！？
+msgctxt "0039"
+msgid ""
+"As soon as I get outta here, I'm gonna slap the world\n"
+"of fanfic in the face with my heaving libido!"
+msgstr ""
+
+#. だって、上映時間が終わるまでに両手に抱えた
+#. 食べ物を片付けなきゃいけないかと思うと…
+msgctxt "0040"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. なんだかクラクラしてきました…
+#. やはり…この壁の色は良くありませんね。
+msgctxt "0001"
+msgid ""
+"<CLT 23>Sorry, but we can't let you give her that. It's what\n"
+"we in the industry like to call a<CLT> <CLT 3>key item<CLT><CLT 23>.<CLT>"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0002"
+msgid ""
+"<CLT 23>What would you like to give her?\n"
+"<CLT>"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0003"
+msgid "What the!? You sure!?"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. ソニアと一緒に過ごすか？<CLT>
+msgctxt "0004"
+msgid "Kyeeehahaha! I'd be happy to take it off your hands!"
+msgstr ""
+
+#. では、少し休憩でもしましょうか…
+msgctxt "0005"
+msgid ""
+"<CLT 4>Does that mean she liked it...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ソニアと、屋内公園で話をして過ごした。<CLT>
+msgctxt "0006"
+msgid "A present out of nowhere...? Ahhhh~!"
+msgstr ""
+
+#. <CLT 04>恐れ多くもソニアと少し仲良くなれたみたいだ…<CLT>
+msgctxt "0007"
+msgid "I'm gettin' all flustered!"
+msgstr ""
+
+#. 渡す
+msgctxt "0008"
+msgid ""
+"<CLT 4>I get the impression that she liked it. That's good...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0009"
+msgid "Oh my! It's so wonderful...! Can I lick it!?"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0010"
+msgid ""
+"When you get something this nice, don't you just love\n"
+"to lick it!? Or is that just me...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "Uwah! You're giving this to me? For really real!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Ohhh man! I'm gettin' excited like whoa here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"<CLT 4>Seeing Genocide Jack so pleased with something I gave\n"
+"her makes me happy! ...I guess.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "This just brought me back to my senses..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid "Who'd ever be happy with crappy junk crap like this!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid "Th-This is for me...? Oh, my..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"Bleurgh! Who'd ever say that about THIS, idiot!? Give\n"
+"me something better, human garbage!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid ""
+"<CLT 4>Uh-oh... I don't think she was too happy with that...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid "Hey, is this...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid ""
+"It's a bomb disguised as a present! You're working\n"
+"with everyone else to try and kill me!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid "Well allow me to return the favor, ya bastard!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid "Kyeeehahahahaha!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid ""
+"You've got till I'm done laughing to get rid of that\n"
+"filth!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "Kyeeehahahahaha!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid ""
+"<CLT 4>I...think I made her mad. She probably thinks worse of\n"
+"me now...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "Maybe not..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "Yeah, I'm sure"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid ""
+"<CLT 23>Are you sure you don't want to give her something?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 06>渡すプレゼントを選択してくださいませ。<CLT>
+msgctxt "0001"
+msgid "Not at all!"
+msgstr ""
+
+#. 日向よ…
+#. 私としてもこんなことは本意ではないのだが…
+msgctxt "0002"
+msgid "Absolutely!"
+msgstr ""
+
+#. どうやら本気で
+#. お前を斬らねばならんようだな…
+msgctxt "0003"
+msgid ""
+"<CLT 23>As you live out your school life here, you will be\n"
+"given <CLT><CLT 3>free time<CLT><CLT 23> at certain points.\n"
+"<CLT>"
+msgstr ""
+
+#. …何も言わずに
+#. それを持って早くここから去れ。
+msgctxt "0004"
+msgid ""
+"<CLT 23>During your free time, you can spend time with your\n"
+"fellow classmates to <CLT><CLT 3>deepen your friendships<CLT><CLT 23>.\n"
+"<CLT>"
+msgstr ""
+
+#. …死にたくなくばな。
+msgctxt "0005"
+msgid ""
+"<CLT 23>You can also give them <CLT><CLT 3>presents<CLT><CLT 23>, which can potentially\n"
+"give them an even better impression of you!\n"
+"<CLT>"
+msgstr ""
+
+#. …お前の気持ちはありがたいが、
+#. 私には過ぎた代物だ。
+msgctxt "0006"
+msgid ""
+"<CLT 23>You can get these presents from the <CLT><CLT 3>MonoMono Machine\n"
+"in the school store<CLT><CLT 23>. Come by early and often!\n"
+"<CLT>"
+msgstr ""
+
+#. それは他の誰かにあげてくれ。
+msgctxt "0007"
+msgid ""
+"<CLT 23>At certain points, you'll witness intimate events, and\n"
+"<CLT><CLT 3>new info will be added to each person's report card<CLT><CLT 23>.\n"
+"<CLT>"
+msgstr ""
+
+#. それを私にか…
+msgctxt "0008"
+msgid ""
+"<CLT 23>These events can also open up new <CLT><CLT 3>skills<CLT><CLT 23>, which will\n"
+"prove useful as everything plays out.\n"
+"<CLT>"
+msgstr ""
+
+#. うーむ…
+msgctxt "0009"
+msgid ""
+"<CLT 23>We strongly encourage you to develop and deepen as\n"
+"many friendships as you can!\n"
+"<CLT>"
+msgstr ""
+
+#. …すまん、努力はしてみたのだが
+#. やはり使い道がないようだ。
+msgctxt "0010"
+msgid ""
+"<CLT 23>Also keep in mind that when you talk with a classmate,\n"
+"<CLT><CLT 3>time will pass<CLT><CLT 23>...\n"
+"<CLT>"
+msgstr ""
+
+#. せっかくだが、
+#. 私には不要な物のようだ。
+msgctxt "0011"
+msgid ""
+"<CLT 23>When you're finished, you will automatically return to\n"
+"your room.\n"
+"<CLT>"
+msgstr ""
+
+#. その気持ちだけ、
+#. ありがたくいただいておこう。
+msgctxt "0012"
+msgid ""
+"<CLT 23>After a certain amount of time passes, your <CLT><CLT 3>free time\n"
+"will come to an end<CLT><CLT 23> and the story will progress.\n"
+"<CLT>"
+msgstr ""
+
+#. ほう、なかなかの一品だな。
+msgctxt "0013"
+msgid ""
+"<CLT 23>If you'd prefer <CLT><CLT 3>not to engage in free time<CLT><CLT 23>, you can\n"
+"always choose to simply <CLT><CLT 3>go to sleep to skip it<CLT><CLT 23>.\n"
+"<CLT>"
+msgstr ""
+
+#. こんな素晴らしい物をタダでくれるとは…
+#. お前は器の大きな男だな。
+msgctxt "0014"
+msgid ""
+"<CLT 23>We wouldn't recommend this approach, but if you\n"
+"absolutely MUST press forward with the story, then...\n"
+"<CLT>"
+msgstr ""
+
+#. ふむ…実に興味深い品だな。
+msgctxt "0015"
+msgid ""
+"<CLT 23>Anyway, why don't you try it out by spending some time\n"
+"with Miss <CLT><CLT 3>Sayaka Maizono<CLT><CLT 23>?\n"
+"<CLT>"
+msgstr ""
+
+#. ありがとう、日向。
+#. これはありがたく使わせてもらうぞ。
+msgctxt "0016"
+msgid ""
+"<CLT 23>She's the ideal partner to begin with, don't you\n"
+"think?\n"
+"<CLT>"
+msgstr ""
+
+#. な、何ぃ！？
+#. これを私にだと！？
+msgctxt "0017"
+msgid ""
+"<CLT 23>You're about to have your first experience with <CLT><CLT 3>Free\n"
+"Time<CLT><CLT 23>. Would you like to hear more?\n"
+"<CLT>"
+msgstr ""

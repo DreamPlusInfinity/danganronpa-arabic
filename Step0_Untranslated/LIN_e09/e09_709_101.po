@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. どうしよう…
+msgctxt "0001"
+msgid "Gaaah..."
+msgstr ""
+
+#. 眠い…
+msgctxt "0002"
+msgid "I can't control my body anymore..."
+msgstr ""
+
+#. せっかく日向くんが
+#. 誘ってくれたのに…
+msgctxt "0003"
+msgid ""
+"I wanna swim. I wanna swim!\n"
+"I super duper wanna SWIM!"
+msgstr ""
+
+#. もしここで寝ちゃったら…
+msgctxt "0004"
+msgid "I wanna do a lap around the world!"
+msgstr ""
+
+#. いい加減<CLT 17>呆れる<CLT>かな…
+msgctxt "0005"
+msgid "I wanna <CLT 9>swim like crazy<CLT>!"
+msgstr ""
+
+#. そうだ、何か楽しい事考えよう。
+msgctxt "0006"
+msgid "But if I started rambling on about that..."
+msgstr ""
+
+#. 日向くんと何かゲーム…
+msgctxt "0007"
+msgid ""
+"...Makoto wouldn't want\n"
+"anything to do with me."
+msgstr ""
+
+#. <CLT 17>対戦は嫌い<CLT>かな…
+msgctxt "0008"
+msgid ""
+"Cuz he made a point\n"
+"to come talk to me specifically."
+msgstr ""
+
+#. 協力プレイのが無難かな…
+msgctxt "0009"
+msgid ""
+"And here I am,\n"
+"just <CLT 9>thinking about myself<CLT>."
+msgstr ""

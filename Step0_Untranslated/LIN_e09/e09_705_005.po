@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>軍事施設に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the library...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかよく分からない兵器らしきものが<CLT>
+#. <CLT 04>無造作にうち捨てられている…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's pretty dusty, but I've never seen a place so\n"
+"filled with books and other documents.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm gettin' kinda sleepy..."
+msgstr ""
+
+#. どうも落ち着かないな
+msgctxt "0004"
+msgid "Honestly, I don't see anything in here worth my time."
+msgstr ""
+
+#. こんなところで落ち着ける人なんて
+#. いるわけないって…
+msgctxt "0005"
+msgid ""
+"And I've heard that the Spanish custom of \"siestas\" is\n"
+"very good at increasing brain functions."
+msgstr ""
+
+#. 今にも誰かが物陰から飛び出して来そうで…
+#. ぼくはもう失禁寸前だよ！
+msgctxt "0006"
+msgid "So, ya know... *Yaaawn*"
+msgstr ""
+
+#. やっぱり違う場所に行こう
+msgctxt "0007"
+msgid "I love reading!"
+msgstr ""
+
+#. そうそう！
+#. それが一番だよ！
+msgctxt "0008"
+msgid "I have no interest in other people's creations!"
+msgstr ""
+
+#. どうせオイルの匂いをかぐなら
+#. 断然オリーブオイルだよ！
+msgctxt "0009"
+msgid "If I want to read a story, I'll write one myself!"
+msgstr ""
+
+#. ほら、早く帰ろう！
+msgctxt "0010"
+msgid "For I am Hifumi, chosen by the gods!"
+msgstr ""
+
+#. ちょっとわくわくするな
+msgctxt "0011"
+msgid "Gwehehe... I do amaze myself sometimes."
+msgstr ""
+
+#. 君がそんな人だったなんて…
+msgctxt "0012"
+msgid ""
+"Oh, but anime doesn't count. That's kinda\n"
+"like...dessert."
+msgstr ""
+
+#. なんだか急に距離を感じたよ…
+msgctxt "0013"
+msgid "Should we spend some time studying?"
+msgstr ""
+
+#. よし、腕立てだ
+msgctxt "0014"
+msgid "Huh? Why would you go out of your way to study?"
+msgstr ""
+
+#. ああ…なんかそういうの、
+#. 映画とかで見たことあるよ…
+msgctxt "0015"
+msgid ""
+"Why would I take any part in such an act!? Feel free\n"
+"to murder your own soul if you like...!"
+msgstr ""
+
+#. なんなら、数くらいは数えてあげるけど…
+msgctxt "0016"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. よし、探検だ
+msgctxt "0017"
+msgid "Maybe we should tidy up a little."
+msgstr ""
+
+#. 本当に行くのかい…？
+msgctxt "0018"
+msgid "Hmm? Isn't that Monokuma's job?"
+msgstr ""
+
+#. ふぅ…しかたないなぁ…
+#. 君の好奇心には勝てないよ…
+msgctxt "0019"
+msgid "Do they have any of your stuff here?"
+msgstr ""
+
+#. その代わり…ちゃんと僕の手を
+#. 握っていてくれなきゃ嫌だからね！
+msgctxt "0020"
+msgid "No! Good grief! This is inexcusable!"
+msgstr ""
+
+#. よし、腹筋だ
+msgctxt "0021"
+msgid ""
+"They have all this space here, and they don't have a\n"
+"single one of my creations!"
+msgstr ""
+
+#. ………………
+msgctxt "0022"
+msgid "All you have to say is \"Cool Japan\" and it's all over."
+msgstr ""
+
+#. 君がわからなくなってきたよ…
+msgctxt "0023"
+msgid ""
+"They use that inexcusable trend to shove fanfic off\n"
+"into a corner!"
+msgstr ""
+
+#. 食料を探そう
+msgctxt "0024"
+msgid "Most unfortunate... MOST unfortunate!"
+msgstr ""
+
+#. とはいってもねぇ…こういうとこにあるのって
+#. 保存食とか携行食くらいでしょ？
+msgctxt "0025"
+msgid "What kinds of books do you normally read?"
+msgstr ""
+
+#. いくら出来がよくたって、
+#. 探して食べるほどのものじゃないよね。
+msgctxt "0026"
+msgid "Oh-ho! I see what this is..."
+msgstr ""
+
+#. 燃料を探そう
+msgctxt "0027"
+msgid ""
+"You're trying to find out where the genius Hifumi\n"
+"draws his information from!"
+msgstr ""
+
+#. うーん…いざって言うときに
+#. 役に立ったりする…かなぁ？
+msgctxt "0028"
+msgid ""
+"How disappointing, Mr. Naegi. You see, everyone finds\n"
+"their sense of moe from different sources."
+msgstr ""
+
+#. だって、ガソリンで料理ってさぁ…
+msgctxt "0029"
+msgid ""
+"A completely boring subject to me might get someone\n"
+"else totally fired up."
+msgstr ""
+
+#. いや、この話はやめとこうか…
+msgctxt "0030"
+msgid ""
+"With that in mind, please search for your own\n"
+"moenspiration!"
+msgstr ""
+
+#. 武器を探そう
+msgctxt "0031"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. いやいやいや！
+#. そういうの必要無いから！
+msgctxt "0032"
+msgid "Here's a book called \"Intro to Comics.\""
+msgstr ""
+
+#. 修学旅行に全然必要じゃないから！
+msgctxt "0033"
+msgid ""
+"It's because you rely on such trite rubbish that your\n"
+"own hidden talents do not bloom!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"The only worthwhile comic textbook is comics\n"
+"themselves!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"That \"intro\" book of yours is filled with nothing but\n"
+"illusions!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "Keep such sacrilege away from the genius Hifumi!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "There sure are a lot of books here."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "Well it *is* a library, after all."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid ""
+"And yet, despite all these books, not a single young\n"
+"adult novel!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid ""
+"YA fiction is all the rage these days! You can find it\n"
+"anywhere! This place is bringing me down..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid "I just wanna read comics..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"Yes, Mr. Naegi! I knew you felt the same way! Finally,\n"
+"someone's taste matches my own!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"But what does that say about whoever's in charge of\n"
+"this school?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"Teens like us need that kind of thing to help us pass\n"
+"the time!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"We don't need a bunch of pretentious, incomprehensible\n"
+"encyclopedias!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"I want to spend much, MUCH more time talking about\n"
+"this with you, Mr. Naegi!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

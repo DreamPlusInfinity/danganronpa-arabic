@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Well here's one thing we do know..."
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"The first time we found Hifumi's body\n"
+"was in the nurse's office."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"And then, while me and\n"
+"Celeste were in the bathroom..."
+msgstr ""
+
+msgctxt "0004"
+msgid "...his <CLT 9>body disappeared<CLT>!"
+msgstr ""
+
+msgctxt "0005"
+msgid "And the next time we saw his body..."
+msgstr ""
+
+msgctxt "0006"
+msgid "...it was in the repository."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"But when you compare his body\n"
+"before being moved, and his\n"
+"body after being moved..."
+msgstr ""
+
+msgctxt "0008"
+msgid "Other than the change in <CLT 9>how it was positioned<CLT>..."
+msgstr ""
+
+msgctxt "0009"
+msgid "...there <CLT 9>was no notable difference<CLT>."
+msgstr ""
+
+msgctxt "0010"
+msgid "Then...was he really still alive?"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Of course not,\n"
+"it is impossible. This is ridiculous..."
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>So his body disappeared...?<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>In other words, it moved somehow...<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>His hand had moved, maybe...?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>Moving the body must've done it...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Yeah, I think so, too!<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>We must have overlooked something...<CLT>"
+msgstr ""

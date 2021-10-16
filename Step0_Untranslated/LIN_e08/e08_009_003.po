@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid ""
+"\"Each and every person has to do their job. The\n"
+"cooperation of each player is true teamwork.\""
+msgstr ""
+
+#. あ、ミスった。
+msgctxt "0002"
+msgid ""
+"That's a quote from the famous rugby player Yuji\n"
+"Matsuo!"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid ""
+"We gotta do the same thing—cooperate so we can\n"
+"survive!"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "Spend some time with Hina"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. ゲームをやってるけど、七海を誘ってみるか？<CLT>
+msgctxt "0005"
+msgid "Go see who else is around"
+msgstr ""
+
+#. 今のミスで集中力も途切れちゃったし、
+#. 休憩にしよっかなー。
+msgctxt "0006"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Hina for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>休憩ついでに、
+#. スーパーまで飲み物を取りに行ったりして過ごした。<CLT>
+msgctxt "0007"
+msgid "You wanna go for a run to relieve some of this stress?"
+msgstr ""
+
+#. <CLT 04>七海と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>Hina and I went for a light run through the school.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"<CLT 4>Hina and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid "Yes, definitely"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Hina a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

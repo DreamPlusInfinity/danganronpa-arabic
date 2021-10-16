@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>こうして２人でこの景色を見るのも<CLT>
+#. <CLT 04>今日で最後か…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>I decided to talk to Kyoko one more time before we all\n"
+"left...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>色々と無茶苦茶なサバイバル生活だったけど<CLT>
+#. <CLT 04>改めて振り返ってみると…楽しかったな。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>I wonder if this is the last time we'll ever see this\n"
+"place...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかんだ言っても、<CLT>
+#. <CLT 04>人が死ぬような事態にはならなかったし。<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>The time we spent here didn't make much sense,\n"
+"but...looking back, I can't say I didn't have fun.\n"
+"<CLT>"
+msgstr ""
+
+#. なーんか、あっという間だったよな。
+msgctxt "0004"
+msgid ""
+"<CLT 4>There are still some mysteries left. What was\n"
+"Monokuma, really? Why'd we end up here?\n"
+"<CLT>"
+msgstr ""
+
+#. 最初はこんなの退屈なだけだと思ってたけど
+#. 全然そんな事なくてよ…
+msgctxt "0005"
+msgid ""
+"<CLT 4>I still don't have answers, but I'll have time to\n"
+"figure all that out once we escape...\n"
+"<CLT>"
+msgstr ""
+
+#. すげえ…楽しかった。
+msgctxt "0006"
+msgid ""
+"Our life here has finally come to an end. And yet, we\n"
+"weren't able to solve a single mystery..."
+msgstr ""
+
+#. 修学旅行…っていうのか？
+#. こういう感じのヤツ、初めてだったしな。
+msgctxt "0007"
+msgid ""
+"It *is* kind of a letdown, but maybe we can keep\n"
+"searching after we get out..."
+msgstr ""
+
+#. そうだな…こんなに大勢で旅行なんて
+#. 修学旅行でもなきゃ行かないからな。
+msgctxt "0008"
+msgid ""
+"Indeed. I have no intention of letting things end like\n"
+"this."
+msgstr ""
+
+#. …って、あれ？
+#. 終里は体操の合宿とかもあるんじゃないか？
+msgctxt "0009"
+msgid "Do you feel the same way, Makoto?"
+msgstr ""
+
+#. あー…まぁ、一応な。
+msgctxt "0010"
+msgid "Definitely. I want to know what happened here."
+msgstr ""
+
+#. 試合とかも泊まりで遠くに行ったりするけど
+#. それって仕事みてーなもんだからよ。
+msgctxt "0011"
+msgid "...But is that it?"
+msgstr ""
+
+#. こんな風にみんなでギャーギャーやってさ、
+#. 毎日楽しいばっかのとは全然ちげーよ。
+msgctxt "0012"
+msgid "Do you remember what you said?"
+msgstr ""
+
+#. 大体、この旅行の目的ってアレだろ？
+#. ほら…ええと、なんだっけ…
+msgctxt "0013"
+msgid ""
+"If we want to trust each other, we need to get to know\n"
+"each other."
+msgstr ""
+
+#. <CLT 04>俺たちがここに連れてこられた理由…<CLT>
+msgctxt "0014"
+msgid ""
+"Do you still believe that? Do you want to trust me?\n"
+"Do you want to know me?"
+msgstr ""
+
+#. <CLT 04>この妙な修学旅行の目的は、確か…<CLT>
+msgctxt "0015"
+msgid "Yes, of course."
+msgstr ""
+
+#. 殺し合い
+msgctxt "0016"
+msgid "Okay, then let's test you one more time."
+msgstr ""
+
+#. ………………
+msgctxt "0017"
+msgid "Huh...?"
+msgstr ""
+
+#. 日向？
+#. どうかしたのかよ？
+msgctxt "0018"
+msgid ""
+"We talked about this before, but...what is it I'm\n"
+"afraid of?"
+msgstr ""
+
+#. い、いや、何でもない…
+msgctxt "0019"
+msgid "That you don't feel fear?"
+msgstr ""
+
+#. <CLT 04>俺は今、何を言おうとした…？<CLT>
+msgctxt "0020"
+msgid "That you don't feel fear?"
+msgstr ""
+
+#. <CLT 04>馬鹿な考えだ。<CLT>
+#. <CLT 04>旅行の目的はそんな事じゃなくて…<CLT>
+msgctxt "0021"
+msgid "I suppose that *would* be something to be afraid of."
+msgstr ""
+
+#. 怪奇事件の解決
+msgctxt "0022"
+msgid "But that's not quite what I had in mind."
+msgstr ""
+
+#. 絶海の孤島だけに、
+#. 怪奇事件の解決、とかだったっけ…？
+msgctxt "0023"
+msgid "O-Oh. Then..."
+msgstr ""
+
+#. あー、そうそう！
+#. 確かそんなんだったよな！
+msgctxt "0024"
+msgid "My foolish honesty?"
+msgstr ""
+
+#. …けどオレ、役に立ちそうな事、
+#. なんにもしてねーぞ？
+msgctxt "0025"
+msgid "My foolish honesty?"
+msgstr ""
+
+#. …悪い。
+#. ちょっとした冗談だ。
+msgctxt "0026"
+msgid "What about that would make me afraid?"
+msgstr ""
+
+#. 希望のカケラを集める
+msgctxt "0027"
+msgid "G-Good point..."
+msgstr ""
+
+#. 確か<CLT 03>"希望のカケラ"<CLT>を集める…だったか？
+msgctxt "0028"
+msgid "What you've already lost?"
+msgstr ""
+
+#. 結局、何の事なのか
+#. よくわからなかったけどな。
+msgctxt "0029"
+msgid "..."
+msgstr "..."
+
+#. そうか？
+#. オレはちょっとだけわかった気がするぜ。
+msgctxt "0030"
+msgid "What you've already lost?"
+msgstr ""
+
+#. え…？
+msgctxt "0031"
+msgid "You do remember..."
+msgstr ""
+
+#. オレは今まで、食い物さえあれば
+#. 人は生きていけると思ってた。
+msgctxt "0032"
+msgid ""
+"Of course I remember! It's important to you, so it's\n"
+"important to me..."
+msgstr ""
+
+#. それは間違いじゃねえけど、でも…
+#. それだけじゃ駄目なんだ。
+msgctxt "0033"
+msgid "I see..."
+msgstr ""
+
+#. 誰かとの繋がりが希望になって…
+#. その希望があるから、人は人らしく生きていける…
+msgctxt "0034"
+msgid ""
+"So to overcome that fear, I intend to continue\n"
+"searching for what it is I lost."
+msgstr ""
+
+#. 日向、オメーが教えてくれたんだぜ？
+msgctxt "0035"
+msgid "What is it you lost...?"
+msgstr ""
+
+#. 終里…
+msgctxt "0036"
+msgid "..."
+msgstr "..."
+
+#. あ…えっと、なんか照れんな…
+msgctxt "0037"
+msgid ""
+"S-Sorry... You said you didn't want to talk about it\n"
+"anymore, huh?"
+msgstr ""
+
+#. な、なぁ、日向、
+#. その…ちょっと思ってたことがあんだけどよ…
+msgctxt "0038"
+msgid "...Indeed."
+msgstr ""
+
+#. な、なんだよ？
+msgctxt "0039"
+msgid "Knowing that, can you still put your trust in me?"
+msgstr ""
+
+#. あー…だからその、えーっと………
+msgctxt "0040"
+msgid ""
+"What I'm asking is, you haven't given up on coming to\n"
+"know me, have you?"
+msgstr ""
+
+#. オ、オレがその…
+msgctxt "0041"
+msgid "I can't possibly imagine doing that."
+msgstr ""
+
+#. ――って言ったら、おかしいか？
+msgctxt "0042"
+msgid ""
+"Then...will you help me? Help me find what it is I\n"
+"lost..."
+msgstr ""
+
+#. …え？
+#. 言うって…何をだ？
+msgctxt "0043"
+msgid "What!?"
+msgstr ""
+
+#. だから！
+#. その…アレだ。
+msgctxt "0044"
+msgid ""
+"What's with that reaction? Was it really so\n"
+"unexpected?"
+msgstr ""
+
+#. い、今さらでアレなんだけどよ、
+#. お前にはその、なんつーか…言ってみたいっつーか…
+msgctxt "0045"
+msgid "N-Not exactly. You just...surprised me."
+msgstr ""
+
+#. だからそのっ、自分の事…
+msgctxt "0046"
+msgid ""
+"I just...figured you'd be focused on those people who\n"
+"you considered family."
+msgstr ""
+
+#. あ、あたし、とかって言ったら…ヘンかな？
+msgctxt "0047"
+msgid "..."
+msgstr "..."
+
+#. そ、そんなの…おかしいわけないだろ！
+msgctxt "0048"
+msgid "W-Well, either way...our interests align, don't they?"
+msgstr ""
+
+#. っていうかなんか…照れるな。
+msgctxt "0049"
+msgid ""
+"If you want to win my trust, you'll need to be at my\n"
+"side always."
+msgstr ""
+
+#. な、なんでオメーが照れるんだよ！
+#. こっちまで恥ずかしくなんだろ！
+msgctxt "0050"
+msgid ""
+"And I feel like...if I have you with me, I'll be able\n"
+"to find what I'm looking for."
+msgstr ""
+
+#. わかんねーけど！
+#. お前の前ではそう言いたいカンジなんだよ！！
+msgctxt "0051"
+msgid ""
+"<CLT 4>When she said that, she maintained her normal composed\n"
+"attitude.\n"
+"<CLT>"
+msgstr ""
+
+#. わ、わかったから、そんな怖い顔するなって…
+msgctxt "0052"
+msgid ""
+"<CLT 4>But earlier, for just a second, I thought I spotted an\n"
+"instant of emotion.\n"
+"<CLT>"
+msgstr ""
+
+#. うるせぇ！
+#. この顔は生まれつきだ！！
+msgctxt "0053"
+msgid ""
+"<CLT 4>And I don't think I was imagining it when her cheeks\n"
+"showed just a hint of red.\n"
+"<CLT>"
+msgstr ""
+
+#. くそ…
+#. 人の事、こんなに弱くしちまいやがって…
+msgctxt "0054"
+msgid ""
+"<CLT 4>Did I maybe get a quick peek behind the mask, and get\n"
+"a glimpse of her real feelings?\n"
+"<CLT>"
+msgstr ""
+
+#. この責任は…きっちり取ってもらうからな！
+msgctxt "0055"
+msgid ""
+"Why do you remain silent? Do you have an answer for\n"
+"me?"
+msgstr ""
+
+#. おう…任せとけ。
+msgctxt "0056"
+msgid "Yes. I look forward to working with you."
+msgstr ""
+
+#. <CLT 04>…しっかりと手を繋ぐ。<CLT>
+msgctxt "0057"
+msgid "...Indeed."
+msgstr ""
+
+#. <CLT 04>終里はああ言ったけど、<CLT>
+#. <CLT 04>俺の方こそ、終里から大切な物をもらった。<CLT>
+msgctxt "0058"
+msgid ""
+"<CLT 4>I took Kyoko's gloved hands in mine.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>この島に来るまで感じた事もない、<CLT>
+#. <CLT 04>あたたかな想いが俺の胸を満たしている。<CLT>
+msgctxt "0059"
+msgid ""
+"<CLT 4>And someday...I'd like to find out what's under these\n"
+"gloves.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>繋いだこの手こそがきっと、<CLT>
+#. <CLT 04>俺にとっての"希望"の象徴だから…<CLT>
+msgctxt "0060"
+msgid ""
+"<CLT 4>I couldn't predict where my connection with Kyoko\n"
+"would lead me. It was impossible to say...\n"
+"<CLT>"
+msgstr ""
+
+#. はい
+msgctxt "0061"
+msgid ""
+"<CLT 4>But what I did know, is that I had the unwavering\n"
+"desire to find out.\n"
+"<CLT>"
+msgstr ""
+
+#. いいえ
+msgctxt "0062"
+msgid "<CLT 23>You received<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>Kyoko's Undergarments<CLT> <CLT 23>as a present.<CLT>"
+msgstr ""
+
+#. <CLT 06>他にも話しかけたい人がいますか？<CLT>
+msgctxt "0063"
+msgid "Yes"
+msgstr ""
+
+#. <CLT 04>こうして俺たちの<CLT>
+#. <CLT 04>南の島での生活は終わりを告げた――<CLT>
+msgctxt "0064"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid ""
+"<CLT 23>Is there anyone else you'd like to talk to?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid ""
+"<CLT 4>And that's how my school life at Hope's Peak Academy\n"
+"came to an end...\n"
+"<CLT>"
+msgstr ""

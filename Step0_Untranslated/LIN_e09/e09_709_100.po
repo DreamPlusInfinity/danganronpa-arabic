@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>どうしたんだ？
+#. 急に黙り込んで…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>What happened? Why'd Hina get so quiet\n"
+"all of a sudden?\n"
+"<CLT>\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（うーん…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(Umm...)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>七海の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Hina's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. 無理しなくていいぞ、七海。
+msgctxt "0007"
+msgid ""
+"That's not true! You only ever think about the people\n"
+"around you...!"
+msgstr ""
+
+#. …え？
+msgctxt "0008"
+msgid ""
+"You think so? I mean even now, I wasn't thinking about\n"
+"what you're going through."
+msgstr ""
+
+#. 天気も良いし、
+#. なんならここで昼寝してくか？
+msgctxt "0009"
+msgid "That's like, the definition of selfishness, isn't it?"
+msgstr ""
+
+#. あ、それはいいね。
+msgctxt "0010"
+msgid ""
+"But if you're having fun, and I'm with you, then I'm\n"
+"having fun. Isn't that enough?"
+msgstr ""
+
+#. よし、頑張って一緒に悪夢から
+#. 平和な夢の世界を取り戻そう！
+msgctxt "0011"
+msgid ""
+"Makoto... You're so nice to me. It makes me think I\n"
+"can rely on you that much more."
+msgstr ""
+
+#. <CLT 04>それは一体、どこの世界の話だ…<CLT>
+msgctxt "0012"
+msgid "S-Sorry, I don't think I can swim with you like that."
+msgstr ""
+
+#. まあ、その眠気はなんていうか…
+#. ちょっと普通じゃないのは確かだな。
+msgctxt "0013"
+msgid "What!? How did you know what I was thinking!?"
+msgstr ""
+
+#. うん…やっぱりそうだよね。
+msgctxt "0014"
+msgid "Did I really make it so obvious!?"
+msgstr ""
+
+#. ごめん…
+msgctxt "0015"
+msgid ""
+"Nng... You must be disgusted. All I can think about is\n"
+"how much I want to go swimming."
+msgstr ""
+
+#. 七海にゲームで勝てる気はしないけど…
+#. 別に嫌いじゃないぞ。
+msgctxt "0016"
+msgid "I'll just go off and swim by myself."
+msgstr ""
+
+#. ん？
+#. じゃあこれから戻ってゲームする？
+msgctxt "0017"
+msgid "It's okay, Hina..."
+msgstr ""
+
+#. …でも、それもなんだかもったいないな。
+msgctxt "0018"
+msgid "Huh? What's okay...?"
+msgstr ""
+
+#. せっかくここまで来たんだから
+#. 頑張ってもうちょっとお散歩してみよう。
+msgctxt "0019"
+msgid ""
+"It's only natural to want to go and do what you're\n"
+"good at. It's okay, you can tell me how you feel."
+msgstr ""
+
+#. あまり得意じゃない…っていうか、
+#. 七海にゲームで勝てる気はしないな。
+msgctxt "0020"
+msgid "M-Makoto..."
+msgstr ""
+
+#. うーん…
+#. 日向くんは勝ち負けにこだわる方かな？
+msgctxt "0021"
+msgid ""
+"How can you have such perfect timing? How did you\n"
+"know...?"
+msgstr ""
+
+#. 私は人とやるのは何でも楽しいから…
+#. ちょっと残念。
+msgctxt "0022"
+msgid ""
+"But...that does make me feel better! Ehehe! Okay, are\n"
+"you ready to do a lap around the world!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid ""
+"Wait, no! Let's use this momentum to do a lap around\n"
+"the GALAXY!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "I-I'm not sure I can follow you that far..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "Well...maybe..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "Yeah, right? I'm totally selfish..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"I just blast through with my own opinion, and that\n"
+"causes all kinds of trouble."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "I'm sorry. I need to think about all this..."
+msgstr ""

@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Makoto..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Wh-What's wrong, Hifumi?"
+msgstr ""
+
+msgctxt "0003"
+msgid "It...hurts...!"
+msgstr ""
+
+msgctxt "0004"
+msgid "What hurts? Are you okay!?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Gh—! Gh-gah-grh-guh!"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Y-You're really...uh, sweaty. I'll go get you some\n"
+"medicine!"
+msgstr ""
+
+msgctxt "0007"
+msgid "Er, wait! What kind of medicine do you need!?"
+msgstr ""
+
+msgctxt "0008"
+msgid "..."
+msgstr "..."
+
+msgctxt "0009"
+msgid "Coke..."
+msgstr ""
+
+msgctxt "0010"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 3>Coke<CLT>! <CLT 3>Diet Coke<CLT>!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Bring me some <CLT 3>Diet Coke<CLT> right noooooooowww!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"<CLT 4>Whoa! He just pulled a total 180!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"But...I don't think I've seen any Diet Coke here in\n"
+"the school."
+msgstr ""
+
+msgctxt "0015"
+msgid "I-I know... I've looked all over..."
+msgstr ""
+
+msgctxt "0016"
+msgid "And now I'm going through <CLT 3>Diet Coke withdrawal<CLT>!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT 4>Withdrawal...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "Kh—! If only I'd mastered the hypno-eye technique..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"Then I'd take over Monokuma's brain and use him to go\n"
+"get me some Diet Coke!"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"But I never did learn that one... You got lucky this\n"
+"time, bear..."
+msgstr ""
+
+msgctxt "0021"
+msgid "So, uh..."
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"I can't take it anymore! I would literally murder\n"
+"everyone in here for a can of Diet Coke!"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"D-Don't say stuff like that! You gotta get through\n"
+"this, man!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"You can say that cuz you don't understand the glory\n"
+"and splendor of Diet Coke!"
+msgstr ""
+
+msgctxt "0025"
+msgid "Diet Coke is...a friend to all mankind..."
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"A single sip and your body melts like butter! It's the\n"
+"kind of high nothing can match."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"It clears my mind, and even the most boring\n"
+"conversation sounds like a cinematic masterpiece!"
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"Kh...! I knew I was going through withdrawal...! Am I\n"
+"hallucinating now!?"
+msgstr ""
+
+msgctxt "0029"
+msgid "Kyaaaaahhh! Away, vile spirits!"
+msgstr ""
+
+msgctxt "0030"
+msgid "I cast thee out!"
+msgstr ""
+
+msgctxt "0031"
+msgid "Hifumi, calm down!"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"Nng... Here come the auditory hallucinations. That\n"
+"voice...!"
+msgstr ""
+
+msgctxt "0033"
+msgid "Ah! Princess Piggles! It's you!"
+msgstr ""
+
+msgctxt "0034"
+msgid "S-Snap out of it, man!"
+msgstr ""
+
+msgctxt "0035"
+msgid "The princess told me to snap out of it...!"
+msgstr ""
+
+msgctxt "0036"
+msgid "You can't let Diet Coke beat you!"
+msgstr ""
+
+msgctxt "0037"
+msgid "You're right, I won't lose... I'm a strong boy!"
+msgstr ""
+
+msgctxt "0038"
+msgid "I can endure this! For you, my princess!"
+msgstr ""
+
+msgctxt "0039"
+msgid "Now let's play tag! Hooray! Hooray! Tag, you're it!"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"<CLT 4>Squealing like a little girl, Hifumi ran off to\n"
+"who knows where...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0041"
+msgid "Umm..."
+msgstr ""
+
+msgctxt "0042"
+msgid "He's gonna be okay...right?"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"<CLT 4>Yeah. He'll be fine. For sure.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT 23>Hifumi's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with him.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT 23>Your maximum number of <CLT><CLT 3>Skill Points<CLT><CLT 23> has increased!\n"
+"Hey, look at you go!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"<CLT 4>I headed back to my room...\n"
+"<CLT>"
+msgstr ""

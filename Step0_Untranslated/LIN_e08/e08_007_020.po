@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. わりぃ…ちっと体調がわりぃんだ。
+#. １人にさせてくれや…
+msgctxt "0001"
+msgid "Umm, Makoto?"
+msgstr ""
+
+#. <CLT 04>なんだか顔色が悪い…本当に体調が悪そうだ。<CLT>
+msgctxt "0002"
+msgid ""
+"Do you think you could make time for the two of us to\n"
+"talk?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0003"
+msgid "Wh-What's wrong? Why are you being so formal?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0004"
+msgid ""
+"W-Well, it's just... I guess that was kind of formal,\n"
+"but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0005"
+msgid "...it's just because I know I can count on you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0006"
+msgid "...Huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0007"
+msgid ""
+"Having you by my side really makes me feel a lot\n"
+"better."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid ""
+"If you weren't here with me, I just don't know what\n"
+"I'd do. I'd be lost..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid ""
+"I hate that we had to meet again under such awful\n"
+"conditions, but...I'm relieved you're with me."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid "Sayaka..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"<CLT 4>Standing here face to face and hearing her say that...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"<CLT 4>It's nice, but...kind of embarrassing at the same\n"
+"time.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"I...know how you feel. You being here is what saved\n"
+"me..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "R-Really?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid "Ehehe. Thank you for the flattery."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid ""
+"<CLT 4>That smile...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"<CLT 4>That mysterious smile that softens my heart...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid ""
+"<CLT 4>I really wasn't flattering her. That smile saved me.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid "But it's kind of strange, you know?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid ""
+"I never thought I'd get a chance to really talk to you\n"
+"like this."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid ""
+"All through middle school, you never talked to me.\n"
+"In fact, you never even looked at me."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid ""
+"It's because you were like a celebrity. I couldn't\n"
+"just go around staring at you..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid "...Wait, how do you know I never looked at you?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "Because I looked at you all the time..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "...Huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid ""
+"I was always looking for <CLT 3>an opportunity to talk to\n"
+"you<CLT>."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "You...wanted to talk to me?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid ""
+"But since I always had so many people around me,\n"
+"we ended up graduating without saying a word."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "That was one of my biggest regrets."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "But...why me?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"Do you remember during our first year of junior high,\n"
+"that huge bird wandered into the school pond?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"<CLT 4>Actually, now that I think about it...I do sorta\n"
+"remember something like that...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"It was like out of a fairy tale. The turtle once every\n"
+"million years, that bird once every thousand..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "Crane"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "Heron"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "It was a...heron, wasn't it?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid ""
+"No, not quite. It was similar, but even bigger than\n"
+"that."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"<CLT 4>Like a heron but bigger? That'd have to be...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "Sparrow"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "A...sparrow, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"But sparrows were really common around there, right?\n"
+"We had a whole flock living there..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"Oh, but sparrows do show up in all kinds of fairy\n"
+"tales! Like that one, The Tongue-Cut Sparrow!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "Yeah, true..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid "But no, the bird we saw that day was a lot bigger."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "Hmm..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"It's in a lot of fairy tales. The kind of thing that\n"
+"shows up once every thousand years..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "It's on the tip of my tongue..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"<CLT 4>A huge bird wandered into the school pond during our\n"
+"first year of junior high...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"<CLT 4>I think it might have been...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "It was a crane! It just walked right into the pond."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "That's right! That's what it was."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "It was so big, the teacher had no idea what to do."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"But you led it into the forest behind the school.\n"
+"You helped it find its way out."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"<CLT 4>Well, only cuz I was already in charge of taking care\n"
+"of the animals at school. They made me do it...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"I should have said thank you then, but...is it okay if\n"
+"I do it now?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "Thank me...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"I'm that crane, you see. I've come to return the\n"
+"favor. Here, let me make you a cloak..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid "Ehehe. Just kidding!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid "Y-Yeah, I kinda figured..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid "Honestly though, I was so impressed..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0061"
+msgid ""
+"That's why I always wanted to talk to you, even just\n"
+"once."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0062"
+msgid "I never imagined this would be how I got my chance..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0063"
+msgid ""
+"<CLT 4>Yeah. If we'd met again at a train station somewhere\n"
+"downtown, that'd make for a nice dramatic reunion.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0064"
+msgid ""
+"<CLT 4>But instead, it's this weird school.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid "Maybe, but still..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid ""
+"I'm sure you'll help me find my way out, just like\n"
+"that crane. You'll save me."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid "It's just intuition, I know, but I still believe it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid ""
+"<CLT 4>I'm going to save her...?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid ""
+"I'll do my best, I promise that. I'll make sure it's\n"
+"more than just intuition."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid "If there's anything I can do, I'm going to do it...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0071"
+msgid ""
+"I believe in you. Besides, my intuition always turns\n"
+"out to be right."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0072"
+msgid "Cuz I'm psychic."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0073"
+msgid "Ehehe. Kidding, kidding!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0074"
+msgid ""
+"<CLT 4>She laughed out loud as she said it.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0075"
+msgid ""
+"<CLT 4>The closer we get, the stronger that smile of hers\n"
+"makes me.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0076"
+msgid ""
+"<CLT 4>...I was glad to feel that way.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0077"
+msgid ""
+"<CLT 23>Sayaka's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with her.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0078"
+msgid ""
+"<CLT 23>You just unlocked the skill <CLT><CLT 3>Melodious Voice<CLT><CLT 23>!\n"
+"Give yourself a pat on the back. You've earned it!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0079"
+msgid ""
+"<CLT 4>Once we were all done, I headed back to my room for a\n"
+"little while...\n"
+"<CLT>"
+msgstr ""

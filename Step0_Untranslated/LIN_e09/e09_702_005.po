@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>軍事施設に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the library...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかよく分からない兵器らしきものが<CLT>
+#. <CLT 04>無造作にうち捨てられている…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's pretty dusty, but I've never seen a place so\n"
+"filled with books and other documents.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm gettin' kinda sleepy..."
+msgstr ""
+
+#. やっぱり違う場所に行こう
+msgctxt "0004"
+msgid ""
+"Do you not understand that we have been *trapped* in\n"
+"here?"
+msgstr ""
+
+#. …ちょっと待て。
+#. 今来たばかりだろう。
+msgctxt "0005"
+msgid ""
+"There's no guarantee of safety. Falling asleep\n"
+"unprotected is the height of folly."
+msgstr ""
+
+#. これほど物が溢れている場所に
+#. もう興味がないというのか？
+msgctxt "0006"
+msgid "I love reading!"
+msgstr ""
+
+#. 呆れて物も言えんぞ…
+msgctxt "0007"
+msgid "I'm the same, I won't deny it."
+msgstr ""
+
+#. 嫌な感じだな
+msgctxt "0008"
+msgid ""
+"But the distance between what you and I read is\n"
+"greater than the distance between the sun and moon."
+msgstr ""
+
+#. ふん…それはこの場所の空気がか？
+#. それとも単に武器や軍隊の存在に対してか？
+msgctxt "0009"
+msgid "And I don't just mean what types of books we read."
+msgstr ""
+
+#. もし後者だとしたら、
+#. とんだ日和見主義者の感傷だな。
+msgctxt "0010"
+msgid ""
+"There is some information in this world that only a\n"
+"privileged few have access to."
+msgstr ""
+
+#. そんな事より考えるべきは、
+#. この場所が俺たちにとって有用かどうかだ。
+msgctxt "0011"
+msgid "Criminal records, for one. And—"
+msgstr ""
+
+#. わかったら二度とくだらない事を言うなよ。
+msgctxt "0012"
+msgid "Ah, but I've said too much."
+msgstr ""
+
+#. ちょっとわくわくするな
+msgctxt "0013"
+msgid "Should we spend some time studying?"
+msgstr ""
+
+#. ………………
+msgctxt "0014"
+msgid "...You think I need to study?"
+msgstr ""
+
+#. …いや…たとえ小学生並みの好奇心程度だとしても
+#. ないよりはマシか…
+msgctxt "0015"
+msgid ""
+"Even if I *did* decide to study something, there's\n"
+"simply no way you could keep up with me."
+msgstr ""
+
+#. <CLT 04>ひどい言われようだな…<CLT>
+msgctxt "0016"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. よし、探検だ
+msgctxt "0017"
+msgid "Wanna go check out that back room?"
+msgstr ""
+
+#. その脳天気な物言いは少し引っかかるが…
+#. まあいい。
+msgctxt "0018"
+msgid ""
+"I wouldn't recommend it. Curiosity killed the cat, as\n"
+"they say."
+msgstr ""
+
+#. ここには有用な物資が残っている可能性がある。
+#. 徹底的に捜索するぞ！
+msgctxt "0019"
+msgid ""
+"Your best bet to survive as a commoner is close your\n"
+"eyes, cover your ears, and keep your head down."
+msgstr ""
+
+#. 探すのは当然、
+#. 缶詰またはレトルトパウチ状の物だ。
+msgctxt "0020"
+msgid "I wonder if any of Toko's books are here."
+msgstr ""
+
+#. 見つけたら必ず俺に報告しろ、いいな。
+msgctxt "0021"
+msgid ""
+"The mere thought of my gaze meeting one of her books\n"
+"is enough to make my skin crawl..."
+msgstr ""
+
+#. <CLT 04>すごい張り切り様だな…<CLT>
+msgctxt "0022"
+msgid "I just wanna read comics..."
+msgstr ""
+
+#. よし、腕立てだ
+msgctxt "0023"
+msgid ""
+"I admit that there are a few rare works out there\n"
+"which have received worldwide acclaim..."
+msgstr ""
+
+#. …おい。
+#. これは一体なんの茶番なんだ…
+msgctxt "0024"
+msgid ""
+"...but the majority of comics are empty sludge pumped\n"
+"into the mouths of mindless consumers."
+msgstr ""
+
+#. だがまぁ、お前がどうしてもやりたいと
+#. 言うなら仕方がない。
+msgctxt "0025"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ゴミを見るような目で見下ろしていてやる。
+#. さあ存分にやれ。
+msgctxt "0026"
+msgid "They even have textbooks here, huh?"
+msgstr ""
+
+#. <CLT 04>やっぱりこうなるのか…<CLT>
+msgctxt "0027"
+msgid ""
+"You're right. A quick glance tells me they've\n"
+"collected a wide variety of subjects."
+msgstr ""
+
+#. よし、腹筋だ
+msgctxt "0028"
+msgid ""
+"Still, it doesn't quite stack up to what the Togami\n"
+"Corporation has access to."
+msgstr ""
+
+#. …服が汚れる。
+msgctxt "0029"
+msgid "What's your favorite kind of book?"
+msgstr ""
+
+#. やりたければ一人でやっていろ。
+#. 一応はここで見ていてやる。
+msgctxt "0030"
+msgid "What's the point of the question?"
+msgstr ""
+
+#. もちろん、足を押さえてなどやらんがな。
+msgctxt "0031"
+msgid ""
+"Why should I answer that? Why do I need to proclaim my\n"
+"preferences for the world to see?"
+msgstr ""
+
+#. 食料を探そう
+msgctxt "0032"
+msgid "Just reading casually isn't enough, is it?"
+msgstr ""
+
+#. そう…それだ。
+msgctxt "0033"
+msgid ""
+"If you just skim over the surface of a source of\n"
+"information, it slides right off of you."
+msgstr ""
+
+#. そのためにこの場所に来たと言っても
+#. 過言ではない…
+msgctxt "0034"
+msgid ""
+"Once you truly put that information to use, only then\n"
+"does it become part of you."
+msgstr ""
+
+#. この島における第三の食料…
+#. それこそがこの場に眠るミリ飯の数々だ！
+msgctxt "0035"
+msgid ""
+"I'm glad to see you understand that much. I hope you\n"
+"can prove it's not *all* you understand."
+msgstr ""
+
+#. わかったら手分けして捜索にあたるぞ。
+#. …見つけたら必ずしらせろよ！
+msgctxt "0036"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

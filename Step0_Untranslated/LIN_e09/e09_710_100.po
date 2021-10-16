@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>どうしたんだ？
+#. 急に黙り込んで…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Huh? Toko seems to be lost in thought, but...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（ふぅ…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(*Sigh*)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ソニアの心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Toko's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. そんな事ないんじゃないか？
+#. 知らない国に来て心細いのは当たり前だし…
+msgctxt "0007"
+msgid "I don't think it's pointless at all!"
+msgstr ""
+
+#. 日向さん…
+#. ありがとうございます。
+msgctxt "0008"
+msgid ""
+"Th-Then what is this!? You say us spending time\n"
+"together isn't p-pointless, so..."
+msgstr ""
+
+#. でも、下々の方に気を遣わせるなど
+#. やはり王女としては失格ですわ。
+msgctxt "0009"
+msgid "...what are you p-planning to do to me!?"
+msgstr ""
+
+#. わたくし、もっと精進しなくては！
+msgctxt "0010"
+msgid ""
+"I'm not planning to do anything. I just want us to\n"
+"both understand each other better."
+msgstr ""
+
+#. <CLT 04>うーん…逆に無理させたみたいだな…<CLT>
+msgctxt "0011"
+msgid ""
+"I've gotten to learn more about Genocide Jack, too.\n"
+"I want to become someone you can depend on..."
+msgstr ""
+
+#. 確かに…王女様ってのはもっと
+#. 堂々としてないとまずいよな…
+msgctxt "0012"
+msgid "I don't kn-know what you're trying to say."
+msgstr ""
+
+#. 日向さんにそんな事を言われてしまうほど
+#. わたくし、情けなく見えましたか！？
+msgctxt "0013"
+msgid ""
+"I d-don't want to depend on you. I don't w-want us to\n"
+"understand each other b-better."
+msgstr ""
+
+#. ふぅ…ガビーンですわ…
+msgctxt "0014"
+msgid "See? Like I s-said. It's pointless."
+msgstr ""
+
+#. ソニアの事を俺が決めるなんておかしいだろ？
+#. 自分の道は自分で決めるもんだ。
+msgctxt "0015"
+msgid ""
+"I don't think you can decide that just yet, can you?\n"
+"I'm going to keep on looking for a way..."
+msgstr ""
+
+#. 日向さん…
+msgctxt "0016"
+msgid "Huh? What are y-you...?"
+msgstr ""
+
+#. あなたのそういうところが、
+#. わたくしはきっと…
+msgctxt "0017"
+msgid "F-Fine."
+msgstr ""
+
+#. いえ、何でもありませんわ！
+msgctxt "0018"
+msgid ""
+"Someday, maybe you can sh-show me...what it is you can\n"
+"do f-for me..."
+msgstr ""
+
+#. 自分の事も決められずに、
+#. 国を導く事などできるはずもありません。
+msgctxt "0019"
+msgid ""
+"I just...want to talk to you. That's honestly all\n"
+"there is to it."
+msgstr ""
+
+#. わたくし、もっと精進いたします！
+msgctxt "0020"
+msgid "I kn-know..."
+msgstr ""
+
+#. 俺が決めていいならそうするけど…
+#. ええと、俺はどっちかっていうと――
+msgctxt "0021"
+msgid "But it's hard for me to t-talk to people, you know?"
+msgstr ""
+
+#. お、お待ちなさい！
+#. ひかえおろう！
+msgctxt "0022"
+msgid ""
+"Still, if w-we want to get out of here, we all h-have\n"
+"to work together, right?"
+msgstr ""
+
+#. も、もっとちゃんと考えてからにしてください！
+#. わたくしにとっては一生の問題なのです！
+msgctxt "0023"
+msgid ""
+"So that must be your o-only reason for talking to me!\n"
+"You really must hate me then, h-huh?"
+msgstr ""
+
+#. 日向さんも…返答によっては二度と
+#. 平穏な生活には戻れなくなりますよ！？
+msgctxt "0024"
+msgid ""
+"Do I really need a specific reason to spend\n"
+"time with you?"
+msgstr ""
+
+#. <CLT 04>そ、そんな重大な選択なのか…<CLT>
+msgctxt "0025"
+msgid "...Huh? But...you m-must have *some* reason, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "Oh, I g-get it. You pity me, don't you?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "N-No!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "I just want to talk to you. I *like* talking to you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "That's the only reason I need."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid "You're a v-very strange man..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"If you say that's your r-reason, I can't really do\n"
+"a-anything about it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "So do wh-whatever you want, I guess."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"It's not my fault if you have those expectations.\n"
+"You're the one creating them."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "I...I knew it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "Aha...ahahaha... I just... Hah...ahahahaha...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "Hahahyeeh... Ahihi...hah! Byaahahahuehuehuu..."
+msgstr ""

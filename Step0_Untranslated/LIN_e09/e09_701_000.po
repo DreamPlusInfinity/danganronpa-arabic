@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. いい景色だな
+msgctxt "0004"
+msgid ""
+"Yes, it's very important for a student to hone their\n"
+"musical sensitivity!"
+msgstr ""
+
+#. うーん、そうだねぇ…
+msgctxt "0005"
+msgid "I know! Let's sing a school fight song!"
+msgstr ""
+
+#. まぁでも、毎日見てるから
+#. そろそろどうという事もなくなってきたかな…
+msgctxt "0006"
+msgid ""
+"As students, it's also our duty to nurture our own\n"
+"school spirit!"
+msgstr ""
+
+#. それに、いい景色の場所なら
+#. この島には他にもたくさんあるしね。
+msgctxt "0007"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0008"
+msgid ""
+"Nothing in particular. If I'm forced to pick\n"
+"something, I'm all about the castanets!"
+msgstr ""
+
+#. そうだねぇ、向こうにちょうどいい
+#. 木陰もあるみたいだし。
+msgctxt "0009"
+msgid "Oh, and I guess I can play the recorder a little bit."
+msgstr ""
+
+#. ………………
+msgctxt "0010"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. …なんだか緊張してきたよ。
+msgctxt "0011"
+msgid "Live music...?"
+msgstr ""
+
+#. 公園の木陰に誰かと並んで座って…
+#. しかも語らうなんて、初めての経験だからね。
+msgctxt "0012"
+msgid ""
+"Don't waste your time! Plus going out to some venue\n"
+"late at night is a clear rule violation!"
+msgstr ""
+
+#. なんだか普通の友達同士みたいで…
+#. ちょっと照れるね。
+msgctxt "0013"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0014"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. うん、いいね。
+#. ぶらぶらしてみようか。
+msgctxt "0015"
+msgid ""
+"Makoto! What kind of deplorable activities have you\n"
+"been getting involved in!?"
+msgstr ""
+
+#. これだけひらけたところなら、何か降ってきても
+#. すぐ分かるし、これといった障害物もないし…
+msgctxt "0016"
+msgid ""
+"To enter a private karaoke box with fellow\n"
+"students...?"
+msgstr ""
+
+#. ボクと並んで歩いてても大丈夫だと思うよ。
+msgctxt "0017"
+msgid "Your public morals are simply atrocious!"
+msgstr ""
+
+#. …ああ、でも念のため、
+#. あの像にはあまり近づかない方がいいかな。
+msgctxt "0018"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0019"
+msgid ""
+"I've never heard any of her music myself, but...she's\n"
+"apparently rather talented, isn't she?"
+msgstr ""
+
+#. ほんとだねぇ…
+#. ほら、向こうに木陰もあるしさ。
+msgctxt "0020"
+msgid ""
+"Personally, I'd love for her to teach me some of her\n"
+"vocal training regimen."
+msgstr ""
+
+#. どうせだからちょっとぼんやりしていこうか。
+msgctxt "0021"
+msgid ""
+"As a disciplinarian, I often find myself speaking in\n"
+"public. It's important I project as much as possible!"
+msgstr ""
+
+#. もしかしたら、ヤシの実が落ちてきて当たるくらいの
+#. 不運はあるかもしれないけど…些細なことだよね。
+msgctxt "0022"
+msgid "We should try singing something."
+msgstr ""
+
+#. …この島に来てから、なんだか時間の流れ方が
+#. ゆっくりになったような気がするんだ。
+msgctxt "0023"
+msgid "Hmm... If you absolutely insist, I won't refuse."
+msgstr ""
+
+#. こののんびりした感じが
+#. ずっと続けばいいのにね…
+msgctxt "0024"
+msgid ""
+"So, what would you like to sing? A school fight song\n"
+"or the national anthem? Those are your two choices!"
+msgstr ""
+
+#. 変な像だな
+msgctxt "0025"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. そうかなぁ？
+#. なかなか素敵な像だと思うけど。
+msgctxt "0026"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. それになんだか強そうだし、
+#. いざというとき、守ってくれるかもしれないよ。
+msgctxt "0027"
+msgid ""
+"I don't mind that kind of thing as an official school\n"
+"event, but do you think they'd be up for it?"
+msgstr ""
+
+#. あ、でも逆に襲われたら怖いな…
+msgctxt "0028"
+msgid ""
+"It would require a uniform, and I know how students\n"
+"these days think it's so lame to dress the same!"
+msgstr ""
+
+#. うーん…
+#. ちょっと手でも合わせておこうか？
+msgctxt "0029"
+msgid ""
+"But that makes no sense to me! You should throw\n"
+"yourself into school events more than anything!"
+msgstr ""
+
+#. 読書でもするか
+msgctxt "0030"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. 確かにここなら捗りそうだなぁ。
+#. 公園で読書するのはボクも嫌いじゃないし。
+msgctxt "0031"
+msgid "Naturally! This is Hope's Peak Academy, after all!"
+msgstr ""
+
+#. 本なら図書館に行けばいくらでもあるだろうけど…
+msgctxt "0032"
+msgid ""
+"Unfortunately, I don't know too much about this sort\n"
+"of thing myself."
+msgstr ""
+
+#. …でも、やっぱり読書は１人の時にするよ。
+#. せっかく今日はキミと一緒なんだし。
+msgctxt "0033"
+msgid ""
+"But it's official school equipment, right? They'd\n"
+"never buy some cheap knockoff junk!"
+msgstr ""
+
+#. あの像を壊すと…
+msgctxt "0034"
+msgid ""
+"The equipment in this school must be of the utmost\n"
+"quality, in every field imaginable!"
+msgstr ""
+
+#. どこからともなく多額の賠償請求が…
+msgctxt "0035"
+msgid ""
+"Haha! Gosh, I just love this wonderful environment!\n"
+"Let's do our best to make it even better, shall we?"
+msgstr ""
+
+#. あるいは、何かの封印を解いちゃって、
+#. 天罰と呪いと刺客が我先に…
+msgctxt "0036"
+msgid "There's not much to do here..."
+msgstr ""
+
+#. …来たら怖いし、
+#. やめておいた方がいいんじゃないかな。
+msgctxt "0037"
+msgid "If I knew I'd be wasting my time doing nothing..."
+msgstr ""
+
+#. あの像を動かすと…
+msgctxt "0038"
+msgid "...I never would have come with you!"
+msgstr ""
+
+#. 下には秘密の入り口が…
+msgctxt "0039"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

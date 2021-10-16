@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. いい景色だな
+msgctxt "0004"
+msgid "Huh...? S-Seriously?"
+msgstr ""
+
+#. ええ、本当に。
+#. 海からの風も気持ちいいですし。
+msgctxt "0005"
+msgid "What kind of music a-are you even talking about?"
+msgstr ""
+
+#. それにあの像を見ていると
+#. 王城の庭園を思い出します。
+msgctxt "0006"
+msgid "I bet it's s-some ugly piece of trendy pop g-garbage."
+msgstr ""
+
+#. とても素敵な庭園なんですよ。
+#. だから、その…
+msgctxt "0007"
+msgid "What do you like to listen to?"
+msgstr ""
+
+#. よかったら、見に来てくださいね。
+msgctxt "0008"
+msgid "What do you th-think? Just instrumental stuff..."
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0009"
+msgid ""
+"Lyrics are totally unnecessary. They f-force their way\n"
+"into your brain and just s-sit there."
+msgstr ""
+
+#. はい、そうしましょう！
+msgctxt "0010"
+msgid "Ah! W-Wait, why are you even asking?"
+msgstr ""
+
+#. 公園をゆっくり散歩なんて…
+#. 祖国にいた頃の事を思い出します。
+msgctxt "0011"
+msgid "What are you gonna do o-once you know what I like?"
+msgstr ""
+
+#. 王城の庭園にもちょうどあのくらいの
+#. 黄金の像があるんです。
+msgctxt "0012"
+msgid "I'm o-on to you! You better tell me what Y-YOU like!"
+msgstr ""
+
+#. 巨大なマカンゴが雄々しく屹立した姿を
+#. 象ったもので、本当に立派なのですよ！
+msgctxt "0013"
+msgid "That way we can b-be even..."
+msgstr ""
+
+#. <CLT 04>一体どんな形なんだろうな…<CLT>
+msgctxt "0014"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0015"
+msgid "Live music is v-vulgar."
+msgstr ""
+
+#. ええ、でも…
+msgctxt "0016"
+msgid ""
+"Although...there's nothing as w-wonderful as raw,\n"
+"unfiltered sound."
+msgstr ""
+
+#. この公園、もしかしてベンチなどは
+#. 置いていないのでしょうか。
+msgctxt "0017"
+msgid ""
+"So I guess th-thinking about it that way, maybe i-it's\n"
+"the same idea..."
+msgstr ""
+
+#. ベンチのない公園なんて、出会い頭のキスシーンが
+#. ないトレンディドラマも同然です…
+msgctxt "0018"
+msgid ""
+"You need to make sure and e-enrich your ears whenever\n"
+"you can, M-Makoto."
+msgstr ""
+
+#. 木登りでもするか
+msgctxt "0019"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. え…？
+#. いいんですか…？
+msgctxt "0020"
+msgid "I wanna do a performance with everyone."
+msgstr ""
+
+#. わたくし、ずっと憧れてたんです！
+msgctxt "0021"
+msgid "Sing with...e-everyone?"
+msgstr ""
+
+#. 木の枝に引っかかった風船を取りに行ったり、
+#. 降りれなくなった子猫を助けたり…
+msgctxt "0022"
+msgid ""
+"I just s-sound like ugly noise when I sing. I d-don't\n"
+"actually have to make any noise, r-right?"
+msgstr ""
+
+#. 結果、自分が降りられなくなって
+#. 素敵な方に助けていただいたりです！
+msgctxt "0023"
+msgid "You think this room might be haunted?"
+msgstr ""
+
+#. さあ、何から始めましょうか！
+msgctxt "0024"
+msgid "It's not h-hard to imagine..."
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0025"
+msgid ""
+"There's actually lots of s-stories that use that kind\n"
+"of thing as a p-plot device."
+msgstr ""
+
+#. 公園でお昼寝…
+#. 素晴らしい響きですね！
+msgctxt "0026"
+msgid "Do you listen to music when you write?"
+msgstr ""
+
+#. あ、あの、よかったらわたくしが
+#. 膝枕などしてさしあげます！
+msgctxt "0027"
+msgid "N-Not at all..."
+msgstr ""
+
+#. わたくし、ずっと憧れてたのですが…
+#. 祖国ではなぜか誰もやらせてくれませんでした…
+msgctxt "0028"
+msgid ""
+"I have to c-concentrate when I write. I don't l-let\n"
+"music anywhere near me..."
+msgstr ""
+
+#. ですから、上手くできるかわかりませんが…
+#. 頑張ります！
+msgctxt "0029"
+msgid ""
+"Oh, but when I'm working out my d-delusions, then I\n"
+"listen to music to get p-pumped up."
+msgstr ""
+
+#. あの像、気になるな…
+msgctxt "0030"
+msgid ""
+"M-Mostly the kind of thing you'd expect to hear o-on a\n"
+"date..."
+msgstr ""
+
+#. そうですね…なんというか…
+#. とても難しい形の像だと思います。
+msgctxt "0031"
+msgid "..."
+msgstr "..."
+
+#. この島の象徴なのでしょうけれど、
+#. 正直言ってチョベリバですね。
+msgctxt "0032"
+msgid ""
+"I have e-experience, too! Even I've been on a d-date\n"
+"and listened to music...!"
+msgstr ""
+
+#. どうせ公園に建てるならもっと
+#. 可愛い像にすればよかったのに。
+msgctxt "0033"
+msgid ""
+"B-B-B-But I snapped that CD in half and threw it i-in\n"
+"the garbage!"
+msgstr ""
+
+#. あの像を動かすと…
+msgctxt "0034"
+msgid "I n-never wanted to hear it again!"
+msgstr ""
+
+#. 確かにあの像…
+#. なんだか動かせそうな気がしますね。
+msgctxt "0035"
+msgid ""
+"<CLT 4>Sounds like she must've had a pretty bad experience.\n"
+"I probably shouldn't say anything...\n"
+"<CLT>"
+msgstr ""
+
+#. わたくしの国の常識から考えると、恐らく
+#. あの像の下には地下への階段があるはずです。
+msgctxt "0036"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. その先に広がるのは古代遺跡か、
+#. あるいは謎の研究所か…
+msgctxt "0037"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. 行きましょう、日向さん！
+#. わたくしたちの手で謎を解き明かすのです！
+msgctxt "0038"
+msgid "Karaoke, huh? Now THERE'S a stress reliever!"
+msgstr ""
+
+#. <CLT 04>まだ何かあると決まった訳じゃないけど…<CLT>
+msgctxt "0039"
+msgid "For example, in my case..."
+msgstr ""
+
+#. あの像に登ると…
+msgctxt "0040"
+msgid ""
+"When my urge to kill builds up and I just can't take\n"
+"it, I do a few songs and the urge leaks right out!"
+msgstr ""
+
+#. もしかして、恋人同士が協力しあって登ると
+#. 必ず結ばれるという、あの伝説の…？
+msgctxt "0041"
+msgid "N-No! That's not why I like karaoke at all!"
+msgstr ""
+
+#. わたくし、ぜひ試してみたいです！
+#. 日向さんにとりあえずその権利を与えましょう。
+msgctxt "0042"
+msgid "Huh? Really...?"
+msgstr ""
+
+#. さあ、行きますよ！
+msgctxt "0043"
+msgid ""
+"Oh-ho! So you're one of those types who gets all\n"
+"intense and strung out in closed spaces, huh!?"
+msgstr ""
+
+#. <CLT 04>色々つっこみ所はあるけど…まぁいいか…<CLT>
+msgctxt "0044"
+msgid "..."
+msgstr "..."
+
+#. あの像を壊すと…
+msgctxt "0045"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. だめですよ日向さん！
+#. 公共物の破損は大罪です！
+msgctxt "0046"
+msgid "Pop stars like her..."
+msgstr ""
+
+#. わたくしの国でしたら問答無用で
+#. 私財没収の上、市中引き回しですよ！
+msgctxt "0047"
+msgid ""
+"Even if they suck at singing and dancing, all they\n"
+"gotta do is turn on the charm and presto! Forgiven!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"Tch. They're just like flavorless broth! If you want a\n"
+"good soup, ya gotta add some meat!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "Do you listen to music?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "Abso-abso-lutely-lutely!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "Oh, you know what my favorite is?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"The last dying gasps of my adorable boys! The sound\n"
+"you get when you stab the scissors in and twist..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"Ya know...I bet your singing voice would be just as\n"
+"amazing..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid "Ahh, oh nooo! I shouldn't have imagined it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"Now I'm super duper frustrated! I can't hold it in...\n"
+"I need it! I need what you got, Big Mac!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "Kyeeeeehahahahahahaha!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

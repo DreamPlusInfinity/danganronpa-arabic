@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. どうしたんだ？
+#. 急に黙り込んで…
+msgctxt "0002"
+msgid ""
+"<CLT 4>Huh? Celeste seems to be lost in thought, but...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（なんでなんだろう…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(Hmph...)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小泉の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Celeste's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. そんなことないだろ。
+msgctxt "0007"
+msgid "I don't think you're weird at all."
+msgstr ""
+
+#. え…？
+msgctxt "0008"
+msgid "What? I did not say anything..."
+msgstr ""
+
+#. あ、いや…
+msgctxt "0009"
+msgid ""
+"Oh, um, I know... But the face you're making right\n"
+"now, it's as if you *did* say something."
+msgstr ""
+
+#. 写真だけじゃなくて、小泉には
+#. いいところ、いっぱいあるっていうかさ…
+msgctxt "0010"
+msgid ""
+"But listen...no matter what you say to me, I won't\n"
+"think it's weird. I won't laugh at you."
+msgstr ""
+
+#. ちょ、ちょっと
+#. 急に何言ってんのよ…
+msgctxt "0011"
+msgid ""
+"You have been waiting for your opportunity to strike,\n"
+"I see. Appalling..."
+msgstr ""
+
+#. もう…恥ずかしいなあ…
+msgctxt "0012"
+msgid "Your type does not live long, you know."
+msgstr ""
+
+#. でも、ありがと。
+#. そんな風に言ってくれて。
+msgctxt "0013"
+msgid "And yet..."
+msgstr ""
+
+#. 確かにそうかもしれないけど…
+msgctxt "0014"
+msgid "No, never mind."
+msgstr ""
+
+#. え…？
+msgctxt "0015"
+msgid ""
+"When the time comes, I will tell you about the\n"
+"direction your future should be headed."
+msgstr ""
+
+#. あ、いやその…
+msgctxt "0016"
+msgid "To be honest...I *am* a little surprised."
+msgstr ""
+
+#. 小泉の撮る写真、俺はいいと思うけどな。
+#. それだけで十分すごいっていうかさ…
+msgctxt "0017"
+msgid "...Huh?"
+msgstr ""
+
+#. ………………
+msgctxt "0018"
+msgid ""
+"What are you talking about? Now *I'm* the one who is\n"
+"surprised."
+msgstr ""
+
+#. なに無理してんのかしらないけど
+#. アンタには…わかんないわよ。
+msgctxt "0019"
+msgid "It is as if you are reading my mind..."
+msgstr ""
+
+#. だめだよな、それは…
+msgctxt "0020"
+msgid ""
+"Well, it's just...you looked like something was\n"
+"troubling you."
+msgstr ""
+
+#. え…？
+msgctxt "0021"
+msgid ""
+"And I figured you probably wouldn't want to just start\n"
+"talking about it all of a sudden."
+msgstr ""
+
+#. あ、いやその…
+msgctxt "0022"
+msgid "I see. Interesting..."
+msgstr ""
+
+#. 自分の好きな事しかやらないのってさ、
+#. 確かに楽しいしラクだけど…
+msgctxt "0023"
+msgid "So that's the level of person you are."
+msgstr ""
+
+#. でもやっぱり何か物足りないっていうか
+#. どっかで行き詰まってくるっていうか…
+msgctxt "0024"
+msgid "How unfortunate..."
+msgstr ""
+
+#. …うん。
+#. 分かるよ、言いたい事。
+msgctxt "0025"
+msgid "I really don't think that's possible..."
+msgstr ""
+
+#. やっぱりそうだよね。
+#. アタシ、頑張らなくっちゃな。
+msgctxt "0026"
+msgid "Oh? So you're giving up before you've even begun?"
+msgstr ""
+
+#. …いいんじゃないのかな。
+msgctxt "0027"
+msgid ""
+"But you truly are a C-rank. You may not have\n"
+"confidence, but that's nothing to be ashamed of."
+msgstr ""
+
+#. え…？
+msgctxt "0028"
+msgid "Y-Yeah..."
+msgstr ""
+
+#. あ、いやその…
+msgctxt "0029"
+msgid "I think...I can. I can stand by your side."
+msgstr ""
+
+#. ひとつの事をとことんまで突き詰められれば
+#. それはそれですごいんじゃないか？
+msgctxt "0030"
+msgid ""
+"You say you \"think\" and then you say you \"can.\"\n"
+"So? Which is it? Are you confident or not?"
+msgstr ""
+
+#. 何よ、急にそんな事…
+msgctxt "0031"
+msgid "I-I am!"
+msgstr ""
+
+#. まあ、確かにそうかもしれないけど、
+#. …そんな簡単な話じゃないわよ。
+msgctxt "0032"
+msgid ""
+"Well... And do you have any actual reason to be so\n"
+"confident?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "No, it is you. Of course you don't."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "A reason...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"I just think helping you work hard toward your dream\n"
+"would be a lot of fun."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "...Is that right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid ""
+"Well, if you are truly committed, then I am prepared\n"
+"to accept that commitment."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"<CLT 4>She didn't sound any different than normal, but\n"
+"somehow she seemed...happy.\n"
+"<CLT>"
+msgstr ""

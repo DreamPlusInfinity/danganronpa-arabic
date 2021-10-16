@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>軍事施設に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the library...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかよく分からない兵器らしきものが<CLT>
+#. <CLT 04>無造作にうち捨てられている…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's pretty dusty, but I've never seen a place so\n"
+"filled with books and other documents.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm gettin' kinda sleepy..."
+msgstr ""
+
+#. やっぱり違う場所に行こう
+msgctxt "0004"
+msgid ""
+"It's so dusty, I could never sleep like this. And yet,\n"
+"you're always so unconcerned in these situations..."
+msgstr ""
+
+#. おう、そうしようぜ。
+msgctxt "0005"
+msgid "I love reading!"
+msgstr ""
+
+#. っていうか、そもそもなんで
+#. こんなとこ来たがったんだよ…
+msgctxt "0006"
+msgid "Indeed. Reading is quite enjoyable."
+msgstr ""
+
+#. お前のせいで腹が減っちまったぞ。
+#. なんか美味いもん、おごれよな！
+msgctxt "0007"
+msgid ""
+"It's the most convenient, logical way to obtain new\n"
+"knowledge."
+msgstr ""
+
+#. どうも落ち着かないな
+msgctxt "0008"
+msgid ""
+"It's the easiest way to see what kind of information\n"
+"has been accumulated up until now."
+msgstr ""
+
+#. こんなとこで落ち着くヤツなんていんのか？
+msgctxt "0009"
+msgid ""
+"Of course, whether or not you can actually comprehend\n"
+"and assimilate that information is up to you."
+msgstr ""
+
+#. っていうか、なんでこんなもんがあるんだ？
+#. さすがにオレでもテレビでしか見た事ねーぞ…
+msgctxt "0010"
+msgid ""
+"If you say you love it, though, I have to assume you\n"
+"can handle that."
+msgstr ""
+
+#. まぁ、公園や砂浜で遊んでるより
+#. 修学旅行って感じもすっけど…
+msgctxt "0011"
+msgid "Maybe we should tidy up a little."
+msgstr ""
+
+#. ああもう、やめだ！
+#. こんな鉄臭いとこにいつまでもいらんねーよ。
+msgctxt "0012"
+msgid ""
+"I know how you feel, but I don't think it's worth it\n"
+"to strain ourselves like that."
+msgstr ""
+
+#. それよりもっといいところ…
+#. 美味そうな匂いのするとこに行こうぜ！
+msgctxt "0013"
+msgid ""
+"Given the state this room is in, I can't imagine how\n"
+"many days it would take to finish the job."
+msgstr ""
+
+#. ちょっとわくわくするな
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. いや、しねーだろ。
+msgctxt "0015"
+msgid "What's your favorite kind of book?"
+msgstr ""
+
+#. 大体、こんなシケたとこで何すんだよ…
+#. 隠れんぼだったらぜってーオレが勝つかんな。
+msgctxt "0016"
+msgid "..."
+msgstr "..."
+
+#. よし、腹筋だ
+msgctxt "0017"
+msgid "How-to guides, I suppose...?"
+msgstr ""
+
+#. 腹筋は…なんかちげーだろ。
+msgctxt "0018"
+msgid ""
+"Sorry, I don't...really have a good idea about myself\n"
+"like that..."
+msgstr ""
+
+#. 別にやるのは構わねーけど…
+#. なんかちげーだろ。
+msgctxt "0019"
+msgid "Should we spend some time studying?"
+msgstr ""
+
+#. <CLT 04>そう言われるとそんな気もするな…<CLT>
+msgctxt "0020"
+msgid "That's fine."
+msgstr ""
+
+#. よし、腕立てだ
+msgctxt "0021"
+msgid ""
+"We're students, right? It's only natural to study in\n"
+"the library."
+msgstr ""
+
+#. あー…確かに…
+#. なんかやりたくなるシチュエーションだな…
+msgctxt "0022"
+msgid ""
+"However, I don't intend to pick up your slack.\n"
+"Don't drag me down with you, okay?"
+msgstr ""
+
+#. よし、んじゃやるか！
+#. 当然、やるからには勝負だかんな！
+msgctxt "0023"
+msgid "It's so quiet here..."
+msgstr ""
+
+#. 持久戦で、負けた方は罰として
+#. あと１００回プラスな！
+msgctxt "0024"
+msgid "You're right. It's very calming."
+msgstr ""
+
+#. <CLT 04>やる前からギブアップしたいんだけど…<CLT>
+msgctxt "0025"
+msgid ""
+"Normally when I'm in a place like this,\n"
+"I prefer to be alone..."
+msgstr ""
+
+#. よし、探検だ
+msgctxt "0026"
+msgid "After all, reading is something you do alone, right?"
+msgstr ""
+
+#. はぁ？
+#. ここでかぁ？
+msgctxt "0027"
+msgid "And yet, for some reason..."
+msgstr ""
+
+#. 嫌だよ、なんかオイルくせーし。
+msgctxt "0028"
+msgid ""
+"Even having you this close to me...I don't find myself\n"
+"annoyed."
+msgstr ""
+
+#. 食料を探そう
+msgctxt "0029"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. こんなとこに何かあんのかよ？
+#. オレの鼻には全然匂ってこねーけど…
+msgctxt "0030"
+msgid "They even have textbooks here, huh?"
+msgstr ""
+
+#. あ…そっか、
+#. 軍隊で食う缶詰とかそういうヤツだな！
+msgctxt "0031"
+msgid ""
+"When you consider that this is a facility for ultimate\n"
+"students, it's not all that unusual."
+msgstr ""
+
+#. ガキの頃、もらって食ったことあるけどよ、
+#. あれってなかなか美味いんだよな。
+msgctxt "0032"
+msgid ""
+"Now when it comes to full technical reports, that may\n"
+"be too much. You'd need a full research facility..."
+msgstr ""
+
+#. すげー日持ちするし、火とか使わなくても
+#. あっためられたりして便利なんだぜ！
+msgctxt "0033"
+msgid "I wonder if I'll ever be able to pay it a visit..."
+msgstr ""
+
+#. …なんかワクワクしてきたぞ。
+#. んじゃ、気合い入れて探すか！
+msgctxt "0034"
+msgid "What am I doing in a place like this...?"
+msgstr ""
+
+#. 燃料を探そう
+msgctxt "0035"
+msgid "I just wanna read comics..."
+msgstr ""
+
+#. 燃料…燃料ねぇ…
+msgctxt "0036"
+msgid "I'm not too familiar with that subculture..."
+msgstr ""
+
+#. あ、もしかして…
+#. キャンプファイヤーか？
+msgctxt "0037"
+msgid ""
+"All I know is that Japanese comics have garnered a\n"
+"following all across the world."
+msgstr ""
+
+#. <CLT 04>それはそれでありかも…<CLT>
+msgctxt "0038"
+msgid "Hey...do you think you could teach me more about it?"
+msgstr ""
+
+#. 武器を探そう
+msgctxt "0039"
+msgid ""
+"It can be anything. Just whatever genre you're\n"
+"familiar with is fine..."
+msgstr ""
+
+#. 武器って…銃とかそんなのか？
+msgctxt "0040"
+msgid "I wonder if any of Toko's books are here."
+msgstr ""
+
+#. 男なら拳でいけよ、拳で！
+msgctxt "0041"
+msgid ""
+"Those are things a current student created.\n"
+"I have to assume they're here somewhere."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"Not only would they help us come to understand her\n"
+"better, but the works themselves are rather valuable."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"But her specialty is romance novels, right? I can't\n"
+"say I find that particularly interesting."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid "Interesting... That's totally a Kyoko thing to say."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"I'm not interested in love, is that what you're\n"
+"saying?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "N-No, not exactly. It's just..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"The kind of love you see in fiction never represents\n"
+"what it's like in real life. It's boring."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"Those kinds of exchanges and compromises always\n"
+"involve more complex feelings than what they show."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

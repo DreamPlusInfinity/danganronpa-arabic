@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. 動物ものとか…
+msgctxt "0004"
+msgid "Are they supposed to be pets or somethin'?"
+msgstr ""
+
+#. …その存在は人間のエゴに過ぎないが
+#. 魔獣使いが高度な技を駆使した成果でもある。
+msgctxt "0005"
+msgid ""
+"Why not something that's at least *kinda* cute? Like,\n"
+"I dunno...a parakeet or whatever."
+msgstr ""
+
+#. その技、見極めなければなるまい…
+msgctxt "0006"
+msgid ""
+"<CLT 4>I wasn't really thinking of them as pets, but okay...\n"
+"<CLT>"
+msgstr ""
+
+#. だが問題は、その技が高度であればあるほど
+#. 強力なダメージを負う危険があるということだ。
+msgctxt "0007"
+msgid "You said you're a dog person, right?"
+msgstr ""
+
+#. 耐性のない貴様などは、
+#. 容易に神経を破壊されるだろう…
+msgctxt "0008"
+msgid "Yeah! I can't believe you remember."
+msgstr ""
+
+#. ティッシュの備えを怠るな。
+#. できることならば箱ごと用意しろ！　いいな！
+msgctxt "0009"
+msgid ""
+"You might think it's kinda funny, me bein' a dog\n"
+"guy..."
+msgstr ""
+
+#. たまにはアニメでも？
+msgctxt "0010"
+msgid ""
+"...but I wanted to be honest with you about the stuff\n"
+"I'm into."
+msgstr ""
+
+#. そうだな…そのへんのくだらん洋画より
+#. よほど見る価値はあるだろう。
+msgctxt "0011"
+msgid "That's like...pretty manly, right?"
+msgstr ""
+
+#. とはいえ、貴様にその真価が理解できるかは
+#. 怪しいがな。
+msgctxt "0012"
+msgid "Right, Makoto!?"
+msgstr ""
+
+#. …はじめに言っておくが
+#. 二足で歩き人語を解すような獣モノはお断りだぞ。
+msgctxt "0013"
+msgid "You said you're a cat person, right?"
+msgstr ""
+
+#. あれだけは断じて許さん…
+#. 悪趣味なこと、この上ないからな…
+msgctxt "0014"
+msgid "What? Cats!?"
+msgstr ""
+
+#. ホラーでも観るか
+msgctxt "0015"
+msgid "Hell no, I'm totally a dog guy!"
+msgstr ""
+
+#. 貴様…それは本気で言ってるのか…？
+msgctxt "0016"
+msgid "B-But I mean...cats are okay too, I guess..."
+msgstr ""
+
+#. 恐怖の象徴でもあるこの俺様に、
+#. そんな茶番を観て何を楽しめというのだ？
+msgctxt "0017"
+msgid ""
+"They're fluffier than dogs, that's for sure. Feels\n"
+"nice to scoop 'em up and..."
+msgstr ""
+
+#. 本気で貴様という奴がわからなくなってきたぞ…
+msgctxt "0018"
+msgid ""
+"What!? You got a problem!? A guy's not allowed to like\n"
+"cats!? Shit!"
+msgstr ""
+
+#. カレー味か…
+msgctxt "0019"
+msgid ""
+"<CLT 4>I-I didn't say anything...\n"
+"<CLT>"
+msgstr ""
+
+#. なんだと…？
+msgctxt "0020"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 噂には聞いていたが、
+#. 実際に目にするのは初めてだ…
+msgctxt "0021"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. いや、口にするというべきか。
+msgctxt "0022"
+msgid "You wanna go on a walk, huh? Makes me think of..."
+msgstr ""
+
+#. いいだろう！
+#. 貴様の挑戦、受けて立ってやる！
+msgctxt "0023"
+msgid "...Chuck."
+msgstr ""
+
+#. 無謀にもこの俺様に挑んだこと、
+#. 必ず後悔させてやるぞ！
+msgctxt "0024"
+msgid "N-Never mind! You didn't hear nothin'!"
+msgstr ""
+
+#. <CLT 04>ものすごくうれしそうだな…<CLT>
+msgctxt "0025"
+msgid "Just forget it, got it!?"
+msgstr ""
+
+#. やっぱり塩味だな！
+msgctxt "0026"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. まぁ…そうだな。
+msgctxt "0027"
+msgid "It's fake, though."
+msgstr ""
+
+#. 特にこれといった異論を挟む余地もないほどに
+#. それこそが唯一絶対の選択肢だろう。
+msgctxt "0028"
+msgid "..."
+msgstr "..."
+
+#. 貴様も少しは成長したというわけか。
+msgctxt "0029"
+msgid "Don't act like I don't get it!"
+msgstr ""
+
+#. <CLT 04>成長…なのか？<CLT>
+msgctxt "0030"
+msgid "Seriously, I totally get the feeling!"
+msgstr ""
+
+#. たまにはキャラメルとか
+msgctxt "0031"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. 貴様…正気か…？
+msgctxt "0032"
+msgid "Oh, good idea! A quick nap sounds damn fine..."
+msgstr ""
+
+#. 本気でこの俺様にキャラメル味などという物を
+#. 勧めているのか…？
+msgctxt "0033"
+msgid ""
+"This fake sunlight is almost as good as the real\n"
+"thing! Let's take a little break..."
+msgstr ""
+
+#. この田中眼蛇夢にキャラメル味を…？
+msgctxt "0034"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 観るより撮る方が…
+msgctxt "0035"
+msgid "What's with that gigantic flower?"
+msgstr ""
+
+#. 面白い…
+#. 貴様の中にそんな欲望が渦巻いていたとはな。
+msgctxt "0036"
+msgid ""
+"Yeah, where'd that thing come from? It's creepy as\n"
+"shit..."
+msgstr ""
+
+#. いいだろう。
+#. ならば俺様が力を貸してやる。
+msgctxt "0037"
+msgid "Man...it's startin' to bum me out."
+msgstr ""
+
+#. この俺様にかかれば、どんなシチュエーションも
+#. 思いのままだぞ！
+msgctxt "0038"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. さぁ、まずはキャスティングを決めろ！
+#. 草食肉食に関わらず小型から超大型まで望みのままだ！
+msgctxt "0039"
+msgid ""
+"Well if it comes down to that or dyin', just call me\n"
+"the colonel."
+msgstr ""
+
+#. <CLT 04>ただし動物限定だよな…<CLT>
+msgctxt "0040"
+msgid ""
+"Seriously, why would you even say something like that?\n"
+"Can't eat chickens..."
+msgstr ""
+
+#. ３Ｄか…
+msgctxt "0041"
+msgid "It's kinda humid in here..."
+msgstr ""
+
+#. ふん…愚かな人間共の考えそうな事だ。
+msgctxt "0042"
+msgid "Yeah, pretty hot and sticky, huh?"
+msgstr ""
+
+#. 重要視すべきはそんな小手先の技術ではないと
+#. 何故気付かん。
+msgctxt "0043"
+msgid ""
+"But it's kinda nice to have at least one room like\n"
+"this, right?"
+msgstr ""
+
+#. 単なる立体視に一体何の意味がある。
+#. 重要なのは触感だろう！
+msgctxt "0044"
+msgid "It reminds me what the outside world is like..."
+msgstr ""
+
+#. <CLT 04>たぶん動物限定でだな…<CLT>
+msgctxt "0045"
+msgid ""
+"<CLT 4>The heat in here makes him think of the outside world?\n"
+"Everyone sees things their own way, I guess...\n"
+"<CLT>"
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0046"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Over here, everyone!"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 4>Everyone who heard the scream had come running...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0003"
+msgid "Celeste! What's wrong!?"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"That was a rather...intense scream for someone like\n"
+"you."
+msgstr ""
+
+msgctxt "0005"
+msgid "I saw him! The strange costumed man...!"
+msgstr ""
+
+msgctxt "0006"
+msgid "He ran off as soon as I screamed..."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"I was blocking the stairs, so he headed <CLT 3>further down\n"
+"into the hallway<CLT> and disappeared...!"
+msgstr ""
+
+msgctxt "0008"
+msgid "He must be down this hall! Come on, let's go!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Haa...haa..."
+msgstr ""
+
+msgctxt "0010"
+msgid "What is it now!?"
+msgstr ""
+
+msgctxt "0011"
+msgid "Hachoo!"
+msgstr ""
+
+msgctxt "0012"
+msgid "H-Huh...?"
+msgstr ""
+
+msgctxt "0013"
+msgid "Whoa! It's really true!"
+msgstr ""
+
+msgctxt "0014"
+msgid "But that doesn't matter right now!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Ungyaaaaaahhh!!!"
+msgstr ""
+
+msgctxt "0016"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Wh-What was that!?"
+msgstr ""
+
+msgctxt "0018"
+msgid "That came from downstairs! It must have been..."
+msgstr ""
+
+msgctxt "0019"
+msgid "Hifumi! He's in the nurse's office!"
+msgstr ""
+
+msgctxt "0020"
+msgid "This is bad! Come on, we have to go back!"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"What about the suspect? We've gone to all this trouble\n"
+"to capture him, right?"
+msgstr ""
+
+msgctxt "0022"
+msgid "Then why don't we split into two groups?"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"I'll lead the hunting party. That seems much more\n"
+"interesting."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"Very well, then <CLT 3>Makoto<CLT> and <CLT 3>Hina<CLT>, you come with\n"
+"<CLT 3>me<CLT> to the nurse's office."
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"I will leave the capture of the suspicious individual\n"
+"to <CLT 3>Toko<CLT>, <CLT 3>Sakura<CLT>, and <CLT 3>Byakuya<CLT>."
+msgstr ""
+
+msgctxt "0026"
+msgid "We'll handle it. Just go take care of Hifumi."
+msgstr ""
+
+msgctxt "0027"
+msgid "Okay! You guys be careful!"
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT 4>With that we split into two groups.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"<CLT 4>Me, Celeste, and Hina all ran downstairs to the 1st\n"
+"floor.\n"
+"<CLT>"
+msgstr ""

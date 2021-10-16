@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Huh? Huuuuh!?"
+msgstr ""
+
+msgctxt "0002"
+msgid "What's this? What's going on!?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Hey, was that...!?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Ah! Yeah, it had to be!"
+msgstr ""
+
+msgctxt "0005"
+msgid "<CLT 3>Alter Ego<CLT>...!"
+msgstr ""
+
+msgctxt "0006"
+msgid "...Alter Ego!?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Is this some stupid virus from that stupid guy!?"
+msgstr ""
+
+msgctxt "0008"
+msgid "He must have planted it when he invaded my network...!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Damn it all to hell! I don't believe this!"
+msgstr ""
+
+msgctxt "0010"
+msgid "It seems you finally made a miscalculation."
+msgstr ""
+
+msgctxt "0011"
+msgid "No...you miscalculated from the very beginning."
+msgstr ""
+
+msgctxt "0012"
+msgid "...What was that?"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"What I'm saying is, you shouldn't have underestimated\n"
+"us."
+msgstr ""
+
+msgctxt "0014"
+msgid "Hmph! Why are you talking like you've already won!?"
+msgstr ""
+
+msgctxt "0015"
+msgid "I barely felt a thing! It was a pinch, an itch!"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"The stupid virus is gone now, got it!? And so is\n"
+"Makoto..."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Maybe I didn't get to smash him flat, but you're never\n"
+"gonna see him again!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"To waste away in a garbage-strewn pit... In a way,\n"
+"that's an even BETTER special punishment!"
+msgstr ""
+
+msgctxt "0019"
+msgid "..."
+msgstr "..."
+
+msgctxt "0020"
+msgid "Puhu... Puhuhu...!"
+msgstr ""
+
+msgctxt "0021"
+msgid "But it's still not enough... I'm still not satisfied!"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"I'm still gonna bring despair to the rest of you—bring\n"
+"despair to the entire world...!"
+msgstr ""
+
+msgctxt "0023"
+msgid "Puhuhu... Puhuhu... Puhuhu... Puhuhu... Puhuhu..."
+msgstr ""
+
+msgctxt "0024"
+msgid "Puhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhu...!"
+msgstr ""
+
+msgctxt "0025"
+msgid "..."
+msgstr "..."
+
+msgctxt "0026"
+msgid "Is he...gone?"
+msgstr ""
+
+msgctxt "0027"
+msgid "Hey, Kyoko. What's the meaning of all this?"
+msgstr ""
+
+msgctxt "0028"
+msgid "Just what the hell is going on?"
+msgstr ""
+
+msgctxt "0029"
+msgid "It's okay. We're not the ones being trapped this time."
+msgstr ""
+
+msgctxt "0030"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0031"
+msgid "Now it's the mastermind that's ensnared..."
+msgstr ""
+
+msgctxt "0032"
+msgid "What are you talking about...?"
+msgstr ""
+
+msgctxt "0033"
+msgid "You'll understand soon enough."
+msgstr ""
+
+msgctxt "0034"
+msgid "Very soon indeed..."
+msgstr ""

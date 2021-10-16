@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>砂浜に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the rec room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どこまでも続く青い海、そして白い砂浜。<CLT>
+#. <CLT 04>実に南国らしいロケーションだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of games and stuff to do in here.\n"
+"Almost makes me feel like I'm not at school...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Wanna play Othello?"
+msgstr ""
+
+#. 砂の城を作ろう！
+msgctxt "0004"
+msgid ""
+"I usually pass on stuff like that.\n"
+"It's too easy, so I get bored pretty fast."
+msgstr ""
+
+#. は、はい！
+#. すごく楽しそうです！
+msgctxt "0005"
+msgid "Let's play some pool."
+msgstr ""
+
+#. 小さい頃、よくやったんですけど
+#. いつも途中で壊されちゃって…
+msgctxt "0006"
+msgid "..."
+msgstr "..."
+
+#. でも日向さんと一緒なら、
+#. 今度こそ完成させられますよね…？
+msgctxt "0007"
+msgid ""
+"Uh, no. You're prolly just gonna stare at my chest\n"
+"every time I bend over, aren't you?"
+msgstr ""
+
+#. 頑張って大きいのを作りましょう！
+msgctxt "0008"
+msgid "Ahaha! Kidding, kidding! Come on, let's play!"
+msgstr ""
+
+#. 泳ごう！
+msgctxt "0009"
+msgid "Let's give darts a shot."
+msgstr ""
+
+#. あ、は、はい！
+#. せっかくの海ですからね！
+msgctxt "0010"
+msgid "Oh, um...yeah, sure! I can probably handle that."
+msgstr ""
+
+#. でも、私…あの…
+#. あまり上手く泳げないです。
+msgctxt "0011"
+msgid ""
+"I've got a pretty good eye, and I used to practice my\n"
+"knife-throwing all the time, so—"
+msgstr ""
+
+#. 重い物を持って沈むのは得意なんですけど…
+msgctxt "0012"
+msgid "Y-You used to throw knives!?"
+msgstr ""
+
+#. なので、その…
+#. よかったら、泳ぎ方を教えてください！
+msgctxt "0013"
+msgid "Oh! Um, yeah, well..."
+msgstr ""
+
+#. 焼こう！
+msgctxt "0014"
+msgid ""
+"When I, uh, ran away from home, I had to learn to\n"
+"defend myself, right? So I just..."
+msgstr ""
+
+#. それは…勘弁してくださぁい…
+msgctxt "0015"
+msgid ""
+"A-Anyway! So you know how to play darts? You're so\n"
+"meek, I never would've imagined."
+msgstr ""
+
+#. じりじりと焼かれるのには
+#. 嫌な思い出がありすぎてちょっと…
+msgctxt "0016"
+msgid ""
+"That's your approach on blind dates, I bet! Lure 'em\n"
+"in with that sweet look, then bam! Total bad boy!"
+msgstr ""
+
+#. とりあえず埋まろうか
+msgctxt "0017"
+msgid ""
+"Wait...were you trying to use your secret weapon on\n"
+"*me* just now?"
+msgstr ""
+
+#. 埋まるって…砂にですか…？
+msgctxt "0018"
+msgid "Sorry, looks like you misfired! Too bad!"
+msgstr ""
+
+#. それなら任せてください！
+#. 私、穴を掘るのは得意なんです！
+msgctxt "0019"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 埋めるのを手伝ったり、自分が埋められたりも
+#. たくさんした事があるので大丈夫です！
+msgctxt "0020"
+msgid "Wanna check out the fashion magazines?"
+msgstr ""
+
+#. 日向さんはどっちがいいですか？
+#. 私が全力でお手伝いしますからね！
+msgctxt "0021"
+msgid ""
+"Umm...not really. It's not like I need to know how to\n"
+"dress nice."
+msgstr ""
+
+#. <CLT 04>深くは突っ込まないでおこう…<CLT>
+msgctxt "0022"
+msgid "...Huh? But Junko...aren't you a model?"
+msgstr ""
+
+#. とりあえず走ろうか
+msgctxt "0023"
+msgid "Oh! Yeah! I am! But, see..."
+msgstr ""
+
+#. す、砂浜を走るんですか？
+msgctxt "0024"
+msgid ""
+"I mean, I'm the one setting the trends, right? So,\n"
+"like, why would I need to look at a magazine?"
+msgstr ""
+
+#. えっと、それってもしかして、あの…
+#. ２人で追いかけっこ的な…？
+msgctxt "0025"
+msgid ""
+"Er—Makoto! Stop underestimating the Ultimate\n"
+"Fashionista!"
+msgstr ""
+
+#. わ、私、走るの遅いですけど…
+#. その…頑張りますね！
+msgctxt "0026"
+msgid "Is that a slot machine back there...?"
+msgstr ""
+
+#. <CLT 04>改めて言われると
+#. こっちまで恥ずかしくなるな…<CLT>
+msgctxt "0027"
+msgid "Oh yeah? C'mon Makoto, let's try it out!"
+msgstr ""
+
+#. とりあえず脱ごうか
+msgctxt "0028"
+msgid ""
+"You're the Ultimate Lucky Student, right? You might\n"
+"hit the jackpot!"
+msgstr ""
+
+#. あ、は、はい…
+#. 日向さんがそう言うなら…
+msgctxt "0029"
+msgid "If you do, we split it 50-50, okay? Thanks in advance!"
+msgstr ""
+
+#. でも、この下って水着ですよ…？
+msgctxt "0030"
+msgid "Don't they have any video games?"
+msgstr ""
+
+#. <CLT 04>何か誤解されてる気がする…<CLT>
+msgctxt "0031"
+msgid "Hmm... Yeah, doesn't look like it."
+msgstr ""
+
+#. 貝殻を拾おう
+msgctxt "0032"
+msgid ""
+"Pretty crappy service around here, huh? Even like one\n"
+"FPS would be enough for me."
+msgstr ""
+
+#. え…？
+#. 一緒に…ですか？
+msgctxt "0033"
+msgid "FPS...?"
+msgstr ""
+
+#. わ、私、誰かと一緒に
+#. そんな事するなんて初めてで…
+msgctxt "0034"
+msgid "Huh? You don't know what an FPS is?"
+msgstr ""
+
+#. すごく、嬉しいです…
+msgctxt "0035"
+msgid ""
+"Are you one of those people who gets sick looking at\n"
+"3D games? You get used to it, ya know. Just try it!"
+msgstr ""
+
+#. ええと、その…
+#. 綺麗なの、見つけましょうね！
+msgctxt "0036"
+msgid "I'm...not really sure what you're talking about."
+msgstr ""
+
+#. 魚を捕ろう
+msgctxt "0037"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. お魚って…獲れるんですか…？
+msgctxt "0038"
+msgid "Why don't we sit down and just talk?"
+msgstr ""
+
+#. ええと、その…私にはたぶん、
+#. 動きが早すぎて無理だと思いますぅ…
+msgctxt "0039"
+msgid ""
+"Okay, but if we're gonna do that, you're gonna get us\n"
+"some tea at least, right?"
+msgstr ""
+
+#. 私、ここで応援してますから…
+msgctxt "0040"
+msgid ""
+"In fact, if you wanna just talk, it might be better if\n"
+"we go to the dining hall."
+msgstr ""
+
+#. 椰子の実を落とそう
+msgctxt "0041"
+msgid "Maybe there's someone in the locker..."
+msgstr ""
+
+#. 椰子の実…ですか？
+msgctxt "0042"
+msgid ""
+"Actually, I was kinda worried about that, too. I was\n"
+"thinking maybe we should check it."
+msgstr ""
+
+#. あれって当たるとかなり痛いんですよね…
+msgctxt "0043"
+msgid "There might be someone inside waiting to ambush us..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid "Ambush...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "Oh, uh, I mean..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"Yeah, that'd be pretty weird, huh? This being a school\n"
+"and all..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"B-But you never know what Monokuma might do, right?\n"
+"Better safe than sorry!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"Anyway, you're a pretty perceptive guy, huh? I feel\n"
+"like you'll live a nice, long life."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"<CLT 4>I'm getting a strange feeling. Something about Junko\n"
+"seems...off."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"...Am I just imagining it?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "Hope's Peak really is amazing..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "Sure, I guess. Totally amazing, and totally useless."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "So...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

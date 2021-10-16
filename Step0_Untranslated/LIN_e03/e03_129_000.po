@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "I...lost?"
+msgstr ""
+
+msgctxt "0002"
+msgid "I lost...!?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"When was the last time...I was forced to utter such\n"
+"words?"
+msgstr ""
+
+msgctxt "0004"
+msgid "They hang heavy around my neck..."
+msgstr ""
+
+msgctxt "0005"
+msgid "Then you admit it? You're the killer?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Hm. Heh... Listen to you, trying to take charge. As if\n"
+"you're my private instructor..."
+msgstr ""
+
+msgctxt "0007"
+msgid "I, Celestia Ludenberg—actually, no..."
+msgstr ""
+
+msgctxt "0008"
+msgid "<CLT 3>Taeko Yasuhiro<CLT> is fine..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Taeko...?"
+msgstr ""
+
+msgctxt "0010"
+msgid "So, you've finally accepted it."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"I'm the kind of person, once I've lost, I don't like\n"
+"things to drag on."
+msgstr ""
+
+msgctxt "0012"
+msgid "Interesting..."
+msgstr ""
+
+msgctxt "0013"
+msgid "Okay, Monokuma. I'm ready to begin."
+msgstr ""
+
+msgctxt "0014"
+msgid "Or, no..."
+msgstr ""
+
+msgctxt "0015"
+msgid "I suppose this is the end, isn't it?"
+msgstr ""
+
+msgctxt "0016"
+msgid "Hmm. Hmm."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"It is indeed the moment we've all been waiting for!\n"
+"Time to vote! Okay? Okay!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"If you would, please locate your lever and cast your\n"
+"vote!"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"And when the votes are tallied...who will become the\n"
+"blackened!?"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Will you make the right choice, or the dreadfully\n"
+"wrong one? What's it gonna be? What's it gonna beeee!?"
+msgstr ""

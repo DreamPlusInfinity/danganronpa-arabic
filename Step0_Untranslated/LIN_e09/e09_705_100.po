@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>珍しいな。
+#. 花村が黙り込んでるなんて…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>What happened? Why'd Hifumi get so quiet\n"
+"all of a sudden?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（うーん…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(Hm-hm-hm...)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>花村の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Hifumi's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. お前が何を考えてるかは知らないけど、
+#. そんな簡単に壊れる関係じゃないだろ？
+msgctxt "0007"
+msgid "Is it really handed down from the gods...?"
+msgstr ""
+
+#. 日向くん…
+msgctxt "0008"
+msgid "Hrm? What, do you doubt me?"
+msgstr ""
+
+#. 君がそこまで言ってくれるなら…
+#. 今日はとことん語り合おうじゃないか！
+msgctxt "0009"
+msgid ""
+"No, it's just... If it really was god-given, would it\n"
+"be right to even call it \"ultimate\"?"
+msgstr ""
+
+#. お題はそう…
+#. 女体盛りの意義と男体盛りの可能性についてさ！
+msgctxt "0010"
+msgid ""
+"I think your talent was born from your own actions,\n"
+"your own decisions. *That's* where it came from."
+msgstr ""
+
+#. <CLT 04>そんなくだらない事で悩んでたのかよ…<CLT>
+msgctxt "0011"
+msgid "..."
+msgstr "..."
+
+#. 確かに、内容によってはそういう可能性も
+#. あるかもしれないな…
+msgctxt "0012"
+msgid "Huh? Hifumi...?"
+msgstr ""
+
+#. それがキミの答えか…
+msgctxt "0013"
+msgid "*Sigh* Must you lessen my achievements?"
+msgstr ""
+
+#. 仕方ない、この思いはぼくの小さな胸に
+#. そっとしまっておくよ…
+msgctxt "0014"
+msgid ""
+"You can say that kind of thing online, but when it's\n"
+"in real life, it causes problems."
+msgstr ""
+
+#. いや、俺にはそういう特殊な素質なんかは
+#. まったくもってないと思うんだが…
+msgctxt "0015"
+msgid "Huh?"
+msgstr ""
+
+#. 何を言い出すんだ、
+#. キミほどの逸材はそうはいないよ！
+msgctxt "0016"
+msgid "This setting is obviously less than delicious."
+msgstr ""
+
+#. まったく…あまり自分を軽んじないで欲しいね！
+msgctxt "0017"
+msgid "Setting...?"
+msgstr ""
+
+#. 素質かどうかは知らないけど、
+#. 花村の考えそうな事ならなんとなくわかるぞ。
+msgctxt "0018"
+msgid ""
+"My Motivation Gauge has reached 0. I don't even feel\n"
+"like talking..."
+msgstr ""
+
+#. 日向くん…やはりキミは
+#. ぼくが見込んだとおりの人物だ…
+msgctxt "0019"
+msgid "The talent you have—only *you* have it, Hifumi."
+msgstr ""
+
+#. キミに届け！
+#. このぼくの熱いパッション！
+msgctxt "0020"
+msgid "Listen, you don't have to flatter me so much."
+msgstr ""
+
+#. さあ、今宵は大いに語り明かそう！
+#. お題はもちろん…
+msgctxt "0021"
+msgid "Ah, sorry! I didn't mean anything weird..."
+msgstr ""
+
+#. 女体盛りの意義と男体盛りの可能性についてさ！
+msgctxt "0022"
+msgid "You don't have to apologize, Mr. Naegi!"
+msgstr ""
+
+#. <CLT 04>まさかそんなくだらないことだったとはな…<CLT>
+msgctxt "0023"
+msgid "My talent was given to me by the gods, absolutely."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "But there's more to it than just *having* the talent!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid ""
+"I've mastered that talent, and learned how to harness\n"
+"it in the proper way!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid ""
+"If you're given power, and use it improperly, if you\n"
+"use it to do evil in the world..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"...however brave or strong you might be, you'll be\n"
+"destroyed, and never stand again."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "No, it's thanks to Princess Piggles, too!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "Well, Mr. Naegi..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"Naturally I give the princess thanks for showing me\n"
+"the way all this time!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid "I wonder about that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "What!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "Whaaaaaaattt!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "What do you mean by that!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"Um...don't you think you might be overexaggerating\n"
+"a little bit?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "Y-You think so...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "So then...that's all you think of me, is it...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "P-Please don't get too upset..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid ""
+"Bring about a new era, huh? That sounds pretty\n"
+"serious. But also kinda fun..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid ""
+"Oh? Does such a remark stem from recklessness,\n"
+"or just extreme confidence?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid "Can you tell me, Mr. Naegi? Why do you feel that way?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"Well, because...your mission was given to you\n"
+"by the gods, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"Yes! A true genius has no choice but to engage in such\n"
+"a trial!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"I have to overcome this obstacle of my isolated\n"
+"existence...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "And what's waiting on the other side is..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "...is history!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "So, Mr. Naegi..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid "U-Umm...yes?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"Together, we will claim a most monumental achievement\n"
+"in the world of fan fiction!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"Um, well... You say that, but...I'm not really...\n"
+"I mean, monumental achievement?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "No need to hesitate! Just do exactly as I say."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "Ahh!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"And before you know it, they'll be lining up around\n"
+"the block to see us!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"Hmph! Another page has been added to the fanfic\n"
+"history book..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"I don't understand a word he's saying, but...\n"
+"at least he seems really excited about it."
+msgstr ""

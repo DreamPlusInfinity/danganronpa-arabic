@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. はい
+msgctxt "0001"
+msgid ""
+"<CLT 4>It's the statue of Monokuma. Every time I see it, I\n"
+"can't help but think how ugly it is...\n"
+"<CLT>"
+msgstr ""
+
+#. いいえ
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's...a Venus statue. This is the only thing in here\n"
+"that actually seems like it belongs...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>ここから出ますか？<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>There are paintings lining the walls.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0004"
+msgid ""
+"<CLT 4>But...now that I'm looking, it's just a bunch of kids'\n"
+"drawings. Don't make a fool out of art!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0005"
+msgid ""
+"<CLT 4>This is a statue of Nio.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0006"
+msgid ""
+"<CLT 4>Maybe they use it as a model for drawing classes or\n"
+"something...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0007"
+msgid ""
+"<CLT 4>The locker is totally empty...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid "Yes"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid ""
+"<CLT 23>Leave the area?\n"
+"<CLT>"
+msgstr ""

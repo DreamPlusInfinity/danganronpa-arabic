@@ -1,0 +1,1394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ねぇ……
+msgctxt "0001"
+msgid ""
+"<CLT 4>The massive high school towers over all the other\n"
+"buildings in this bustling urban area.\n"
+"<CLT>"
+msgstr ""
+
+#. 聞こえる……？
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's like the school stands at the center\n"
+"of the entire world.\n"
+"<CLT>"
+msgstr ""
+
+#. ねぇ、大丈夫？
+msgctxt "0003"
+msgid ""
+"<CLT 4>Hope's Peak Academy...\n"
+"<CLT>"
+msgstr ""
+
+#. …だいぶ参ってるみたいだね？
+msgctxt "0004"
+msgid ""
+"<CLT 4>It brings in top students from every field imaginable.\n"
+"A government-funded school of privilege...\n"
+"<CLT>"
+msgstr ""
+
+#. それはボクも…
+#. ううん、他のみんなだって一緒だよ。
+msgctxt "0005"
+msgid ""
+"<CLT 4>They say that if you come here and manage\n"
+"to graduate, you'll be set for life.\n"
+"<CLT>"
+msgstr ""
+
+#. だって、いきなり…
+#. こんなおかしな事に巻き込まれるなんて…
+msgctxt "0006"
+msgid ""
+"<CLT 4>With hundreds of years of tradition, it sends the\n"
+"cream of the crop into the work force every year.\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0007"
+msgid ""
+"<CLT 4>It was built to raise <CLT><CLT 3>hope<CLT><CLT 4> in the nation's future.\n"
+"Which makes <CLT><CLT 3>Hope's Peak<CLT><CLT 4> a pretty fitting name.\n"
+"<CLT>"
+msgstr ""
+
+#. …ねぇ、聞いてる？
+msgctxt "0008"
+msgid ""
+"<CLT 4>There are two things you need to attend this school...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>………………<CLT>
+msgctxt "0009"
+msgid ""
+"<CLT 4>One, you have to already be attending high school.\n"
+"Two, you have to be the very best at what you do.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>…わからない。<CLT>
+msgctxt "0010"
+msgid ""
+"<CLT 4>No ordinary student could enroll here. The only\n"
+"way in is if you're scouted by the school itself.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺は…どうしてここにいるんだ…？<CLT>
+msgctxt "0011"
+msgid ""
+"<CLT 4>And standing there at the gate of the ultimate\n"
+"school filled with the ultimate students...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>………………<CLT>
+msgctxt "0012"
+msgid ""
+"<CLT 4>...was me.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>そうだ…俺は…<CLT>
+msgctxt "0013"
+msgid ""
+"<CLT 4>But I can't just stand around here in front\n"
+"of the school forever, right?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>希望ヶ峰学園の教室にいたはずが、
+#. 気がつくとなぜか、南の島にいて…<CLT>
+msgctxt "0014"
+msgid ""
+"<CLT 4>New students are supposed to meet in the main hall\n"
+"at 8 a.m. That's not for a little while, but...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>それから…そうだ！
+#. 確か１５人の"クラスメイト"と、それから…<CLT>
+msgctxt "0015"
+msgid "I should probably just head in."
+msgstr ""
+
+#. <CLT 04>…突然現れた謎の自称ウサギのマスコット。<CLT>
+msgctxt "0016"
+msgid "Yeah... Yeah, let's do this!"
+msgstr ""
+
+#. <CLT 04>そう、そしてそいつは確かに言ったんだ。
+#. これは…<CLT>
+msgctxt "0017"
+msgid ""
+"<CLT 4>I gathered up all my determination and tried to\n"
+"act like I'd done this a million times before.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>"修学旅行"だと…<CLT>
+msgctxt "0018"
+msgid ""
+"<CLT 4>And I took my first step toward the main hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>記憶が混乱しているのか、俺はどうやら
+#. 自分の"才能"を忘れてしまったみたいで…<CLT>
+msgctxt "0019"
+msgid ""
+"<CLT 4>But...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>訳が分からないまま"希望のカケラ"とかいうのを
+#. 集め始めて…<CLT>
+msgctxt "0020"
+msgid "...Huh!?"
+msgstr ""
+
+#. <CLT 04>そして……<CLT>
+msgctxt "0021"
+msgid ""
+"<CLT 4>As soon as I stepped foot into the main hall,\n"
+"my view became warped, twisted.\n"
+"<CLT>"
+msgstr ""
+
+#. 聞こえる……？
+msgctxt "0022"
+msgid ""
+"<CLT 4>It was like some kind of delusion, melting away\n"
+"and mixing together into something else.\n"
+"<CLT>"
+msgstr ""
+
+#. ねぇ……
+msgctxt "0023"
+msgid ""
+"<CLT 4>Spinning, mixing, melting away, then spinning again...\n"
+"<CLT>"
+msgstr ""
+
+#. ……クン…
+msgctxt "0024"
+msgid ""
+"<CLT 4>And then...\n"
+"<CLT>"
+msgstr ""
+
+#. …日向クンってば！
+msgctxt "0025"
+msgid "Makoto? Are you okay?"
+msgstr ""
+
+#. え…？
+msgctxt "0026"
+msgid "Huh...?"
+msgstr ""
+
+#. 大丈夫？
+#. ボクの事…わかるよね？
+msgctxt "0027"
+msgid ""
+"What, were you trying to escape into your own reality?\n"
+"It's not like any of us know what's going on, either."
+msgstr ""
+
+#. あ、ああ…確か…狛枝、だよな？
+msgctxt "0028"
+msgid "Oh, umm... Sorry."
+msgstr ""
+
+#. よかった…
+#. 忘れられちゃったかと思ったよ。
+msgctxt "0029"
+msgid ""
+"There's no need to apologize. Given the situation,\n"
+"it's understandable."
+msgstr ""
+
+#. 日向クン、急にぼんやりしちゃって
+#. 何度話しかけても返事がないからさ。
+msgctxt "0030"
+msgid ""
+"<CLT 4>That's right... For some reason, I went unconscious\n"
+"as soon as I stepped into the main hall.\n"
+"<CLT>"
+msgstr ""
+
+#. わ、悪い…
+#. ええと、他のみんなは？
+msgctxt "0031"
+msgid ""
+"<CLT 4>And when I woke up, I was in a classroom. The windows\n"
+"were all blocked off by these weird metal plates.\n"
+"<CLT>"
+msgstr ""
+
+#. あ、そうだった！
+#. ボクたちも早く行かなきゃ！
+msgctxt "0032"
+msgid ""
+"<CLT 4>But it wasn't just the classroom. As it turns out...\n"
+"<CLT>"
+msgstr ""
+
+#. なんか急に変なのがモニターに映って
+#. そいつがジャバウォック公園に来いって…
+msgctxt "0033"
+msgid ""
+"<CLT 4>All of us who'd gathered there had had all our stuff\n"
+"taken away, and we were locked inside the school.\n"
+"<CLT>"
+msgstr ""
+
+#. ウサミもみんなも先に行っちゃったよ。
+#. 今度はなんのイベントなんだろう？
+msgctxt "0034"
+msgid ""
+"<CLT 4>As we stood around, an announcement came on asking\n"
+"us to come to the gym for the entrance ceremony.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだよ…何が起こってるんだよ…？<CLT>
+msgctxt "0035"
+msgid ""
+"<CLT 4>But hearing that voice made it hard for me to\n"
+"concentrate on what it was actually saying...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>妙な胸騒ぎを覚えながら、
+#. 俺たちはジャバウォック公園へと急いだ…<CLT>
+msgctxt "0036"
+msgid ""
+"Hey, where are the others?\n"
+"Wasn't everyone here earlier...?"
+msgstr ""
+
+#. <CLT 04>ジャバウォック公園に着くなり、
+#. ウサミの叫び声があたりに響き渡った。<CLT>
+msgctxt "0037"
+msgid ""
+"Everyone else went to the gym while\n"
+"your ass was knocked out."
+msgstr ""
+
+#. ど、どこでちゅか！？
+#. どこに隠れてるんでちゅか！？
+msgctxt "0038"
+msgid ""
+"But is it really a good idea to obey\n"
+"such a strange announcement?"
+msgstr ""
+
+#. うぷぷぷぷっ！！
+msgctxt "0039"
+msgid ""
+"Yeah, it was weird as hell. But what else\n"
+"are we supposed to do?"
+msgstr ""
+
+#. やいやい、どこでちゅか！？
+#. どこにいるんでちゅか！？
+msgctxt "0040"
+msgid ""
+"She's right. Whatever's going to happen,\n"
+"standing our ground here isn't going to stop it."
+msgstr ""
+
+#. アーッハッハッハッハッハ！！
+msgctxt "0041"
+msgid ""
+"Okay, then let's head to the gym!\n"
+"Makoto, are you good to go?"
+msgstr ""
+
+#. やぁ！　お待たせしました！
+msgctxt "0042"
+msgid "Y-Yeah..."
+msgstr ""
+
+#. そして、お久しぶりでございます！
+msgctxt "0043"
+msgid ""
+"<CLT 4>I was forced to wonder, what the hell was\n"
+"going on here...?\n"
+"<CLT>"
+msgstr ""
+
+#. ボクはモノクマ！　この学園の学園ちょ――
+msgctxt "0044"
+msgid ""
+"<CLT 4>I was tormented by a dark feeling of foreboding, but I\n"
+"did my best to ignore it and hurried to the gym.\n"
+"<CLT>"
+msgstr ""
+
+#. そこか！
+#. ちぇりおぉぉぉぉぉー！！
+msgctxt "0045"
+msgid ""
+"<CLT 4>And as soon as I entered, a weirdly cheery\n"
+"voice echoed across the room.\n"
+"<CLT>"
+msgstr ""
+
+#. ぶふぅ！
+msgctxt "0046"
+msgid ""
+"Hey there, howdy, hello! Is everyone here?\n"
+"Good! Then let's get things rolling!"
+msgstr ""
+
+#. ええい、びしびしびしびしびしびし！
+msgctxt "0047"
+msgid "I...am...Monokuma!"
+msgstr ""
+
+#. ちょ、おま、人の話は最後まで…ぐほぁ！
+msgctxt "0048"
+msgid "And I am this school's headmaster!"
+msgstr ""
+
+#. 問答無用！
+#. ほあたたたたたたたたたた！
+msgctxt "0049"
+msgid "Nice to meet you all!"
+msgstr ""
+
+#. やっ…やめっ…！
+msgctxt "0050"
+msgid ""
+"<CLT 4>Such a bright voice and carefree attitude\n"
+"was completely out of place.\n"
+"<CLT>"
+msgstr ""
+
+#. とどめの
+#. ウサミファイナルスプラッシュスパーク！
+msgctxt "0051"
+msgid "...Ahh, can't do it. It just can't be done!"
+msgstr ""
+
+#. ほぎゃあああああああ！
+msgctxt "0052"
+msgid "...Huh?"
+msgstr ""
+
+#. 愛と正義は最後に勝つのでちゅ！
+msgctxt "0053"
+msgid ""
+"This entrance ceremony was supposed to be your\n"
+"chance to make your big high school debut!"
+msgstr ""
+
+#. うう…まさかこのボクが
+#. ウサミ如きに負けるなんて…
+msgctxt "0054"
+msgid ""
+"As the headmaster, I did my best to put on\n"
+"a happy face, but..."
+msgstr ""
+
+#. ごちゃごちゃうるさいでちゅよ！
+msgctxt "0055"
+msgid ""
+"It's just impossible. You can only lie to\n"
+"yourself for so long, ya know?"
+msgstr ""
+
+#. さ、これに懲りたら二度と修学旅行の
+#. 邪魔をしないでくだちゃい！
+msgctxt "0056"
+msgid ""
+"But if ya can't do it, ya can't do it! I've lost my\n"
+"confidence, my groove, and there's no getting it back!"
+msgstr ""
+
+#. はい…
+msgctxt "0057"
+msgid ""
+"The hell? Why's he acting so depressed?\n"
+"I went from terrified to annoyed in no time flat..."
+msgstr ""
+
+#. <CLT 04>そしてシロクロのクマっぽいものは
+#. よろよろと去っていった…<CLT>
+msgctxt "0058"
+msgid "Wait...is that a teddy bear?"
+msgstr ""
+
+#. ふぅふぅ…
+msgctxt "0059"
+msgid "Th-That teddy bear can taaaaalk!"
+msgstr ""
+
+#. なんだったんだ今の…
+msgctxt "0060"
+msgid "C'mon, what kind of cliched reaction is that!?"
+msgstr ""
+
+#. なかなか熱いファイトだったじゃねーか！
+#. 思わずワクワクしちまったぞ！？
+msgctxt "0061"
+msgid "You people just keep on reacting the same way..."
+msgstr ""
+
+#. 迫力満点のショーだったっす！
+#. ウサミちゃん、なかなかやるっすね！
+msgctxt "0062"
+msgid "That's just making me more and more depressed..."
+msgstr ""
+
+#. えへん！
+#. こう見えても、みんなを守る先生でちゅからね！
+msgctxt "0063"
+msgid ""
+"Even if the hardware is backwards-compatible, I guess\n"
+"the same doesn't go for the characters."
+msgstr ""
+
+#. その杖…なかなかの業物のようだな。
+#. それで今度は俺たちを殺すのか？
+msgctxt "0064"
+msgid ""
+"Humans are so stupid.\n"
+"Worse than any piece of software..."
+msgstr ""
+
+#. …ほえ？
+msgctxt "0065"
+msgid ""
+"Ugh, I'm just getting lower and lower...and...\n"
+"there's rock bottom. Here comes the Earth's core..."
+msgstr ""
+
+#. それか、もしかして…
+#. この無人島でボクらに殺し合いをさせるつもりとか…
+msgctxt "0066"
+msgid "This whole thing just feels sloppy as hell."
+msgstr ""
+
+#. 無人島と言う事は、いつかは水も食料も尽きる。
+#. 生き残りをかけたサバイバルかもしれん。
+msgctxt "0067"
+msgid ""
+"You expect us to believe *you're* the headmaster?\n"
+"Stop screwing around."
+msgstr ""
+
+#. そ、そんな事は絶対ないでちゅ！
+msgctxt "0068"
+msgid ""
+"You're right. I screw around too much. I've spent half\n"
+"my life apologizing for the other half of my life."
+msgstr ""
+
+#. 適度に色々とサバイバルでちゅが…
+#. 生命に危機が及ばない範囲のぬるいサバイバルでちゅ！
+msgctxt "0069"
+msgid ""
+"But I've been spending so much time trying to think\n"
+"of what to make you guys do, and I'm just...lost."
+msgstr ""
+
+#. それは…サバイバルなのか…？
+msgctxt "0070"
+msgid ""
+"Meanwhile, I've been totally neglecting myself. Trying\n"
+"to laugh it off now would just be another lie..."
+msgstr ""
+
+#. ああもう、アンタたち何言ってんの？
+#. 殺し合いなんて、するわけないでしょ！？
+msgctxt "0071"
+msgid ""
+"<CLT 4>Where the heck is this going...?\n"
+"<CLT>"
+msgstr ""
+
+#. そうだぜ、南の島で修学旅行だろ！？
+#. この現状を楽しむ方がいいに決まってんだろーが！
+msgctxt "0072"
+msgid ""
+"You've been n-neglecting yourself?\n"
+"What does that e-even mean?"
+msgstr ""
+
+#. ボクはそこに希望があるなら
+#. 殺したり殺されたりでも別に構わないけどね！
+msgctxt "0073"
+msgid ""
+"I forgot to do something that was gonna be\n"
+"a vital part of your greeting today."
+msgstr ""
+
+#. こ、狛枝？
+#. お前何言って…
+msgctxt "0074"
+msgid ""
+"Agh, what the heck...? My stomach's starting\n"
+"to hurt from all this self-loathing."
+msgstr ""
+
+#. と、とりあえず…おかしな行動を取らない限りは、
+#. 危険はないみたいですし…
+msgctxt "0075"
+msgid ""
+"He seems really depressed...\n"
+"What is it you think he forgot?"
+msgstr ""
+
+#. それに<CLT 03>希望のカケラ<CLT>さえ集めれば、
+#. すぐにこの島から出られるんだよね？
+msgctxt "0076"
+msgid ""
+"I don't think that matters. All that matters\n"
+"is finding a way out of here."
+msgstr ""
+
+#. だから、最初っからそう言ってるでちゅ！
+msgctxt "0077"
+msgid "No, I need to know! Tell us, what did you forget!?"
+msgstr ""
+
+#. うっそー！
+#. あれってマジで言ってたんだ！？
+msgctxt "0078"
+msgid ""
+"If necessary, you should cancel the entrance\n"
+"ceremony and take the time to prepare a proper one!"
+msgstr ""
+
+#. …お前の言う修学旅行とはなんだ？
+#. この島で俺達に何をさせようとしている…？
+msgctxt "0079"
+msgid "...You're right. What I forgot was...my backups."
+msgstr ""
+
+#. はーい！　では発表したいと思いまーちゅ！
+msgctxt "0080"
+msgid "Backups for what...?"
+msgstr ""
+
+#. ミナサンは、この島でほのぼの～と暮らしながら、
+#. 仲良く絆を深めていってくだちゃい！
+msgctxt "0081"
+msgid "For me! Duh!"
+msgstr ""
+
+#. それが<CLT 03>『どっきどき修学旅行』<CLT>のルールなのでちゅ！
+msgctxt "0082"
+msgid "Backups for...you? What?"
+msgstr ""
+
+#. どっきどき修学旅行…だと…？
+msgctxt "0083"
+msgid "Huh? I don't understand why you don't understand."
+msgstr ""
+
+#. 何も起きず、誰も傷付かず、誰も苦しまず、
+#. ひたすら平和でほのぼのと希望を育て合う日々…
+msgctxt "0084"
+msgid "A backup! A spare! An in-case-of-emergency!"
+msgstr ""
+
+#. そんな、らーぶ！　らーぶな…
+msgctxt "0085"
+msgid "Okay, we get it!"
+msgstr ""
+
+#. 『どっきどき修学旅行』が始まりまーちゅ！！
+msgctxt "0086"
+msgid ""
+"So if you can have \"backups\" does that mean\n"
+"you really are a toy or a robot or whatever?"
+msgstr ""
+
+#. なん…だ…それ…？
+msgctxt "0087"
+msgid ""
+"If I understand what he's saying,\n"
+"that *would* make sense."
+msgstr ""
+
+#. いくらなんでも、そんな馬鹿な事
+#. 信じられ…
+msgctxt "0088"
+msgid "No, see..."
+msgstr ""
+
+#. らーぶ、らーぶ！！
+msgctxt "0089"
+msgid "Oh! Okay, I got it! I don't like to admit this, but..."
+msgstr ""
+
+#. …え？
+msgctxt "0090"
+msgid ""
+"Yes! I'm a robot so advanced, even the\n"
+"folks at NASA can't recreate or even comprehend it!"
+msgstr ""
+
+#. よっしゃ！
+#. そうと決まりゃ、泳ぐぞー！
+msgctxt "0091"
+msgid "But I don't have any backups! So I can't begin!"
+msgstr ""
+
+#. こんな事もあろうかと、
+#. わたくし、服の下に水着を着ておきました！
+msgctxt "0092"
+msgid "What can't you begin? The entrance ceremony?"
+msgstr ""
+
+#. おお、奇遇じゃな！
+#. ワシもじゃぁ！
+msgctxt "0093"
+msgid ""
+"Sure, that too. But even more than that,\n"
+"I can't even begin your school life itself!"
+msgstr ""
+
+#. もちろん、ぼくだって
+#. 下半身の準備はいつでも万端さ！
+msgctxt "0094"
+msgid ""
+"Without a backup, the first time I break,\n"
+"that'll be the end of everything for you guys!"
+msgstr ""
+
+#. え、ちょ、待てよお前ら…
+msgctxt "0095"
+msgid ""
+"I don't think any of us give a shit if you\n"
+"break or whatever..."
+msgstr ""
+
+#. それじゃ、海まで競争ね！
+msgctxt "0096"
+msgid ""
+"Don't be stupid! Without a headmaster,\n"
+"how can your life here run smoothly?"
+msgstr ""
+
+#. ああ！
+#. 待ってくださいよぉ～！
+msgctxt "0097"
+msgid ""
+"But did you not say that you are so advanced,\n"
+"even NASA cannot comprehend it?"
+msgstr ""
+
+#. イヤッホウー！
+msgctxt "0098"
+msgid "So you should not break so easily, am I right?"
+msgstr ""
+
+#. …マジかよ……
+msgctxt "0099"
+msgid ""
+"YOU guys are gonna break me! You blew me up in the\n"
+"prologue last time, and tore me apart in chapter 5!"
+msgstr ""
+
+#. <CLT 04>白い砂浜…
+#. マリンブルーの海…<CLT>
+msgctxt "0100"
+msgid ""
+"<CLT 4>...Huh? Prologue? Chapter 5? What is he talking about?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>楽しそうにはしゃぎ回っている高校生達…<CLT>
+msgctxt "0101"
+msgid ""
+"But anyway! Let's not worry about that. Before we can\n"
+"begin your school life here..."
+msgstr ""
+
+#. <CLT 04>リゾート気分…
+#. まさに、そんな言葉がピッタリだった。<CLT>
+msgctxt "0102"
+msgid "...I'm gonna have you guys build me some backups!"
+msgstr ""
+
+#. <CLT 04>最早、疑うべくもなかった。<CLT>
+msgctxt "0103"
+msgid "What!? Aww man, come on!"
+msgstr ""
+
+#. <CLT 04>こうして俺たちの修学旅行は幕を開けた――<CLT>
+msgctxt "0104"
+msgid "What's he even talking about...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0105"
+msgid "You think you can give me orders, you living garbage?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0106"
+msgid "I do. And while you're at it..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0107"
+msgid ""
+"...I'll have you add a bunch of awesome\n"
+"bonus features!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0108"
+msgid ""
+"Like maybe make me super handsome, or eco-friendly,\n"
+"that kind of modern trendy feel..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0109"
+msgid ""
+"Or! It might be good for a Japanese-style mascot\n"
+"like me to have a super cutesy, super moe backup!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0110"
+msgid ""
+"What the hell, man!? You're talkin' like we\n"
+"already agreed to help!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0111"
+msgid ""
+"Well you're gonna, right? It's important that\n"
+"you grow as students, sure, but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0112"
+msgid ""
+"...you also have the opportunity to help\n"
+"your teacher grow!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0113"
+msgid ""
+"You think f-fake inspirational crap like that is\n"
+"gonna g-get us on your side...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0114"
+msgid ""
+"I don't think he's listening. He's just creating\n"
+"his own reality as he goes..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0115"
+msgid ""
+"Man, if this is the kind of bizarre crap I can expect\n"
+"as a new student here, I'm just gonna go home."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0116"
+msgid ""
+"And how do you plan to do that? You saw the metal\n"
+"plates covering all the exits, didn't you?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0117"
+msgid "S-So we really *have* been imprisoned in here..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0118"
+msgid ""
+"What the hell is this!? Why would you trap\n"
+"us in here!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0119"
+msgid "Let us the hell outta here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0120"
+msgid ""
+"He said he does not have a backup, yes?\n"
+"Why don't we just destroy this one right now?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0121"
+msgid "Ngrah! S-So it finally occurred to you..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0122"
+msgid ""
+"But I won't go out that easily! I'll use my NASA-level\n"
+"technology to run and hide and you'll never find me!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0123"
+msgid "You seem like a monumental waste of technology..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0124"
+msgid "Alright, that's it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0125"
+msgid ""
+"I'm not gonna be part of whatever shitty joke\n"
+"you're tryin' to pull here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0126"
+msgid ""
+"Yeah! Who gives a shit about some backup or whatever!?\n"
+"We're not here to take care of you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0127"
+msgid "Okay, yeah, sure, I see what you're saying."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0128"
+msgid "Then...would you rather just start killing each other?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0129"
+msgid ""
+"<CLT 4>...What?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0130"
+msgid "Wh-What did you just say...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0131"
+msgid ""
+"I believe he said something about us\n"
+"killing each other..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0132"
+msgid "Killing...? What are you talking about...!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0133"
+msgid ""
+"If that's supposed to be a joke, it's not funny!\n"
+"It's just...stupid!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0134"
+msgid ""
+"Y-Yeah... Even if you're just trying to make\n"
+"a point, that's taking it too far...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0135"
+msgid ""
+"C'mon, stop trying to freak us out just to get us\n"
+"to do what you want!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0136"
+msgid "Just hurry up and let us out of here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0137"
+msgid ""
+"Ugh! Would you guys please stop nagging me?\n"
+"\"I wanna go home, I wanna go home!\""
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0138"
+msgid ""
+"I thought bears were crazy about *our* homing\n"
+"instinct, but you guys really take the cake!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0139"
+msgid "But I guess you can't really help yourselves."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0140"
+msgid ""
+"You're all part of that new-wave enlightenment\n"
+"generation. You need a specific goal to motivate you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0141"
+msgid "Well then, here's a little spoiler!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0142"
+msgid "Spoiler...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0143"
+msgid ""
+"Once the backups are done, we'll move on to the main\n"
+"event and you can begin your exciting school life."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0144"
+msgid ""
+"Once that starts, *then* you'll have the chance\n"
+"to trigger your escape flag!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0145"
+msgid "What are you t-talking about? Speak plainly!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0146"
+msgid ""
+"I dunno what he means, but he *did* just say\n"
+"something about escaping, right...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0147"
+msgid "See? I was totally clear!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0148"
+msgid ""
+"If you want to escape, you'll have to live\n"
+"here peacefully and build me my backups!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0149"
+msgid "And you can't just half-ass it, either."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0150"
+msgid ""
+"Build me a superior machine with flawless performance,\n"
+"that thrills and delights me, and you pass!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0151"
+msgid ""
+"And don't worry about living expenses. You have all\n"
+"the food, clothing, and shelter you need."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0152"
+msgid ""
+"I can even personally guarantee your health\n"
+"and safety!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0153"
+msgid ""
+"Even if you get sick or injured, I'll treat you\n"
+"right away in the Monokuma Emergency Center!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0154"
+msgid ""
+"I-I don't think that's what we're worried about...\n"
+"Why do we have to do all this in the first place?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0155"
+msgid "Whatever! Stop complaining and just do it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0156"
+msgid "Now then... With this, the entrance ceremony..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0157"
+msgid "...hasn't even begun!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0158"
+msgid ""
+"I mean, you haven't even started your real\n"
+"school life yet!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0159"
+msgid ""
+"So obviously I can't welcome you yet. Which means\n"
+"this isn't a proper entrance ceremony!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0160"
+msgid ""
+"Okay, I'm done talking for now. Please enjoy\n"
+"these ever fleeting days of peace!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0161"
+msgid ""
+"<CLT 4>Without another word, he was gone,\n"
+"leaving us in dazed confusion.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0162"
+msgid ""
+"So...how would you explain what the heck\n"
+"just happened?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0163"
+msgid "Yeah, what the hell was that? I'm totally lost..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0164"
+msgid ""
+"We're t-trapped here, right? And if we make\n"
+"some \"backups\" then we can g-get out...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0165"
+msgid "That seems to be the gist of it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0166"
+msgid ""
+"If you think about everything that this \"Monokuma\"\n"
+"told us, you will notice there are two main points."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0167"
+msgid ""
+"The first point is that we're trapped here\n"
+"in the school."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0168"
+msgid "And the second, more important point..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0169"
+msgid ""
+"If we can create backups for him to his satisfaction,\n"
+"he will tell us how to *escape* from the school."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0170"
+msgid ""
+"But one thing we do *not* know is why he wants\n"
+"us to do this at all."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0171"
+msgid ""
+"What was his purpose in imprisoning us here\n"
+"in the first place?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0172"
+msgid "Yeah... What happened to Hope's Peak Academy?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0173"
+msgid ""
+"Did it get taken over by some evil organization\n"
+"or something?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0174"
+msgid ""
+"If that's the case, I'm sure the police will\n"
+"be here anytime..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0175"
+msgid "But can we even be sure this really is Hope's Peak?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0176"
+msgid ""
+"Listen, I'm sure this is all just some kind of\n"
+"elaborate orientation setup. They're, like, hazing us!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0177"
+msgid "Orientation...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0178"
+msgid ""
+"But if that's true, it's in pretty bad\n"
+"friggin' taste. It's total overkill!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0179"
+msgid ""
+"He's right. If it's a prank, it's far beyond\n"
+"the bounds of acceptability."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0180"
+msgid "Okay, fine. In that case..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0181"
+msgid "...what *is* going on?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0182"
+msgid "That's what we're t-trying to figure out...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0183"
+msgid ""
+"Ya know...if he didn't forget to build those backups\n"
+"of his...what do you think he woulda made us do?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0184"
+msgid "Kill each other. That's what he said."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0185"
+msgid "Wh—!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0186"
+msgid "Don't freak us out, dude! Who the hell would ever—!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0187"
+msgid "Everyone just calm down!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0188"
+msgid ""
+"He said we'll have plenty of food and shelter,\n"
+"and we'll be kept safe. So that's good, right!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0189"
+msgid ""
+"If we want to get out of here, we all need\n"
+"to work together!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0190"
+msgid ""
+"I fuckin' hate the idea of being at the mercy\n"
+"of that goddamn bear..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0191"
+msgid ""
+"But what else can we do? Total pain in the ass,\n"
+"either way..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0192"
+msgid ""
+"That I would lower myself to serving\n"
+"that monstrosity..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0193"
+msgid ""
+"But it seems our best option is to calmly\n"
+"adapt ourselves to this new situation."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0194"
+msgid ""
+"If this truly is something that Hope's Peak has\n"
+"put together for us, then I am fine with that."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0195"
+msgid ""
+"If that is *not* the case, and Hope's Peak has\n"
+"been taken over by some other force..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0196"
+msgid "...it would be best not to blindly oppose them."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0197"
+msgid ""
+"Tch. It gives me chills to think I'll have to\n"
+"live here along with you unwashed masses..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0198"
+msgid ""
+"Well, whatever. I'll just have to make sure\n"
+"to finish things quickly."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0199"
+msgid ""
+"And then I will find whoever did this to me,\n"
+"and wipe them from the face of the Earth..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0200"
+msgid "Okay, well...! Does anyone else have any objections?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0201"
+msgid ""
+"...Silence gives consent, as they say!\n"
+"Then it's decided!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0202"
+msgid ""
+"From this point forward, we all agree to work\n"
+"together to maintain a peaceful communal life!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0203"
+msgid "S-Sure..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0204"
+msgid ""
+"<CLT 4>When I first got into Hope's Peak Academy...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0205"
+msgid ""
+"<CLT 4>...I thought, \"Man! I can't believe I get\n"
+"to go to this amazing place!\"\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0206"
+msgid ""
+"<CLT 4>But wherever I am now, it's 180 degrees away from\n"
+"whatever amazing place I'd made up in my mind.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0207"
+msgid ""
+"<CLT 4>And that's how our bizarre communal life began...\n"
+"<CLT>"
+msgstr ""

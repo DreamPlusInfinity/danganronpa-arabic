@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"Isn't there <CLT 9>a single clue<CLT>\n"
+"that might lead us to who did it?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Well, clues are one thing, but..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Did nobody get a look at the killer!?"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"I'm sure if someone saw the killer, they woulda said\n"
+"something by now..."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Perhaps someone saw the victim\n"
+"at some point.\n"
+"Even that might be enough for now..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Yeah, all we need right\n"
+"now is <CLT 9>any kinda new info<CLT>."
+msgstr ""
+
+msgctxt "0007"
+msgid "It's over... It's all over...!"
+msgstr ""
+
+msgctxt "0008"
+msgid "You wanna know who saw the victim?"
+msgstr ""
+
+msgctxt "0009"
+msgid "The killer! <CLT 9>And only the killer<CLT>..."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"And it's not like they're just\n"
+"gonna turn themselves in..."
+msgstr ""
+
+msgctxt "0011"
+msgid "Game over, man! Game over!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Hyaaaah! No! Not game over!"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>This seems really familiar...<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>There aren't any clues...<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>It's true...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Kyeehaha...!<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>Did nobody really see anything?<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "<CLT 26>Just her and the killer...?<CLT>"
+msgstr ""

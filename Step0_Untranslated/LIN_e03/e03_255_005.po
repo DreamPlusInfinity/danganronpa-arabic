@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "So this is where you were. I've been looking for you."
+msgstr ""
+
+msgctxt "0002"
+msgid "You have...?"
+msgstr ""
+
+msgctxt "0003"
+msgid "I wanted to thank you for what you did."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"Not that you meant to, but you ended up making this\n"
+"little game of ours very interesting indeed."
+msgstr ""
+
+msgctxt "0005"
+msgid "U-Umm..."
+msgstr ""
+
+msgctxt "0006"
+msgid "You should go to Hiro's room."
+msgstr ""
+
+msgctxt "0007"
+msgid "Oh, and let me give you this."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT 23>\"Meet in the dining hall!\"\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"This is the note Hiro wrote to get us all to meet up,\n"
+"right?"
+msgstr ""
+
+msgctxt "0010"
+msgid "You remember well."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Well, the penmanship was pretty remarkable, so it left\n"
+"an impression..."
+msgstr ""
+
+msgctxt "0012"
+msgid "Anyway, this makes it clear, right?"
+msgstr ""
+
+msgctxt "0013"
+msgid "This is a trap."
+msgstr ""
+
+msgctxt "0014"
+msgid "What is...?"
+msgstr ""
+
+msgctxt "0015"
+msgid "Hmhm. Things grow ever more exciting."
+msgstr ""
+
+msgctxt "0016"
+msgid "Um...what are you talking about?"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"I've already repaid my debt. I don't owe you any more\n"
+"explanation."
+msgstr ""
+
+msgctxt "0018"
+msgid "Goodbye..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"<CLT 23>\"<CLT><CLT 3>Yasuhiro's Message<CLT><CLT 23>\" has been added to the Truth\n"
+"Bullets section of your handbook.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT 4>Um...so he said to go to Hiro's room, but...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"<CLT 4>...what's waiting for me there?\n"
+"<CLT>"
+msgstr ""

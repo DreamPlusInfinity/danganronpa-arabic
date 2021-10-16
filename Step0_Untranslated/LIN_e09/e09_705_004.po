@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "So, Japanese or Western for breakfast?"
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0004"
+msgid "Actually, I tend to pull a lot of all-nighters."
+msgstr ""
+
+#. うーん…
+#. 別に怖いってわけじゃないんだけどさ…
+msgctxt "0005"
+msgid "So I don't really eat breakfast!"
+msgstr ""
+
+#. まぁ、いざという時は
+#. 日向くんに抱きつけばいいか…
+msgctxt "0006"
+msgid ""
+"Usually I just gorge on potato chips and cup noodle\n"
+"till the sun comes up."
+msgstr ""
+
+#. …あ、そう考えるとアリかな。
+#. うん、じゃあ入ろうか！
+msgctxt "0007"
+msgid "Want something to drink?"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0008"
+msgid "Something to drink!? OMFG win!"
+msgstr ""
+
+#. いいね～あの優雅な感じ、
+#. 実にぼく向きのアトラクションだよ！
+msgctxt "0009"
+msgid "Diet Coke for me please!"
+msgstr ""
+
+#. どの子にまたがろうかって物色してるときの興奮は
+#. 一種の背徳的楽しみとも言えるよね！
+msgctxt "0010"
+msgid "Diet Coke! Diet Coke! Diet Coke!"
+msgstr ""
+
+#. さあ、そうと決まればさっそく
+#. 今宵のお相手をレッツ・ハントだよ！
+msgctxt "0011"
+msgid ""
+"Diet Coke! Diet Coke! Diet Coke!\n"
+"Diet Coke! Diet Coke! Diet Coke!"
+msgstr ""
+
+#. <CLT 04>その発想はなかったよ…<CLT>
+msgctxt "0012"
+msgid "C'mon already! Papa needs his fix!"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0013"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. ははは、そうかぁ。
+#. ジェットコースターかぁ…
+msgctxt "0014"
+msgid "Absolutely!"
+msgstr ""
+
+#. うん、わかったよ！
+#. ぼくは遠慮しておくね！
+msgctxt "0015"
+msgid ""
+"A creator needs food he can enjoy without having to\n"
+"stop working."
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0016"
+msgid "And when you're as talented as me..."
+msgstr ""
+
+#. そうそう、こういうところって
+#. なんだか微妙に道が覚えにくいんだよね。
+msgctxt "0017"
+msgid "...you can down a megaburger with a single hand!"
+msgstr ""
+
+#. だから君にナビを頼もうと思ってたんだけど…
+msgctxt "0018"
+msgid ""
+"Burger in one hand, a drink in the other. Take a bite,\n"
+"take a swig, trade the drink for a fistful of fries..."
+msgstr ""
+
+#. まあ、ぼくのフードセンサーがあれば
+#. 目的地にはたどり着けるからいっか。
+msgctxt "0019"
+msgid "Gosh, it's just the best!"
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0020"
+msgid ""
+"<CLT 4>But...that sounds like you *would* have to stop\n"
+"working...\n"
+"<CLT>"
+msgstr ""
+
+#. そりゃあ楽しむための場所だからね！
+msgctxt "0021"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. こういう所に来たら、後は何も考えずに
+#. 全力で楽しむのが正解だよ！
+msgctxt "0022"
+msgid "So what do you like to do at night?"
+msgstr ""
+
+#. というわけで、君も日常のカセから解き放たれて、
+#. 生まれたままの姿をさらしてみないかい！？
+msgctxt "0023"
+msgid "I work hard coming up with names, of course!"
+msgstr ""
+
+#. <CLT 04>全裸で遊園地って…想像するとなんかすごいな…<CLT>
+msgctxt "0024"
+msgid ""
+"I have to be ready to release my next creation the\n"
+"instant I get out of here...!"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0025"
+msgid ""
+"A creator who doesn't give life and form to his\n"
+"creations is no creator at all!"
+msgstr ""
+
+#. えええ！
+#. まだ来たばっかりじゃないか！
+msgctxt "0026"
+msgid "You know..."
+msgstr ""
+
+#. そんな事じゃ園内フード完食は夢のまた夢だよ！
+msgctxt "0027"
+msgid ""
+"If you're interested, you should stop by and check out\n"
+"my studio sometime."
+msgstr ""
+
+#. よし、食べ歩きだ
+msgctxt "0028"
+msgid ""
+"I even have an experience-based apprenticeship program\n"
+"you could—"
+msgstr ""
+
+#. そうそう！
+#. そうこなくっちゃね！
+msgctxt "0029"
+msgid ""
+"<CLT 4>No thanks.\n"
+"<CLT>"
+msgstr ""
+
+#. 適正価格じゃないのはわかってるけど、
+#. そんなことは些細な問題なんだよ。
+msgctxt "0030"
+msgid "How do you get your hair to do that?"
+msgstr ""
+
+#. ようはこの雰囲気の中で食べるに値するか…
+#. それがあることで、より場の価値を高められるか…
+msgctxt "0031"
+msgid "That's a trade secret."
+msgstr ""
+
+#. そういうところもぼくとしては
+#. 重視していきたいと思うんだよね！！
+msgctxt "0032"
+msgid "..."
+msgstr "..."
+
+#. さぁ、定番メニューから限定スイーツまで
+#. 食べ尽くすまでは帰らないぞ！！
+msgctxt "0033"
+msgid ""
+"Stop looking at me! I can't tell you! It's a trade\n"
+"secret!"
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0034"
+msgid "Wanna eat something?"
+msgstr ""
+
+#. あ、いいね！
+#. 見晴らしも良さそうだし！
+msgctxt "0035"
+msgid "Well...yeah, but \"something\" is kinda vague, isn't it?"
+msgstr ""
+
+#. あそこからならきっと
+#. 園内のフードワゴンの位置が丸わかりだよ！
+msgctxt "0036"
+msgid "But since we're on the topic!"
+msgstr ""
+
+#. それに適度な運動は
+#. 食べ物をより美味しくしてくれるからね！
+msgctxt "0037"
+msgid "I *am* feeling a bit peckish, so...how about pizza!?"
+msgstr ""
+
+#. …でもまずは、あそこに登るためのカロリーを
+#. ゲットするのが先だからね！！
+msgctxt "0038"
+msgid "Oh, and with a Diet Coke, naturally."
+msgstr ""
+
+#. やっぱり帰るか…
+msgctxt "0039"
+msgid ""
+"<CLT 4>Are you sure you can digest all that...?\n"
+"<CLT>"
+msgstr ""
+
+#. ええ！？
+#. それ、本気で言ってるのかい！？
+msgctxt "0040"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. 僕との遊園地デートがそんなに嫌だったなんて…
+#. はっきりいってめちゃくちゃショックだよ…
+msgctxt "0041"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid "What!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"To hear those words from the one who invited me\n"
+"here..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"This is awful! How many flags did you forget to\n"
+"trigger to create this state of affairs!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "Every meal is important."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"Some may think man can survive on bread alone, but\n"
+"this isn't true...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"However! That being said, man cannot survive WITHOUT\n"
+"bread, either!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"Step one, food! Step two, food! Steps three and four,\n"
+"who cares!? Step five, food food fooooood!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"Keep yourself well fed, and the rest of the world will\n"
+"take care of itself."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "So let's eat!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"<CLT 4>Wait...right now? What!?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"You can turn any personal experience or interest into\n"
+"the core of a story."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid "That's the nature of a creator. However..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"A story needs characters, right? Some might be good at\n"
+"cooking, but some might also be bad at it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "That's how you create a realistic world."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"<CLT 4>So I guess what he's trying to say is...no.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,973 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. …おう、全員ここに集まったのか？
+msgctxt "0001"
+msgid ""
+"<CLT 4>Not long after I got to the dining hall, the others\n"
+"began to trickle in.\n"
+"<CLT>"
+msgstr ""
+
+#. あのね、いい事教えてあげよっか。
+#. モノクマが言うにはね…
+msgctxt "0002"
+msgid ""
+"<CLT 4>And after a few minutes...\n"
+"<CLT>"
+msgstr ""
+
+#. 全員でこのジェットコースターに乗ると、
+#. ご褒美が貰えるらしいんだよね。
+msgctxt "0003"
+msgid "So, is this everyone?"
+msgstr ""
+
+#. オ、オレは乗んねーからな！
+msgctxt "0004"
+msgid "Okay, let's discuss what we all discovered."
+msgstr ""
+
+#. 言わなかったっけ？
+#. オレは乗り物酔いがヒデーんだよ！
+msgctxt "0005"
+msgid "Yeah, good idea..."
+msgstr ""
+
+#. ガオー！　いらっしゃーい！
+msgctxt "0006"
+msgid ""
+"I found a couple rooms on the 4th floor, but they were\n"
+"locked! The <CLT 3>data center<CLT> and the <CLT 3>headmaster's room<CLT>!"
+msgstr ""
+
+#. 当園の目玉アトラクションである、
+#. <CLT 03>『ウルトラデリシャスグレートコースター』<CLT>でーす！
+msgctxt "0007"
+msgid ""
+"The headmaster's room!? That sounds like exactly the\n"
+"kinda place we'd find some clues!"
+msgstr ""
+
+#. で、これに乗るとご褒美が貰えるってのは、
+#. ホントなんか？
+msgctxt "0008"
+msgid "If we can somehow unlock the door and get inside..."
+msgstr ""
+
+#. もっちろんでーす！
+msgctxt "0009"
+msgid "Who cares about a stupid lock!"
+msgstr ""
+
+#. ご褒美って…なんだよ？
+msgctxt "0010"
+msgid ""
+"It should be no problem for the world's strongest\n"
+"missing link to knock down one measly door!"
+msgstr ""
+
+#. ヤですよぉ！
+#. それは乗ってからのお楽しみじゃないですか！
+msgctxt "0011"
+msgid "...What was that?"
+msgstr ""
+
+#. なァ…全員で乗らねーとダメなのかよ…？
+msgctxt "0012"
+msgid "Uwah!"
+msgstr ""
+
+#. そう言ってんじゃん。その耳はイラストかい？
+msgctxt "0013"
+msgid "No, please. Continue."
+msgstr ""
+
+#. イヤだッ！　オレはイヤだぞッ！！
+msgctxt "0014"
+msgid ""
+"Did you say I've got the nicest butt on the block? The\n"
+"curviest hips in town? Is that what you said!?"
+msgstr ""
+
+#. まぁまぁ、大丈夫だって！
+#. 絶叫マシーンとか楽しいぜ！
+msgctxt "0015"
+msgid "Hell no I didn't!"
+msgstr ""
+
+#. 言うよな！　好きなヤツはそう言うよな！
+#. でも全然楽しくねーって知ってんだぞ！
+msgctxt "0016"
+msgid ""
+"Then what DID you say? Cuz I KNOW you weren't talking\n"
+"about tearing down the door to the headmaster's room."
+msgstr ""
+
+#. けどよ…そのご褒美ってのが、
+#. "船の部品"って可能性もあるんじゃねーか？
+msgctxt "0017"
+msgid "Ng—!"
+msgstr ""
+
+#. そ、それは…そうかもしんねーけどよォ…
+msgctxt "0018"
+msgid ""
+"Knocking down your headmaster's door? What kind of war\n"
+"on education are you trying to start here!?"
+msgstr ""
+
+#. ところで…この乗り物はどこに向かうのですか？
+msgctxt "0019"
+msgid ""
+"That's MY room, ya know? It is *now*, anyway... And\n"
+"you're thinking of busting it down?"
+msgstr ""
+
+#. どこにも向かわないよ。
+#. グルッと回って戻って来るだけだもん。
+msgctxt "0020"
+msgid ""
+"You seriously don't wanna piss me off. You have any\n"
+"idea how much bacteria lives on a single bear claw?"
+msgstr ""
+
+#. それには…どのような意味があるのでしょうか。
+msgctxt "0021"
+msgid "N-No, I was just kiddin'! Please don't get mad!"
+msgstr ""
+
+#. …貴様は遊園地に行った事がないのか？
+msgctxt "0022"
+msgid "I'm not mad! >_<"
+msgstr ""
+
+#. 恥ずかしながら、
+#. わたくしの国にはありませんでしたので。
+msgctxt "0023"
+msgid "You're totally mad! ;_;"
+msgstr ""
+
+#. そうか…かく言う俺様も幼少の頃に
+#. １度だけ行っただけだ…
+msgctxt "0024"
+msgid ""
+"I was hoping I wouldn't have to add a rule for this,\n"
+"but if you're gonna go around having those thoughts..."
+msgstr ""
+
+#. 悪鬼羅刹で埋め尽くされた地獄の遊園地だがな！
+msgctxt "0025"
+msgid ""
+"I have no choice but to <CLT 3>add to the school\n"
+"regulations<CLT>!"
+msgstr ""
+
+#. えっ！？　地獄にも遊園地がっ！？
+msgctxt "0026"
+msgid "Seriously...?"
+msgstr ""
+
+#. それは初耳でした！
+#. 是非、今度ご一緒させてください！
+msgctxt "0027"
+msgid ""
+"<CLT 3>Breaking down a locked door is prohibited<CLT>! There,\n"
+"that's a rule now, ya jerks!"
+msgstr ""
+
+#. ダメですって、ソニアさんッ！
+#. そいつには虚言癖があるんですからッ！
+msgctxt "0028"
+msgid ""
+"<CLT 23>The new rule has been added to the <CLT><CLT 3>Regulations<CLT><CLT 23> menu.\n"
+"<CLT>"
+msgstr ""
+
+#. 入場料は処女の血だ！
+#. 貴様の血を生贄にしてくれよう！
+msgctxt "0029"
+msgid "I-Is he gone...?"
+msgstr ""
+
+#. それは…困りましたね…
+#. わたくしの血では入場料にならなそうです。
+msgctxt "0030"
+msgid ""
+"Whew... Man, I was scared for my life! I was sure he\n"
+"was gonna kill me, for serious!"
+msgstr ""
+
+#. えッ？　という事は…ソニアさん！？
+msgctxt "0031"
+msgid ""
+"But if he would go out of his way to make up a rule\n"
+"like that..."
+msgstr ""
+
+#. ねぇ、みんな…
+#. こんな所で時間を潰してても仕方がないし…
+msgctxt "0032"
+msgid ""
+"...there's no doubt that <CLT 3>something important<CLT> must be\n"
+"hidden in the headmaster's room."
+msgstr ""
+
+#. とりあえず乗ってみない？
+msgctxt "0033"
+msgid "But...now that it's a rule, there's nothing we can do."
+msgstr ""
+
+#. ちょ、ちょっと待て！
+#. どうして、とりあえずで乗るんだよ！
+msgctxt "0034"
+msgid "..."
+msgstr "..."
+
+#. …弐大クン、お願いしてもいいかな？
+msgctxt "0035"
+msgid ""
+"So <CLT 3>breaking into a locked room<CLT> is against the rules\n"
+"now..."
+msgstr ""
+
+#. 任せんかあああああああああいっ！！
+msgctxt "0036"
+msgid ""
+"If he would go out of his way to make up a rule like\n"
+"that..."
+msgstr ""
+
+#. や、やめろッ！
+#. やめて…お願い、放してッ！！
+msgctxt "0037"
+msgid ""
+"...there's no doubt that <CLT 3>something important<CLT> must be\n"
+"hidden in the headmaster's room."
+msgstr ""
+
+#. 放してくれえええええええッ！！
+msgctxt "0038"
+msgid "But...now that it's a rule, there's nothing we can do."
+msgstr ""
+
+#. <CLT 04>必死の抵抗も虚しく、
+#. 左右田はジェットコースターに押し込まれ…<CLT>
+msgctxt "0039"
+msgid "..."
+msgstr "..."
+
+#. ウルトラデリシャスグレートコースター！
+#. それでは出発進行でーす！！
+msgctxt "0040"
+msgid ""
+"There was a big shelf in the <CLT 3>chem lab<CLT> on the 4th\n"
+"floor, and it had all kinds of chemicals and stuff."
+msgstr ""
+
+#. <CLT 04>そんなモノクマの掛け声と共に、
+#. ジェットコースターはマックススピードで発進した！<CLT>
+msgctxt "0041"
+msgid ""
+"And there was an all-star cast of nutrient additives\n"
+"and supplements!"
+msgstr ""
+
+#. ひゃっほーーーーーーーい！！
+msgctxt "0042"
+msgid ""
+"You should at least go take a peek. I highly recommend\n"
+"it!"
+msgstr ""
+
+#. アーッ、アーーーッ！！
+msgctxt "0043"
+msgid ""
+"I think you and Ogre are probably the only ones\n"
+"interested in stuff like that..."
+msgstr ""
+
+#. 死ぬッ…死ぬうううううううッ！！
+msgctxt "0044"
+msgid "Oh, but...it's not all good stuff, though."
+msgstr ""
+
+#. ぐっ…凄まじい重力じゃあのぉ！
+#. 体中のネジが吹き飛ぶようじゃぞぉおおおお！
+msgctxt "0045"
+msgid ""
+"There was medicine and health stuff, but on top of\n"
+"that..."
+msgstr ""
+
+#. 鎮まれッ…俺様の心臓よッ！
+msgctxt "0046"
+msgid "There was also, um...a bunch of different <CLT 3>poisons<CLT>."
+msgstr ""
+
+#. で、でもっ！　楽しいですっ！
+msgctxt "0047"
+msgid "P-Poison!?"
+msgstr ""
+
+#. し…し…死ぬぅ……
+#. 死なせて……くれぇ…………
+msgctxt "0048"
+msgid ""
+"They were all labeled clearly, though. So it would be\n"
+"hard to grab one by mistake..."
+msgstr ""
+
+#. はーい、到着でーす！
+#. どう？　面白かったでしょ？
+msgctxt "0049"
+msgid ""
+"Still, we'd better make sure we're careful around\n"
+"there."
+msgstr ""
+
+#. <CLT 04>や、やっと終わったか…
+#. さすがにちょっと…キツかったな…<CLT>
+msgctxt "0050"
+msgid ""
+"And...we probably shouldn't tell Byakuya or Toko about\n"
+"the poison, right?"
+msgstr ""
+
+#. なぁなぁ！　もっかい乗ろうぜ！
+msgctxt "0051"
+msgid "What do you mean...?"
+msgstr ""
+
+#. いいですね、そうしましょう！
+msgctxt "0052"
+msgid ""
+"Well, <CLT 3>just in case<CLT>... You know what I'm trying to\n"
+"say."
+msgstr ""
+
+#. イヤだッ！　ぜってーにイヤだああああッ！！
+msgctxt "0053"
+msgid "J-Just in case... Yeah, I think you're right."
+msgstr ""
+
+#. …ねぇ、それよりご褒美は？
+msgctxt "0054"
+msgid ""
+"It's Byakuya. It won't be long before he's discovered\n"
+"it for himself."
+msgstr ""
+
+#. あぁ、そうだったね！
+#. はーい、ご褒美はこのファイルでーす！！
+msgctxt "0055"
+msgid ""
+"<CLT 4>But to put something as dangerous as poison right out\n"
+"in the open...\n"
+"<CLT>"
+msgstr ""
+
+#. …え！？
+msgctxt "0056"
+msgid ""
+"<CLT 4>That's absolutely the work of the mastermind.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>こ、このマークって…！<CLT>
+msgctxt "0057"
+msgid ""
+"There was a big shelf in the <CLT 3>chem lab<CLT> on the 4th\n"
+"floor, and it had all kinds of chemicals and stuff."
+msgstr ""
+
+#. <CLT 04>あの遺跡の扉にあったのと…同じマークだ！<CLT>
+msgctxt "0058"
+msgid ""
+"And there was an all-star cast of nutrient additives\n"
+"and supplements!"
+msgstr ""
+
+#. <CLT 04>だとすると、このファイルって…<CLT>
+msgctxt "0059"
+msgid ""
+"But there was also, um...a bunch of different\n"
+"<CLT 3>poisons<CLT>."
+msgstr ""
+
+#. …未来機関のファイルって事か！
+#. これを見れば未来機関の正体がわかるのか！？
+msgctxt "0060"
+msgid ""
+"They were all labeled clearly, though. So it would be\n"
+"hard to grab one by mistake..."
+msgstr ""
+
+#. ………………
+msgctxt "0061"
+msgid ""
+"Still, we'd better make sure we're careful around\n"
+"there."
+msgstr ""
+
+#. 中を…確認させて貰っていいかな？
+msgctxt "0062"
+msgid ""
+"And...we probably shouldn't tell Byakuya or Toko about\n"
+"the poison, right?"
+msgstr ""
+
+#. はーい、お好きにどうぞ！
+msgctxt "0063"
+msgid "You're right... <CLT 3>Just in case<CLT>..."
+msgstr ""
+
+#. <CLT 04>俺達はファイルを受け取った狛枝のもとに、
+#. 集まると…<CLT>
+msgctxt "0064"
+msgid ""
+"It's Byakuya. It won't be long before he's discovered\n"
+"it for himself."
+msgstr ""
+
+#. <CLT 04>慎重な手付きでめくられていくファイルに、
+#. じっと見入った。<CLT>
+msgctxt "0065"
+msgid ""
+"<CLT 4>To put something as dangerous as poison right out in\n"
+"the open...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06><CLT><CLT 03>"コロシアイ学園生活"<CLT><CLT 06>の舞台となったのは、
+#. 皮肉にも希望ヶ峰学園だった。<CLT>
+msgctxt "0066"
+msgid ""
+"<CLT 4>That's absolutely the work of the mastermind.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>その計画の首謀者は…そこに学園の生徒達を閉じ込め、
+#. 殺し合いを強要したのだ。<CLT>
+msgctxt "0067"
+msgid ""
+"<CLT 3>Metal sheets<CLT> had been attached to all the windows on\n"
+"the 4th floor. None of them budged an inch..."
+msgstr ""
+
+#. <CLT 06>極限状態に追い込まれた生徒達は、
+#. やがて互いに疑心暗鬼を繰り返すようになり…<CLT>
+msgctxt "0068"
+msgid "Just like everywhere else..."
+msgstr ""
+
+#. <CLT 06>そして…殺し合いが始まった。<CLT>
+msgctxt "0069"
+msgid ""
+"Escape from the 4th floor seems unlikely. That was to\n"
+"be expected, though."
+msgstr ""
+
+#. <CLT 06>その生徒達による殺し合いは、
+#. 数日間にも及んだが…<CLT>
+msgctxt "0070"
+msgid "Um...Kyoko?"
+msgstr ""
+
+#. <CLT 06>ある時、唐突にその幕を下ろす事となる。<CLT>
+msgctxt "0071"
+msgid "..."
+msgstr "..."
+
+#. <CLT 06>団結した生徒達の反撃によって敗れた首謀者は、
+#. そこで自らの命を絶ったのだ。<CLT>
+msgctxt "0072"
+msgid ""
+"<CLT 4>She's ignoring me...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 06>こうして生き残った<CLT><CLT 03>"６名の生徒達"<CLT><CLT 06>は、
+#. 学園からの脱出に成功したのだが…<CLT>
+msgctxt "0073"
+msgid "Hey, Makoto..."
+msgstr ""
+
+#. ねぇ、この左側にある写真ってさ…
+msgctxt "0074"
+msgid "Does Kyoko seem upset to you?"
+msgstr ""
+
+#. その<CLT 03>"生き残りの６人"<CLT>の写真なのかな？
+msgctxt "0075"
+msgid "She is, isn't she!? She's totally mad!"
+msgstr ""
+
+#. だったら…これってどういう事なのかな？
+msgctxt "0076"
+msgid "Y-Yeah, it looks like it..."
+msgstr ""
+
+#. どうして…ここに<CLT 03>"彼"<CLT>がいるのかな？
+msgctxt "0077"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>と、狛枝が指差した先には…<CLT>
+msgctxt "0078"
+msgid ""
+"I bet it's your fault, isn't it? You must've done\n"
+"something to her."
+msgstr ""
+
+#. えっ！？
+msgctxt "0079"
+msgid ""
+"<CLT 4>Agh...this is bad...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>別人のように痩せてはいたけど…
+#. それは俺達の知る<CLT><CLT 03>"あいつ"<CLT><CLT 04>とそっくりだった。<CLT>
+msgctxt "0080"
+msgid ""
+"<CLT 4>I can't leave now. I have to hear what everyone has to\n"
+"say.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>超高校級の御曹司…十神白夜…<CLT>
+msgctxt "0081"
+msgid ""
+"<CLT 4>There's no point in leaving now. I have to hear what\n"
+"everyone has to say.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>この島で最初の犠牲者になったあいつと、
+#. そっくりだった。<CLT>
+msgctxt "0082"
+msgid "So...has everyone said what they need to say?"
+msgstr ""
+
+#. こ、これは確かに…十神のようだが…
+msgctxt "0083"
+msgid "I think so..."
+msgstr ""
+
+#. だが…なぜじゃあ！
+#. なぜ、ここに十神が写っとるんじゃあっ！？
+msgctxt "0084"
+msgid ""
+"But it looks like nobody found any clues at all, let\n"
+"alone a way out of here."
+msgstr ""
+
+#. こ、これって…一体どういう事なの？
+msgctxt "0085"
+msgid ""
+"I haven't been this depressed since my house burned to\n"
+"the ground! Someone, do something to cheer me up!"
+msgstr ""
+
+#. つーか…この<CLT 03>"コロシアイ学園生活"<CLT>ってのは、
+#. なんなんだよ！？
+msgctxt "0086"
+msgid "Um...can I say something?"
+msgstr ""
+
+#. ボクらが巻き込まれた<CLT 03>"コロシアイ"<CLT>と似たような事が、
+#. 以前にも行われていたみたいだね…
+msgctxt "0087"
+msgid "It's cuz my dad was smoking in bed!"
+msgstr ""
+
+#. それも…"希望ヶ峰学園"の中でね。
+msgctxt "0088"
+msgid "That's...no... I have something I'd like to report."
+msgstr ""
+
+#. 待てや…こんな狂気じみた殺し合いが、
+#. あの希望ヶ峰学園の中で起きてたってのか？
+msgctxt "0089"
+msgid "So...you guys all remember, right?"
+msgstr ""
+
+#. そんな訳ねーだろ！
+#. センコー共や警察が放っておかねーぞ！
+msgctxt "0090"
+msgid ""
+"You remember when I found that <CLT 3>picture<CLT> up on the 3rd\n"
+"floor the other day?"
+msgstr ""
+
+#. だが…それを主導したのもまた、
+#. <CLT 03>"世界の破壊者"<CLT>たる未来機関なのだとしたら？
+msgctxt "0091"
+msgid ""
+"You mean the one that showed Mondo, Chihiro, and Leon\n"
+"all together, right?"
+msgstr ""
+
+#. その組織が希望ヶ峰学園を
+#. 制圧しちまったってのかぁ！？
+msgctxt "0092"
+msgid "Yeah, I remember. What about it?"
+msgstr ""
+
+#. あ、ある訳ねーだろ！　バカバカしい！！
+msgctxt "0093"
+msgid ""
+"Well, I found another one. Another picture, almost\n"
+"just like that one."
+msgstr ""
+
+#. 実際の参加者である十神クンが生きてれば、
+#. 詳しい話を聞けたのに…
+msgctxt "0094"
+msgid "Another one...?"
+msgstr ""
+
+#. …残念だよ。
+msgctxt "0095"
+msgid ""
+"But this time, the picture was of Celeste, Hifumi, and\n"
+"Sayaka."
+msgstr ""
+
+#. ですが…わたくし達は記憶を失っているのですよね？
+#. それは十神さんも同じだったはずです。
+msgctxt "0096"
+msgid "Huh...?"
+msgstr ""
+
+#. それに…そんな過去があったなんて、
+#. 十神さんは一言も言っていませんでしたし…
+msgctxt "0097"
+msgid "And they were all smiling..."
+msgstr ""
+
+#. …その前に殺されただけなのかもしれんがな。
+msgctxt "0098"
+msgid ""
+"And the classroom in the picture didn't have any metal\n"
+"covering the windows."
+msgstr ""
+
+#. <CLT 04>言うヒマがないまま、
+#. 最初の犠牲者になったって事か…？<CLT>
+msgctxt "0099"
+msgid ""
+"So the picture of Mondo, Chihiro, and Leon wasn't the\n"
+"only one..."
+msgstr ""
+
+#. <CLT 04>あ、もしかして…
+#. 十神があの時言おうとしてたのって…<CLT>
+msgctxt "0100"
+msgid ""
+"Now you found one that had Celeste, Hifumi, and\n"
+"Sakaya?"
+msgstr ""
+
+#. 俺には人に語れないような過去がある…
+#. 疑い深くなってるのはきっとそのせいだ。
+msgctxt "0101"
+msgid "But...how can that...?"
+msgstr ""
+
+#. 他人を疑い続け…そして疑われ続ける…
+#. 俺はかつてそんな生き地獄のような生活を送った…
+msgctxt "0102"
+msgid "Monokuma must have faked it!"
+msgstr ""
+
+#. <CLT 04>あれは…この<CLT><CLT 03>"コロシアイ学園生活"<CLT><CLT 04>の事を
+#. 指してたって事か…？<CLT>
+msgctxt "0103"
+msgid "But...if the picture *is* real..."
+msgstr ""
+
+#. とにかく…十神クンがいない以上は、
+#. 仕方ないからモノクマに聞く事にするけどさ…
+msgctxt "0104"
+msgid "...then everyone who was in it..."
+msgstr ""
+
+#. 希望ヶ峰学園で起きた<CLT 03>"コロシアイ学園生活"<CLT>は、
+#. この島で起きてる事とどう関係してるの？
+msgctxt "0105"
+msgid ""
+"There would have to be some kind of <CLT 3>hidden\n"
+"connection<CLT> there, don't you think?"
+msgstr ""
+
+#. ボクが教えられるのは１つだけだよ…
+msgctxt "0106"
+msgid "Some deeper truth...that we just don't understand..."
+msgstr ""
+
+#. すべての答えは、
+#. オマエラの<CLT 03>『奪われた学園生活の記憶』<CLT>にある！
+msgctxt "0107"
+msgid "Can't be! It's a fake!"
+msgstr ""
+
+#. じゃあ返せ！　その記憶をオレらに返せよ！
+msgctxt "0108"
+msgid ""
+"But Monokuma said it was real. I know we could just\n"
+"write that off as a lie, but..."
+msgstr ""
+
+#. いやいや、記憶を奪ったのは未来機関だから、
+#. "今のボク"にはどうしようもないんだよね。
+msgctxt "0109"
+msgid ""
+"Then you trust Monokuma's word over the people who\n"
+"have died?"
+msgstr ""
+
+#. なんにしても許せないね…！
+msgctxt "0110"
+msgid "Huh...?"
+msgstr ""
+
+#. 希望を踏みにじろうとする輩なんて許せない…
+#. 滅びればいいんだよ…！
+msgctxt "0111"
+msgid "That's what you're saying, isn't it?"
+msgstr ""
+
+#. だー！　また訳わかんねー事になってきやがった！
+#. メンドクセーなァ！！
+msgctxt "0112"
+msgid "No, that's not it..."
+msgstr ""
+
+#. いいから、もう家に帰らせてくれ！
+#. 船の部品ってのはどこにあんだよッ！？
+msgctxt "0113"
+msgid ""
+"I'm shocked. You told everyone how we should believe\n"
+"in our friends, but you refuse to do the same."
+msgstr ""
+
+#. さぁ、どこでしょうね？
+#. この島のどこかにあるはずなんだけどね。
+msgctxt "0114"
+msgid "Th-That's not—!"
+msgstr ""
+
+#. この島はもう一通り見て回りましたが…
+#. 船の部品なんてどこにもありませんでしたよ？
+msgctxt "0115"
+msgid ""
+"<CLT 4>What's going on, Kyoko? Why are you getting so\n"
+"emotional...?\n"
+"<CLT>"
+msgstr ""
+
+#. いや…まだドッキリハウスが残ってたはずだ。
+msgctxt "0116"
+msgid ""
+"<CLT 4>I don't understand why she's so angry...\n"
+"<CLT>"
+msgstr ""
+
+#. 聞く話によれば…メンバー全員が揃わぬ限り、
+#. 辿り着けない場所であったな？
+msgctxt "0117"
+msgid ""
+"C'mon guys, stop fighting, or all your good luck is\n"
+"gonna float away!"
+msgstr ""
+
+#. ピンポーン！　大正解！
+msgctxt "0118"
+msgid ""
+"Anyway, Makoto...you're thinking about it too much.\n"
+"There's no way Monokuma didn't fake that picture."
+msgstr ""
+
+#. そう、まだ見つかってないご褒美は、
+#. すべてドッキリハウスの中に隠してありまーす！
+msgctxt "0119"
+msgid ""
+"He's just trying to confuse us. You shouldn't listen\n"
+"to anything Monokuma has to say."
+msgstr ""
+
+#. そこに、船の部品もあんだなッ！？
+msgctxt "0120"
+msgid "Y-You might be right, but still..."
+msgstr ""
+
+#. <CLT 04>いや、船の部品だけじゃない…
+#. すべてのご褒美って事は…<CLT>
+msgctxt "0121"
+msgid "Are you still so conflicted?"
+msgstr ""
+
+#. <CLT 04>俺達の希望ヶ峰学園時代のプロフィール…もだ。<CLT>
+msgctxt "0122"
+msgid "It looks like you guys have stopped playing nice."
+msgstr ""
+
+#. <CLT 04>つまり、"俺の才能"の手掛かりも、
+#. そこにあるって事だ。<CLT>
+msgctxt "0123"
+msgid "Byakuya!"
+msgstr ""
+
+#. ………………
+msgctxt "0124"
+msgid "You all have the same sunken look on your faces."
+msgstr ""
+
+#. <CLT 04>罠かもしれない…
+#. 罠かもしれないけど…<CLT>
+msgctxt "0125"
+msgid ""
+"You were all so ugly before. You shouldn't let them\n"
+"sink any lower."
+msgstr ""
+
+#. <CLT 04>だけど…<CLT>
+msgctxt "0126"
+msgid ""
+"When I look at you, it makes me think of a frog\n"
+"sinking into a pile of manure."
+msgstr ""
+
+#. <CLT 04>どうせ、とっくに罠にかかっているんだ。
+#. だったら…<CLT>
+msgctxt "0127"
+msgid "Sorry..."
+msgstr ""
+
+#. みんな…行こう…
+msgctxt "0128"
+msgid "Why are you apologizing!?"
+msgstr ""
+
+#. ドッキリハウスに行ってみよう…！
+msgctxt "0129"
+msgid "Leave us alone! You're not a part of this!"
+msgstr ""
+
+#. ですが…大丈夫なのでしょうか？
+#. ドッキリハウスってあの不気味な建物ですよね？
+msgctxt "0130"
+msgid ""
+"That's true enough. Your problems aren't mine. We are,\n"
+"and always will be, completely separate."
+msgstr ""
+
+#. でも…行くしかないだろ。
+msgctxt "0131"
+msgid ""
+"So whatever's causing your faces to turn so ugly has\n"
+"absolutely nothing to do with me."
+msgstr ""
+
+#. だって、そこに行けば
+#. 船の部品が手に入るかも知れないんだぞ！
+msgctxt "0132"
+msgid ""
+"And if I happened to discover a <CLT 3>vital clue<CLT>, it\n"
+"wouldn't concern you in the slightest."
+msgstr ""
+
+#. …それに、日向クンの才能の秘密もね。
+msgctxt "0133"
+msgid "Huh...?"
+msgstr ""
+
+#. ………………
+msgctxt "0134"
+msgid "Did he finally just say something useful?"
+msgstr ""
+
+#. いいよ…日向クンの意見を尊重して、
+#. ボクらもドッキリハウスに向かうとしようか。
+msgctxt "0135"
+msgid "...Byakuya. What have you been up to?"
+msgstr ""
+
+#. うぷぷ、どうやら決まったみたいだね。
+msgctxt "0136"
+msgid ""
+"I don't mind telling you. Perhaps forcing your lazy\n"
+"brains to get to work might do you some good."
+msgstr ""
+
+#. じゃあ、ボクは準備があるから先に行ってよーっと！
+#. また後でねー！
+msgctxt "0137"
+msgid ""
+"I was <CLT 3>in the bath<CLT>. What else would you like to know?\n"
+"Today's lottery numbers?"
+msgstr ""
+
+#. うーん、あんまり気乗りしないけど…
+msgctxt "0138"
+msgid ""
+"<CLT 4>He was...taking a bath?\n"
+"<CLT>"
+msgstr ""
+
+#. でも、みんなが行くって言うなら仕方ないか。
+#. 一緒に行くしかないよね。
+msgctxt "0139"
+msgid ""
+"<CLT 4>Is he saying he's been talking to <CLT><CLT 3>Alter Ego<CLT><CLT 4>? Did he\n"
+"tell him something...?\n"
+"<CLT>"
+msgstr ""
+
+#. 自ら罠に飛び込むなど狂気の沙汰だが…
+msgctxt "0140"
+msgid "Maybe we should *all* go take a bath."
+msgstr ""
+
+#. フハハハッ！　だからこそ面白いッ！！
+msgctxt "0141"
+msgid "Ah...good idea."
+msgstr ""
+
+#. じゃあ、決まりだな…！
+msgctxt "0142"
+msgid "A mixed bath...?"
+msgstr ""
+
+#. <CLT 04>あの"未来機関のファイル"で、
+#. 新たな謎を突き付けられたせいかもしれないけど…<CLT>
+msgctxt "0143"
+msgid "A mixed bath...!"
+msgstr ""
+
+#. <CLT 04>…俺は焦っていた。<CLT>
+msgctxt "0144"
+msgid ""
+"<CLT 4>If Alter Ego really did tell him something...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>次から次へと訳のわからない謎を突き付けられて、
+#. じっとしていられなかったんだ。<CLT>
+msgctxt "0145"
+msgid ""
+"<CLT 4>...I wonder what it could have been.\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Sakura's..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Sakura's..."
+msgstr ""
+
+msgctxt "0004"
+msgid "...dead?"
+msgstr ""
+
+msgctxt "0005"
+msgid "She's...really dead?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT 4>I heard Hina talking, but my eyes stared steadily\n"
+"forward.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"<CLT 4>I could only look on...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT 4>...at <CLT><CLT 3>Sakura's dead body<CLT><CLT 4>.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0009"
+msgid "We didn't make it in time."
+msgstr ""
+
+msgctxt "0010"
+msgid "It's happened again..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>Muttering to herself, Kyoko began to gently inspect\n"
+"Sakura's body.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT 4>I wondered, was she confirming that Sakura really was\n"
+"dead? Checking for a pulse, or a reaction?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "..."
+msgstr "..."
+
+msgctxt "0014"
+msgid "I have to go get them..."
+msgstr ""
+
+msgctxt "0015"
+msgid "I have to go get...the others..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"<CLT 4>On shaky legs, Hina left the rec room.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT 4>And I...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid "Why...?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Why...did this have to happen?"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT 4>That's all I could say.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"<CLT 4>I repeated it over and over again...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0022"
+msgid "I need to examine Sakura's body..."
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>I just stood there motionless behind her, while she\n"
+"checked Sakura's corpse.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 4>Time passed.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"<CLT 4>While I stood there, unable to do a thing, time\n"
+"just...passed.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"<CLT 4>And after I don't know how long...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0027"
+msgid "I got everyone..."
+msgstr ""
+
+msgctxt "0028"
+msgid "Uwah! O-Ogre!?"
+msgstr ""
+
+msgctxt "0029"
+msgid "Oh. So she's dead, huh?"
+msgstr ""
+
+msgctxt "0030"
+msgid "Sakura's been killed? I see..."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"<CLT 4>As soon as they arrived, Kyoko began...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"You heard the announcement just now, right? So you\n"
+"know what this means."
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"<CLT 3>Sakura was murdered<CLT>. And by someone in this very\n"
+"room..."
+msgstr ""
+
+msgctxt "0034"
+msgid "Is that what you were going to say?"
+msgstr ""
+
+msgctxt "0035"
+msgid "...No."
+msgstr ""
+
+msgctxt "0036"
+msgid "Whoever killed her..."
+msgstr ""
+
+msgctxt "0037"
+msgid "...it's not just \"someone in this room.\""
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"It was one of you... Hiro, Byakuya, Toko—one of you\n"
+"killed Sakura!"
+msgstr ""
+
+msgctxt "0039"
+msgid "Wh-Wh—!?"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"You're accusing us before we've even begun the\n"
+"investigation?"
+msgstr ""
+
+msgctxt "0041"
+msgid "I don't need to investigate anything..."
+msgstr ""
+
+msgctxt "0042"
+msgid "Because you hated her. You hated the sight of her!"
+msgstr ""
+
+msgctxt "0043"
+msgid "One of you did it, I know it!"
+msgstr ""
+
+msgctxt "0044"
+msgid "You...know it?"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"Jeez, I didn't know your power level would increase by\n"
+"that much just by getting mad!"
+msgstr ""
+
+msgctxt "0046"
+msgid "What are you doing here...?"
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"Isn't it obvious? I'm here to hand out my little\n"
+"murder flyer."
+msgstr ""
+
+msgctxt "0048"
+msgid "That's right! It's the next Monokuma File!"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"And don't get so mad, Miss Asahina, or you're gonna\n"
+"ruin that lewd little face of yours!"
+msgstr ""
+
+msgctxt "0050"
+msgid "Now then! With that, I—"
+msgstr ""
+
+msgctxt "0051"
+msgid "Hold on..."
+msgstr ""
+
+msgctxt "0052"
+msgid "There's something I want to ask you..."
+msgstr ""
+
+msgctxt "0053"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0054"
+msgid "It was you, wasn't it? You killed Sakura?"
+msgstr ""
+
+msgctxt "0055"
+msgid "Huh huh?"
+msgstr ""
+
+msgctxt "0056"
+msgid "Sakura wanted to challenge the mastermind to a duel."
+msgstr ""
+
+msgctxt "0057"
+msgid "Maybe you and her fought again, and then..."
+msgstr ""
+
+msgctxt "0058"
+msgid "Then I killed her?"
+msgstr ""
+
+msgctxt "0059"
+msgid "Sorry, not quite! Actually, not even close."
+msgstr ""
+
+msgctxt "0060"
+msgid "That whole thing is totally irrelevant now!"
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"Sakura came to a most regrettable end without even\n"
+"getting the chance to finish things with me..."
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"Which, thank God for that! It saved me the trouble of\n"
+"having to go through with our little fight."
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"Cuz even for someone like me, it would've been no mean\n"
+"feat to take down a behemoth like that!"
+msgstr ""
+
+msgctxt "0064"
+msgid "I gotta tell ya, I was actually pretty worried!"
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"I mean, she'd violated a rule by attacking me in the\n"
+"first place, but I wasn't able to punish her!"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"So I dunno who it was, but whoever the blackened is\n"
+"this time...I owe ya one!"
+msgstr ""
+
+msgctxt "0067"
+msgid "Y-You owe them one!?"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"Oopsie! Before you get all pissy-potty at me, you\n"
+"better figure out who did it first!"
+msgstr ""
+
+msgctxt "0069"
+msgid "Cuz I mean...your lives are all on the line, right?"
+msgstr ""
+
+msgctxt "0070"
+msgid "Puhuhu..."
+msgstr ""
+
+msgctxt "0071"
+msgid "Puhuhuhuhu!"
+msgstr ""
+
+msgctxt "0072"
+msgid "What the hell...? He owes them one?"
+msgstr ""
+
+msgctxt "0073"
+msgid "I hate him! I hate this whole thing!"
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"Well I, for one, am glad it was Sakura. She was\n"
+"working for the mastermind, after all."
+msgstr ""
+
+msgctxt "0075"
+msgid "H-How can you say that now...!?"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"Sorry, I don't have time for your squabbling. The next\n"
+"game has already begun..."
+msgstr ""
+
+msgctxt "0077"
+msgid ""
+"If you want to be angry at someone, be angry at\n"
+"whoever killed Sakura."
+msgstr ""
+
+msgctxt "0078"
+msgid "..."
+msgstr "..."
+
+msgctxt "0079"
+msgid ""
+"Right now, our top priority needs to be uncovering\n"
+"Sakura's killer."
+msgstr ""
+
+msgctxt "0080"
+msgid "If we can't do that, we're all dead."
+msgstr ""
+
+msgctxt "0081"
+msgid "Then let's decide who will stand guard this time."
+msgstr ""
+
+msgctxt "0082"
+msgid "...I'll do it."
+msgstr ""
+
+msgctxt "0083"
+msgid "Hina...?"
+msgstr ""
+
+msgctxt "0084"
+msgid "I'm okay..."
+msgstr ""
+
+msgctxt "0085"
+msgid "Just let me handle it...!"
+msgstr ""
+
+msgctxt "0086"
+msgid "Besides, I...I want to be here...with Sakura."
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"Okay, then Hina is guard number one. But we need one\n"
+"more."
+msgstr ""
+
+msgctxt "0088"
+msgid "Kyoko, that's you."
+msgstr ""
+
+msgctxt "0089"
+msgid "...Me?"
+msgstr ""
+
+msgctxt "0090"
+msgid ""
+"You're always a thorn in my side. This time just stand\n"
+"by and watch quietly. Consider that an order."
+msgstr ""
+
+msgctxt "0091"
+msgid "An o-order!?"
+msgstr ""
+
+msgctxt "0092"
+msgid "Fine. I'll stay behind."
+msgstr ""
+
+msgctxt "0093"
+msgid "Then it's settled. Let's begin, shall we?"
+msgstr ""
+
+msgctxt "0094"
+msgid "...Hold on!"
+msgstr ""
+
+msgctxt "0095"
+msgid "Before that, there's something I want to say."
+msgstr ""
+
+msgctxt "0096"
+msgid "Which is...?"
+msgstr ""
+
+msgctxt "0097"
+msgid ""
+"Hiro, Byakuya, Toko—none of you are allowed to step\n"
+"foot in the crime scene."
+msgstr ""
+
+msgctxt "0098"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0099"
+msgid "One of you killed Sakura!"
+msgstr ""
+
+msgctxt "0100"
+msgid "I won't let someone like that come anywhere near her!"
+msgstr ""
+
+msgctxt "0101"
+msgid ""
+"Don't be stupid. Our lives are in just as much danger\n"
+"as yours! We have every right to investigate."
+msgstr ""
+
+msgctxt "0102"
+msgid ""
+"I don't care what you say. I'm not letting the one who\n"
+"killed Sakura anywhere near her."
+msgstr ""
+
+msgctxt "0103"
+msgid ""
+"Even if it means I have to use force, you're not\n"
+"getting in here...!"
+msgstr ""
+
+msgctxt "0104"
+msgid ""
+"Well, it appears further discussion would be a waste\n"
+"of time."
+msgstr ""
+
+msgctxt "0105"
+msgid "How about a compromise?"
+msgstr ""
+
+msgctxt "0106"
+msgid "I won't ask you to let all of us in. Just let me."
+msgstr ""
+
+msgctxt "0107"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0108"
+msgid ""
+"You don't really care, do you? You're both useless,\n"
+"anyway."
+msgstr ""
+
+msgctxt "0109"
+msgid "Nope, don't really caaaare!"
+msgstr ""
+
+msgctxt "0110"
+msgid ""
+"I'd rather spend my time coming up with another\n"
+"splendid fantasy involving Master, anyway!"
+msgstr ""
+
+msgctxt "0111"
+msgid "And you, Hiro? Do you really object?"
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"I-If you're gonna go that far, what can I do? I mean,\n"
+"I don't have anything to hide, so why should I care?"
+msgstr ""
+
+msgctxt "0113"
+msgid "Then it's decided."
+msgstr ""
+
+msgctxt "0114"
+msgid "Nothing's decided!"
+msgstr ""
+
+msgctxt "0115"
+msgid ""
+"I know how you feel, Hina, but you should agree to his\n"
+"request."
+msgstr ""
+
+msgctxt "0116"
+msgid "B-But—!"
+msgstr ""
+
+msgctxt "0117"
+msgid "We have to find out who killed Sakura."
+msgstr ""
+
+msgctxt "0118"
+msgid ""
+"For those of us still alive, and to honor Sakura's\n"
+"memory..."
+msgstr ""
+
+msgctxt "0119"
+msgid "..."
+msgstr "..."
+
+msgctxt "0120"
+msgid "Fine. I guess that's okay."
+msgstr ""
+
+msgctxt "0121"
+msgid ""
+"But no matter what, Byakuya, you absolutely aren't\n"
+"allowed to touch her...!"
+msgstr ""
+
+msgctxt "0122"
+msgid "Naturally. Who would want to touch a filthy dead body?"
+msgstr ""
+
+msgctxt "0123"
+msgid ""
+"That's enough fighting. We need to focus on the\n"
+"investigation from here on out."
+msgstr ""
+
+msgctxt "0124"
+msgid ""
+"Everyone, keep this in mind. If we can't uncover\n"
+"Sakura's killer..."
+msgstr ""
+
+msgctxt "0125"
+msgid "...all of us face execution."
+msgstr ""
+
+msgctxt "0126"
+msgid ""
+"<CLT 4>Finding out who killed Sakura...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0127"
+msgid ""
+"<CLT 4>It's not a matter of hoping we can do it...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0128"
+msgid ""
+"<CLT 4>If we want to survive, we *have* to do it.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0129"
+msgid ""
+"<CLT 4>It's a kind of...hopeless hope.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0130"
+msgid ""
+"<CLT 4>We have no choice but to just do it...!\n"
+"<CLT>"
+msgstr ""

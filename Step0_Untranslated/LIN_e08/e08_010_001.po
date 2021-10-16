@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. やはり、日本にはユニークな方が多いのですね。
+#. ハムスターを飼っていたり…豚足を持っていたり…
+msgctxt "0001"
+msgid "What are you d-doing here?"
+msgstr ""
+
+#. 留学して来て良かったです！
+msgctxt "0002"
+msgid "Ngg... Why do I have to g-go through all this...?"
+msgstr ""
+
+#. 直しておく
+msgctxt "0003"
+msgid "I didn't d-do anything to deserve it!"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "Spend some time with Toko"
+msgstr ""
+
+#. <CLT 04>どうしよう？
+#. ソニアの微妙な勘違いを直しておくか？<CLT>
+msgctxt "0005"
+msgid "Go see who else is around"
+msgstr ""
+
+#. まぁ、日本の事を教えてくださるのですか？
+#. ありがとうございます！
+msgctxt "0006"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Toko for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ソニアに、正しい日本を伝えようと
+#. 奮闘して過ごした。<CLT>
+msgctxt "0007"
+msgid "What, more p-pity?"
+msgstr ""
+
+#. <CLT 04>恐れ多くもソニアと少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid ""
+"Aren't you such a g-good person, showing me all this\n"
+"pity...?"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid ""
+"<CLT 4>I spent some time with Toko...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid ""
+"<CLT 4>Toko and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Toko a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

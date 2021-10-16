@@ -1,0 +1,607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>こうして２人でこの景色を見るのも<CLT>
+#. <CLT 04>今日で最後か…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>I decided to talk to Hifumi one more time before we\n"
+"all left...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>色々と無茶苦茶なサバイバル生活だったけど<CLT>
+#. <CLT 04>改めて振り返ってみると…楽しかったな。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>I wonder if this is the last time we'll ever see this\n"
+"place...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかんだ言っても、<CLT>
+#. <CLT 04>人が死ぬような事態にはならなかったし。<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>The time we spent here didn't make much sense,\n"
+"but...looking back, I can't say I didn't have fun.\n"
+"<CLT>"
+msgstr ""
+
+#. 楽しかった修学旅行も
+#. ついに終わっちゃうんだね。
+msgctxt "0004"
+msgid ""
+"<CLT 4>There are still some mysteries left. What was\n"
+"Monokuma, really? Why'd we end up here?\n"
+"<CLT>"
+msgstr ""
+
+#. いきなり連れてこられたときは
+#. どうなる事かと思ったけど…
+msgctxt "0005"
+msgid ""
+"<CLT 4>I still don't have answers, but I'll have time to\n"
+"figure all that out once we escape...\n"
+"<CLT>"
+msgstr ""
+
+#. でもボクはこの島に来れて
+#. よかったって、今はそう思うよ。
+msgctxt "0006"
+msgid "Finally, the day has arrived..."
+msgstr ""
+
+#. それは俺も同じだよ。
+msgctxt "0007"
+msgid ""
+"We've been through so much, but now it's goodbye to\n"
+"Stink High!"
+msgstr ""
+
+#. おかげで花村やみんなとも
+#. 仲良くなれたしさ。
+msgctxt "0008"
+msgid "You look really happy, Hifumi."
+msgstr ""
+
+#. うんうん。
+#. ほんっと～に楽しかったよねえ…
+msgctxt "0009"
+msgid "I very much am!"
+msgstr ""
+
+#. …とはいえ、個性の強い"お客"揃いで
+#. ボクとしては色々と大変だったけどね。
+msgctxt "0010"
+msgid "How much time have we lost being locked away in here!?"
+msgstr ""
+
+#. なんたって、全員好物が違うんだから。
+#. まったく、どんなわがままレストランだよ。
+msgctxt "0011"
+msgid ""
+"How many games have I missed? How many comics? How\n"
+"much anime has come and gone while I was in here!?"
+msgstr ""
+
+#. <CLT 04>確かに、残飯まで漁る雑食家から<CLT>
+#. <CLT 04>王女様まで取り揃ってるからな…<CLT>
+msgctxt "0012"
+msgid "Just thinking about it..."
+msgstr ""
+
+#. <CLT 04>花村の奴、リクエストに応えるのに<CLT>
+#. <CLT 04>随分苦労してたみたいだ。<CLT>
+msgctxt "0013"
+msgid ""
+"It makes me lose my appetite. It makes me feel like\n"
+"I'm gonna explode!"
+msgstr ""
+
+#. でもね、ここでの色んな出会いによって
+#. 料理人としても成長できた気がするんだ。
+msgctxt "0014"
+msgid "Really...?"
+msgstr ""
+
+#. それに、特にキミとの交流は、
+#. ボクに大切な事を思い出させてくれた…
+msgctxt "0015"
+msgid ""
+"But there are still so many unsolved mysteries.\n"
+"Like, what was the deal with Monokuma?"
+msgstr ""
+
+#. そんな恩人とも言えるキミを
+#. 是非招待したいと思うんだよね！
+msgctxt "0016"
+msgid "It's true, there's a lot we don't know."
+msgstr ""
+
+#. 招待って…どこへだ？
+msgctxt "0017"
+msgid ""
+"But it's not like we figured anything out while we\n"
+"were in here, either."
+msgstr ""
+
+#. もっちろん…決まってるじゃないか。
+#. ボクのルーツともいえるあの店…
+msgctxt "0018"
+msgid ""
+"And in the meantime, I haven't been able to make use\n"
+"of my talent at all!"
+msgstr ""
+
+#. ボクの実家へさ！
+msgctxt "0019"
+msgid ""
+"That's true. Now that you're free, you can get back to\n"
+"work."
+msgstr ""
+
+#. <CLT 04>花村の実家？<CLT>
+#. <CLT 04>それって確か…<CLT>
+msgctxt "0020"
+msgid "Then let's get out of here together!"
+msgstr ""
+
+#. フレンチレストラン
+msgctxt "0021"
+msgid ""
+"Absolutely! We've reached our goal, and at the same\n"
+"time created a new starting line!"
+msgstr ""
+
+#. ええと…
+#. フレンチレストランとかだっけ？
+msgctxt "0022"
+msgid "Right! Let's do this!"
+msgstr ""
+
+#. うんうん、その気持ちはよくわかるよ！
+msgctxt "0023"
+msgid "...Oh."
+msgstr ""
+
+#. この高貴なボクに
+#. フレンチはよく似合うからねっ！
+msgctxt "0024"
+msgid "What's wrong? What happened?"
+msgstr ""
+
+#. <CLT 04>違ったみたいだな…<CLT>
+msgctxt "0025"
+msgid "For your first question, yes...something is wrong."
+msgstr ""
+
+#. 中華料理屋
+msgctxt "0026"
+msgid "And what happened is that *nothing* happened."
+msgstr ""
+
+#. 確か…
+#. 中華料理屋だっけ？
+msgctxt "0027"
+msgid "Mr. Naegi! I do hope you remember our promise!"
+msgstr ""
+
+#. なるほどね！
+#. キミの言いたいことはよく分かるよ。
+msgctxt "0028"
+msgid "Promise...?"
+msgstr ""
+
+#. 中華料理の奥深さは知的なこのボクのイメージに
+#. ピッタリと言えるからねっ！
+msgctxt "0029"
+msgid "So...you don't remember."
+msgstr ""
+
+#. <CLT 04>違ったみたいだな…<CLT>
+msgctxt "0030"
+msgid "Remember what we agreed? When we got out of here..."
+msgstr ""
+
+#. 定食屋
+msgctxt "0031"
+msgid "Umm..."
+msgstr ""
+
+#. そういえば…
+#. お前んちって定食屋だったよな。
+msgctxt "0032"
+msgid "..."
+msgstr "..."
+
+#. ははは、嫌だなあ。
+#. 小粋な隠れ家的小料理屋と言って欲しいね！
+msgctxt "0033"
+msgid "Do you really not remember!?"
+msgstr ""
+
+#. 花村食堂といえば、近隣じゃちょっとは
+#. 名の知れた店なんだよ！
+msgctxt "0034"
+msgid "What!? No, I do! I do!"
+msgstr ""
+
+#. まあ、一番近い他の店まで行くには
+#. 山ふたつほど越えないとならないけどね！
+msgctxt "0035"
+msgid "Hmmmmmmmmm..."
+msgstr ""
+
+#. <CLT 04>それって実質、その店一択だろ…<CLT>
+msgctxt "0036"
+msgid "P-Please stop staring at me..."
+msgstr ""
+
+#. っていうか、花村の実家って
+#. そんなに田舎だったんだな。
+msgctxt "0037"
+msgid "I'll become your biggest fan."
+msgstr ""
+
+#. …まぁ、立地とか小生意気な弟妹はどうでもいいとして、
+#. お母ちゃんには是非会って欲しいんだ。
+msgctxt "0038"
+msgid ""
+"I'll watch your career flourish and become your\n"
+"biggest fan."
+msgstr ""
+
+#. それに、あの花村食堂の厨房でこそ
+#. ボクの料理は真に輝く…
+msgctxt "0039"
+msgid "..."
+msgstr "..."
+
+#. それをキミに食べて欲しいんだ。
+msgctxt "0040"
+msgid "Such utter disappointment."
+msgstr ""
+
+#. 花村…
+#. わかった、必ず行くよ。
+msgctxt "0041"
+msgid "Everything I said..."
+msgstr ""
+
+#. お前の作る最高の料理が食える日を
+#. 楽しみにしてるからな。
+msgctxt "0042"
+msgid ""
+"It went right in one ear and out the other, never\n"
+"taking time to enter your heart..."
+msgstr ""
+
+#. もちろん、まかせておくれよ！
+#. いやぁ、お母ちゃんもきっと喜ぶよ！
+msgctxt "0043"
+msgid "No, that's not true. This is just a—misunderstanding!"
+msgstr ""
+
+#. なんてったって、次に帰る時は
+#. 嫁を連れて帰るって言ってあるからね！
+msgctxt "0044"
+msgid ""
+"Fine then. This time, tell me what you *actually*\n"
+"promised."
+msgstr ""
+
+#. …ちょっと待て。
+#. 誰が嫁だって？
+msgctxt "0045"
+msgid "Hmm..."
+msgstr ""
+
+#. ははは！
+#. 細かい事は気にしない！
+msgctxt "0046"
+msgid "I'll join you as your editor."
+msgstr ""
+
+#. さあ、行こうか！
+#. ボクたちの希望に満ちた輝かしい未来へ！
+msgctxt "0047"
+msgid ""
+"I'll join you as your editor, and help develop all\n"
+"your future achievements."
+msgstr ""
+
+#. <CLT 04>…色々と問題はあるが、<CLT>
+#. <CLT 04>今は花村が楽しそうなのでよしとしておこう。<CLT>
+msgctxt "0048"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>花村の言うように、今の俺たちの前には<CLT>
+#. <CLT 04>"希望"に満ちた未来が広がっている…<CLT>
+msgctxt "0049"
+msgid "Hungyah...?"
+msgstr ""
+
+#. <CLT 04>この島に来るまで感じた事もない、<CLT>
+#. <CLT 04>そんな明るい想いが俺の胸を満たしていた。<CLT>
+msgctxt "0050"
+msgid "I guess that wasn't it..."
+msgstr ""
+
+#. はい
+msgctxt "0051"
+msgid ""
+"Naturally, some fanfic creators need an editor to help\n"
+"them develop."
+msgstr ""
+
+#. いいえ
+msgctxt "0052"
+msgid ""
+"But I am the Ultimate Fanfic Creator! I need no\n"
+"editor!"
+msgstr ""
+
+#. <CLT 06>他にも話しかけたい人がいますか？<CLT>
+msgctxt "0053"
+msgid ""
+"From the first kernel of an idea, to the last drop of\n"
+"ink from the printer, I do it all!"
+msgstr ""
+
+#. <CLT 04>こうして俺たちの<CLT>
+#. <CLT 04>南の島での生活は終わりを告げた――<CLT>
+msgctxt "0054"
+msgid "So...what was the promise."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid "I'll join you as your friend."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid "I'll join you, and help you as your friend."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid "That's right."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid ""
+"You get to observe me as my closest friend, following\n"
+"my every footstep..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid ""
+"And then you get to narrate my story to the entire\n"
+"fanfic world!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0061"
+msgid ""
+"It will be your duty to pass my legacy on to future\n"
+"generations."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0062"
+msgid "Which is why, Mr. Naegi..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0063"
+msgid "...you will serve as my assistant!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0064"
+msgid ""
+"Digital art is the new thing, so we don't have to\n"
+"worry about ink stains anymore."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid ""
+"And with the digital age, I don't find myself drowning\n"
+"in manuscripts anymore, either."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid ""
+"Nor will we have to worry about little pieces of\n"
+"screentone flying this way and that!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid ""
+"I do pride myself on my visual flair, though, so I\n"
+"still have to work as hard as ever."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid "You know, Hifumi...I think I understand your feelings."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid ""
+"I'm a total amateur, so I don't know what most of what\n"
+"you just said means, but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid "...I'm okay standing by you as your friend."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0071"
+msgid ""
+"Then don't hesitate! An opportunity like this is most\n"
+"rare indeed."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0072"
+msgid "And remember..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0073"
+msgid ""
+"This isn't just about publicizing my creations. It's\n"
+"about recording the process!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0074"
+msgid ""
+"As my assistant and my historian, I will hold on to\n"
+"you forever...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0075"
+msgid ""
+"Hold on to me...? I think I might have a problem with\n"
+"that."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0076"
+msgid "OMG STFU!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0077"
+msgid "I was just speaking metaphorically!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0078"
+msgid ""
+"Although, I think all those yaoi fangirls out there\n"
+"would be totally into it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0079"
+msgid "So, Mr. Naegi..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0080"
+msgid "Be my assistant. Be my true friend..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0081"
+msgid "And that was it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0082"
+msgid ""
+"<CLT 4>Hifumi said all that with a shy look on his face.\n"
+"But he didn't turn away...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0083"
+msgid "I'm looking forward to it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0084"
+msgid "Gwehehe... Then let's make it official."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0085"
+msgid ""
+"<CLT 4>With that, we shook hands.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0086"
+msgid ""
+"<CLT 4>I don't know what the future holds, but I know what to\n"
+"expect when it comes to the people here.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0087"
+msgid ""
+"<CLT 4>Hifumi has his own hope, and I have to think about how\n"
+"I can support him in that...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0088"
+msgid ""
+"<CLT 4>For the first time since coming to this school, a\n"
+"vivid image of the future filled my heart...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0089"
+msgid "<CLT 23>You received<CLT><CLT 3> <CLT><CLT 23><CLT><CLT 3>Hifumi's Undergarments<CLT> <CLT 23>as a present.<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0090"
+msgid "Yes"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0091"
+msgid "No"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0092"
+msgid ""
+"<CLT 23>Is there anyone else you'd like to talk to?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0093"
+msgid ""
+"<CLT 4>And that's how my school life at Hope's Peak Academy\n"
+"came to an end...\n"
+"<CLT>"
+msgstr ""

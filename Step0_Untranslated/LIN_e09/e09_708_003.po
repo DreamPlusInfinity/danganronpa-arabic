@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. アニメもあるけど…
+msgctxt "0004"
+msgid ""
+"Indeed, it's a chicken coop. But who's been taking\n"
+"care of them?"
+msgstr ""
+
+#. お、それも悪くねえな！
+#. 当然、バトルもんだよな！？
+msgctxt "0005"
+msgid ""
+"It would be difficult to get them to breed without at\n"
+"least a little help."
+msgstr ""
+
+#. ロボットとかは勘弁しろよ？
+#. あと剣とか魔法とかもちょっとパスな。
+msgctxt "0006"
+msgid "It couldn't be Monokuma...could it?"
+msgstr ""
+
+#. 銃撃戦は微妙だけど、ビームならいいぞ！
+#. もちろん手から出るヤツな！
+msgctxt "0007"
+msgid ""
+"Why would a bear bother taking care of a bunch of\n"
+"birds...?"
+msgstr ""
+
+#. あと、猿に変身するくらいだったらいいぜ！
+#. 宇宙から来た最強生物とか緑色の大魔王とか！
+msgctxt "0008"
+msgid "Hmhm. I must admit, the thought is rather funny."
+msgstr ""
+
+#. <CLT 04>限定的すぎるだろ…<CLT>
+msgctxt "0009"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0010"
+msgid "Most likely because of all the tropical plants."
+msgstr ""
+
+#. おお、いいぜ！
+#. それならオレでも観れるからな！
+msgctxt "0011"
+msgid ""
+"Honestly, it's pretty uncomfortable. I think I need to\n"
+"go..."
+msgstr ""
+
+#. 武器とか超能力で戦うよりは
+#. やっぱ断然、肉弾戦だよなぁ。
+msgctxt "0012"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. なんなら２時間戦闘だけとかでもいいんだけど
+#. そういう映画ってねーのかな？
+msgctxt "0013"
+msgid "Gardening? Right now...?"
+msgstr ""
+
+#. <CLT 04>疲れそうな映画だな…<CLT>
+msgctxt "0014"
+msgid "...You're very interesting."
+msgstr ""
+
+#. ラブストーリーとか…
+msgctxt "0015"
+msgid "By the way, you're the Ultimate Lucky Student, right?"
+msgstr ""
+
+#. ………………
+msgctxt "0016"
+msgid ""
+"If you were to tend a garden, would you perhaps end up\n"
+"raising some kind of rare, precious plants?"
+msgstr ""
+
+#. …それってうめぇのか？
+msgctxt "0017"
+msgid "That could prove quite useful..."
+msgstr ""
+
+#. ホットドッグも捨てがたい
+msgctxt "0018"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ホットドッグがあんのか！？
+#. っていうか、食っていいのか！？
+msgctxt "0019"
+msgid "Let's make some flower garlands!"
+msgstr ""
+
+#. そんなもんまであるなんて、
+#. 映画館ってすげーんだな。
+msgctxt "0020"
+msgid "..."
+msgstr "..."
+
+#. よし、オレもうここに住むぜ！
+#. なんてったって出来たてが食べ放題だからな！
+msgctxt "0021"
+msgid ""
+"Is that a serious suggestion? What's the point of such\n"
+"an action?"
+msgstr ""
+
+#. <CLT 04>放題って事はないと思うんだけど…<CLT>
+msgctxt "0022"
+msgid ""
+"All we could do with them would be to give them to\n"
+"each other."
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0023"
+msgid "B-But...I suppose..."
+msgstr ""
+
+#. …そういうもんなのか？
+msgctxt "0024"
+msgid ""
+"If you promise you would accept, then...I suppose I\n"
+"don't mind the idea."
+msgstr ""
+
+#. 映画館ってあんまり来た事ねーからさ。
+#. へぇ…観ながら食っていいのか。
+msgctxt "0025"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. ２時間分のポップコーンかぁ…
+#. すんげぇ量なんだろうな！
+msgctxt "0026"
+msgid "You're right... Even if it *is* fake."
+msgstr ""
+
+#. <CLT 04>それを持って歩くのは無理だと思うぞ…<CLT>
+msgctxt "0027"
+msgid ""
+"But if you convince yourself it's real, then to you at\n"
+"least it *becomes* real."
+msgstr ""
+
+#. やっぱり出よう
+msgctxt "0028"
+msgid ""
+"Then again... To spend your whole life lying to\n"
+"yourself... Is that really the way to live?"
+msgstr ""
+
+#. なんでだよ！？
+#. せっかく来たってのに…
+msgctxt "0029"
+msgid "Something seems off..."
+msgstr ""
+
+#. それにまだなんも食ってねーんだぞ！
+msgctxt "0030"
+msgid "Are you talking about me and this area?"
+msgstr ""
+
+#. やっぱり出ようか…
+msgctxt "0031"
+msgid ""
+"I can't disagree. I really don't have experience\n"
+"tending to plants."
+msgstr ""
+
+#. なんだよ、
+#. まだ何にも食ってねーんだぞ？
+msgctxt "0032"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. けどまぁ、食いもんなら
+#. 他の場所にだって色々あるし…
+msgctxt "0033"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. 正直、じっと座ってるのってしんどいよな。
+msgctxt "0034"
+msgid ""
+"You chose to bring me here specifically, and now\n"
+"you're going to go to sleep?"
+msgstr ""
+
+#. オレもなんか面倒くさくなってきちまったし、
+#. どうせなら違う場所に行くか！
+msgctxt "0035"
+msgid ""
+"Then it would seem I'm wasting my time keeping you\n"
+"company..."
+msgstr ""
+
+#. <CLT 04>なんだか終里らしいな…<CLT>
+msgctxt "0036"
+msgid "You wanna do some flower viewing?"
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0037"
+msgid "Hmm... That might be a nice way to pass the time."
+msgstr ""
+
+#. おう、オレはいつでも寝れるぜ！
+msgctxt "0038"
+msgid ""
+"But usually \"flower viewing\" refers specifically to\n"
+"cherry blossoms, right?"
+msgstr ""
+
+#. なんてったって暗いし、空調は効いてるし
+#. 椅子の座り心地はいいし…
+msgctxt "0039"
+msgid ""
+"I believe there was a cherry tree in the dojo. Shall\n"
+"we go...?"
+msgstr ""
+
+#. どう考えたって爆睡できる場所だろ！
+msgctxt "0040"
+msgid "That flower's kinda creepy..."
+msgstr ""
+
+#. <CLT 04>それは確かにそうなんだけど…<CLT>
+msgctxt "0041"
+msgid "I've never seen anything like it."
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0042"
+msgid ""
+"Was it created here at Hope's Peak? If so, it's in\n"
+"very poor taste..."
+msgstr ""
+
+#. えーっと…
+msgctxt "0043"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

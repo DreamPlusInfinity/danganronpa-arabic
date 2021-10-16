@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"So you said Byakuya was acting kinda weird\n"
+"<CLT 9>before we found the body<CLT>..."
+msgstr ""
+
+msgctxt "0002"
+msgid "But he was acting weird...how?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"If you're presented with the\n"
+"opportunity to check out\n"
+"the girls locker room,\n"
+"you absolutely take it...!"
+msgstr ""
+
+msgctxt "0004"
+msgid "That's a natural reaction for any guy!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT 9>The victim was Chihiro<CLT>,\n"
+"who was a girl."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"So of course I would suggest we check\n"
+"the girls locker room first."
+msgstr ""
+
+msgctxt "0007"
+msgid "There was no time for pointless distractions."
+msgstr ""
+
+msgctxt "0008"
+msgid "What's so strange about that?"
+msgstr ""
+
+msgctxt "0009"
+msgid "I wish you'd taken me with you..."
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>So what was strange?<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>Not all guys are like that!<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>You're the worst...<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>It's true...!<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>So it's cuz she was a girl?<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>Strange...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Go by yourself, if you want to so bad...<CLT>"
+msgstr ""

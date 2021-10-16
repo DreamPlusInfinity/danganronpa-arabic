@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. くっそぉ…
+#. 弐大のおっさんに勝てねーよ…
+msgctxt "0001"
+msgid "I'm busy. I don't have time to waste..."
+msgstr ""
+
+#. がむしゃらなだけじゃダメっつーけど、
+#. オレは頭悪ぃから他に方法なんて知らねーんだよな。
+msgctxt "0002"
+msgid "Spend some time with Kyoko"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Go see who else is around"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid ""
+"<CLT 4>Hmm... Should I talk to Kyoko for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 終里と一緒に過ごすか？<CLT>
+msgctxt "0005"
+msgid ""
+"There's no reason to decline. And I'm not the type to\n"
+"decline, anyway."
+msgstr ""
+
+#. たまには休憩取った方がいいか。
+#. んじゃ日向…付き合ってくれよ。
+msgctxt "0006"
+msgid ""
+"Besides...I find myself more and more intrigued by\n"
+"someone like you."
+msgstr ""
+
+#. <CLT 04>終里と一緒に、とりとめのない話をして過ごした。<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>I spent some time with Kyoko...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>終里と少し仲良くなれた気がする…<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>Kyoko and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid "Yes, definitely"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid "Not really, no"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Kyoko a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Oh, Makoto!"
+msgstr ""
+
+msgctxt "0002"
+msgid "Hiro...? Then the letter I found in my room..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Yup, I wrote it."
+msgstr ""
+
+msgctxt "0004"
+msgid "Your handwriting is...really nice."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"Well, I was always taught that if you had bad\n"
+"penmanship, a ghost would come and haunt you."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"<CLT 4>...Who taught you that?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0007"
+msgid "And why did you want to meet with me?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Oh, I just did what Kyoko asked me."
+msgstr ""
+
+msgctxt "0009"
+msgid "Kyoko...?"
+msgstr ""
+
+msgctxt "0010"
+msgid "I'm just an errand boy on this."
+msgstr ""
+
+msgctxt "0011"
+msgid "Anyway, whaddya say to a late-night bath session?"
+msgstr ""
+
+msgctxt "0012"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0013"
+msgid "Okay, let's do it!"
+msgstr ""
+
+msgctxt "0014"
+msgid "N-No, I..."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>I was totally lost. Hiro grabbed me by the shoulder,\n"
+"pulled me close, and whispered into my ear...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"It's all an act, so the mastermind won't notice.\n"
+"Everyone's waiting in the bathhouse."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"<CLT 4>What...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT 4>Then...did Alter Ego finish his search...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "Y-You got it, Hiro! Let's go take a dip together!"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"<CLT 4>I was probably louder than I needed to be...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"<CLT 4>But me and Hiro hurried to the dressing room.\n"
+"<CLT>"
+msgstr ""

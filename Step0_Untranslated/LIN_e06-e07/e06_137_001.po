@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Two years' worth of memories..."
+msgstr ""
+
+msgctxt "0002"
+msgid "I <CLT 9>could never lose<CLT> something like that!"
+msgstr ""
+
+msgctxt "0003"
+msgid "We've been living here for two years...?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Hell no! That's impossible!"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"I mean, I haven't gone to any awesome\n"
+"school events or anything..."
+msgstr ""
+
+msgctxt "0006"
+msgid "Heck, I've never even gone to <CLT 9>a single class<CLT>!"
+msgstr ""
+
+msgctxt "0007"
+msgid "This is all just...surreal!"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Plus,\n"
+"if <CLT 9>two years have passed<CLT>..."
+msgstr ""
+
+msgctxt "0009"
+msgid "...how freakin' old am I!?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"Puhuhu...\n"
+"Everyone's so conflicted!"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>Two years' worth of memories...<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>I could never lose something like that!<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>We've been living here for two years...?<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>Hell no! That's impossible!<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 26>I mean, I haven't gone to any awesome\n"
+"school events or anything...<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Heck, I've never even gone to a single class!<CLT>"
+msgstr ""
+
+msgctxt "0017"
+msgid "<CLT 26>This is all just...surreal!<CLT>"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT 26>Plus,\n"
+"if two years have passed...<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "<CLT 26>...how freakin' old am I!?<CLT>"
+msgstr ""
+
+msgctxt "0020"
+msgid "<CLT 26>Puhuhu... Everyone's so conflicted!<CLT>"
+msgstr ""

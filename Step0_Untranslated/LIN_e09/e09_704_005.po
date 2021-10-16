@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>軍事施設に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the library...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>なんだかよく分からない兵器らしきものが<CLT>
+#. <CLT 04>無造作にうち捨てられている…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>It's pretty dusty, but I've never seen a place so\n"
+"filled with books and other documents.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm gettin' kinda sleepy..."
+msgstr ""
+
+#. ちょっとわくわくするな
+msgctxt "0004"
+msgid ""
+"Yeah, same here. Just lookin' at all those spines\n"
+"lined up...next to each other..."
+msgstr ""
+
+#. ちょっとどころじゃねーよ！
+#. 超絶わくわくしてるよ、オレは！
+msgctxt "0005"
+msgid "*Yaaaawn*"
+msgstr ""
+
+#. ヤベーだろ、このお宝満載スポット！
+#. さっきからマジでヨダレが止まんねえ…
+msgctxt "0006"
+msgid "See? Just can't stop myself from yawning..."
+msgstr ""
+
+#. 見ろよ、あの車両の山…
+#. ああ、あれ何だろうな…なんか撃てんのかな…
+msgctxt "0007"
+msgid ""
+"Comics or whatever are fine, but when there's a\n"
+"billion words in there, that's the worst!"
+msgstr ""
+
+#. ああもう、いいから早く近く行って見ようぜ！
+msgctxt "0008"
+msgid "I love reading!"
+msgstr ""
+
+#. 嫌な感じだな
+msgctxt "0009"
+msgid "Are you sure you're, like...normal?"
+msgstr ""
+
+#. いやいやいや！
+#. そんなこと、ぜんぜんないって！
+msgctxt "0010"
+msgid ""
+"And here I thought you and me were the same. But it\n"
+"turns out you're like, Mr. Bookworm...!"
+msgstr ""
+
+#. ただちょっと珍しい乗り物があるだけだって！
+msgctxt "0011"
+msgid "Should we spend some time studying?"
+msgstr ""
+
+#. <CLT 04>わかりやすいくらい必死だな…<CLT>
+msgctxt "0012"
+msgid "S...Stu...dy...?"
+msgstr ""
+
+#. やっぱり違う場所に行こう
+msgctxt "0013"
+msgid "Way to kill the mood. I'm outta here..."
+msgstr ""
+
+#. ちょ…嘘だろ！？
+#. っていうか嘘だと言ってください！
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. こんな宝の山を目の前にして…
+#. オレは絶対帰らねーからなっ！
+msgctxt "0015"
+msgid "Maybe we should tidy up a little."
+msgstr ""
+
+#. 心行くまでエンジンとかバラしたり組み立てたり
+#. するんだからな！！
+msgctxt "0016"
+msgid "Why would I wanna do that?"
+msgstr ""
+
+#. 戦車に乗ろう
+msgctxt "0017"
+msgid ""
+"I hate practicing more than anything, but cleaning\n"
+"comes in a close second."
+msgstr ""
+
+#. 戦車か～憧れだよなぁ～。
+#. いいよなぁ～。
+msgctxt "0018"
+msgid ""
+"Whether it's fielding grounders or wiping the floor, I\n"
+"don't wanna bend down like that ever again...!"
+msgstr ""
+
+#. デカいしゴツいし、
+#. なんかこー…撫でたくなるっつーの？
+msgctxt "0019"
+msgid "You think there's any cool books here?"
+msgstr ""
+
+#. ちょっと頑張れば運転できそうな身近さも
+#. またたまらないっつーか…
+msgctxt "0020"
+msgid "Why don't we look and see if they have any comics!?"
+msgstr ""
+
+#. ま、オレとしてはやっぱ乗るよりも
+#. バラしてみてーけどな！
+msgctxt "0021"
+msgid ""
+"With this many books, there's gotta be at least a\n"
+"couple around here, right?"
+msgstr ""
+
+#. いいよなぁ…軍事機密…
+msgctxt "0022"
+msgid "Okay, I'm gonna start over here!"
+msgstr ""
+
+#. 戦闘機はあるかな
+msgctxt "0023"
+msgid "So, Leon...do you read much?"
+msgstr ""
+
+#. いいよなぁ～戦闘機…
+#. なんてったってジェットエンジンだからな…
+msgctxt "0024"
+msgid "Well, a simple question deserves a simple answer."
+msgstr ""
+
+#. どんな燃え方してんだろーな…
+#. いつかすぐ間近で聞いてみてえぇぇ！
+msgctxt "0025"
+msgid ""
+"So nope! All I read is comics. I've never even opened\n"
+"a textbook!"
+msgstr ""
+
+#. まぁ、乗るのだけはゴメンだけどな。
+#. あー…バラしてみてーなぁ…
+msgctxt "0026"
+msgid ""
+"You're not gonna get all teacherly on me and tell me\n"
+"how terrible that is, are you?"
+msgstr ""
+
+#. 軍艦はどこだ？
+msgctxt "0027"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 艦は…こっから見えないってことは
+#. ないんじゃねーか？
+msgctxt "0028"
+msgid "It's so quiet, I kinda feel like studying."
+msgstr ""
+
+#. ガスタービンエンジン、
+#. 間近で見れると思ってたのになぁ。
+msgctxt "0029"
+msgid "What, you're gonna start studying? Like...right now?"
+msgstr ""
+
+#. ドックとかもねーし…ガッカリだぜ…
+msgctxt "0030"
+msgid ""
+"I need to stop hanging out with you, man! We're\n"
+"totally incompatible!"
+msgstr ""
+
+#. 燃料を探そう
+msgctxt "0031"
+msgid "I wonder if there's any books on baseball."
+msgstr ""
+
+#. そうそうそう！
+#. それだよ、それ！
+msgctxt "0032"
+msgid "Baseball...?"
+msgstr ""
+
+#. せっかくこんなに車両があんのに
+#. 燃料がなきゃエンジンもブン回らねーからな！
+msgctxt "0033"
+msgid ""
+"Who knows? Who cares!? I don't! I don't care about\n"
+"baseball! Who cares about baseball!?"
+msgstr ""
+
+#. へへ…どいつもこいつ、どんな音で鳴いてくれんのか、
+#. 楽しみでしかたねーぜ…
+msgctxt "0034"
+msgid "I just wanna read comics..."
+msgstr ""
+
+#. おらおらおら！
+#. そうと決まりゃ、突撃開始だぜっ！！
+msgctxt "0035"
+msgid ""
+"Seriously. All they have here is a bunch of crappy,\n"
+"boring old books."
+msgstr ""
+
+#. <CLT 04>まさに水を得た魚だな…<CLT>
+msgctxt "0036"
+msgid ""
+"Whoever got all this stuff shoulda thought things\n"
+"through a little more."
+msgstr ""
+
+#. 食料を探そう
+msgctxt "0037"
+msgid ""
+"Why build a library if you're not gonna include the\n"
+"kinda stuff people wanna read!?"
+msgstr ""
+
+#. お、いーじゃん！
+#. ミリ飯、あんじゃねーの？
+msgctxt "0038"
+msgid ""
+"But who am I supposed to complain to about this?\n"
+"Like...Monokuma?"
+msgstr ""
+
+#. それさえ見つかりゃ、しばらくこの天国に
+#. 引きこもれるってわけか…
+msgctxt "0039"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

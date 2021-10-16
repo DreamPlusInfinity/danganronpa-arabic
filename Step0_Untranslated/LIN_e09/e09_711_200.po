@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like she had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. んー、こんなに楽しかったの、
+#. ちょっと久しぶりかも。
+msgctxt "0002"
+msgid "Thank you for everything today, Makoto."
+msgstr ""
+
+#. 日向おにぃのクセになかなかやるね。
+#. なんとなく…ちゃんとデートっぽかったし。
+msgctxt "0003"
+msgid "The time we spent together really means a lot to me."
+msgstr ""
+
+#. でもちょっと疲れたから、特別に
+#. ホテルまで抱っこさせてあげるよ。
+msgctxt "0004"
+msgid "If you don't mind...could we do it again sometime?"
+msgstr ""
+
+#. ほら、早く早く！
+#. ちゃんと部屋まで送ってよね。
+msgctxt "0005"
+msgid "I'd like to talk with you more..."
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid "I think maybe..."
+msgstr ""
+
+#. 日向おにぃにしては
+#. なかなか気の利いたデートだったんじゃない？
+msgctxt "0007"
+msgid "Anyway, we should get going."
+msgstr ""
+
+#. あ、でもこのわたしを誘うんなら、
+#. 次はもうちょっと頑張ってもらわないと。
+msgctxt "0008"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. ただでさえ釣り合ってないんだから
+#. そのくらいの努力はして欲しいよねー。
+msgctxt "0009"
+msgid "Today was quite fun."
+msgstr ""
+
+#. あー、疲れた。
+#. 早くホテルに帰ろ。
+msgctxt "0010"
+msgid ""
+"If you feel the same way, there is no reason we can't\n"
+"do this again."
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0011"
+msgid "Well, we'd better head back."
+msgstr ""
+
+#. あーもー疲れたー！
+msgctxt "0012"
+msgid ""
+"<CLT 4>I get the feeling she didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. 日向おにぃの微妙なプランのおかげで
+#. もうクタクタ…
+msgctxt "0013"
+msgid "I'm not sure that was the best use of my time."
+msgstr ""
+
+#. まさに凡人が無理して目一杯背伸びしてみました、
+#. って感じの微妙さだったよ。
+msgctxt "0014"
+msgid ""
+"I need to go train for a while to get some energy\n"
+"back."
+msgstr ""
+
+#. 次からはもうちょっとマシな
+#. デートコース、考えてよ。
+msgctxt "0015"
+msgid "So if you'll excuse me..."
+msgstr ""
+
+#. それじゃーね。
+msgctxt "0016"
+msgid ""
+"<CLT 4>I don't think things could have gone any worse than\n"
+"that. Crap...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0017"
+msgid "..."
+msgstr "..."
+
+#. ふぅ…
+msgctxt "0018"
+msgid ""
+"Sorry, but if you want some company next time, please\n"
+"ask someone else."
+msgstr ""
+
+#. なんかもうしゃべる気力もないよ…
+msgctxt "0019"
+msgid "I apologize..."
+msgstr ""

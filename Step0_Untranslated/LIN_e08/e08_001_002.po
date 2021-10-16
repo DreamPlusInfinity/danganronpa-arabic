@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ボクって熱くなると、
+#. ついクサい事を言っちゃうんだよね…
+msgctxt "0001"
+msgid ""
+"Is this supposed to be part of the Hope's Peak\n"
+"curriculum...?"
+msgstr ""
+
+#. わかってるんだけど止められないんだ。
+msgctxt "0002"
+msgid ""
+"But they've gone too far! The government must not\n"
+"remain silent on this!"
+msgstr ""
+
+#. けど、心にもないセリフを言った事はないよ。
+#. 全部が本心なんだ。
+msgctxt "0003"
+msgid "Spend some time with Taka"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0004"
+msgid "Go see who else is around"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Taka for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どうする？　狛枝を誘ってみるか？<CLT>
+msgctxt "0006"
+msgid ""
+"Sounds good! If it were anyone else, no way. But I\n"
+"don't mind sharing some of my valuable time with you!"
+msgstr ""
+
+#. この島に来て最初に、一緒に過ごしたせいかな？
+#. 日向クンといると落ち着くんだよね。
+msgctxt "0007"
+msgid ""
+"<CLT 4>Taka was nice enough to give me some of his valuable\n"
+"time...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>狛枝と一緒に、
+#. 何か手掛かりがないか探し回って過ごした。<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>Taka and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>狛枝と…少し仲良くなってしまったみたいだ…<CLT>
+msgctxt "0009"
+msgid "Yes, definitely"
+msgstr ""
+
+#. 渡す
+msgctxt "0010"
+msgid "Not really, no"
+msgstr ""
+
+#. 渡さない
+msgctxt "0011"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Taka a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

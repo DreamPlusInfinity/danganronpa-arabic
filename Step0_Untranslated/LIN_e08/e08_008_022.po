@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. んま。んま。
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. …何してんだ？
+msgctxt "0002"
+msgid "Oh, Kyoko...!"
+msgstr ""
+
+#. 食ってんだよ。モノクマカレー。
+msgctxt "0003"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>ホ、ホントに食ってるのか！<CLT>
+msgctxt "0004"
+msgid "How do you stay so calm, Kyoko?"
+msgstr ""
+
+#. おい、大丈夫か…
+#. 得体の知れない具材が入ってるんだろ？
+msgctxt "0005"
+msgid "...Calm?"
+msgstr ""
+
+#. …いや、うめー肉だぞ。
+msgctxt "0006"
+msgid ""
+"I mean, you never lose your cool. You never show\n"
+"emotion..."
+msgstr ""
+
+#. けど…カエルに似てたな。
+#. なんか足に水かきあったし…イボイボもあったし…
+msgctxt "0007"
+msgid "You say that like I'm some kind of inhuman beast."
+msgstr ""
+
+#. 似てたっていうか、カエルだ！
+msgctxt "0008"
+msgid "N-No, I didn't mean it like that."
+msgstr ""
+
+#. それに…ゲロゲロとうるさかったな。
+msgctxt "0009"
+msgid "Well, I *am* human. I *do* have emotions."
+msgstr ""
+
+#. <CLT 04>しかも生かよ！<CLT>
+msgctxt "0010"
+msgid ""
+"I simply keep it to myself. I don't show it in my face\n"
+"or in my voice."
+msgstr ""
+
+#. まったく世の中広いぜ…
+#. この世はでかい宝島みてーだな。
+msgctxt "0011"
+msgid ""
+"You make that sound way easier than it is. Especially\n"
+"in these kinds of circumstances..."
+msgstr ""
+
+#. <CLT 04>気付いてないみたいだし…
+#. あえて言わない方がいいのかな？<CLT>
+msgctxt "0012"
+msgid ""
+"Well, you should consider trying. Your naive honesty\n"
+"makes you an easy target."
+msgstr ""
+
+#. <CLT 04>いいんだよな？<CLT>
+msgctxt "0013"
+msgid ""
+"<CLT 4>She keeps saying things like that. It's kind of\n"
+"irritating...\n"
+"<CLT>"
+msgstr ""
+
+#. さてと…おかわりしようかな。
+msgctxt "0014"
+msgid ""
+"<CLT 4>Isn't there anything I can say to get a reaction out\n"
+"of her...?\n"
+"<CLT>"
+msgstr ""
+
+#. まだ食うのか…
+msgctxt "0015"
+msgid ""
+"Protect against deception, and <CLT 3>never allow others to\n"
+"read your emotions<CLT>."
+msgstr ""
+
+#. オメーも一緒に食うか？
+#. モノクマに頼んでやってもいいぜ。
+msgctxt "0016"
+msgid ""
+"And whoever stands before you, <CLT 3>don't let them push\n"
+"you around<CLT>."
+msgstr ""
+
+#. やっぱ、オメーもモノクマカレーを食いてーんだな？
+#. モノクマに頼んでやってもいいぜ。
+msgctxt "0017"
+msgid "Remember that."
+msgstr ""
+
+#. 食べてみたい
+msgctxt "0018"
+msgid "And that's why you hide your own feelings?"
+msgstr ""
+
+#. 食べたくない
+msgctxt "0019"
+msgid "But..."
+msgstr ""
+
+#. <CLT 04>どうする？
+#. カレーを食べてみるか？<CLT>
+msgctxt "0020"
+msgid "But that's such a—a waste!"
+msgstr ""
+
+#. いい…遠慮しておく。
+msgctxt "0021"
+msgid "...Hmm?"
+msgstr ""
+
+#. そっか。じゃあ遠慮なく食っちまうな。
+msgctxt "0022"
+msgid "Your smile is just so cute!"
+msgstr ""
+
+#. おっしゃあ！　ぶっ倒れるまで食うぞ！
+msgctxt "0023"
+msgid ""
+"Hiding it behind that mask is such a waste! A bright\n"
+"smile is way better!"
+msgstr ""
+
+#. <CLT 04>終里と一緒にモノクマカレーという名の
+#. 怪しいカレーを食べて過ごした。<CLT>
+msgctxt "0024"
+msgid "Wh-What are you talking about...?"
+msgstr ""
+
+#. <CLT 04>終里と少し仲良くなれた気がする…<CLT>
+msgctxt "0025"
+msgid ""
+"C-Cute? It's much too soon to be bringing up...things\n"
+"like that...!"
+msgstr ""
+
+#. 渡す
+msgctxt "0026"
+msgid ""
+"Ah, looks like I got you to show a hint of emotion,\n"
+"didn't I?"
+msgstr ""
+
+#. 渡さない
+msgctxt "0027"
+msgid "...What?"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0028"
+msgid "You... Makoto, you...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "Y-You...deceived me!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"<CLT 4>Huh? Wait...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"I don't believe this...! To use the word \"cute\" to\n"
+"deceive someone...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "That's just...too cruel!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "S-Sorry! I just got carried away!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"B-But still... I did deceive you, but...it's not like\n"
+"it was a total lie!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "...You see how easily you yourself are deceived?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "...Huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid ""
+"You would never just come out and call someone cute\n"
+"like that. Completely out of character."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"You thought I wouldn't pick up on such an obvious\n"
+"ploy?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "What? You mean..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid ""
+"<CLT 4>I thought I'd tricked you, but I was the one getting\n"
+"tricked...?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid "Watch yourself, Makoto. You're honest to a fault."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"<CLT 4>With that, she was gone.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"<CLT 4>The most formidable opponent...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"<CLT 23>Kyoko's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with her.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"<CLT 23>You just unlocked the skill <CLT><CLT 3>Neural Liberation<CLT><CLT 23>!\n"
+"Give yourself a pat on the back. You've earned it!\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>With Kyoko gone, I slowly made my way back to my room.\n"
+"<CLT>"
+msgstr ""

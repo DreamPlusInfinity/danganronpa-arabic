@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 日向おにぃって、
+#. ほんと鈍感だよね…
+msgctxt "0001"
+msgid "Makoto..."
+msgstr ""
+
+#. どうして気付いてくれないんだろ。
+msgctxt "0002"
+msgid ""
+"At first, I deemed him\n"
+"an unworthy training partner."
+msgstr ""
+
+#. それとも、
+#. 本当は気付いてるのに…
+msgctxt "0003"
+msgid "But now, I..."
+msgstr ""
+
+#. <CLT 17>わざと無視してる<CLT>の？
+msgctxt "0004"
+msgid "I want to believe in him."
+msgstr ""
+
+#. そんなのひどいよぉ…
+msgctxt "0005"
+msgid "No matter what I tell him..."
+msgstr ""
+
+#. 日向おにぃ、わたしの事…
+msgctxt "0006"
+msgid ""
+"...I feel like\n"
+"<CLT 9>he accepts me for it<CLT>."
+msgstr ""
+
+#. <CLT 17>本当は嫌い<CLT>なの…？
+msgctxt "0007"
+msgid ""
+"But...maybe\n"
+"I'm wrong in thinking that."
+msgstr ""
+
+#. もしそうだったらどうしよう…
+msgctxt "0008"
+msgid ""
+"And besides...I'm aiming to become\n"
+"the strongest human on Earth."
+msgstr ""
+
+#. 日向おにぃしかいないと
+#. 思ってたのに…
+msgctxt "0009"
+msgid ""
+"<CLT 9>I am not allowed<CLT> to come\n"
+"to depend on someone else."
+msgstr ""

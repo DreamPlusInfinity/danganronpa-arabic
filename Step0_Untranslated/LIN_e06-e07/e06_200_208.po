@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "The hell...?"
+msgstr ""
+
+msgctxt "0002"
+msgid "You've lost, Junko."
+msgstr ""
+
+msgctxt "0003"
+msgid "I lost?"
+msgstr ""
+
+msgctxt "0004"
+msgid "I...lost? Me...? N-No way..."
+msgstr ""
+
+msgctxt "0005"
+msgid "It can't beeeeee!"
+msgstr ""
+
+msgctxt "0006"
+msgid "Y-You still don't accept it...?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Even the Ultimate Despair herself is vulnerable to the\n"
+"onslaught of despair, it would seem."
+msgstr ""
+
+msgctxt "0008"
+msgid "But there's no use trying to fight it now!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Well that's juuuuusst...!"
+msgstr ""
+
+msgctxt "0010"
+msgid "Totally the best!"
+msgstr ""
+
+msgctxt "0011"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0012"
+msgid "This...this is despair...!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"We came to this school two years ago, created our\n"
+"incredibly detailed plan..."
+msgstr ""
+
+msgctxt "0014"
+msgid "I even killed my own sister for it..."
+msgstr ""
+
+msgctxt "0015"
+msgid "To come this far, and fail at the very end...!"
+msgstr ""
+
+msgctxt "0016"
+msgid "It's the most ultimately ultimate despair!"
+msgstr ""
+
+msgctxt "0017"
+msgid "Wh-What are you talking about...?"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"Don't you see? I was so hopelessly desperate! I was\n"
+"bored of the world the moment I was born!"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"That's why I've been looking forward to this so\n"
+"desperately. This once-in-a-lifetime experience..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"It is my first and last colossal despair, here at the\n"
+"moment of death!"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"To have the chance to taste of the highest grade\n"
+"despair—the utter failure of my dreams!"
+msgstr ""
+
+msgctxt "0022"
+msgid "Ahhh! I am so hopelessly happy right now!"
+msgstr ""
+
+msgctxt "0023"
+msgid "Wait, is she...enjoying this?"
+msgstr ""
+
+msgctxt "0024"
+msgid "Anyway, so are you prepared to admit defeat?"
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"Haha...hahahahaaahahaaa! You think I care whether I\n"
+"won or lost?"
+msgstr ""
+
+msgctxt "0026"
+msgid "Either way, it doesn't change a thing!"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"Outside is only despair, inside is only despair!\n"
+"No matter where you go, despair awaits you!"
+msgstr ""
+
+msgctxt "0028"
+msgid "Th-That's not true..."
+msgstr ""
+
+msgctxt "0029"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "0030"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"Let me tell you this right now. We no longer fear\n"
+"despair."
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"Because we've decided to enter the outside world with\n"
+"<CLT 3>hope<CLT>!"
+msgstr ""
+
+msgctxt "0033"
+msgid "Yeah, Makoto totally seduced us over to his side!"
+msgstr ""
+
+msgctxt "0034"
+msgid "Kyeeehahaha!"
+msgstr ""
+
+msgctxt "0035"
+msgid "E-Everyone...!"
+msgstr ""
+
+msgctxt "0036"
+msgid "You said that despair is as contagious as any disease."
+msgstr ""
+
+msgctxt "0037"
+msgid "But the same is true of hope."
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"All you have to do is look at us to see how true that\n"
+"is."
+msgstr ""
+
+msgctxt "0039"
+msgid "K-Kyoko!"
+msgstr ""
+
+msgctxt "0040"
+msgid "..."
+msgstr "..."
+
+msgctxt "0041"
+msgid "Ahh, stop it! Stop! I hate those faces you're making!"
+msgstr ""
+
+msgctxt "0042"
+msgid "To see those awful looks causes me nothing but pain..."
+msgstr ""
+
+msgctxt "0043"
+msgid "Fine, let me just say one last thing..."
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"If you guys wanna get all hung up on the word <CLT 3>hope<CLT>,\n"
+"that's no skin off my nose..."
+msgstr ""
+
+msgctxt "0045"
+msgid "But just be warned..."
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"From this point on, one <CLT 3>despair<CLT> after another will\n"
+"stand in your way."
+msgstr ""
+
+msgctxt "0047"
+msgid "No matter where you run, no matter where you hide..."
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"Maybe you'll find some hope, but there is a very fine\n"
+"line dividing that hope from bitter despair."
+msgstr ""
+
+msgctxt "0049"
+msgid "Knowing that, you still plan to cling to your hope?"
+msgstr ""
+
+msgctxt "0050"
+msgid "Of course! Because we—"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"Shut up, shut up! That was a rhetorical question. You\n"
+"interrupted my monologue!"
+msgstr ""
+
+msgctxt "0052"
+msgid "I'm almost done though, so whatever..."
+msgstr ""
+
+msgctxt "0053"
+msgid "Because it's almost <CLT 3>punishment time<CLT>, right!?"
+msgstr ""
+
+msgctxt "0054"
+msgid "Do you really intend to go through with this?"
+msgstr ""
+
+msgctxt "0055"
+msgid "That was the agreement, right?"
+msgstr ""
+
+msgctxt "0056"
+msgid "H-Hold on!"
+msgstr ""
+
+msgctxt "0057"
+msgid "It's not like I *want* you to die! You don't have to—"
+msgstr ""
+
+msgctxt "0058"
+msgid "Stop it stop it stop it STOP IT!"
+msgstr ""
+
+msgctxt "0059"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0060"
+msgid "How many times do I have to tell you!?"
+msgstr ""
+
+msgctxt "0061"
+msgid "The act of living brings me <CLT 3>no hope<CLT> at all!"
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"All I want now is to taste that <CLT 3>despair of death<CLT>\n"
+"that you only get once in life. So..."
+msgstr ""
+
+msgctxt "0063"
+msgid "Don't get in my way!"
+msgstr ""
+
+msgctxt "0064"
+msgid "Puhuhu... Puhuhuhu!"
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"So this is how the <CLT 3>despair of death<CLT> feels... Ahh,\n"
+"it's so wonderful!"
+msgstr ""
+
+msgctxt "0066"
+msgid "Even a tenth of this despair... Even a hundredth...!"
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"I want every last soul on this planet to taste such\n"
+"despair!"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"I want the entire world to die with that despair in\n"
+"its mouth!"
+msgstr ""
+
+msgctxt "0069"
+msgid "Okay, let's do this!"
+msgstr ""
+
+msgctxt "0070"
+msgid "I've reserved an extra special punishment for last!"
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"Let's give it everything we've got! It's...PUNISHMENT\n"
+"TIIIME!"
+msgstr ""
+
+msgctxt "0072"
+msgid "Haahahahaha!"
+msgstr ""
+
+msgctxt "0073"
+msgid ""
+"<CLT 4>And that's how everything came to an end...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"<CLT 4>The final class trial...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"<CLT 4>Junko Enoshima, the Ultimate Despair...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"<CLT 4>Life at Hope's Peak Academy...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0077"
+msgid ""
+"<CLT 4>It was all over.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"<CLT 23>You received the <CLT><CLT 3>Monokuma Hairtie<CLT><CLT 23> present.\n"
+"<CLT>"
+msgstr ""

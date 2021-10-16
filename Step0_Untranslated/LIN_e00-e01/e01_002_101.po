@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. あれ？　みんなでレストランに
+#. 集まってるんじゃないのか？
+msgctxt "0001"
+msgid ""
+"<CLT 4>I rushed out of the room to meet up with all the\n"
+"others.\n"
+"<CLT>"
+msgstr ""
+
+#. ………………
+msgctxt "0002"
+msgid ""
+"<CLT 4>But there was someone waiting for me there.\n"
+"<CLT>"
+msgstr ""
+
+#. 全員集合するまでの間なら、
+#. やっててもいいかなって…
+msgctxt "0003"
+msgid ""
+"<CLT 4>It was like something out of an old TV show...\n"
+"<CLT>"
+msgstr ""
+
+#. でも…そろそろ行こうかな。
+msgctxt "0004"
+msgid ""
+"<CLT 23>*WHAM*\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>朝からゲームかよ…
+#. さすがは<CLT><CLT 03>"超高校級のゲーマー"<CLT><CLT 04>だな…<CLT>
+msgctxt "0005"
+msgid "Ahh!"
+msgstr ""
+
+#. 外へ出る
+msgctxt "0006"
+msgid ""
+"Oh—!\n"
+"...Sayaka?"
+msgstr ""
+
+#. レストランへ
+msgctxt "0007"
+msgid "S-Sorry! Are you okay?"
+msgstr ""
+
+#. やめる
+msgctxt "0008"
+msgid "I-I'm fine. I hope you're okay..."
+msgstr ""
+
+#. <CLT 06>どちらへ行きますか？<CLT>
+msgctxt "0009"
+msgid "Sorry about that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid ""
+"<CLT 4>She had an embarrassed smile on her face. I stood up\n"
+"slowly.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "Are you okay, Sayaka? Are you hurt?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"Hmhm, you make it sound worse than it is. I'm\n"
+"completely fine."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"I know how I look, but I've actually built some pretty\n"
+"good muscle jumping up and down on stage!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "That's good, then..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"But...are *you* okay? You know, from when Mondo hit\n"
+"you..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid ""
+"<CLT 4>That's true... I got knocked out right there in front\n"
+"of everyone.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"<CLT 4>I guess I revealed my lack of cool right from the\n"
+"beginning...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "Makoto...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid "Oh, uh, I'm fine! Nothing wrong here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "Oh, that's good. I was kinda worried..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid "Th-Thanks..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid "By the way...what are you doing here?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid "Actually...I came to get you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "You came...to get me?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid ""
+"Well, if you really are feeling better...I was hoping\n"
+"you could come to the dining hall."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "The dining hall...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"After you got knocked out, everyone decided to go and\n"
+"do their own thing."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid ""
+"We decided it would be more effective if we split up\n"
+"to investigate."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid ""
+"So we agreed to get together later on and talk about\n"
+"what we'd each found out."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid ""
+"So does that mean it's almost time to get back\n"
+"together?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"If that's what's going on, then of course I'll go with\n"
+"you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"Good. I'll go on ahead and meet you at the dining\n"
+"hall, then."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"<CLT 4>This is where the classrooms and stuff are...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"<CLT 4>I don't have any reason to go that way right now.\n"
+"I should meet up with everyone at the dining hall.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"<CLT 23>*Rattle rattle*\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "The door won't budge. It must be locked."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid ""
+"<CLT 4>I really want to know where the door leads, but I\n"
+"can't ignore the person standing in front of me.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"<CLT 4>Everyone's meeting up at the dining hall.\n"
+"I should head there myself.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid ""
+"<CLT 4>Everyone's meeting up at the dining hall.\n"
+"I should head there myself.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid ""
+"<CLT 4>This is the boys bathroom. I'll have to make sure and\n"
+"remember it's here.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"<CLT 4>This is the girls bathroom. It's not really all\n"
+"that useful to me...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"<CLT 4>Looks like I can't get in there...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"<CLT 4>This is where I just came out of. My name and picture\n"
+"are on the nameplate.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"<CLT 4>There's no reason for me to go back inside...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid ""
+"<CLT 4>It looks like there's some kind of nameplate. The\n"
+"doors themselves all look pretty much the same...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid ""
+"<CLT 4>I'd love to find out where those stairs lead, but\n"
+"there's no way past the gate...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid ""
+"<CLT 4>What's the point of having stairs if you're just gonna\n"
+"block 'em off...?\n"
+"<CLT>"
+msgstr ""

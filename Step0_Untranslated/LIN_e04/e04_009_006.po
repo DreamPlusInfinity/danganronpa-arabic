@@ -1,0 +1,673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT 4>Everyone must have heard the announcement, and once we\n"
+"were all gathered at the gym...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 4>...it began.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0003"
+msgid "Okay, let's get this show on the road!"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"You're about to give us your next <CLT 3>motive<CLT>\n"
+"presentation, aren't you?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"You got us all together to present another motive,\n"
+"right?"
+msgstr ""
+
+msgctxt "0007"
+msgid "I-Is he right...?"
+msgstr ""
+
+msgctxt "0008"
+msgid "We have to go through this again...?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Ugh...no! Not again! I can't take it anymore!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"I'm impressed by your level of dismay. You finally see\n"
+"just how low on the totem pole of life you really are."
+msgstr ""
+
+msgctxt "0011"
+msgid "No... No, no, no..."
+msgstr ""
+
+msgctxt "0012"
+msgid "No no no no no no no no no no no no no no no NO!"
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"That's not it at all. We're not here to talk about\n"
+"motive."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"The reason I gathered you all here is so that I could\n"
+"get rid of my grudge."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>Your...grudge?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"We have a grudge against you, of course, but I don't\n"
+"recall *you* ever having a grudge against *us*."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"I told you yesterday, didn't I? An eye for an eye, a\n"
+"fang for a fang."
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"Stop beating around the bush! Just tell us what you're\n"
+"talking about!"
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"Well, Byakuya. You've already told everyone how one of\n"
+"you might be working as a <CLT 3>spy<CLT> for me, right?"
+msgstr ""
+
+msgctxt "0020"
+msgid "Yeah, so, what about it?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Well today I'd like to tell you about that spy."
+msgstr ""
+
+msgctxt "0022"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0023"
+msgid "So guess what."
+msgstr ""
+
+msgctxt "0024"
+msgid "The spy is actually <CLT 3>Sakura Ogami<CLT>!"
+msgstr ""
+
+msgctxt "0025"
+msgid "...!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"<CLT 4>He said it so openly, it made it sound like it wasn't\n"
+"that big of a deal...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT 4>...even though he'd just revealed a huge secret.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0028"
+msgid "What...? What did you just say?"
+msgstr ""
+
+msgctxt "0029"
+msgid "He said the spy is <CLT 3>Sakura<CLT>."
+msgstr ""
+
+msgctxt "0030"
+msgid "Wh-What are you talking about?"
+msgstr ""
+
+msgctxt "0031"
+msgid "There's...there's no way Sakura's a spy!"
+msgstr ""
+
+msgctxt "0032"
+msgid "Right, Sakura?"
+msgstr ""
+
+msgctxt "0033"
+msgid "..."
+msgstr "..."
+
+msgctxt "0034"
+msgid "Sakura...?"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"And I might just make Sakura fulfill the promise she\n"
+"made sometime soon..."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"And if she doesn't...I can't be responsible for what\n"
+"might happen to that hostage of mine..."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Anyway, that's all I wanted to say. What you guys\n"
+"choose to do with that information is up to you."
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"Roast her, boil her. Kill her, don't kill her.\n"
+"Whatever!"
+msgstr ""
+
+msgctxt "0039"
+msgid "Puhuhu... Either way, I can't wait...!"
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"<CLT 4>And just like that, he was gone...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"<CLT 4>Finally, I understood what he had been talking about.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"<CLT 4>An eye for an eye, a fang for a fang...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"<CLT 4>In other words...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT 4><CLT><CLT 3>Betrayal<CLT><CLT 4> would be met with <CLT><CLT 3>betrayal<CLT><CLT 4>.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0045"
+msgid "U-Um..."
+msgstr ""
+
+msgctxt "0046"
+msgid "So...what does this mean?"
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"I-Is it true? Has Ogre really been spying on us for\n"
+"the mastermind!?"
+msgstr ""
+
+msgctxt "0048"
+msgid "What are you saying!? There's no way!"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"But that *is* wh-what the stuffed animal said,\n"
+"r-right?"
+msgstr ""
+
+msgctxt "0050"
+msgid "Well he's wrong! There's just...no way!"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"Well, Sakura? If he's wrong, all you have to do is\n"
+"tell us."
+msgstr ""
+
+msgctxt "0052"
+msgid "..."
+msgstr "..."
+
+msgctxt "0053"
+msgid "I'm sorry I didn't tell you earlier..."
+msgstr ""
+
+msgctxt "0054"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"Then he was being serious for serious!? Ogre's been\n"
+"working for the mastermind!?"
+msgstr ""
+
+msgctxt "0056"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "0057"
+msgid "So you've b-been lying to us all this t-time?"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"I-It's not true...! Sakura was probably...being\n"
+"controlled!"
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"There's gotta be some...some reason! She didn't have a\n"
+"choice, she was just...forced to do it!"
+msgstr ""
+
+msgctxt "0060"
+msgid "Yeah, I'm sure Hina's right."
+msgstr ""
+
+msgctxt "0061"
+msgid ""
+"The mastermind probably threatened her somehow, and\n"
+"Sakura had no choice but to do what she was told."
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"Wh-What...? You're talking like y-you know that for a\n"
+"f-fact!"
+msgstr ""
+
+msgctxt "0063"
+msgid "Because...I *do* know it for a fact."
+msgstr ""
+
+msgctxt "0064"
+msgid "Because I saw it!"
+msgstr ""
+
+msgctxt "0065"
+msgid "I saw Sakura and Monokuma...fighting..."
+msgstr ""
+
+msgctxt "0066"
+msgid "And that's where I heard it..."
+msgstr ""
+
+msgctxt "0067"
+msgid "Monokuma mentioned a \"hostage\" a second ago, right?"
+msgstr ""
+
+msgctxt "0068"
+msgid "And during their fight, I heard Sakura say..."
+msgstr ""
+
+msgctxt "0069"
+msgid "...she'd decided to <CLT 3>fight against the mastermind<CLT>."
+msgstr ""
+
+msgctxt "0070"
+msgid "You...saw all that?"
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"The mastermind took a hostage, so you were forced to\n"
+"swear loyalty to them, right?"
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"But in the end...you made up your mind to \"betray\" the\n"
+"mastermind."
+msgstr ""
+
+msgctxt "0073"
+msgid ""
+"Which means Sakura isn't our enemy. She's a friend who\n"
+"we can trust without question. Is that it?"
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"Ridiculous. Do you live in some sort of alternate\n"
+"reality fairy tale?"
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"She was the mastermind's tool. You absolutely cannot\n"
+"trust someone like that."
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"H-He's right! We can't just believe whatever she says\n"
+"now!"
+msgstr ""
+
+msgctxt "0077"
+msgid ""
+"How can we even be sure she really *did* betray the\n"
+"mastermind?"
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"Maybe this is a double-bluff, and she's still doing\n"
+"exactly what the mastermind wants."
+msgstr ""
+
+msgctxt "0079"
+msgid "Sakura would never do that!"
+msgstr ""
+
+msgctxt "0080"
+msgid ""
+"Okay, then Sakura...if you really have cut ties with\n"
+"the mastermind, tell us who they really are."
+msgstr ""
+
+msgctxt "0081"
+msgid "Well..."
+msgstr ""
+
+msgctxt "0082"
+msgid "Sorry, I can't. Even I don't know that."
+msgstr ""
+
+msgctxt "0083"
+msgid ""
+"You don't know? That just makes you all the more\n"
+"suspicious."
+msgstr ""
+
+msgctxt "0084"
+msgid "She's telling the truth! You have to believe her!"
+msgstr ""
+
+msgctxt "0085"
+msgid "Shut up. I'm not finished questioning her."
+msgstr ""
+
+msgctxt "0086"
+msgid ""
+"Next question. What's this about a \"promise\"? What did\n"
+"the mastermind order you to do?"
+msgstr ""
+
+msgctxt "0087"
+msgid "..."
+msgstr "..."
+
+msgctxt "0088"
+msgid "I was told..."
+msgstr ""
+
+msgctxt "0089"
+msgid "...to kill one of my friends."
+msgstr ""
+
+msgctxt "0090"
+msgid ""
+"<CLT 4>It suddenly felt like the temperature in the room had\n"
+"dropped twenty degrees.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0091"
+msgid ""
+"<CLT 4>The weight of those words...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0092"
+msgid "I see. So even now, you've taken aim on our lives."
+msgstr ""
+
+msgctxt "0093"
+msgid ""
+"You're wrong, I'm telling you! Sakura would never do\n"
+"that!"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"Y-You don't have to yell, we can h-hear you just fine.\n"
+"Don't you have an i-inside voice...?"
+msgstr ""
+
+msgctxt "0095"
+msgid "It's because you're not LISTENING to me!"
+msgstr ""
+
+msgctxt "0096"
+msgid "Please, stop. You don't need to defend me anymore."
+msgstr ""
+
+msgctxt "0097"
+msgid "I have to take full responsibility for this..."
+msgstr ""
+
+msgctxt "0098"
+msgid "How do you intend to do that?"
+msgstr ""
+
+msgctxt "0099"
+msgid "By destroying the mastermind."
+msgstr ""
+
+msgctxt "0100"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0101"
+msgid ""
+"I'm going to challenge them. Even if it means we both\n"
+"go down, I *will* defeat them."
+msgstr ""
+
+msgctxt "0102"
+msgid "*That* is how I intend to take responsibility."
+msgstr ""
+
+msgctxt "0103"
+msgid "H-Hold on! What do you mean, if you go both down!?"
+msgstr ""
+
+msgctxt "0104"
+msgid "Hina...I'm sorry I didn't tell you about this."
+msgstr ""
+
+msgctxt "0105"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0106"
+msgid ""
+"I didn't know what to do. I went back and forth about\n"
+"confiding in you again and again..."
+msgstr ""
+
+msgctxt "0107"
+msgid ""
+"But I was scared. I thought if I told you, you might\n"
+"think less of me."
+msgstr ""
+
+msgctxt "0108"
+msgid "S-Sakura!"
+msgstr ""
+
+msgctxt "0109"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "0110"
+msgid ""
+"<CLT 4>Sakura turned away from us and left the gym.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0111"
+msgid ""
+"<CLT 4>And then...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"<CLT 23>*Ding dong, bing bong*\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0113"
+msgid ""
+"Mm, ahem, this is a school announcement. It is now 10\n"
+"p.m."
+msgstr ""
+
+msgctxt "0114"
+msgid "As such, it is officially <CLT 3>nighttime<CLT>."
+msgstr ""
+
+msgctxt "0115"
+msgid ""
+"Soon the doors to the dining hall will be locked, and\n"
+"entry at that point is strictly prohibited."
+msgstr ""
+
+msgctxt "0116"
+msgid ""
+"Okay then...sweet dreams, everyone! Good night, sleep\n"
+"tight, don't let the bed bugs bite..."
+msgstr ""
+
+msgctxt "0117"
+msgid "Well, it's nighttime. We should all go to bed."
+msgstr ""
+
+msgctxt "0118"
+msgid "Hold on! This whole thing with Sakura is—!"
+msgstr ""
+
+msgctxt "0119"
+msgid ""
+"Over. She's our enemy. There's nothing more to\n"
+"discuss."
+msgstr ""
+
+msgctxt "0120"
+msgid "No! Sakura is NOT our enemy!"
+msgstr ""
+
+msgctxt "0121"
+msgid "..."
+msgstr "..."
+
+msgctxt "0122"
+msgid "Why...?"
+msgstr ""
+
+msgctxt "0123"
+msgid "Why doesn't anyone understand her...?"
+msgstr ""
+
+msgctxt "0124"
+msgid ""
+"What is it you think *you* understand? You didn't even\n"
+"know who she really was."
+msgstr ""
+
+msgctxt "0125"
+msgid "Th-That's—!"
+msgstr ""
+
+msgctxt "0126"
+msgid ""
+"Let it go for now, Hina. Talking about it isn't going\n"
+"to help anything."
+msgstr ""
+
+msgctxt "0127"
+msgid "B-But...!"
+msgstr ""
+
+msgctxt "0128"
+msgid ""
+"Go to your room, cool down, and we can continue this\n"
+"discussion tomorrow."
+msgstr ""
+
+msgctxt "0129"
+msgid "..."
+msgstr "..."
+
+msgctxt "0130"
+msgid ""
+"<CLT 4>It was the worst...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0131"
+msgid ""
+"<CLT 4>The mood at the end of the night was just the worst...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0132"
+msgid ""
+"<CLT 4>Being in such an awful mood...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0133"
+msgid ""
+"<CLT 4>...we were honestly glad the day was over.\n"
+"<CLT>"
+msgstr ""

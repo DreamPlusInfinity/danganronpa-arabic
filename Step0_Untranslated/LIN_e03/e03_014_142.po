@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+msgctxt "0002"
+msgid ""
+"Okay, so...there's a laptop inside the locker,\n"
+"understand?"
+msgstr ""
+
+msgctxt "0003"
+msgid "And on the laptop there's a program called Alter Ego."
+msgstr ""
+
+msgctxt "0004"
+msgid "How do I...talk to him?"
+msgstr ""
+
+msgctxt "0005"
+msgid "O-Oh, um..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Well, you just tell me what you want to say, and I'll\n"
+"type it in for you."
+msgstr ""
+
+msgctxt "0007"
+msgid "..."
+msgstr "..."
+
+msgctxt "0008"
+msgid "Do you...hate Mondo?"
+msgstr ""
+
+msgctxt "0009"
+msgid "And since I couldn't stop him...do you hate me?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT 4>It was clear he was forcing himself to get the words\n"
+"out.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>From his mouth, from the bottom of his heart...he\n"
+"forced his weakened voice to make the sounds.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "...Please."
+msgstr ""
+
+msgctxt "0013"
+msgid "O-Okay..."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT 4>I typed the questions exactly as Taka had asked them.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"<CLT 4>And then...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "..."
+msgstr "..."
+
+msgctxt "0017"
+msgid "Do you hold yourself responsible...?"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"If Master could talk now, I think this is what he\n"
+"would say..."
+msgstr ""
+
+msgctxt "0019"
+msgid "Please, live your life for the both of us."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"It's impossible for me now, but you can still survive\n"
+"and escape—all of you."
+msgstr ""
+
+msgctxt "0021"
+msgid "..."
+msgstr "..."
+
+msgctxt "0022"
+msgid "Hey, Taka..."
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>I was about to say more, but quickly closed my\n"
+"mouth...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid "The one asking those questions is...Taka, right?"
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"Analyzing all available data, that's the only\n"
+"conclusion I can come to."
+msgstr ""
+
+msgctxt "0026"
+msgid "Master told me how close Taka and Mondo had become."
+msgstr ""
+
+msgctxt "0027"
+msgid "So that must be why he feels responsible..."
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT 4>The screen suddenly went dark.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"<CLT 4>And what appeared next was...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"You're not letting yourself get crushed under the\n"
+"weight of that responsibility, are you!?"
+msgstr ""
+
+msgctxt "0031"
+msgid "Gh—!"
+msgstr ""
+
+msgctxt "0032"
+msgid "A man's only worth as much as the load he can carry!"
+msgstr ""
+
+msgctxt "0033"
+msgid "You get it, right bro?"
+msgstr ""
+
+msgctxt "0034"
+msgid "Hell, what am I saying? Of course ya do!"
+msgstr ""
+
+msgctxt "0035"
+msgid "..."
+msgstr "..."
+
+msgctxt "0036"
+msgid "Th-That's...!"
+msgstr ""
+
+msgctxt "0037"
+msgid "I'm sorry if I startled you..."
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"That was my attempt at a simulation, using the data\n"
+"about Mondo that Master had given me."
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"I figured if Taka was depressed, that's the kind of\n"
+"thing Mondo would have said to him..."
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"So you're just gonna stand there, huh? Just wait for\n"
+"things to get better?"
+msgstr ""
+
+msgctxt "0041"
+msgid "Just take your time and get all depressed..."
+msgstr ""
+
+msgctxt "0042"
+msgid "Take the time to indulge your regrets..."
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"You might even start walking again without realizing\n"
+"it."
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"Sure, that kind of mediocre thinking might work\n"
+"for some people."
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"...What if I said it with that kind of condescending\n"
+"tone!?"
+msgstr ""
+
+msgctxt "0046"
+msgid "..."
+msgstr "..."
+
+msgctxt "0047"
+msgid "Hehe... Hahaha..."
+msgstr ""
+
+msgctxt "0048"
+msgid "Taka...?"
+msgstr ""
+
+msgctxt "0049"
+msgid "..."
+msgstr "..."
+
+msgctxt "0050"
+msgid "It's starting to sink in..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"The way a bucketful of water sinks into a bone-dry\n"
+"sponge..."
+msgstr ""
+
+msgctxt "0052"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0053"
+msgid "Those words... Deep within my heart...!"
+msgstr ""
+
+msgctxt "0054"
+msgid "They're inside of me!"
+msgstr ""
+
+msgctxt "0055"
+msgid "Uwaaaaaaaaaaaaahhh!"
+msgstr ""
+
+msgctxt "0056"
+msgid "T-Taka!?"
+msgstr ""
+
+msgctxt "0057"
+msgid "Who the fudge is Taka!?"
+msgstr ""
+
+msgctxt "0058"
+msgid "Y-Your eyes..."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"Hey, don't worry about it! Guess I caused kind of a\n"
+"scene, huh? Shoot, man..."
+msgstr ""
+
+msgctxt "0060"
+msgid "And your voice..."
+msgstr ""
+
+msgctxt "0061"
+msgid "I'm...a new me..."
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"Hraaah! I'm totally stuffed with fighting spirit now!\n"
+"Ya dumbbutt!"
+msgstr ""
+
+msgctxt "0063"
+msgid "O-Okay, Taka... Just calm down."
+msgstr ""
+
+msgctxt "0064"
+msgid "I AM calm! And don't call me Taka!"
+msgstr ""
+
+msgctxt "0065"
+msgid "That's...that's not my name anymore..."
+msgstr ""
+
+msgctxt "0066"
+msgid "I'm...me!"
+msgstr ""
+
+msgctxt "0067"
+msgid "I! Am! Meeeeeee!"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"<CLT 4>Taka let out a bone-chilling howl and ran out of the\n"
+"room.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0069"
+msgid "H-Hey! Taka, hold on!"
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"<CLT 4>And I took off after him...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"<CLT 4>But someone stood in my way.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"<CLT 4>As if tagging Taka out, she walked briskly into the\n"
+"dressing room.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0073"
+msgid "What do you think you're doing?"
+msgstr ""
+
+msgctxt "0074"
+msgid "K-Kyoko!"
+msgstr ""
+
+msgctxt "0075"
+msgid "Oh, um...no, see...this is just—"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"Don't go around doing whatever you feel like. It\n"
+"causes problems. And not just for me. For everyone."
+msgstr ""
+
+msgctxt "0077"
+msgid "S-Sorry..."
+msgstr ""
+
+msgctxt "0078"
+msgid "If you're really sorry, you'll get out of here. Now."
+msgstr ""
+
+msgctxt "0079"
+msgid "..."
+msgstr "..."
+
+msgctxt "0080"
+msgid "O-Okay..."
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"<CLT 4>Finally, I headed back to my room, embarrassed and\n"
+"sullen.\n"
+"<CLT>"
+msgstr ""

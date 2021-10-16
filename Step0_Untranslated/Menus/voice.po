@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 真っ暗闇
+msgctxt "0001"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0002"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0003"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0004"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0005"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0006"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0007"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0008"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0009"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0010"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0011"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0012"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0013"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0014"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0015"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0016"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0017"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0018"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0019"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0020"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0021"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0022"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0023"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0024"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0025"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0026"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0027"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0028"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0029"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0030"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0031"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0032"
+msgid "真っ暗闇"
+msgstr ""
+
+#. 真っ暗闇
+msgctxt "0033"
+msgid "真っ暗闇"
+msgstr ""

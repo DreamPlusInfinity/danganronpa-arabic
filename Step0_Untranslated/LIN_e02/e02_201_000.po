@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. では、最初に学級裁判の
+#. 簡単な説明をしておきましょう。
+msgctxt "0001"
+msgid ""
+"Laugh at death, and your soul will forever be at\n"
+"peace."
+msgstr ""
+
+#. 学級裁判では『誰が犯人か？』を議論し、
+#. その結果は、オマエラの投票により決定されます。
+msgctxt "0002"
+msgid "It...can't be..."
+msgstr ""
+
+#. 正しいクロを指摘できればクロだけがおしおきですが、
+#. もし間違った人物をクロとした場合は…
+msgctxt "0003"
+msgid "My...brother..."
+msgstr ""
+
+#. クロ以外の全員がおしおきされ、生き残ったクロだけに
+#. この島から出る権利が与えられます！
+msgctxt "0004"
+msgid ""
+"<CLT 4>Another murder...and another execution...\n"
+"<CLT>"
+msgstr ""
+
+#. くふぅ！　何度聞いても下衆いルールでちゅ！
+msgctxt "0005"
+msgid ""
+"<CLT 4>I want to feel again...\n"
+"<CLT>"
+msgstr ""
+
+#. では、今回は例の動機の話題からいってみましょう！
+#. 名作"トワイライトシンドローム殺人事件"の話だよ！
+msgctxt "0006"
+msgid ""
+"<CLT 4>Everyone's lives are taken so lightly here...\n"
+"<CLT>"
+msgstr ""
+
+#. えー、ゲームの話なんてどうでもいいっすよ！
+msgctxt "0007"
+msgid ""
+"<CLT 4>I feel like I might be going mad...\n"
+"<CLT>"
+msgstr ""
+
+#. デュエルの勝敗は、小泉を殺した犯人を
+#. 突き止められるか否かに掛かっていたはずだ…
+msgctxt "0008"
+msgid ""
+"<CLT 4>Maybe I'll just...let it happen...\n"
+"<CLT>"
+msgstr ""
+
+#. だからって、放置する訳にもいかないよね。
+#. あのゲームは今回の<CLT 03>"動機"<CLT>なんだからさ。
+msgctxt "0009"
+msgid "Urraaaaaahhh...!"
+msgstr ""
+
+#. うーん…そうだね…
+#. じゃあ、その話から始めてみよっか。
+msgctxt "0010"
+msgid "URRRRAAAAAAAAHHHHH!!!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"<CLT 4>As Taka's sad screams invaded our skulls, we were each\n"
+"forced to realize once again...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"<CLT 4>But he...of course he had to...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "What a disappointment. This is the end of the game?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "B...Byakuya...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"You're completely insane, you know that? A game? One\n"
+"of our friends is dead! Do you realize that!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid "Of course I do. Because this game is <CLT 3>life or death<CLT>."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"I don't have anything to say to you. I don't have a\n"
+"response, except that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "...I just don't understand why."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"Why did you go out of your way to disguise Mondo's\n"
+"crime?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "Why...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid ""
+"Isn't it obvious? Because it made things more\n"
+"interesting."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid ""
+"<CLT 4>His voice was calm, emotionless. Like the voice of\n"
+"death. It chilled me to the bone.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid ""
+"Last night, when the murder took place, I was in the\n"
+"library as usual."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "So you ignored the nighttime rule, too..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid ""
+"That rule never mattered to me. I don't recall\n"
+"agreeing to it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "Well, I don't particularly care. Please, continue."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"The night grew late, and I decided to return to my\n"
+"room. Which is when I stumbled upon him..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "I spotted Mondo coming out of the girls locker room."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "After he'd gone, I looked inside and saw the corpse."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "Wh—!? You mean you actually witnessed the murder!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"He was such a fool. He didn't have the slightest idea\n"
+"that I'd seen him."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid ""
+"So...you're saying you knew who the culprit was from\n"
+"the very beginning?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"Indeed. But if that had been the end of it, how boring\n"
+"would that have been?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid ""
+"I mean, what a waste of time to have the answer\n"
+"revealed right at the beginning."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"Which is why I decided to...lend a little helping\n"
+"hand."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "I thought it would liven things up."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "You did all that...to \"liven things up\"!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"So after hearing about Genocide Jack from Toko, you\n"
+"decided to use that..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "...to create the fake murder scene?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid ""
+"But damn, man... If we hadn't figured out who'd really\n"
+"done it, you woulda been dead too, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"Well obviously I would have revealed the truth before\n"
+"it reached that point."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid "Of course..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"<CLT 4>Byakuya turned and looked me in the eye.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"<CLT 4>I could feel his sharp eyes piercing into me...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"Thanks to a certain remarkable someone, it never did.\n"
+"And I was able to perform an interesting experiment."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"Once I do decide to become blackened, I now know who\n"
+"I'll have to watch out for."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "Wh—!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid "So that was your reason..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "Are you satisfied?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "Yes. We're done listening to your story."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "Moving on..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "There's something I'd like to ask Monokuma."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "Ohh? I'm up next?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid ""
+"You like to perform these elaborate <CLT 3>executions<CLT> each\n"
+"time, correct?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid "My question is...why?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "Puhuhu... Do you like them?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid ""
+"But you know, this punishment, this despair—it's not\n"
+"just for you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid ""
+"All this punishment, all this despair is my gift to\n"
+"mankind itself!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid "You're overexaggerating."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid "I am not overexaggerating!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0061"
+msgid ""
+"These punishments are meant to <CLT 3>transform all hope to\n"
+"despair<CLT>!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0062"
+msgid "...What do you mean?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0063"
+msgid "Mean...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0064"
+msgid "Meeaaan...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid "Mean?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid "Mean mean mean mean mean mean mean mean mean mean!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid ""
+"Good GRIEF! I don't understand why you have to pick\n"
+"apart every little stupid thing!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid "Hmph. Whatever, it doesn't matter."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid ""
+"In the end, I'm going to stand alone as the victor.\n"
+"And then everything will be revealed to me."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid ""
+"Ahh, the noble son of a noble family... Truly you\n"
+"understand me!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0071"
+msgid ""
+"Puhuhu... I think this is the start of a terrifying\n"
+"friendship!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0072"
+msgid ""
+"Shut up. I would never stoop to the level of a\n"
+"childish criminal like you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0073"
+msgid "Let me just say this..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0074"
+msgid ""
+"After I have achieved complete victory...you're up\n"
+"next."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0075"
+msgid "I'm going to find you and kill you. Understand?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0076"
+msgid ""
+"In the name of the Togami family, for which victory is\n"
+"a foregone conclusion..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0077"
+msgid ""
+"Oooh, so cool! It's like you're the main character of\n"
+"a video game or something! No trash mob for you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0078"
+msgid "I swear, whatever it takes...I will kill you!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0079"
+msgid ""
+"Puhuhu... Temper, temper! Sounds like someone needs a\n"
+"nap!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0080"
+msgid "Puhuhu... Puuhuhuhuhu!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0081"
+msgid "Ahh-hahahaha!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0082"
+msgid ""
+"<CLT 4>Monokuma's laughter pealed across the courtroom, and\n"
+"the curtain closed on the case of Chihiro and Mondo.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0083"
+msgid ""
+"<CLT 4>But I knew that wasn't the end.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0084"
+msgid ""
+"<CLT 4>The killing game would still continue...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0085"
+msgid ""
+"<CLT 4>Because the mastermind wouldn't let it end.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0086"
+msgid ""
+"<CLT 4>For those of us who were still alive, our <CLT><CLT 3>worst fear\n"
+"and despair<CLT><CLT 4> kept on multiplying...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0087"
+msgid ""
+"<CLT 4>It was the kind of despair that felt like a blind\n"
+"puppy in hell had more of a future than us...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0088"
+msgid ""
+"<CLT 4>All of our courage, our effort, our friendship... It\n"
+"felt like it amounted to nothing at all.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0089"
+msgid ""
+"<CLT 4>...It was the worst kind of despair.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0090"
+msgid "Well, anyway, like I was saying..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0091"
+msgid ""
+"This is a pretty good spot... Yeah, a *really* good\n"
+"spot!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0092"
+msgid ""
+"Anyway, isn't it amazing how that girl went and killed\n"
+"someone before things even had a chance to get boring?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0093"
+msgid ""
+"Once things really get moving, it'll be like a\n"
+"rollercoaster. There won't be any stopping it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0094"
+msgid ""
+"Fear and despair charge forward at a speed nothing can\n"
+"hope to match."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0095"
+msgid "But I must admit, I'm disappointed..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0096"
+msgid ""
+"I went to all the pain and effort of making you part\n"
+"of the group, and you couldn't play your part..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0097"
+msgid ""
+"You do remember <CLT 3>you were supposed to<CLT> make the first\n"
+"move, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0098"
+msgid "Well, no biggie."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0099"
+msgid ""
+"Nothing we can do about it now. So just do your best\n"
+"to make things more exciting from now on, okay?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0100"
+msgid "After all, that's what everyone wants to see..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0101"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0102"
+msgid "There's one thing I'd like to ask you..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0103"
+msgid ""
+"As long as you don't wanna know my measurements, fire\n"
+"away!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0104"
+msgid "Who is it?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0105"
+msgid "The <CLT 3>sixteenth high school student<CLT>, I mean..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0106"
+msgid "Guhaah!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0107"
+msgid "My my, you really took me by surprise there."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0108"
+msgid "I know I said you could ask anything, but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0109"
+msgid ""
+"Super denied! Ultra denied! Demonic denied! Because\n"
+"you see...that's my ace in the hole."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0110"
+msgid ""
+"And nobody'd be dumb enough to reveal that, right? No\n"
+"matter how close they were to their \"<CLT 3>friends<CLT>\"..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0111"
+msgid "Puhuhu... Puuhuhuhu!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0112"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0113"
+msgid ""
+"<CLT 23>You received the <CLT><CLT 3>Crazy Diamond<CLT><CLT 23> present.\n"
+"<CLT>"
+msgstr ""

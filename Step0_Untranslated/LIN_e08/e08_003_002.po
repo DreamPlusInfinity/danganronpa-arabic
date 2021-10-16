@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. …下がれ、人間よ。
+#. 今は破壊神暗黒四天王との語らいの時間だ。
+msgctxt "0001"
+msgid "Huh? What, you want somethin'?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0002"
+msgid "Spend some time with Mondo"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0003"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. こんな田中と破壊神暗黒四天王と一緒に過ごせるか？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Mondo for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. 警告しよう…過ぎた行動は身を滅ぼすぞ？
+msgctxt "0005"
+msgid "You wanna chill with me, huh? Gotcha..."
+msgstr ""
+
+#. だが、今日は興が乗った…！
+#. いいだろう、この俺様の時間をくれてやるッ！
+msgctxt "0006"
+msgid "Wanna throw down!? Let's dance, shitbird!"
+msgstr ""
+
+#. <CLT 04>田中のマニアックな動物話を聞きながら、
+#. 過ごした…<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>I had a very exciting time with Mondo...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>田中と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>Mondo and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0009"
+msgid "Yes, definitely"
+msgstr ""
+
+#. 渡さない
+msgctxt "0010"
+msgid "Not really, no"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0011"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Mondo a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

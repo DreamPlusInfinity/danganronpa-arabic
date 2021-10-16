@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Yeah, that's right."
+msgstr ""
+
+msgctxt "0002"
+msgid "The one who killed Sakura was <CLT 3>Sakura herself<CLT>."
+msgstr ""
+
+msgctxt "0003"
+msgid "...Okay, we're done here."
+msgstr ""
+
+msgctxt "0004"
+msgid "So that's the whole truth, huh? I see..."
+msgstr ""
+
+msgctxt "0005"
+msgid "But there's still one thing I don't understand."
+msgstr ""
+
+msgctxt "0006"
+msgid "Hina...why did you try to cover up what happened?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"If the truth hadn't come to light, you would have died\n"
+"along with the rest of us."
+msgstr ""
+
+msgctxt "0008"
+msgid "And yet you...! Why did you do that!?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Yeah! We almost died there!"
+msgstr ""
+
+msgctxt "0010"
+msgid "Because..."
+msgstr ""
+
+msgctxt "0011"
+msgid "That's exactly what I <CLT 3>wanted<CLT>!"
+msgstr ""
+
+msgctxt "0012"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0013"
+msgid "I mean, the reason Sakura died..."
+msgstr ""
+
+msgctxt "0014"
+msgid "...is cuz all of you pushed her into a corner."
+msgstr ""
+
+msgctxt "0015"
+msgid "You...you all killed her..."
+msgstr ""
+
+msgctxt "0016"
+msgid "So that's why..."
+msgstr ""
+
+msgctxt "0017"
+msgid "...I couldn't let her be the only one that died!"
+msgstr ""
+
+msgctxt "0018"
+msgid "You d-don't mean..."
+msgstr ""
+
+msgctxt "0019"
+msgid "You were gonna <CLT 3>t-take us all with you<CLT>!?"
+msgstr ""
+
+msgctxt "0020"
+msgid "We have to atone for our sins."
+msgstr ""
+
+msgctxt "0021"
+msgid "Because everyone...even me...we all killed her."
+msgstr ""
+
+msgctxt "0022"
+msgid "We all have to <CLT 3>pay for our crimes<CLT>..."
+msgstr ""
+
+msgctxt "0023"
+msgid "F-For serious!? That's—!"
+msgstr ""
+
+msgctxt "0024"
+msgid "You still don't understand? Then let me explain..."
+msgstr ""
+
+msgctxt "0025"
+msgid ""
+"Do you realize just how much <CLT 3>despair<CLT> Sakura was\n"
+"carrying with her when she died!?"
+msgstr ""
+
+msgctxt "0026"
+msgid "Look at this..."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"<CLT 23>Such brutality has made me desperate.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0028"
+msgid ""
+"<CLT 23>So instead of just waiting to be killed, I'll do it by\n"
+"my own hand.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0029"
+msgid "Th-That's...!"
+msgstr ""
+
+msgctxt "0030"
+msgid "I found it on the ground, in front of the rec room."
+msgstr ""
+
+msgctxt "0031"
+msgid "It's...Sakura's <CLT 3>suicide note<CLT>."
+msgstr ""
+
+msgctxt "0032"
+msgid "Suicide note...?"
+msgstr ""
+
+msgctxt "0033"
+msgid "Thinking back, I should have seen it coming..."
+msgstr ""
+
+msgctxt "0034"
+msgid "It was right after Genocide Jack had attacked me."
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"Sakura got mad and stormed out of the nurse's\n"
+"office..."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"<CLT 4>I ran out after her, and...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Sakura, calm down! You don't have to worry about me,\n"
+"I'm fine!"
+msgstr ""
+
+msgctxt "0038"
+msgid "I...can't calm down..."
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"I don't care if I suffer for this. It's my fault,\n"
+"after all."
+msgstr ""
+
+msgctxt "0040"
+msgid "But now *you're* suffering because of me..."
+msgstr ""
+
+msgctxt "0041"
+msgid "You tried to protect me, but because of me..."
+msgstr ""
+
+msgctxt "0042"
+msgid "...my closest friend got hurt!"
+msgstr ""
+
+msgctxt "0043"
+msgid "S-Sakura..."
+msgstr ""
+
+msgctxt "0044"
+msgid "Because of me..."
+msgstr ""
+
+msgctxt "0045"
+msgid "...my friends are all going to kill each other."
+msgstr ""
+
+msgctxt "0046"
+msgid "This is all...<CLT 3>my responsibility<CLT>."
+msgstr ""
+
+msgctxt "0047"
+msgid "Sakura...thought she was responsible."
+msgstr ""
+
+msgctxt "0048"
+msgid "She thought everything was her fault."
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"Which is why...she wanted to find some way to get\n"
+"everyone to forgive her."
+msgstr ""
+
+msgctxt "0050"
+msgid "So she asked to meet with...them."
+msgstr ""
+
+msgctxt "0051"
+msgid "You asked to meet with those three?"
+msgstr ""
+
+msgctxt "0052"
+msgid "You can't! Don't you see how dangerous that is!?"
+msgstr ""
+
+msgctxt "0053"
+msgid "Don't worry. I just want to talk to them."
+msgstr ""
+
+msgctxt "0054"
+msgid "Talk about...what?"
+msgstr ""
+
+msgctxt "0055"
+msgid "..."
+msgstr "..."
+
+msgctxt "0056"
+msgid ""
+"Listen, don't do it. If they all gang up on you at\n"
+"once, even you..."
+msgstr ""
+
+msgctxt "0057"
+msgid "Hina..."
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"Please, don't think of things like that. They're not\n"
+"my enemy."
+msgstr ""
+
+msgctxt "0059"
+msgid "They're...<CLT 3>friends<CLT>."
+msgstr ""
+
+msgctxt "0060"
+msgid "S-Sakura..."
+msgstr ""
+
+msgctxt "0061"
+msgid "She clearly believed..."
+msgstr ""
+
+msgctxt "0062"
+msgid "She...completely believed...in all of us."
+msgstr ""
+
+msgctxt "0063"
+msgid ""
+"If you'd just talked to her, you would've understood.\n"
+"She was a friend to all of us..."
+msgstr ""
+
+msgctxt "0064"
+msgid "And yet..."
+msgstr ""
+
+msgctxt "0065"
+msgid "And yet...!"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"You trampled all over her feelings. And then you did\n"
+"the unthinkable..."
+msgstr ""
+
+msgctxt "0067"
+msgid "N-No, that was just a...a misunderstanding!"
+msgstr ""
+
+msgctxt "0068"
+msgid "Don't stand there and call it a misunderstanding!"
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"She believed in you...and you wouldn't even listen to\n"
+"what she had to say."
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"Without asking a single question, you tried to kill\n"
+"her..."
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"Do you have any idea how desperate she was, seeing you\n"
+"act like that!?"
+msgstr ""
+
+msgctxt "0072"
+msgid "That's what her suicide note means..."
+msgstr ""
+
+msgctxt "0073"
+msgid ""
+"\"So instead of just waiting to be killed, I'll do it\n"
+"by my own hand.\""
+msgstr ""
+
+msgctxt "0074"
+msgid "That's how far you'd pushed her..."
+msgstr ""
+
+msgctxt "0075"
+msgid "Sakura! What happened to you!?"
+msgstr ""
+
+msgctxt "0076"
+msgid "H-Hina...you came..."
+msgstr ""
+
+msgctxt "0077"
+msgid "Wait right here! I'll help you out!"
+msgstr ""
+
+msgctxt "0078"
+msgid "H-Hina..."
+msgstr ""
+
+msgctxt "0079"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0080"
+msgid "I...I'm so glad I got to meet you..."
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"Wh-What's wrong, Sakura? Why are you talking like\n"
+"that...?"
+msgstr ""
+
+msgctxt "0082"
+msgid "I...have a favor to ask."
+msgstr ""
+
+msgctxt "0083"
+msgid "A favor...?"
+msgstr ""
+
+msgctxt "0084"
+msgid "I'd like...some protein."
+msgstr ""
+
+msgctxt "0085"
+msgid "Could I ask you to...?"
+msgstr ""
+
+msgctxt "0086"
+msgid "Y-Yeah, you got it! Just hang on, I'll be right back!"
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"<CLT 4>That was...the last conversation I had with her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0088"
+msgid ""
+"I went to the chem lab to get the protein she'd asked\n"
+"for. When I got there, I saw the powder."
+msgstr ""
+
+msgctxt "0089"
+msgid "And that's when I realized..."
+msgstr ""
+
+msgctxt "0090"
+msgid ""
+"I saw that someone had taken something from the poison\n"
+"shelf. Sakura..."
+msgstr ""
+
+msgctxt "0091"
+msgid "So I ran back to the rec room as fast as I could."
+msgstr ""
+
+msgctxt "0092"
+msgid ""
+"But by the time I got there, it was already too\n"
+"late..."
+msgstr ""
+
+msgctxt "0093"
+msgid "Sakura!"
+msgstr ""
+
+msgctxt "0094"
+msgid "Let me in! Please, open the door!"
+msgstr ""
+
+msgctxt "0095"
+msgid "..."
+msgstr "..."
+
+msgctxt "0096"
+msgid "Why...?"
+msgstr ""
+
+msgctxt "0097"
+msgid "Why!?"
+msgstr ""
+
+msgctxt "0098"
+msgid "Why did she have to die!"
+msgstr ""
+
+msgctxt "0099"
+msgid "She had weaknesses, just like any other person."
+msgstr ""
+
+msgctxt "0100"
+msgid ""
+"If she got cut, she bled. If someone hurt her, she\n"
+"felt it."
+msgstr ""
+
+msgctxt "0101"
+msgid "That's weakness... That's normal...!"
+msgstr ""
+
+msgctxt "0102"
+msgid "And yet..."
+msgstr ""
+
+msgctxt "0103"
+msgid "You all blamed her..."
+msgstr ""
+
+msgctxt "0104"
+msgid ""
+"I tried to protect her, and I suffered for it. And\n"
+"that just added to the weight she had to carry...!"
+msgstr ""
+
+msgctxt "0105"
+msgid "And I didn't even realize it..."
+msgstr ""
+
+msgctxt "0106"
+msgid "Hina..."
+msgstr ""
+
+msgctxt "0107"
+msgid "We killed her... All of us."
+msgstr ""
+
+msgctxt "0108"
+msgid "We pushed her into a corner...and we murdered her."
+msgstr ""
+
+msgctxt "0109"
+msgid "People like us shouldn't be allowed to live!"
+msgstr ""
+
+msgctxt "0110"
+msgid "And that's why you tried to lead us astray."
+msgstr ""
+
+msgctxt "0111"
+msgid ""
+"You did your best to make us arrive at the wrong\n"
+"conclusion during the class trial."
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"Sakura died hating all of us. I wanted to free her of\n"
+"her regrets."
+msgstr ""
+
+msgctxt "0113"
+msgid ""
+"But even that got found out. In the end, I wasn't able\n"
+"to do anything for her..."
+msgstr ""
+
+msgctxt "0114"
+msgid "I could never face her after this..."
+msgstr ""
+
+msgctxt "0115"
+msgid ""
+"I'm sorry to interrupt right when you're about to\n"
+"deliver the final tearjerker, but..."
+msgstr ""
+
+msgctxt "0116"
+msgid ""
+"...it's just taking so long, long, long, LONG! I'm\n"
+"about to fall asleep over here!"
+msgstr ""
+
+msgctxt "0117"
+msgid ""
+"I mean, do you really think you have any idea what\n"
+"Sakura was actually thinking when she died?"
+msgstr ""
+
+msgctxt "0118"
+msgid "What did you say...?"
+msgstr ""
+
+msgctxt "0119"
+msgid ""
+"Everything you just said is nothing but your\n"
+"interpretation, right?"
+msgstr ""
+
+msgctxt "0120"
+msgid "Your own opinion on what her suicide note meant?"
+msgstr ""
+
+msgctxt "0121"
+msgid ""
+"O-Of course I know what she was thinking! Cuz her and\n"
+"me—!"
+msgstr ""
+
+msgctxt "0122"
+msgid "Well, what I'm really trying to say is..."
+msgstr ""
+
+msgctxt "0123"
+msgid "...don't you think the entire foundation is shaky?"
+msgstr ""
+
+msgctxt "0124"
+msgid "What if it was really...like this?"
+msgstr ""
+
+msgctxt "0125"
+msgid "What...is that?"
+msgstr ""
+
+msgctxt "0126"
+msgid "Isn't it obvious?"
+msgstr ""
+
+msgctxt "0127"
+msgid "A <CLT 3>suicide note<CLT>. *Sakura's* suicide note."
+msgstr ""
+
+msgctxt "0128"
+msgid "Wh-What? But Hina already..."
+msgstr ""
+
+msgctxt "0129"
+msgid "Oh, I wrote that one. It was all me, baby."
+msgstr ""
+
+msgctxt "0130"
+msgid ""
+"This is the one Sakura addressed to Hina and put in\n"
+"her room!"
+msgstr ""
+
+msgctxt "0131"
+msgid "What? Then..."
+msgstr ""
+
+msgctxt "0132"
+msgid "You...lied to me?"
+msgstr ""
+
+msgctxt "0133"
+msgid ""
+"Oh, don't say \"lie\"! It makes it sound so dirty! I\n"
+"just thought I'd liven things up a bit!"
+msgstr ""
+
+msgctxt "0134"
+msgid ""
+"I can't help it if you totally took my little\n"
+"scribbles at face value."
+msgstr ""
+
+msgctxt "0135"
+msgid "It didn't even have Sakura's signature on it!"
+msgstr ""
+
+msgctxt "0136"
+msgid "You filthy little...!"
+msgstr ""
+
+msgctxt "0137"
+msgid "I'm not filthy! I didn't do anything."
+msgstr ""
+
+msgctxt "0138"
+msgid ""
+"Did I falsify evidence? Did I affect the outcome of\n"
+"the class trial?"
+msgstr ""
+
+msgctxt "0139"
+msgid ""
+"The case played out between you and you alone. You\n"
+"were the ones jerking each other around."
+msgstr ""
+
+msgctxt "0140"
+msgid ""
+"Heck, even if the will *had* factored in, it still\n"
+"woulda been between you guys."
+msgstr ""
+
+msgctxt "0141"
+msgid ""
+"So what's the problem!? This is all part of the\n"
+"production process! Okay, and...scene! Cut!"
+msgstr ""
+
+msgctxt "0142"
+msgid ""
+"So then, what did she write in her *real* suicide\n"
+"note?"
+msgstr ""
+
+msgctxt "0143"
+msgid ""
+"I'm glad you asked! For your benefit, I shall read it\n"
+"using my melodic, angelic, harmonic narrator voice!"
+msgstr ""
+
+msgctxt "0144"
+msgid ""
+"But you know...haven't you ever been curious about the\n"
+"whole \"suicide note\" thing?"
+msgstr ""
+
+msgctxt "0145"
+msgid ""
+"Who came up with the idea of leaving a note when you\n"
+"kill yourself in the first place?"
+msgstr ""
+
+msgctxt "0146"
+msgid ""
+"And isn't it just so unfortunate? Killing yourself is\n"
+"just so final, ya know?"
+msgstr ""
+
+msgctxt "0147"
+msgid ""
+"You can never hear the rest of their story. The truth\n"
+"is lost in darkness. Gives me the willies...!"
+msgstr ""
+
+msgctxt "0148"
+msgid "Could you get on with it, please?"
+msgstr ""
+
+msgctxt "0149"
+msgid ""
+"Okay, okay, jeez! Talk about a buzzkill... Alright,\n"
+"here we go."
+msgstr ""
+
+msgctxt "0150"
+msgid "Ahem!"
+msgstr ""
+
+msgctxt "0151"
+msgid ""
+"<CLT 23>My good friend Hina. There's something I have to tell\n"
+"you.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0152"
+msgid ""
+"<CLT 23>I hate to do it like this, but you need to know.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0153"
+msgid ""
+"<CLT 23>This is...my final wish.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0154"
+msgid ""
+"As you know, I've been giving information to the one\n"
+"who's imprisoned you here."
+msgstr ""
+
+msgctxt "0155"
+msgid ""
+"It was our first night in this strange school that the\n"
+"mastermind came to see me..."
+msgstr ""
+
+msgctxt "0156"
+msgid ""
+"You see, the mastermind took control of <CLT 3>my family's\n"
+"dojo<CLT>, and demanded I become their tool."
+msgstr ""
+
+msgctxt "0157"
+msgid ""
+"You might not see the importance of a dojo, but my\n"
+"family has watched over it for over 300 years."
+msgstr ""
+
+msgctxt "0158"
+msgid ""
+"I couldn't let it be destroyed under my watch. So even\n"
+"if it meant my own life, I had to protect it."
+msgstr ""
+
+msgctxt "0159"
+msgid "That's how I saw things..."
+msgstr ""
+
+msgctxt "0160"
+msgid "However, that was my <CLT 3>greatest weakness<CLT>."
+msgstr ""
+
+msgctxt "0161"
+msgid ""
+"And because of that, I made the mistake of giving in\n"
+"to the mastermind."
+msgstr ""
+
+msgctxt "0162"
+msgid ""
+"And what the mastermind wanted from me was nothing\n"
+"less...than <CLT 3>murder<CLT>."
+msgstr ""
+
+msgctxt "0163"
+msgid ""
+"They were probably worried that until the first murder\n"
+"had happened, nothing would move forward."
+msgstr ""
+
+msgctxt "0164"
+msgid ""
+"But what neither the mastermind nor I expected...was\n"
+"the incident involving Sayaka."
+msgstr ""
+
+msgctxt "0165"
+msgid "At that point, the plan changed."
+msgstr ""
+
+msgctxt "0166"
+msgid ""
+"The mastermind told me to hold off—to wait until we\n"
+"reached another stalemate."
+msgstr ""
+
+msgctxt "0167"
+msgid "However, as I lived here with all of you..."
+msgstr ""
+
+msgctxt "0168"
+msgid "As I lived here with Hina..."
+msgstr ""
+
+msgctxt "0169"
+msgid "...my resolve began to weaken."
+msgstr ""
+
+msgctxt "0170"
+msgid ""
+"Watching everyone fight with such despair, trying so\n"
+"desperately to stay alive..."
+msgstr ""
+
+msgctxt "0171"
+msgid ""
+"...I saw the weakness in my own heart, the mistake of\n"
+"succumbing to the mastermind."
+msgstr ""
+
+msgctxt "0172"
+msgid "And more than anything..."
+msgstr ""
+
+msgctxt "0173"
+msgid ""
+"...I cannot betray those who would call me <CLT 3>their\n"
+"friend<CLT>."
+msgstr ""
+
+msgctxt "0174"
+msgid "That's how I came to feel."
+msgstr ""
+
+msgctxt "0175"
+msgid "So that's why Sakura..."
+msgstr ""
+
+msgctxt "0176"
+msgid "I've made a decision..."
+msgstr ""
+
+msgctxt "0177"
+msgid ""
+"I will no longer retreat, no longer compromise, no\n"
+"longer regret..."
+msgstr ""
+
+msgctxt "0178"
+msgid "I've made my decision!"
+msgstr ""
+
+msgctxt "0179"
+msgid "I'm going...to resist you!"
+msgstr ""
+
+msgctxt "0180"
+msgid ""
+"Of course, because of that I decided to reveal her\n"
+"secret, which made everyone else hate her."
+msgstr ""
+
+msgctxt "0181"
+msgid ""
+"Her decision to stay true to all of you led directly\n"
+"to all of you hating her for it..."
+msgstr ""
+
+msgctxt "0182"
+msgid ""
+"Ironic, isn't it!? Or maybe oxymoronic? Or just\n"
+"moronic...?"
+msgstr ""
+
+msgctxt "0183"
+msgid ""
+"Of course, I understand if you all hate me. All of\n"
+"this is because of my own weakness..."
+msgstr ""
+
+msgctxt "0184"
+msgid ""
+"I'm perfectly willing to accept whatever attack you\n"
+"may want to make on me."
+msgstr ""
+
+msgctxt "0185"
+msgid ""
+"So this is my atonement for betraying you. That's what\n"
+"I had in mind..."
+msgstr ""
+
+msgctxt "0186"
+msgid ""
+"But unfortunately, that's not enough. This won't end\n"
+"with just me accepting your hatred."
+msgstr ""
+
+msgctxt "0187"
+msgid ""
+"My own situation has started having an effect on more\n"
+"people than just me..."
+msgstr ""
+
+msgctxt "0188"
+msgid ""
+"Which is exactly what the mastermind wanted when they\n"
+"revealed my betrayal."
+msgstr ""
+
+msgctxt "0189"
+msgid "My betrayal brought suspicion, disharmony..."
+msgstr ""
+
+msgctxt "0190"
+msgid ""
+"The mastermind knew that eventually it would escalate\n"
+"into someone murdering someone else."
+msgstr ""
+
+msgctxt "0191"
+msgid "Of course, I'm still responsible for that, as well."
+msgstr ""
+
+msgctxt "0192"
+msgid ""
+"I have an obligation to get this situation under\n"
+"control."
+msgstr ""
+
+msgctxt "0193"
+msgid ""
+"And to fulfill that obligation, I've decided to do as\n"
+"the mastermind has commanded."
+msgstr ""
+
+msgctxt "0194"
+msgid "I will do as I was told, and <CLT 3>commit murder<CLT>."
+msgstr ""
+
+msgctxt "0195"
+msgid "But I've decided... The one I'm going to kill is..."
+msgstr ""
+
+msgctxt "0196"
+msgid "...<CLT 3>myself<CLT>."
+msgstr ""
+
+msgctxt "0197"
+msgid ""
+"If the mastermind demands that I kill someone, then\n"
+"that someone will be me."
+msgstr ""
+
+msgctxt "0198"
+msgid ""
+"Then my dojo will be safe, and above all else, none of\n"
+"you will have to kill anyone."
+msgstr ""
+
+msgctxt "0199"
+msgid ""
+"When I die, the source of conflict among you all dies\n"
+"with me."
+msgstr ""
+
+msgctxt "0200"
+msgid "For that, I'm willing to give up my life."
+msgstr ""
+
+msgctxt "0201"
+msgid ""
+"If it can save you, then sacrificing my own life could\n"
+"have no greater meaning."
+msgstr ""
+
+msgctxt "0202"
+msgid ""
+"Whatever you think of me, please know that you are all\n"
+"my most treasured friends..."
+msgstr ""
+
+msgctxt "0203"
+msgid "I've never had people like you in my life..."
+msgstr ""
+
+msgctxt "0204"
+msgid "Then...Sakura..."
+msgstr ""
+
+msgctxt "0205"
+msgid "...didn't feel cornered. She didn't die hating us."
+msgstr ""
+
+msgctxt "0206"
+msgid ""
+"She wanted to...stop us from fighting? To <CLT 3>protect\n"
+"us<CLT>?"
+msgstr ""
+
+msgctxt "0207"
+msgid "She didn't end her own life because she was weak."
+msgstr ""
+
+msgctxt "0208"
+msgid "Quite the opposite, in fact..."
+msgstr ""
+
+msgctxt "0209"
+msgid "She was <CLT 3>strong<CLT>. *Too* strong."
+msgstr ""
+
+msgctxt "0210"
+msgid "That's why she killed herself."
+msgstr ""
+
+msgctxt "0211"
+msgid ""
+"She chose death for herself in order to protect the\n"
+"rest of us."
+msgstr ""
+
+msgctxt "0212"
+msgid ""
+"To sacrifice so much... No normal person could do\n"
+"that."
+msgstr ""
+
+msgctxt "0213"
+msgid ""
+"It was only her limitless strength that made it\n"
+"possible."
+msgstr ""
+
+msgctxt "0214"
+msgid "..."
+msgstr "..."
+
+msgctxt "0215"
+msgid "Finally...Hina, I want to apologize to you especially."
+msgstr ""
+
+msgctxt "0216"
+msgid ""
+"The reason I didn't tell you any of this is because I\n"
+"knew you would try to stop me."
+msgstr ""
+
+msgctxt "0217"
+msgid "I'm really, truly sorry. But please don't be sad."
+msgstr ""
+
+msgctxt "0218"
+msgid ""
+"If I can thwart the mastermind's plans, if I can keep\n"
+"you from killing each other..."
+msgstr ""
+
+msgctxt "0219"
+msgid "...that's enough for me."
+msgstr ""
+
+msgctxt "0220"
+msgid ""
+"This is the path that I have chosen. This is the only\n"
+"way I have left to distinguish myself."
+msgstr ""
+
+msgctxt "0221"
+msgid ""
+"And you can use this note to bring the class trial to\n"
+"a quick end."
+msgstr ""
+
+msgctxt "0222"
+msgid ""
+"I'm so sorry to ask you to do something so unpleasant,\n"
+"but I have to leave the rest to you."
+msgstr ""
+
+msgctxt "0223"
+msgid "Please talk to Byakuya, Toko, and Hiro on my behalf."
+msgstr ""
+
+msgctxt "0224"
+msgid ""
+"I can't tell anyone about my plan while I'm alive, but\n"
+"I wanted you to understand why I'm doing this."
+msgstr ""
+
+msgctxt "0225"
+msgid ""
+"In the end, though, I hope to show myself through\n"
+"actions and not words. Hopefully then they'll see..."
+msgstr ""
+
+msgctxt "0226"
+msgid ""
+"I never saw you as my enemy. You were only ever my\n"
+"friend, who I wanted to help as much as possible..."
+msgstr ""
+
+msgctxt "0227"
+msgid ""
+"Hina...whatever it takes, survive. Survive along with\n"
+"everyone else."
+msgstr ""
+
+msgctxt "0228"
+msgid "No matter what...just survive."
+msgstr ""
+
+msgctxt "0229"
+msgid "Th-This is...!"
+msgstr ""
+
+msgctxt "0230"
+msgid "I...I didn't understand how she felt... Not at all..."
+msgstr ""
+
+msgctxt "0231"
+msgid "I thought we were close, and still...!"
+msgstr ""
+
+msgctxt "0232"
+msgid ""
+"But in the end, all her meddling was like, totally\n"
+"pointless!"
+msgstr ""
+
+msgctxt "0233"
+msgid ""
+"She died so you guys wouldn't try to kill each other,\n"
+"but you almost ended up doing it anyway!"
+msgstr ""
+
+msgctxt "0234"
+msgid "Thanks to you, her death had no purpose at all!"
+msgstr ""
+
+msgctxt "0235"
+msgid ""
+"In fact, it was BECAUSE of her stupid meddling that\n"
+"the rest of you nearly bit the big one!"
+msgstr ""
+
+msgctxt "0236"
+msgid ""
+"She deserves all the blame! Everyone blame her! Go\n"
+"ahead, she deserves it!"
+msgstr ""
+
+msgctxt "0237"
+msgid "Puhuhu... Now then, the next victim has been decided!"
+msgstr ""
+
+msgctxt "0238"
+msgid ""
+"What do you mean, next victim!? Nobody here blames\n"
+"anyone...!"
+msgstr ""
+
+msgctxt "0239"
+msgid "Hrmm?"
+msgstr ""
+
+msgctxt "0240"
+msgid ""
+"First of all, you're in the wrong for tricking Hina\n"
+"with that fake suicide note!"
+msgstr ""
+
+msgctxt "0241"
+msgid "And plus..."
+msgstr ""
+
+msgctxt "0242"
+msgid "Sakura's death wasn't a waste!"
+msgstr ""
+
+msgctxt "0243"
+msgid "Hurrrmmm?"
+msgstr ""
+
+msgctxt "0244"
+msgid "Because she made us remember..."
+msgstr ""
+
+msgctxt "0245"
+msgid "We're not enemies that hate each other."
+msgstr ""
+
+msgctxt "0246"
+msgid "We're friends, who <CLT 3>need to work together<CLT>!"
+msgstr ""
+
+msgctxt "0247"
+msgid "Damn straight."
+msgstr ""
+
+msgctxt "0248"
+msgid "This is all because of our misplaced hatred."
+msgstr ""
+
+msgctxt "0249"
+msgid ""
+"I don't blame her! I CAN'T blame her! And nobody can\n"
+"blame Hina, either!"
+msgstr ""
+
+msgctxt "0250"
+msgid "Buhwah!?"
+msgstr ""
+
+msgctxt "0251"
+msgid ""
+"Whether or not there was a spy never really mattered.\n"
+"Because the one we need to destroy..."
+msgstr ""
+
+msgctxt "0252"
+msgid "...is you! Nobody else!"
+msgstr ""
+
+msgctxt "0253"
+msgid "What the heck!? That's not how this is supposed to go!"
+msgstr ""
+
+msgctxt "0254"
+msgid ""
+"But anyway, are you sure about that? This killing game\n"
+"is a competition between all of *you*, remember?"
+msgstr ""
+
+msgctxt "0255"
+msgid "Your enemy...is each other."
+msgstr ""
+
+msgctxt "0256"
+msgid "He's absolutely right about that."
+msgstr ""
+
+msgctxt "0257"
+msgid "Ahh, lovely Byakuya! You understand, don't you!?"
+msgstr ""
+
+msgctxt "0258"
+msgid ""
+"This is a life-or-death elimination match. The only\n"
+"way to survive...is to win."
+msgstr ""
+
+msgctxt "0259"
+msgid ""
+"There can be no doubt that those are the rules of the\n"
+"game."
+msgstr ""
+
+msgctxt "0260"
+msgid "Which is why...I am <CLT 3>bowing out<CLT> of the game."
+msgstr ""
+
+msgctxt "0261"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0262"
+msgid ""
+"Sakura and Hina were both willing to sacrifice their\n"
+"own lives to deny the reality of the game."
+msgstr ""
+
+msgctxt "0263"
+msgid ""
+"Thanks to them, it would appear the others have cast\n"
+"aside their fear for this game."
+msgstr ""
+
+msgctxt "0264"
+msgid ""
+"There's no point in participating in a game which has\n"
+"lost that sense of excitement."
+msgstr ""
+
+msgctxt "0265"
+msgid "Which is why I will no longer be participating in it."
+msgstr ""
+
+msgctxt "0266"
+msgid "Wh-What's going on here!?"
+msgstr ""
+
+msgctxt "0267"
+msgid "Now I have only one thing to look forward to."
+msgstr ""
+
+msgctxt "0268"
+msgid ""
+"And that is to heap the harshest possible punishment\n"
+"onto the one who thinks they can control me!"
+msgstr ""
+
+msgctxt "0269"
+msgid "B-Byakuya! Does this mean...?"
+msgstr ""
+
+msgctxt "0270"
+msgid "Don't misunderstand."
+msgstr ""
+
+msgctxt "0271"
+msgid ""
+"I haven't been moved by some thoughtless\n"
+"sentimentalism, if that's what you're thinking."
+msgstr ""
+
+msgctxt "0272"
+msgid ""
+"Wherever Master goes, I go! And if the mastermind\n"
+"turns out to be a guy, maybe I can catch on fire!"
+msgstr ""
+
+msgctxt "0273"
+msgid "E-Everyone...!"
+msgstr ""
+
+msgctxt "0274"
+msgid ""
+"Well? Now can you say that Sakura's death\n"
+"had no meaning?"
+msgstr ""
+
+msgctxt "0275"
+msgid "Hmph. How boring."
+msgstr ""
+
+msgctxt "0276"
+msgid "But nothing good can come of this."
+msgstr ""
+
+msgctxt "0277"
+msgid "I'm still gonna be the one having the fun time!"
+msgstr ""
+
+msgctxt "0278"
+msgid "The fun...time?"
+msgstr ""
+
+msgctxt "0279"
+msgid ""
+"Anyway, let's forget about that good-for-nothing\n"
+"backstabber and get back on track!"
+msgstr ""
+
+msgctxt "0280"
+msgid ""
+"It's the moment you've all been waiting for!\n"
+"<CLT 3>Punishment time<CLT>!"
+msgstr ""
+
+msgctxt "0281"
+msgid ""
+"Wait, but...Sakura was technically the killer, right?\n"
+"And she's dead!"
+msgstr ""
+
+msgctxt "0282"
+msgid "Y-You're not gonna...!"
+msgstr ""
+
+msgctxt "0283"
+msgid "I-Is it me...?"
+msgstr ""
+
+msgctxt "0284"
+msgid ""
+"Oh heavens, no! Just cuz the blackened is dead doesn't\n"
+"mean I can just sub in whatever ol' student I want!"
+msgstr ""
+
+msgctxt "0285"
+msgid ""
+"Didn't I tell you!? I'm very particular about the\n"
+"\"Bear-Times-One\" rule!"
+msgstr ""
+
+msgctxt "0286"
+msgid ""
+"But I spent so much time preparing my special\n"
+"punishment, it'd be a shame to let it go to waste!"
+msgstr ""
+
+msgctxt "0287"
+msgid ""
+"So, for my special punishment...I've prepared a\n"
+"<CLT 3>special guest<CLT>!"
+msgstr ""
+
+msgctxt "0288"
+msgid "A special guest...?"
+msgstr ""
+
+msgctxt "0289"
+msgid ""
+"Let's give it everything we've got! It's...PUNISHMENT\n"
+"TIIIME!"
+msgstr ""

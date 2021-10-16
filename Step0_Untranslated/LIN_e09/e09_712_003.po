@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "That flower's kinda creepy..."
+msgstr ""
+
+#. コメディがいいな
+msgctxt "0004"
+msgid ""
+"It really is. And I am not comfortable with how big it\n"
+"is, either."
+msgstr ""
+
+#. うん！
+#. それだったらいいよ。
+msgctxt "0005"
+msgid "So unbelievably crude..."
+msgstr ""
+
+#. っていうか、アタシが唯一最後まで
+#. まともに観られる映画なんだよね。
+msgctxt "0006"
+msgid "Just looking at it makes me feel slightly ill."
+msgstr ""
+
+#. 他は飽きちゃったり寝ちゃったり…
+msgctxt "0007"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. 家でＤＶＤならまだいいんだけど
+#. 映画館ってあんまり得意じゃなくってさ。
+msgctxt "0008"
+msgid "And here I thought you hadn't noticed."
+msgstr ""
+
+#. ホラーでも観る？
+msgctxt "0009"
+msgid ""
+"If we stay here too much longer, I will be simply\n"
+"covered in sweat."
+msgstr ""
+
+#. そ、それは…
+msgctxt "0010"
+msgid ""
+"You must have known that, and yet you brought me here\n"
+"anyway. I am surprised at your thoughtlessness."
+msgstr ""
+
+#. ………………
+msgctxt "0011"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. アタシ、常々疑問に思ってたんだけど
+#. どうして人はわざわざ怖い物を観たがるわけ？
+msgctxt "0012"
+msgid "Gardening...?"
+msgstr ""
+
+#. それも、お金払ってまで。
+#. 全然わかんない…ホントわかんない。
+msgctxt "0013"
+msgid ""
+"I generally like to leave the gardening to the\n"
+"gardener."
+msgstr ""
+
+#. そうだ、どうせならそれについて話し合わない？
+#. うん、その方がよっぽど有意義よ！
+msgctxt "0014"
+msgid ""
+"But I suppose there is no harm in gaining a certain\n"
+"amount of hands-on experience."
+msgstr ""
+
+#. べ、別に観るのが怖いとか
+#. そういうんじゃないんだからね！
+msgctxt "0015"
+msgid ""
+"Maybe doing it myself will help me to understand how\n"
+"to give more precise instructions later on."
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0016"
+msgid ""
+"Make sure you learn all you can about gardening, okay\n"
+"Makoto?"
+msgstr ""
+
+#. …やっぱりね。
+#. そう言うんじゃないかと思った。
+msgctxt "0017"
+msgid ""
+"<CLT 4>...Huh? Why me?\n"
+"<CLT>"
+msgstr ""
+
+#. なんかもう、反応が予想通り過ぎて
+#. それだけでお腹いっぱい。
+msgctxt "0018"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 映画見るのはまた今度にしよ。
+msgctxt "0019"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. やっぱり出よう
+msgctxt "0020"
+msgid "Walk, you say?"
+msgstr ""
+
+#. ちょ、ちょっと！
+#. なんなのよ急に…
+msgctxt "0021"
+msgid ""
+"It might be nice to take some time out and go for\n"
+"a leisurely stroll."
+msgstr ""
+
+#. せっかく来たんだから…
+#. えっと、コメディとかなら観れるけど…
+msgctxt "0022"
+msgid ""
+"Many exotic plants are in full bloom, and the smell\n"
+"here is not entirely unpleasant."
+msgstr ""
+
+#. …って、アタシもあんまり
+#. 映画観る方じゃないからどっちでもいいけど。
+msgctxt "0023"
+msgid ""
+"I would venture to say that this kind of place is good\n"
+"for both body and soul."
+msgstr ""
+
+#. 嫌いじゃないんだけど…２時間黙って座ってるってのが
+#. ちょっとしんどいんだよね。
+msgctxt "0024"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. じゃ、どっか他の場所に行こっか。
+msgctxt "0025"
+msgid ""
+"Fake though it may be, it is nice to have *some* sort\n"
+"of sky to look at..."
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0026"
+msgid ""
+"A person may go their entire life without\n"
+"understanding the true nature of plants like these."
+msgstr ""
+
+#. まったくもう…
+#. ほんっと、子供みたいなんだから。
+msgctxt "0027"
+msgid ""
+"And yet, people still show grace and make an effort to\n"
+"care for them."
+msgstr ""
+
+#. 床にぼろぼろこぼすのとか、やめてよね？
+msgctxt "0028"
+msgid ""
+"If you were a plant, what kind of life would you want\n"
+"to lead?"
+msgstr ""
+
+#. あと、できるだけ静かに食べること。
+#. …あの音ってけっこう気になるんだよ？
+msgctxt "0029"
+msgid "Hmhmhm..."
+msgstr ""
+
+#. 撮影禁止だぞ
+msgctxt "0030"
+msgid ""
+"<CLT 4>Is she asking me to think like a plant...?\n"
+"<CLT>"
+msgstr ""
+
+#. 当たり前でしょ！
+msgctxt "0031"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. そんな事するヤツは、
+#. カメラ持ちの風上にも置けないわよ！
+msgctxt "0032"
+msgid ""
+"Yes, this area is indeed soothing enough that sleep\n"
+"might come quite easily."
+msgstr ""
+
+#. 観るより撮る方が楽しそう
+msgctxt "0033"
+msgid "...Is that what you were hoping I would say?"
+msgstr ""
+
+#. …へえ。
+#. 日向ってそういうの興味あるんだ？
+msgctxt "0034"
+msgid ""
+"You honestly think I would lay down here, where\n"
+"insects could get to me! Foolish buffoon!"
+msgstr ""
+
+#. アタシ、動画の事はよくわからないけど、
+#. 確かにただ観てるだけよりは面白そうかも。
+msgctxt "0035"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. それ、真剣に企画したら
+#. この島にいる間に一本くらい撮れちゃうんじゃない？
+msgctxt "0036"
+msgid "Do you think flower fortune-telling works?"
+msgstr ""
+
+#. 今ならキャラの濃い出演者がよりどりみどりだしね。
+msgctxt "0037"
+msgid "Don't be ridiculous. Of course not."
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0038"
+msgid ""
+"And in the act, you snuff out the life of an innocent\n"
+"flower, just to make yourself feel better."
+msgstr ""
+
+#. んー…だったらさ、
+#. 今からでも他のトコ行かない？
+msgctxt "0039"
+msgid "It is barbaric."
+msgstr ""
+
+#. 実を言うと…
+#. アタシもちょっと寝そうだから。
+msgctxt "0040"
+msgid "Do you like flowers and stuff?"
+msgstr ""
+
+#. ２時間ただ座って観てるだけって
+#. けっこうしんどいんだよね。
+msgctxt "0041"
+msgid "...I don't *dis*like them."
+msgstr ""
+
+#. それにやっぱり、撮られた物を見るより
+#. 自分で撮る方が楽しいからさ。
+msgctxt "0042"
+msgid ""
+"I have never grown anything myself, however, and I do\n"
+"not plan to start."
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0043"
+msgid ""
+"Flowers are not a necessary part of my life or my\n"
+"future."
+msgstr ""
+
+#. …日向って目が悪いの？
+#. それとも、悪いのは頭？
+msgctxt "0044"
+msgid "Something seems off..."
+msgstr ""
+
+#. 一番前なんて、首は疲れるし
+#. 全体見えないしでいいとこないでしょ？
+msgctxt "0045"
+msgid "What are you talking about?"
+msgstr ""
+
+#. まったくもう…
+#. そういうとこ、ほんっと子供だよね。
+msgctxt "0046"
+msgid "Do you mean you and me spending time together?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"*You* invited *me*, remember? And now you go and say\n"
+"something like that?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"Or are you worried about what those around you might\n"
+"think? Do not concern yourself with them."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"As long as we are satisfied with how we spend our\n"
+"time, that is all that matters."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "Please keep that in mind as you keep me company."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"<CLT 4>So she still doesn't have any desire to get close to\n"
+"any of the others, huh...?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

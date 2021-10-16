@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Ah, Makoto! We got a big problem, man!"
+msgstr ""
+
+msgctxt "0002"
+msgid "Wh-What's wrong!?"
+msgstr ""
+
+msgctxt "0003"
+msgid "L-Look!"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT 4>Hiro's finger shook as he pointed...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0005"
+msgid "H-Hina!?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Nn...ghh..."
+msgstr ""
+
+msgctxt "0007"
+msgid "Are you okay!? What happened?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Sh-She killed her..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Genocide Jill killed Hina!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"No no no no no! She's not dead! Open your eyes! No way\n"
+"she's dead!"
+msgstr ""
+
+msgctxt "0011"
+msgid "Wh-Why...? What happened?"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"Well, Toko and Hina... Just all of a sudden, they were\n"
+"yelling, and then..."
+msgstr ""
+
+msgctxt "0013"
+msgid "...they knocked the pepper off the table."
+msgstr ""
+
+msgctxt "0014"
+msgid "And that led to a sneeze...?"
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"Her giant balloons are a little too perfect, aren't\n"
+"they!? I might be flat, but at least mine are real!"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"And look at my shapely collarbone! Doesn't it just\n"
+"totally set you on fire!?"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Anyway, you totally non-adorable boys just get her\n"
+"outta my sight, okay? Or else..."
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"I'll start cutting. And cutting, and cutting, and\n"
+"indulging myself for who knows how long..."
+msgstr ""
+
+msgctxt "0019"
+msgid ""
+"O-Okay then, let's get Hina to the nurse's office.\n"
+"C'mon, Hiro. Help me!"
+msgstr ""
+
+msgctxt "0020"
+msgid "S-Sure thing!"
+msgstr ""
+
+msgctxt "0021"
+msgid "Weeeoooo, weeeoooo!"
+msgstr ""
+
+msgctxt "0022"
+msgid "Kyeeehahahaha!"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>Genocide Jack's abrasive laugh chased us out of the\n"
+"room as we carried Hina away.\n"
+"<CLT>"
+msgstr ""

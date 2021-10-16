@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT 4>I went to the breakfast meeting same as always.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 4>But...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0003"
+msgid "Is this...everyone? It feels a little...small."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT 4>Byakuya and Toko had stormed off yesterday, and it\n"
+"wasn't too surprising they hadn't come today.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0005"
+msgid "Even the table looks bigger, somehow."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"I assume that is because three people are dead, and\n"
+"two are abstaining."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Yeah, with five people missing, I guess it *would*\n"
+"feel kinda empty."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"Still... I know Byakuya's whatever, but shouldn't we\n"
+"go check on Toko?"
+msgstr ""
+
+msgctxt "0009"
+msgid "I vote no. She's super annoying."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"How can you be so cold? You are like a piece of rock\n"
+"candy."
+msgstr ""
+
+msgctxt "0011"
+msgid "What!? No, rock candy isn't cold! It's sweet!"
+msgstr ""
+
+msgctxt "0012"
+msgid "...Anyway, Byakuya's the real problem."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"If we don't keep an eye on him, he might really kill\n"
+"someone. You can see it in his eyes..."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"We got no choice! Get some rope! We're gonna hafta\n"
+"keep him bound and gagged!"
+msgstr ""
+
+msgctxt "0015"
+msgid "I think that's going a little overboard..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"He's right! In this situation, there's nothing scarier\n"
+"than when an ally turns loose cannon!"
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"It's just like when we were kids, and someone would go\n"
+"crazy at sports day or whatever!"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"What the fuck are you talking about!? You gonna use\n"
+"the rope to do tug of war or something!? Idiot!"
+msgstr ""
+
+msgctxt "0019"
+msgid "I'm not an idiot...!"
+msgstr ""
+
+msgctxt "0020"
+msgid "YOU'RE an idiot!"
+msgstr ""
+
+msgctxt "0021"
+msgid "Who are you callin' stupid!?"
+msgstr ""
+
+msgctxt "0022"
+msgid "..."
+msgstr "..."
+
+msgctxt "0023"
+msgid "Huh? What's wrong, Chihiro? You don't look so great..."
+msgstr ""
+
+msgctxt "0024"
+msgid "Oh, I'm just going through a little...self-loathing."
+msgstr ""
+
+msgctxt "0025"
+msgid "Huh? Self-loathing?"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"Well, after what Byakuya said to me yesterday...I just\n"
+"got so nervous, I locked up. I couldn't say anything."
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"Mondo ended up having to help me out. And even *he*\n"
+"said I was someone who \"can't fight back\"..."
+msgstr ""
+
+msgctxt "0028"
+msgid "I...I hate how weak I am."
+msgstr ""
+
+msgctxt "0029"
+msgid "Ahh, I see. So Mondo made you depressed."
+msgstr ""
+
+msgctxt "0030"
+msgid "What!? How's it *my* fault!?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"I wasn't tryin' to be mean! Besides, girls are just\n"
+"naturally weak anyway right!?"
+msgstr ""
+
+msgctxt "0032"
+msgid "..."
+msgstr "..."
+
+msgctxt "0033"
+msgid "Gh..."
+msgstr ""
+
+msgctxt "0034"
+msgid "A-Are you...crying...?"
+msgstr ""
+
+msgctxt "0035"
+msgid "It's cuz you were screaming like a lunatic!"
+msgstr ""
+
+msgctxt "0036"
+msgid "Nng... *hic*"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Hey, c'mon, don't cry... I-It's my fault, okay? I\n"
+"won't yell at you anymore..."
+msgstr ""
+
+msgctxt "0038"
+msgid "Really? Not sure I can believe that..."
+msgstr ""
+
+msgctxt "0039"
+msgid "J-Just shut up..."
+msgstr ""
+
+msgctxt "0040"
+msgid "...I got it! I'll make you a <CLT 3>promise as a man<CLT>!"
+msgstr ""
+
+msgctxt "0041"
+msgid "Promise...as a man?"
+msgstr ""
+
+msgctxt "0042"
+msgid "Maybe I mentioned this before, but..."
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"Ever since I was a kid, there was one thing my brother\n"
+"told me over and over again..."
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"He said that no matter what, a real man ALWAYS keeps\n"
+"his promises. That's what he left me."
+msgstr ""
+
+msgctxt "0045"
+msgid "Left you...?"
+msgstr ""
+
+msgctxt "0046"
+msgid "Oh, yeah... My brother's dead."
+msgstr ""
+
+msgctxt "0047"
+msgid "Oh...I see..."
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"Anyway, I don't wanna talk about it. Don't wanna make\n"
+"all you guys cry!"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"Anyway, so you can trust me when I make that promise.\n"
+"So you don't gotta cry anymore!"
+msgstr ""
+
+msgctxt "0050"
+msgid "O-Okay."
+msgstr ""
+
+msgctxt "0051"
+msgid "Thank you...Mondo."
+msgstr ""
+
+msgctxt "0052"
+msgid "S-Sure..."
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"But...I still don't like how I am right now. I have to\n"
+"get stronger..."
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"If I'm so weak anything can make me cry...that's not\n"
+"good."
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"Still, don't stress out too much about having to get\n"
+"stronger."
+msgstr ""
+
+msgctxt "0056"
+msgid "No...I *want* to get stronger."
+msgstr ""
+
+msgctxt "0057"
+msgid "Maybe I should...start working out..."
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"In that case, I would be happy to help you out\n"
+"anytime."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"B-But then Miss Fujisaki would get smashed into\n"
+"a billion pieces!"
+msgstr ""
+
+msgctxt "0060"
+msgid "Shut up, you."
+msgstr ""
+
+msgctxt "0061"
+msgid "Hmhmhm..."
+msgstr ""
+
+msgctxt "0062"
+msgid "Ohh, finally cracked a smile, huh?"
+msgstr ""
+
+msgctxt "0063"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "0064"
+msgid "Everyone...thank you."
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"<CLT 4>Looks like Chihiro's gotten some life back.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"<CLT 4>Yeah, man! If we keep helping each other out like\n"
+"this...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"<CLT 4>...we're bound to get outta this crappy place sooner\n"
+"or later!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"<CLT 4>I mean...someday...I'm sure...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"<CLT 4>Still, our biggest concern right now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"<CLT 4>...is the other two, who never showed up to breakfast.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0071"
+msgid ""
+"<CLT 4>What can I do to try and understand those two better?\n"
+"<CLT>"
+msgstr ""

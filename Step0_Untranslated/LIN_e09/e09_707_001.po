@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>砂浜に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the rec room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どこまでも続く青い海、そして白い砂浜。<CLT>
+#. <CLT 04>実に南国らしいロケーションだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of games and stuff to do in here.\n"
+"Almost makes me feel like I'm not at school...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Wanna play Othello?"
+msgstr ""
+
+#. 焼こう！
+msgctxt "0004"
+msgid "Sure, let's play a few rounds!"
+msgstr ""
+
+#. あー…まぁ、それもいいかもな。
+#. 色が黒い方が何かとハクもつくしよ。
+msgctxt "0005"
+msgid ""
+"You might not think so just by looking at me, but I'm\n"
+"actually pretty good at it!"
+msgstr ""
+
+#. …っていうか、このままだと顔と手だけが
+#. 黒くなって、パンダ一直線だからな。
+msgctxt "0006"
+msgid "I used to play a lot with my dad."
+msgstr ""
+
+#. よし、そうと決まればパーっと焼くぞ！
+#. オイルとサングラスだ！
+msgctxt "0007"
+msgid "I was pretty young, but still..."
+msgstr ""
+
+#. <CLT 04>いや、サングラスは…まあいいか。<CLT>
+msgctxt "0008"
+msgid "Let's play some pool."
+msgstr ""
+
+#. 泳ごう！
+msgctxt "0009"
+msgid "Pool...?"
+msgstr ""
+
+#. あー…まぁ、たまにはいいか。
+#. テメーしかいねえ事だし…
+msgctxt "0010"
+msgid ""
+"I've seen people play it in movies and stuff, but I\n"
+"don't really know anything about it myself..."
+msgstr ""
+
+#. …その代わり、オレの足が着くとこまでだぞ。
+msgctxt "0011"
+msgid "Can you teach me how to play...?"
+msgstr ""
+
+#. それ以上、深いとこには
+#. ぜってー行かねえからな！
+msgctxt "0012"
+msgid "Wanna try your hand at the slot machine?"
+msgstr ""
+
+#. 砂の城を作ろう！
+msgctxt "0013"
+msgid ""
+"Sorry... Anything that has to do with gambling is\n"
+"kinda..."
+msgstr ""
+
+#. 砂の城だと…！？
+msgctxt "0014"
+msgid ""
+"Oh, but please don't hold back on my account.\n"
+"I'll just go somewhere else while you play..."
+msgstr ""
+
+#. ばッ、馬鹿かテメー！？
+#. んなガキくせー事、するかよ！
+msgctxt "0015"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ったく、恥ずかしい野郎だな…
+msgctxt "0016"
+msgid "Do you believe in magazine horoscopes?"
+msgstr ""
+
+#. とりあえず脱ごうか
+msgctxt "0017"
+msgid "Hmm... Well..."
+msgstr ""
+
+#. …そりゃ、海に入んなら
+#. 言われなくても脱ぐけどよ。
+msgctxt "0018"
+msgid ""
+"I guess I mostly just believe the good stuff. If\n"
+"there's any bad predictions..."
+msgstr ""
+
+#. ………………
+msgctxt "0019"
+msgid "...I just pretend like I didn't see them."
+msgstr ""
+
+#. 言っとくけど、スミならまだ入れてねーからな！
+msgctxt "0020"
+msgid "I guess that's kinda cheating, huh?"
+msgstr ""
+
+#. <CLT 04>何故そこで照れるんだ…<CLT>
+msgctxt "0021"
+msgid "Kinda boring here, huh...?"
+msgstr ""
+
+#. とりあえず釣ろうか
+msgctxt "0022"
+msgid "Umm..."
+msgstr ""
+
+#. お、そいつはいいな。
+#. 海釣りはガキの頃、連れてってもらった事があるぜ。
+msgctxt "0023"
+msgid "Well, since we're here, do you wanna play something?"
+msgstr ""
+
+#. 釣れた奴をその場で刺身で食うのが
+#. たまんねーんだよな…
+msgctxt "0024"
+msgid "Sorry if I'm boring you..."
+msgstr ""
+
+#. …って、魚捌けんのか？
+#. ちなみにオレは無理だぞ。
+msgctxt "0025"
+msgid ""
+"<CLT 4>Ahh, I made Sayaka get all self-conscious.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>釣れたら後で花村に頼むか…<CLT>
+msgctxt "0026"
+msgid "Wanna try playing darts?"
+msgstr ""
+
+#. とりあえず走ろうか
+msgctxt "0027"
+msgid "Darts? Oh, how wonderful!"
+msgstr ""
+
+#. なぁ…ちょっと冷静に考えてみろ…
+msgctxt "0028"
+msgid "I've always wanted to give it a shot."
+msgstr ""
+
+#. 男２人で砂浜を走り回って
+#. 何が楽しいんだ…？
+msgctxt "0029"
+msgid ""
+"It always seemed like such an adults-only game. I was\n"
+"always intrigued by it."
+msgstr ""
+
+#. スイカを割ろう
+msgctxt "0030"
+msgid "Makoto, can you teach me how to play?"
+msgstr ""
+
+#. スイカ割りか…
+#. ガキの頃を思い出すぜ…
+msgctxt "0031"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. まぁウチの一家の事だから
+#. 当たり前のように長ドスでだけどな…
+msgctxt "0032"
+msgid "There are some music magazines here..."
+msgstr ""
+
+#. 終わった後は、砂浜がとにかく真っ赤でよ…
+msgctxt "0033"
+msgid "Yeah, you're right."
+msgstr ""
+
+#. ………………
+msgctxt "0034"
+msgid ""
+"...Huh? It looks like these are all kind of out of\n"
+"date..."
+msgstr ""
+
+#. よ、よし、このトラウマを乗り越えるためにも
+#. フツーのスイカ割りしようぜ！
+msgctxt "0035"
+msgid ""
+"Still, it's nice to be able to see and touch some\n"
+"small piece of the outside world."
+msgstr ""
+
+#. 椰子の実を落とそう
+msgctxt "0036"
+msgid "I really hope we get out of here soon..."
+msgstr ""
+
+#. 別にいいけどよ…
+#. アレ、あんまり美味くねーぞ？
+msgctxt "0037"
+msgid "I'm not sure about any of these games..."
+msgstr ""
+
+#. ウチのお袋が好きで、
+#. 家に年中、転がってたからよ。
+msgctxt "0038"
+msgid "Really?"
+msgstr ""
+
+#. ちなみに、あれを素手で割れねえと
+#. 九頭龍では男と認められねーからな…
+msgctxt "0039"
+msgid ""
+"Even if you don't know the rules, or you're just tired\n"
+"of playing..."
+msgstr ""
+
+#. オレはその…まだ修行中だ！！
+msgctxt "0040"
+msgid ""
+"I think if you put your mind to it, you can find your\n"
+"own way to have all kinds of fun...!"
+msgstr ""
+
+#. 貝殻を拾おう
+msgctxt "0041"
+msgid "What's the point of these bottles?"
+msgstr ""
+
+#. ………………
+msgctxt "0042"
+msgid "Hmm... Maybe they're just here to be admired?"
+msgstr ""
+
+#. んなもん、拾ってどうすんだ？
+msgctxt "0043"
+msgid "Or do they have some actual kind of use...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"Either way, they're really intricate. Who the heck\n"
+"could have made these?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"If it was Monokuma, he's more talented than I would\n"
+"have thought."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"What if that's his hobby, making these bottles?\n"
+"Wouldn't that be something!?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

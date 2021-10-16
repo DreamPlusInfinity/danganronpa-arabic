@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "Taka and Kyoko are not here today..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Kyoko's still on guard duty, probably."
+msgstr ""
+
+msgctxt "0003"
+msgid "I have no idea about Taka..."
+msgstr ""
+
+msgctxt "0004"
+msgid "May as well just forget about that guy!"
+msgstr ""
+
+msgctxt "0005"
+msgid "You don't have to get so mad..."
+msgstr ""
+
+msgctxt "0006"
+msgid "They're rivals in love. What're ya gonna do...?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Don't put me on the same level as that...that...\n"
+"virgin! I might catch his virginity!"
+msgstr ""
+
+msgctxt "0008"
+msgid "Nah, my guess is you're already infected..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Wait, can you really catch it!?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Stop being vulgar. Let's eat breakfast."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>But as soon as my hands approached my food...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "...Kyeehaha!"
+msgstr ""
+
+msgctxt "0013"
+msgid "Huh? That voice..."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"<CLT 4>The doors to the dining hall exploded open, and a\n"
+"figure appeared...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "Kyeeehahaha!"
+msgstr ""
+
+msgctxt "0016"
+msgid "So it's you, Genocide Jack. And..."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Don't bother asking why we arrived at the same time.\n"
+"The answer should be obvious."
+msgstr ""
+
+msgctxt "0018"
+msgid "I'll give you a hint..."
+msgstr ""
+
+msgctxt "0019"
+msgid "I'm wearing red lingerie today!"
+msgstr ""
+
+msgctxt "0020"
+msgid "Umm...I don't think anyone wanted to know..."
+msgstr ""
+
+msgctxt "0021"
+msgid "Hold on a second! You...!"
+msgstr ""
+
+msgctxt "0022"
+msgid "H-Huh...!?"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"What's your top power level, like 35-22-33!? You start\n"
+"out big on top to try and look thinner down south!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"Look at your melons! They're seriously gargantuan! Do\n"
+"you dunk 'em in milk every night or something!?"
+msgstr ""
+
+msgctxt "0025"
+msgid "Y-You're starting to freak me out...!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"If you lay a finger on Hina...I will show you no\n"
+"mercy!"
+msgstr ""
+
+msgctxt "0027"
+msgid "So? What do you want?"
+msgstr ""
+
+msgctxt "0028"
+msgid "Surely you are not here to join us for breakfast."
+msgstr ""
+
+msgctxt "0029"
+msgid "Of course not. I came to hear a story."
+msgstr ""
+
+msgctxt "0030"
+msgid "A story...?"
+msgstr ""
+
+msgctxt "0031"
+msgid "A story that nobody's bothered to tell me yet."
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"<CLT 4>Are you talking about...Alter Ego?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0033"
+msgid "Sorry, but we can't talk about that right now."
+msgstr ""
+
+msgctxt "0034"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "0035"
+msgid "Because of certain...circumstances."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"Up till now you haven't given a crap about anything,\n"
+"and *now* you're all concerned? I don't buy it."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"I've just made a decision. When we get out of here,\n"
+"I'm going to feed your body to the vultures."
+msgstr ""
+
+msgctxt "0038"
+msgid "What kind of messed up dictator are you!?"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"But isn't this a democracy? Or would you exclude those\n"
+"who don't fit into your tyrannical majority?"
+msgstr ""
+
+msgctxt "0040"
+msgid "Th-That's not what we're doing..."
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"Well, whatever. If nothing else, tell me what's going\n"
+"on with Taka."
+msgstr ""
+
+msgctxt "0042"
+msgid ""
+"When I saw him yesterday, I happened to notice\n"
+"something seemed...off. So I was curious."
+msgstr ""
+
+msgctxt "0043"
+msgid "Taka has become utterly useless."
+msgstr ""
+
+msgctxt "0044"
+msgid "Celeste! You don't have to say it like that!"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"Did his spirit collapse or something? Was he unable to\n"
+"withstand this environment?"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"Those men who clothe themselves in the cheap fabric of\n"
+"justice are often the first to fall..."
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"But perhaps that will make things all the more\n"
+"interesting..."
+msgstr ""
+
+msgctxt "0048"
+msgid "Interesting...?"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"Let me leave you with a bit of advice. Don't come to\n"
+"rely on false camaraderie..."
+msgstr ""
+
+msgctxt "0050"
+msgid "...or you'll reap its bitter reward."
+msgstr ""
+
+msgctxt "0051"
+msgid "That's why you came? To give us that amazing \"advice\"?"
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"It seems I am unwelcome here. Then I will grant your\n"
+"desire and remove myself..."
+msgstr ""
+
+msgctxt "0053"
+msgid "Yeah, let's get outta here!"
+msgstr ""
+
+msgctxt "0054"
+msgid "...You don't need to come with me."
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"You don't have to play hard to get, Master! You can\n"
+"just play hard!"
+msgstr ""
+
+msgctxt "0056"
+msgid "That doesn't make any sense..."
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT 4>Byakuya started to slowly back out of the room...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"<CLT 4>He started picking up speed, and soon he was sprinting\n"
+"out of the dining hall.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0059"
+msgid "He ran away...?"
+msgstr ""
+
+msgctxt "0060"
+msgid "So now he's *running* hard to get... I see!"
+msgstr ""
+
+msgctxt "0061"
+msgid "Wait wait wait wait! Gyaaahahahaha!"
+msgstr ""
+
+msgctxt "0062"
+msgid "S-So at the end there..."
+msgstr ""
+
+msgctxt "0063"
+msgid "What was that all about?"
+msgstr ""
+
+msgctxt "0064"
+msgid "Just now, Byakuya was like..."
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"Maybe he's like the mean guy who starts acting\n"
+"different or getting all flustered when things change!"
+msgstr ""
+
+msgctxt "0066"
+msgid "...Guess so."
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"<CLT 4>Those of us left in the dining hall finished our\n"
+"breakfast, then went back to our rooms.\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "When the fighting broke out..."
+msgstr ""
+
+msgctxt "0002"
+msgid "...the culprit grabbed the sword."
+msgstr ""
+
+msgctxt "0003"
+msgid "And that's when the first blow was dealt!"
+msgstr ""
+
+msgctxt "0004"
+msgid "A <CLT 9>sword-based sneak attack<CLT>!"
+msgstr ""
+
+msgctxt "0005"
+msgid "And that's what broke Miss Maizono's wrist...!"
+msgstr ""
+
+msgctxt "0006"
+msgid "S-So she tried to fight back."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"She grabbed the <CLT 9>k-kitchen knife\n"
+"she had hidden a-away<CLT>..."
+msgstr ""
+
+msgctxt "0008"
+msgid "But then the culprit took *that* from her, too..."
+msgstr ""
+
+msgctxt "0009"
+msgid "And they killed her with it."
+msgstr ""
+
+msgctxt "0010"
+msgid "And that's exactly what happened!"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>A sneak attack!?<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>I don't think that's right...<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>The first blow...?<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>Guess you can't judge a book by its cover...<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>The killer is really one of us...?<CLT>"
+msgstr ""
+
+msgctxt "0016"
+msgid "<CLT 26>Hrmm... If that's true...<CLT>"
+msgstr ""

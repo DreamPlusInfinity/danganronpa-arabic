@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0004"
+msgid "Ah, me too. I love listening to the sounds of nature."
+msgstr ""
+
+#. そうだねー。
+#. ここに突っ立ってても疲れるだけだし。
+msgctxt "0005"
+msgid ""
+"The whisper of the wind, the murmuring of the river,\n"
+"the sigh of the treetops..."
+msgstr ""
+
+#. 向こうの木陰に行こ！
+#. 蟻タンたくさんいるかなー。
+msgctxt "0006"
+msgid ""
+"The call of the insects of the four seasons, the faint\n"
+"footsteps of all the animals..."
+msgstr ""
+
+#. 花壇もあるから蝶々もいそうだし、
+#. たくさん遊べるね！
+msgctxt "0007"
+msgid ""
+"Those sounds have helped calm my untamed heart so many\n"
+"times during my training..."
+msgstr ""
+
+#. <CLT 04>どういう遊びかは聞かないでおこう…<CLT>
+msgctxt "0008"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0009"
+msgid "No... I have no knowledge of musical instruments."
+msgstr ""
+
+#. うん、いいよー。
+msgctxt "0010"
+msgid ""
+"Pastimes and hobbies in general are not part of my\n"
+"daily life."
+msgstr ""
+
+#. ぶらぶらしながら、
+#. 玩具になりそうなの探そうよ。
+msgctxt "0011"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. 蟻タンとか蝶々とか…あと罪木とか。
+msgctxt "0012"
+msgid ""
+"Frankly, I have no understanding of that part of\n"
+"culture."
+msgstr ""
+
+#. <CLT 04>それはちょっとどうかと思うぞ…<CLT>
+msgctxt "0013"
+msgid ""
+"Music's just something you listen to in order to quiet\n"
+"the mind, right...?"
+msgstr ""
+
+#. いい景色だな
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. えー、そうかなぁ？
+#. おにぃ、目が悪いんじゃない？
+msgctxt "0015"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. どう見てもあの変な像のせいで
+#. 景観台無しだと思うんだけど。
+msgctxt "0016"
+msgid "Karaoke...?"
+msgstr ""
+
+#. アリでも探すか
+msgctxt "0017"
+msgid ""
+"If I recall, that's where you and your friends get\n"
+"together in a small room and sing, yes?"
+msgstr ""
+
+#. わーい！
+#. この辺だと、きっとたくさんいるよね！
+msgctxt "0018"
+msgid ""
+"They say it helps you relieve stress, but I can't even\n"
+"pretend to begin to comprehend it."
+msgstr ""
+
+#. …でもおにぃって蟻タン潰すの
+#. 好きだったっけ？
+msgctxt "0019"
+msgid "Isn't it better to just set your body into motion?"
+msgstr ""
+
+#. まぁ今日の所は巣穴に水を流し込むだけで
+#. 我慢してあげてもいいけどね。
+msgctxt "0020"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. ほらほら、早く探しに行こー！
+msgctxt "0021"
+msgid "I certainly find it interesting."
+msgstr ""
+
+#. 綺麗な花壇だな
+msgctxt "0022"
+msgid "Her voice seems to draw in so many people."
+msgstr ""
+
+#. たくさん咲いてるよねー！
+#. お花、大好きだから嬉しいな！
+msgctxt "0023"
+msgid ""
+"And she doesn't ever show the immense effort she puts\n"
+"into appearing calm and collected."
+msgstr ""
+
+#. これだけあれば当分もちそうだし、
+#. 遠慮なく遊べるね。
+msgctxt "0024"
+msgid "Do you know how to dance?"
+msgstr ""
+
+#. ほらー、おにぃも一緒に踏み荒らそうよ！
+#. 花を散らすのは男のロマンでしょ？
+msgctxt "0025"
+msgid ""
+"My martial arts serve me only in battle. The elegance\n"
+"you mention is unrelated..."
+msgstr ""
+
+#. <CLT 04>色々違うと思うぞ…<CLT>
+msgctxt "0026"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 変な像だな
+msgctxt "0027"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. うん、ほんとヘンだよねー。
+#. なんでこんなの作ったのかな？
+msgctxt "0028"
+msgid "I...would prefer to refrain."
+msgstr ""
+
+#. 悪趣味だし、意味不明だし、
+#. 全然可愛くないし…存在価値ゼロだよね。
+msgctxt "0029"
+msgid "I don't think my singing ability is up to it..."
+msgstr ""
+
+#. 目障りだから消えてくんないかなー。
+msgctxt "0030"
+msgid "..."
+msgstr "..."
+
+#. あの像でも磨くか…
+msgctxt "0031"
+msgid "Sorry, Makoto. Please don't misunderstand..."
+msgstr ""
+
+#. うわぁ…なにそれ。
+#. お掃除系男子とかいう奴？
+msgctxt "0032"
+msgid "That you would even ask someone like me..."
+msgstr ""
+
+#. おにぃにそんな性癖があったなんて
+#. びっくりだよ！
+msgctxt "0033"
+msgid ""
+"Just to be treated as a fellow classmate lifts my\n"
+"spirits."
+msgstr ""
+
+#. じゃあ磨き甲斐があるように
+#. たくさん落書きしといてあげるねー。
+msgctxt "0034"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. <CLT 04>冗談で済まなくなってきたな…<CLT>
+msgctxt "0035"
+msgid ""
+"An object's true value can't be converted into\n"
+"currency. What matters is the owner's heart..."
+msgstr ""
+
+#. あの像でも壊すか…
+msgctxt "0036"
+msgid ""
+"If you leave a tool laying on the ground unused, then\n"
+"that tool has no value."
+msgstr ""
+
+#. わたしも一緒にやるー！
+#. 最初に見たときから目障りだったんだよね。
+msgctxt "0037"
+msgid "I prefer modern music..."
+msgstr ""
+
+#. そうだ、代わりにもっと可愛いの作ろうよ。
+#. うさぎさんがいいな！
+msgctxt "0038"
+msgid "I imagine you have a favorite artist you miss..."
+msgstr ""
+
+#. …でもあれを壊せる道具ってあるかなぁ？
+msgctxt "0039"
+msgid ""
+"I don't know too much about so-called \"popular music.\"\n"
+"My father did teach me to appreciate enka, though..."
+msgstr ""
+
+#. ま、もしなかったら、
+#. 体育会系にやらせればいっか。
+msgctxt "0040"
+msgid ""
+"But I *would* like to learn about whatever music\n"
+"you're interested in. Could you teach me...?"
+msgstr ""
+
+#. <CLT 04>相変わらず外道だな…<CLT>
+msgctxt "0041"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

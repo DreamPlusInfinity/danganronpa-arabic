@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "凶器って、きっと…"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 9>葉隠君のお腹<CLT>に\n"
+"刺さっていた刃物ですよね？"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"間違いない！\n"
+"あれが<CLT 9>凶器だ！<CLT>"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"犯人が、<CLT 9>ナイフで<CLT>\n"
+"ぶっ刺しやがったんだな。"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"クソがぁ…\n"
+"エゲツねぇ事しやがる…！"
+msgstr ""
+
+msgctxt "0006"
+msgid "<CLT 26>そうだね…<CLT>"
+msgstr ""
+
+msgctxt "0007"
+msgid "<CLT 26>腹だったっけ…？<CLT>"
+msgstr ""
+
+msgctxt "0008"
+msgid "<CLT 26>それ以外ないわ…<CLT>"
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT 26>当たり前でしょ<CLT>"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>ん？　ナイフ…？<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>卑劣な…<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>そうじゃねーよ<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>ひ、ひどい…<CLT>"
+msgstr ""

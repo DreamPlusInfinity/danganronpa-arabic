@@ -1,0 +1,839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"It's basically a formality at this point, but once\n"
+"again you're totally correct!"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"The blackened this time...the true killer who devised\n"
+"the whole stinkin' scheme, was..."
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"Celestia Ludenberg! Or more precisely...Taeko\n"
+"Yasuhiroooo!"
+msgstr ""
+
+msgctxt "0004"
+msgid "I lost... Well, that sucks."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"I guess trying to work with someone else was a\n"
+"mistake, after all."
+msgstr ""
+
+msgctxt "0006"
+msgid "Hifumi's ineptitude was beyond all my calculations."
+msgstr ""
+
+msgctxt "0007"
+msgid "So you really did approach Hifumi with this plan?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"But how did you get him to agree? I can't imagine he\n"
+"would have happily agreed to commit murder."
+msgstr ""
+
+msgctxt "0009"
+msgid "I'm sure she relied on her specialty—lying."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"My specialty? Don't make me laugh. I didn't have to\n"
+"lie to get him to agree."
+msgstr ""
+
+msgctxt "0011"
+msgid "Then did you use...you know...?"
+msgstr ""
+
+msgctxt "0012"
+msgid "I knew you'd figure it out, Kyoko."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"You're absolutely right. To get Hifumi to act as my\n"
+"accomplice..."
+msgstr ""
+
+msgctxt "0014"
+msgid "...I used \"<CLT 3>her<CLT>\"."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"For everyone who's still left, I'll avoid mentioning\n"
+"it by name, but..."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"...it was the one thing Hifumi and Taka were both\n"
+"super into."
+msgstr ""
+
+msgctxt "0017"
+msgid "Does she mean...?"
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"<CLT 4>Is she talking about...Alter Ego?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0019"
+msgid "What? What what what!? What are you talking about!?"
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"Don't interrupt. We're in the middle of a very\n"
+"important conversation here."
+msgstr ""
+
+msgctxt "0021"
+msgid "I'm totally out of the loop, as usual. How sad..."
+msgstr ""
+
+msgctxt "0022"
+msgid "Then you're the one that stole it?"
+msgstr ""
+
+msgctxt "0023"
+msgid "That's right."
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"And you used it to drag Hifumi into the plan you'd\n"
+"come up with."
+msgstr ""
+
+msgctxt "0025"
+msgid "Right again."
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"Last night, after we had our meeting about how it'd\n"
+"disappeared, I paid Hifumi a little visit."
+msgstr ""
+
+msgctxt "0027"
+msgid "Oh, um...what are you doing here?"
+msgstr ""
+
+msgctxt "0028"
+msgid "I was hoping I could talk to you. Alone."
+msgstr ""
+
+msgctxt "0029"
+msgid "It is about what was stolen. I know who did it..."
+msgstr ""
+
+msgctxt "0030"
+msgid "What...?"
+msgstr ""
+
+msgctxt "0031"
+msgid "It was Taka. He stole it."
+msgstr ""
+
+msgctxt "0032"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0033"
+msgid "And I have proof. Would you like to see it?"
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"<CLT 4>As it turned out, I'd found a use for the digital\n"
+"camera.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"<CLT 4>I'd taken you-know-what to Taka's room earlier and\n"
+"took pictures of it there.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"<CLT 4>I deleted the picture as soon as I'd shown it to\n"
+"Hifumi, of course.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0037"
+msgid "Grrn... So it WAS him!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"But how did he do it!? She was supposed to yell if\n"
+"either of us got close to her!"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"You are correct. Which is why Taka forced me to steal\n"
+"it."
+msgstr ""
+
+msgctxt "0040"
+msgid "Whaaaaaat!?"
+msgstr ""
+
+msgctxt "0041"
+msgid "Please forgive me. He...he threatened me."
+msgstr ""
+
+msgctxt "0042"
+msgid "H-He did...?"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"He came to my room last night unannounced, and then...\n"
+"It's hard for me to even say..."
+msgstr ""
+
+msgctxt "0044"
+msgid "He...abused me..."
+msgstr ""
+
+msgctxt "0045"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0046"
+msgid ""
+"And he...he took pictures. He said if I did not do as\n"
+"he asked, he would show them to everyone..."
+msgstr ""
+
+msgctxt "0047"
+msgid "So I...I had no choice..."
+msgstr ""
+
+msgctxt "0048"
+msgid "Th-That's a crime! An absolute crime!"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"He...! I mean, I knew he'd gone a little crazy,\n"
+"but...!"
+msgstr ""
+
+msgctxt "0050"
+msgid "I never imagined he would...would go that far!"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"It was amazing how completely he bought it. Hmhm... I\n"
+"can't express how enjoyable that was."
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"I'm about to say something I've never said before in\n"
+"my life..."
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"I'm going to kill him! I'm going to f...f...f-fucking\n"
+"kill him!"
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"Wait, please! If you go now, you will be playing right\n"
+"into his hands!"
+msgstr ""
+
+msgctxt "0055"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0056"
+msgid "Taka is planning to use her...to escape."
+msgstr ""
+
+msgctxt "0057"
+msgid "And he has made *you* his target..."
+msgstr ""
+
+msgctxt "0058"
+msgid "Escape? You don't mean...?"
+msgstr ""
+
+msgctxt "0059"
+msgid "Taka is going to try to kill you."
+msgstr ""
+
+msgctxt "0060"
+msgid "Wh-Whaaaaaaaaaaaaaat!?"
+msgstr ""
+
+msgctxt "0061"
+msgid "And all so he can keep her to himself..."
+msgstr ""
+
+msgctxt "0062"
+msgid "Th-That bastard!"
+msgstr ""
+
+msgctxt "0063"
+msgid "Bastard bastard bastard BASTARD!"
+msgstr ""
+
+msgctxt "0064"
+msgid "Can we allow him continue with these barbaric acts?"
+msgstr ""
+
+msgctxt "0065"
+msgid "Absolutely not! How could I!?"
+msgstr ""
+
+msgctxt "0066"
+msgid "She...she..."
+msgstr ""
+
+msgctxt "0067"
+msgid "I have to save heeeeeeerr!!!"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"Then...would you like to join with me? It just so\n"
+"happens, I have come up with a plan..."
+msgstr ""
+
+msgctxt "0069"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"I have devised a way to reclaim what he has stolen,\n"
+"and escape this dreadful school."
+msgstr ""
+
+msgctxt "0071"
+msgid "Hmhm... Hehehehe..."
+msgstr ""
+
+msgctxt "0072"
+msgid "And with that, it is complete..."
+msgstr ""
+
+msgctxt "0073"
+msgid "Huh? What are you talking about?"
+msgstr ""
+
+msgctxt "0074"
+msgid "Oh, nothing..."
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"Hifumi agreed without a second thought. Hmhm. The\n"
+"effect that item had on him was...remarkable."
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"The power of love... Even a love as twisted as that\n"
+"can still drive people mad, it would seem."
+msgstr ""
+
+msgctxt "0077"
+msgid "You disgust me..."
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"I have another question for you. Was that strange\n"
+"costume Hifumi's creation?"
+msgstr ""
+
+msgctxt "0079"
+msgid "Yeah. It was a real pain in the butt, too."
+msgstr ""
+
+msgctxt "0080"
+msgid ""
+"All I asked him to do was make something to hide the\n"
+"face and general body size."
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"I had no idea he'd make something like...that. But\n"
+"it's my fault for picking him in the first place."
+msgstr ""
+
+msgctxt "0082"
+msgid "So...why'd you decide to make me the suspect?"
+msgstr ""
+
+msgctxt "0083"
+msgid "Because you're stupid."
+msgstr ""
+
+msgctxt "0084"
+msgid "That's it!?"
+msgstr ""
+
+msgctxt "0085"
+msgid ""
+"And in that regard, I made the right choice. I'm so\n"
+"glad your stupidity surpassed my every expectation."
+msgstr ""
+
+msgctxt "0086"
+msgid "Life must have been tough on your parents, though."
+msgstr ""
+
+msgctxt "0087"
+msgid "I feel like I could cry..."
+msgstr ""
+
+msgctxt "0088"
+msgid ""
+"But when you were explaining your plan to Hifumi, how\n"
+"did you explain the part about him playing dead?"
+msgstr ""
+
+msgctxt "0089"
+msgid ""
+"What she's asking is, what was Hifumi supposed to do\n"
+"after that, assuming you had actually let him live?"
+msgstr ""
+
+msgctxt "0090"
+msgid "That's simple."
+msgstr ""
+
+msgctxt "0091"
+msgid ""
+"After he did his part and pretended to be dead, once\n"
+"someone showed up..."
+msgstr ""
+
+msgctxt "0092"
+msgid ""
+"...I told him to say he'd been seriously wounded, he\n"
+"was on the verge of death, but he just barely held on."
+msgstr ""
+
+msgctxt "0093"
+msgid "And he really believed that?"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"Well of course, that wasn't all there was to it. As I\n"
+"explained it to Hifumi, the plan was..."
+msgstr ""
+
+msgctxt "0095"
+msgid ""
+"While you were all questioning him about what had\n"
+"happened to him, I was going to murder someone else."
+msgstr ""
+
+msgctxt "0096"
+msgid ""
+"At that point, Hifumi would have an alibi, so nobody\n"
+"could doubt him. I told him that, and he believed it."
+msgstr ""
+
+msgctxt "0097"
+msgid "It all seems very...straightforward. Stereotypical."
+msgstr ""
+
+msgctxt "0098"
+msgid ""
+"I just matched the lie to the level of the opponent.\n"
+"In fact, Hifumi ate it up."
+msgstr ""
+
+msgctxt "0099"
+msgid ""
+"He believed the lie wholeheartedly, right up until the\n"
+"moment of his death."
+msgstr ""
+
+msgctxt "0100"
+msgid "So you had planned to kill him all along!"
+msgstr ""
+
+msgctxt "0101"
+msgid "...But of course."
+msgstr ""
+
+msgctxt "0102"
+msgid ""
+"There would have been no point to my plan if the one\n"
+"who pretended to be dead did not end up dead himself."
+msgstr ""
+
+msgctxt "0103"
+msgid "How can human life mean so little to you...?"
+msgstr ""
+
+msgctxt "0104"
+msgid ""
+"That's a non-issue. I simply did everything in my\n"
+"power to win."
+msgstr ""
+
+msgctxt "0105"
+msgid "Now you sound like Byakuya!"
+msgstr ""
+
+msgctxt "0106"
+msgid ""
+"No, he derives his pleasure from the thrill of the\n"
+"hunt. In that aspect, we are nothing alike."
+msgstr ""
+
+msgctxt "0107"
+msgid "Then...what made you take things this far?"
+msgstr ""
+
+msgctxt "0108"
+msgid "Was it really...just for money?"
+msgstr ""
+
+msgctxt "0109"
+msgid ""
+"Are you talking about the ten million dollars Monokuma\n"
+"offered us? That *is* a lot of money, it's true."
+msgstr ""
+
+msgctxt "0110"
+msgid "But that's not all there is to it."
+msgstr ""
+
+msgctxt "0111"
+msgid ""
+"From the moment our new life here began, my only\n"
+"thought has been escape."
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"B-But...all along you've been saying how we have to\n"
+"accept living here!"
+msgstr ""
+
+msgctxt "0113"
+msgid "Obviously that was a lie!"
+msgstr ""
+
+msgctxt "0114"
+msgid "Hyah!"
+msgstr ""
+
+msgctxt "0115"
+msgid "I couldn't take it! I hated it from day one!"
+msgstr ""
+
+msgctxt "0116"
+msgid "More than anyone anyone ANYONE else in here!"
+msgstr ""
+
+msgctxt "0117"
+msgid "I wanted to get out! Every day was fresh torture!"
+msgstr ""
+
+msgctxt "0118"
+msgid "And do you wanna know why? HUH!?"
+msgstr ""
+
+msgctxt "0119"
+msgid "Because...I had a dream."
+msgstr ""
+
+msgctxt "0120"
+msgid ""
+"And accepting a life here would have meant nothing\n"
+"less than giving up on my dream forever..."
+msgstr ""
+
+msgctxt "0121"
+msgid "And there was no way...that I could ever do that."
+msgstr ""
+
+msgctxt "0122"
+msgid ""
+"In the underground world of gambling, I risked my life\n"
+"to make a metaphorical killing."
+msgstr ""
+
+msgctxt "0123"
+msgid "And it was all for that dream..."
+msgstr ""
+
+msgctxt "0124"
+msgid "And what was this dream of yours...?"
+msgstr ""
+
+msgctxt "0125"
+msgid "To live in a European castle."
+msgstr ""
+
+msgctxt "0126"
+msgid "A c-castle!?"
+msgstr ""
+
+msgctxt "0127"
+msgid ""
+"And to gather handsome men from all over the world to\n"
+"serve as my butlers-slash-bodyguards."
+msgstr ""
+
+msgctxt "0128"
+msgid ""
+"I was going to make them dress up like vampires and\n"
+"satisfy my every need."
+msgstr ""
+
+msgctxt "0129"
+msgid ""
+"Once I obtained that, I would have created a perfectly\n"
+"aesthetic world of decadence..."
+msgstr ""
+
+msgctxt "0130"
+msgid ""
+"Living the rest of my life there was my only dream, my\n"
+"only goal..."
+msgstr ""
+
+msgctxt "0131"
+msgid "That's what life is all ABOUT!"
+msgstr ""
+
+msgctxt "0132"
+msgid ""
+"Combined with my own winnings, Monokuma's ten million\n"
+"dollars would have made that dream a reality."
+msgstr ""
+
+msgctxt "0133"
+msgid "I got right to the edge, but..."
+msgstr ""
+
+msgctxt "0134"
+msgid ""
+"Unfortunately, my dream has been scattered to the\n"
+"wind."
+msgstr ""
+
+msgctxt "0135"
+msgid ""
+"Still, I don't have any regrets. I pursued my dream\n"
+"till the very end, so why would I?"
+msgstr ""
+
+msgctxt "0136"
+msgid ""
+"You sound so passionate, but...you were really able to\n"
+"kill your own friends for it?"
+msgstr ""
+
+msgctxt "0137"
+msgid ""
+"Are you asking me to feel guilty? That's a pointless\n"
+"endeavor."
+msgstr ""
+
+msgctxt "0138"
+msgid ""
+"I think nothing of sacrificing others for my own ends.\n"
+"I feel nothing."
+msgstr ""
+
+msgctxt "0139"
+msgid ""
+"That's all there is to me. That's what makes\n"
+"me...complete."
+msgstr ""
+
+msgctxt "0140"
+msgid ""
+"Hmhm. Isn't it terrifying how different our values\n"
+"are? There's simply no room for understanding."
+msgstr ""
+
+msgctxt "0141"
+msgid "Th-That's what *we* should be saying. And plus..."
+msgstr ""
+
+msgctxt "0142"
+msgid "How can you be so calm?"
+msgstr ""
+
+msgctxt "0143"
+msgid "Don't you realize you're about to die?"
+msgstr ""
+
+msgctxt "0144"
+msgid "Why aren't you scared...?"
+msgstr ""
+
+msgctxt "0145"
+msgid ""
+"Hmph. My ability to lie is unrivaled, and I take pride\n"
+"in that."
+msgstr ""
+
+msgctxt "0146"
+msgid ""
+"It's not just other people—I can even fool my own\n"
+"emotions. The conscious deceives the unconscious."
+msgstr ""
+
+msgctxt "0147"
+msgid "And that's why you're not scared?"
+msgstr ""
+
+msgctxt "0148"
+msgid ""
+"That's right. I don't fear death. Kill me however you\n"
+"like."
+msgstr ""
+
+msgctxt "0149"
+msgid "But you know, if I could be reincarnated..."
+msgstr ""
+
+msgctxt "0150"
+msgid "If I had a choice, then..."
+msgstr ""
+
+msgctxt "0151"
+msgid ""
+"...I think I would like to come back as Marie\n"
+"Antoinette."
+msgstr ""
+
+msgctxt "0152"
+msgid "You'd just get executed again..."
+msgstr ""
+
+msgctxt "0153"
+msgid "Hmhm. Hehe...hehehe."
+msgstr ""
+
+msgctxt "0154"
+msgid ""
+"<CLT 4>Celeste smiled then...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0155"
+msgid ""
+"<CLT 4>And when she did, it looked to me like a poor effort\n"
+"to force it.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0156"
+msgid ""
+"<CLT 4>She claimed she could fool her own feelings.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0157"
+msgid ""
+"<CLT 4>But that statement itself...must have been her final\n"
+"lie.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0158"
+msgid ""
+"<CLT 4>And that weak, fake smile...is what betrayed her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0159"
+msgid ""
+"You all done? Okay, then let's get rollin'! The\n"
+"blackened disturbed the peace, and must pay the price!"
+msgstr ""
+
+msgctxt "0160"
+msgid ""
+"Now then, I've prepared a very special punishment\n"
+"for...her! The Ultimate Gambler!"
+msgstr ""
+
+msgctxt "0161"
+msgid ""
+"Let's give it everything we've got! It's...PUNISHMENT\n"
+"TIIIME!"
+msgstr ""
+
+msgctxt "0162"
+msgid "I guess I'll let Kyoko hold on to this."
+msgstr ""
+
+msgctxt "0163"
+msgid "This is...!"
+msgstr ""
+
+msgctxt "0164"
+msgid ""
+"Will it really give you the hope you're looking for? I\n"
+"can't say I ever saw it that way..."
+msgstr ""
+
+msgctxt "0165"
+msgid "Which is why..."
+msgstr ""
+
+msgctxt "0166"
+msgid "Actually, it's not important."
+msgstr ""
+
+msgctxt "0167"
+msgid "Well then...take care, everyone."
+msgstr ""
+
+msgctxt "0168"
+msgid "Perhaps we'll meet again, in another life."
+msgstr ""

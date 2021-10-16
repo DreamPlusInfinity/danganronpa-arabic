@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I'm a big fan of music."
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0004"
+msgid "Seriously!? You're into music, too!?"
+msgstr ""
+
+#. あー、別にいいけどよ…
+msgctxt "0005"
+msgid "Hey, you wanna be in my band?"
+msgstr ""
+
+#. オメーとオレと…
+#. ２人で並んで座ってお話ってか…？
+msgctxt "0006"
+msgid ""
+"But you can't be the singer! The singer's always the\n"
+"famous one, and that's gonna be ME!"
+msgstr ""
+
+#. …まぁ別にいいんだけどよ…
+msgctxt "0007"
+msgid ""
+"Not that I have anything to worry about. You totally\n"
+"don't have that singer swagger."
+msgstr ""
+
+#. いい景色だな
+msgctxt "0008"
+msgid "Can you play any instruments?"
+msgstr ""
+
+#. おー、海から吹いてくる風が気持ちいいし
+#. なんかのんびりするよなー。
+msgctxt "0009"
+msgid "What!? Are you trying to be funny!?"
+msgstr ""
+
+#. ………………
+msgctxt "0010"
+msgid "I'm the singer! I'm in charge of the *image*, man!"
+msgstr ""
+
+#. つっても、ここじゃ昼寝くらいしか
+#. やることなくねーか…？
+msgctxt "0011"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. <CLT 04>確かにそうだよな…<CLT>
+msgctxt "0012"
+msgid "Huh? You're into that kinda stuff too?"
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0013"
+msgid "We should go together sometime!"
+msgstr ""
+
+#. 公園をブラブラ散歩って…
+#. 枯れきったジジイかよ！
+msgctxt "0014"
+msgid ""
+"Although...I have a feeling our tastes probably don't\n"
+"really match up."
+msgstr ""
+
+#. せっかく南の島なんだからよ、
+#. もっとそれっぽいとこ行こうぜ…
+msgctxt "0015"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 海とか…あと他にも…海とかよぉ…
+msgctxt "0016"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. あの像、気になるな…
+msgctxt "0017"
+msgid "Karaoke? Here?"
+msgstr ""
+
+#. あー、あれな。
+#. けっこうデケーよな。
+msgctxt "0018"
+msgid ""
+"Just thinking about it kinda pisses me off. I don't\n"
+"think I'd be able to have any fun at all..."
+msgstr ""
+
+#. ………………
+msgctxt "0019"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. どんくらいの馬力のエンジン組めば
+#. いい感じに動かせっかな…
+msgctxt "0020"
+msgid ""
+"For real! She's awesome, right? You think she'd sing\n"
+"for me!?"
+msgstr ""
+
+#. な、なぁ、ちょっと近くまで行って
+#. よく見てみてもいいか？
+msgctxt "0021"
+msgid ""
+"I know! I should ask her if she wants to start a band\n"
+"with me!"
+msgstr ""
+
+#. <CLT 04>目が本気だぞ…<CLT>
+msgctxt "0022"
+msgid ""
+"I mean, it'll be fine, right? Cuz I'm the superstar,\n"
+"and I'm the one inviting *her*."
+msgstr ""
+
+#. 昼寝に良さそうだ
+msgctxt "0023"
+msgid "Oh man...I'm startin' to get super excited!"
+msgstr ""
+
+#. あー、そうだな…
+msgctxt "0024"
+msgid "What's your favorite kind of music?"
+msgstr ""
+
+#. あの辺の木陰とか、
+#. いかにも昼寝用って感じだし…
+msgctxt "0025"
+msgid "What!? Can't you tell?"
+msgstr ""
+
+#. …やべー、マジで眠くなってきた。
+msgctxt "0026"
+msgid "It should be totally obvious! Punk, no question!"
+msgstr ""
+
+#. もういいよ、今日は昼寝で。
+#. これもう、昼寝会にしよーぜ。
+msgctxt "0027"
+msgid "Anime theme songs are pretty popular, but no way!"
+msgstr ""
+
+#. 読書でもするか
+msgctxt "0028"
+msgid ""
+"Oh, but licensing and tie-ins are another story\n"
+"completely!"
+msgstr ""
+
+#. …えーと。
+msgctxt "0029"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. んじゃオレ、先に帰るか？
+msgctxt "0030"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. いても邪魔にしかなんねーし…
+#. っていうか、昼寝くらいしかすることねーし…
+msgctxt "0031"
+msgid "What, like...a chorus performance?"
+msgstr ""
+
+#. あの像を動かすと…
+msgctxt "0032"
+msgid ""
+"Why would I wanna stand in a line and sing with\n"
+"everyone else?"
+msgstr ""
+
+#. それそれ！
+#. オレもちょっと考えてたんだよ！
+msgctxt "0033"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. もちろん、中に乗り込めて
+#. 分離、合体もできる感じでな！
+msgctxt "0034"
+msgid "Hmm... Yeah, it's not bad. For a high school."
+msgstr ""
+
+#. 名付けて"移動要塞ジャバウォッカー"！
+#. 当然、水陸両用だぜ！
+msgctxt "0035"
+msgid ""
+"I can't play or anything, but I think that shiny black\n"
+"finish is totally badass."
+msgstr ""
+
+#. <CLT 04>動かすってそういう意味か…<CLT>
+msgctxt "0036"
+msgid ""
+"And you usually perform by yourself, right? So you get\n"
+"to stand out. Pretty awesome!"
+msgstr ""
+
+#. あの像を壊すと…
+msgctxt "0037"
+msgid "I mean, I'm assuming that's how it is, anyway."
+msgstr ""
+
+#. え？
+#. なんで壊すんだよ！？
+msgctxt "0038"
+msgid "Can you play the piano?"
+msgstr ""
+
+#. 壊すくらいなら改造しろよ！
+#. エンジン積んで動かせよ！
+msgctxt "0039"
+msgid "I mean, that's not really all that important, is it?"
+msgstr ""
+
+#. っていうか、壊すっていうよりは
+#. 改造のための解体だろ！
+msgctxt "0040"
+msgid ""
+"And it takes a lot of practice to get good at it,\n"
+"right? Sounds like too much work to me..."
+msgstr ""
+
+#. …よし、なら早速始めようぜ！
+msgctxt "0041"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. わたくしの国では、日本のテレビ番組や
+#. ゲームも人気なのですよ。
+msgctxt "0001"
+msgid "Kyeeehahaha!"
+msgstr ""
+
+#. どうしてもプレイしたくて、
+#. わざわざ日本語を覚えた人もいるくらいです！
+msgctxt "0002"
+msgid "What's up!? You wanna go on a murder spree with me!?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Spend some time with Genocide Jack"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid "Go see who else is around"
+msgstr ""
+
+#. <CLT 04>どうしよう？
+#. ソニアを誘ってみるか？<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hmm... Is it really a good idea to hang out with\n"
+"Genocide Jack...?\n"
+"<CLT>"
+msgstr ""
+
+#. お誘いありがとうございます。
+#. ですが、何をしましょうか…
+msgctxt "0006"
+msgid "You want me to kill ya or somethin'?"
+msgstr ""
+
+#. さぁ、みんなで考えよーう！
+#. ニューヨークに行きたいかー！
+msgctxt "0007"
+msgid "You're not even CLOSE to getting me heated up!"
+msgstr ""
+
+#. <CLT 04>ソニアに、日本のクイズ番組の
+#. 素晴らしさを語られた…<CLT>
+msgctxt "0008"
+msgid ""
+"<CLT 4>The time I spent with the murderous fiend was\n"
+"almost...valuable.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>…俺は１つも知らなかったけど。<CLT>
+msgctxt "0009"
+msgid ""
+"<CLT 4>Did I just get a little closer...to Genocide Jack?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>恐れ多くもソニアと少し仲良くなれたみたいだ…<CLT>
+msgctxt "0010"
+msgid "Yes, definitely"
+msgstr ""
+
+#. 渡す
+msgctxt "0011"
+msgid "Not really, no"
+msgstr ""
+
+#. 渡さない
+msgctxt "0012"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Genocide Jack a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

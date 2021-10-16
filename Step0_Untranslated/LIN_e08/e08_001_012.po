@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ボクなんかを誘ってくれるのは嬉しいんだけどさ、
+#. ちょっと他に用事があるんだ。
+msgctxt "0001"
+msgid "What are you guys, a bunch of fudging lemmings!?"
+msgstr ""
+
+#. だからボクなんかの事は気にしないで…
+#. 他のみんなと楽しく過ごしてなよ。
+msgctxt "0002"
+msgid ""
+"I'm strong strong strong strong strong! I'm gonna\n"
+"shoot to the top of the butt-kickin' class!"
+msgstr ""
+
+#. …………………
+msgctxt "0003"
+msgid ""
+"<CLT 4>M-Maybe I should leave him alone...\n"
+"<CLT>"
+msgstr ""

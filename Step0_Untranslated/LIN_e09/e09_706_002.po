@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>図書館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the school store...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>大きな建物の中には見渡す限りの本棚。<CLT>
+#. <CLT 04>そのすべてにびっしりと本が詰まっている。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>Look at all this stuff. It's hard to imagine what they\n"
+"*don't* have in here.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "I want this awesome armor!"
+msgstr ""
+
+#. 勉強でもするか？
+msgctxt "0004"
+msgid "Ah, you've got an eye for this kind of thing."
+msgstr ""
+
+#. 応！
+#. それでこそ、来た甲斐もあるというもの。
+msgctxt "0005"
+msgid ""
+"This is a reproduction of the plate armor given to\n"
+"Greek foot soldiers. Only the richest ones, of course."
+msgstr ""
+
+#. こまめな情報収集とトレーニング法の開発は
+#. マネージャーの必須業務じゃからのう。
+msgctxt "0006"
+msgid ""
+"Er, wait... No, plate armor didn't show up till the\n"
+"middle ages."
+msgstr ""
+
+#. がっつり机に向かって勉強する時間も
+#. 時には必要というわけじゃ。
+msgctxt "0007"
+msgid ""
+"Well, whatever! Doesn't matter! The point is, this\n"
+"kind of thing is a total status symbol."
+msgstr ""
+
+#. というわけで、今日は二人でたっぷり
+#. 励むとしようかのう！
+msgctxt "0008"
+msgid ""
+"Just putting it on display is enough to shock and awe\n"
+"any observers."
+msgstr ""
+
+#. 眠くなってきた…
+msgctxt "0009"
+msgid ""
+"<CLT 4>You just made all that up, didn't you?\n"
+"<CLT>"
+msgstr ""
+
+#. なんじゃ、だらしのない。
+msgctxt "0010"
+msgid "Do they have any anime DVDs in stock?"
+msgstr ""
+
+#. スポーツマンたるもの、時には机に座って
+#. 理論を学ぶ事も必要じゃぞ。
+msgctxt "0011"
+msgid "You're into anime, Makoto?"
+msgstr ""
+
+#. わかったらとっとと席に着けい！
+msgctxt "0012"
+msgid "Just like Hifumi, huh? That's a shame..."
+msgstr ""
+
+#. ヒマだな
+msgctxt "0013"
+msgid ""
+"<CLT 4>I dunno why, but Hiro's scorn bugs me more than anyone\n"
+"else's.\n"
+"<CLT>"
+msgstr ""
+
+#. これだけの本を前にしてヒマとは…
+#. お前さん、何もわかっとらんのう。
+msgctxt "0014"
+msgid "Oh, it's some Monokuma merchandise..."
+msgstr ""
+
+#. ならば今日は一日、ワシに付き合ってもらうぞ。
+#. さ、まずは最新スポーツ理論の復習からじゃ！
+msgctxt "0015"
+msgid "No! Don't want it!"
+msgstr ""
+
+#. 写真集でも見るか…
+msgctxt "0016"
+msgid "Man...Monokuma's a pretty hard sell, huh?"
+msgstr ""
+
+#. お前さん、なかなかわかっとるな！
+msgctxt "0017"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. スポーツ選手の写真は、
+#. 色々と参考になるからのう！
+msgctxt "0018"
+msgid "Let's dig for treasure!"
+msgstr ""
+
+#. 踊る筋肉、飛び散る汗！
+#. ぶつかり合う筋肉と筋肉！
+msgctxt "0019"
+msgid "Dig for treasure? Here?"
+msgstr ""
+
+#. むう…たまらん…たまらんぞぉぉ！
+#. さあ、早速物色じゃあ！
+msgctxt "0020"
+msgid ""
+"Okay, I can get onboard with that. We might actually\n"
+"find some good stuff!"
+msgstr ""
+
+#. 漫画でも読むか…
+msgctxt "0021"
+msgid "But if you find anything worthwhile, give it to me!"
+msgstr ""
+
+#. 応、たまには漫画もいいもんじゃ！
+msgctxt "0022"
+msgid "That's a pretty cute doll."
+msgstr ""
+
+#. 友情と努力で試合に勝つ物語は
+#. いつ読んでも胸が熱くなるのう…
+msgctxt "0023"
+msgid "I hate dolls."
+msgstr ""
+
+#. よし、そうと決まればワシのオススメを
+#. 教えてやるとしようかの！
+msgctxt "0024"
+msgid ""
+"They wanna kill us all! They're our natural enemy!\n"
+"The second your back is turned, bam! Doll knife!"
+msgstr ""
+
+#. 小説でも読むか…
+msgctxt "0025"
+msgid "I remember those toy vending machines!"
+msgstr ""
+
+#. 小説なんぞちまちま読んどっても
+#. 試合に勝てはせんわ！！
+msgctxt "0026"
+msgid "I had so many of these when I was a kid."
+msgstr ""
+
+#. 読むなら専門書かスポ根漫画にせい！
+msgctxt "0027"
+msgid "There was a set of OOPArts from all around the world."
+msgstr ""
+
+#. よし、筋トレだ
+msgctxt "0028"
+msgid "I didn't stop until I had them all."
+msgstr ""
+
+#. ほう…お前さん、なかなかわかっとるな。
+msgctxt "0029"
+msgid "What about you? What sets were you into?"
+msgstr ""
+
+#. ここならば最新理論を紐解きつつ、
+#. 即座に新たなトレーニング法を実践できる。
+msgctxt "0030"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 机や椅子を利用することでトレーニングの幅も
+#. 広がり、まさに一石三鳥じゃ！
+msgctxt "0031"
+msgid "Here's some tarot cards!"
+msgstr ""
+
+#. …まぁ、普通の図書館でこれをやると即座に
+#. 出禁になるが、ここならば誰も文句は言うまい！
+msgctxt "0032"
+msgid "Hmm...? Are you talking to me?"
+msgstr ""
+
+#. さぁ思う存分、共に励むとするかのう！
+msgctxt "0033"
+msgid ""
+"I read fortunes by pure inspiration! I don't need\n"
+"anything besides that!"
+msgstr ""
+
+#. よし、ランニングだ
+msgctxt "0034"
+msgid ""
+"They *do* seem pretty useful, though. As long as\n"
+"they're here, may as well give 'em a shot..."
+msgstr ""
+
+#. なんと！？
+#. この館内でランニングか…？
+msgctxt "0035"
+msgid "Let's organize things in here a little..."
+msgstr ""
+
+#. ふむ…この障害物の多さは、
+#. なかなか燃えるコースかもしれんな…
+msgctxt "0036"
+msgid "Cleaning is the worst..."
+msgstr ""
+
+#. よぅし！
+#. では早速始めるとしようかのう！
+msgctxt "0037"
+msgid "There's all kinds of paintings here..."
+msgstr ""
+
+#. まずは軽～く、館内５０周じゃあ！
+msgctxt "0038"
+msgid ""
+"Are any of these valuable? Think I could make some\n"
+"good money on 'em?"
+msgstr ""
+
+#. よし、帰ろう
+msgctxt "0039"
+msgid "Oh, but it's for only the best intentions!"
+msgstr ""
+
+#. 何ィ！？
+#. たった今、来たばかりじゃろうが！
+msgctxt "0040"
+msgid ""
+"If I bought a painting and took it home, it'd be all\n"
+"sad if I was the only one looking at it."
+msgstr ""
+
+#. 今日はお前さんとたっぷり座学に励もうと
+#. 思っておったのに…残念じゃのう。
+msgctxt "0041"
+msgid "Right? You know what I'm talkin' about, right?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

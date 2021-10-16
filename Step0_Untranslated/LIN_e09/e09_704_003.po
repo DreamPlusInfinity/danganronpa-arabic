@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0004"
+msgid ""
+"Yeah, it's a pretty classic school setup. Rabbits are\n"
+"probably number one though."
+msgstr ""
+
+#. よっしゃ！
+#. やっぱアクション映画に限るよなー！
+msgctxt "0005"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. …って言うかオレ、それ以外ってまともに
+#. 観た事ねーんだけどさ。
+msgctxt "0006"
+msgid ""
+"The heat, the humidity... It kinda reminds me of the\n"
+"field in the middle of July..."
+msgstr ""
+
+#. けど、そもそもアクション映画ってよ、
+#. どっからがアクション映画なんだ？
+msgctxt "0007"
+msgid "...Ah!"
+msgstr ""
+
+#. 逃げたり追いかけたり戦ったりするシーンがありゃ
+#. それはもうアクション映画なんじゃねーのか？
+msgctxt "0008"
+msgid "Did...did I say something just now?"
+msgstr ""
+
+#. …ま、いーか。
+#. やっぱ映画はアクションだよな！
+msgctxt "0009"
+msgid "N-No, forget it! I didn't say a thing! Right?"
+msgstr ""
+
+#. ラブストーリーか…
+msgctxt "0010"
+msgid "You didn't hear anything, right!?"
+msgstr ""
+
+#. ラブストーリー…
+msgctxt "0011"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. …だからといって、
+#. アクションじゃないとは限らねーよな。
+msgctxt "0012"
+msgid "Gardening?"
+msgstr ""
+
+#. っていうかアクション要素のない映画の方が
+#. 少ねーよな？
+msgctxt "0013"
+msgid "Gardening sucks!"
+msgstr ""
+
+#. なら、いけるか…？
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>別に無理しなくてもいいんだけどな…<CLT>
+msgctxt "0015"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. ホラーがいいな
+msgctxt "0016"
+msgid "Is that why you invited me here?"
+msgstr ""
+
+#. パスで。
+msgctxt "0017"
+msgid ""
+"Well...not like I'm doing anything else. Sure, I guess\n"
+"we can walk around for a while."
+msgstr ""
+
+#. パスつったらパスで。
+msgctxt "0018"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. <CLT 04>怖いんだな…<CLT>
+msgctxt "0019"
+msgid ""
+"That's very poetic, but it's still just a ceiling\n"
+"painted blue."
+msgstr ""
+
+#. やっぱり塩味だな！
+msgctxt "0020"
+msgid ""
+"Hey, come on, don't make that face! I mean, this place\n"
+"still kinda feels like the outside, right?"
+msgstr ""
+
+#. そりゃやっぱ塩っしょ！
+#. 男は黙って塩味っしょ！
+msgctxt "0021"
+msgid ""
+"The ceiling's pretty high. Even a homerun shot might\n"
+"not hit it..."
+msgstr ""
+
+#. って言うかそもそも、塩味以外いらねーだろ？
+msgctxt "0022"
+msgid ""
+"How much money does this place have to build something\n"
+"like that!?"
+msgstr ""
+
+#. バターとか別にいらねーし、
+#. チーズとかしょうゆとかもマジうぜーよな。
+msgctxt "0023"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. …ってこれ、ポップコーンの話だよな？
+msgctxt "0024"
+msgid ""
+"Yeah! This is the place to be in the afternoon right\n"
+"after lunch, huh?"
+msgstr ""
+
+#. カレー味か…
+msgctxt "0025"
+msgid ""
+"Oh, but I bet you wouldn't ditch class to sleep the\n"
+"day away, huh? You're a good student."
+msgstr ""
+
+#. カレー味…だと…？
+msgctxt "0026"
+msgid ""
+"But try it once and you'll understand! You can come\n"
+"with me next time."
+msgstr ""
+
+#. やべぇ、塩一筋のはずのこのオレが…
+#. どうしてこんなに心を揺さぶられるんだ…
+msgctxt "0027"
+msgid ""
+"We should probably find a way to get out of here first\n"
+"though, huh...?"
+msgstr ""
+
+#. カレー…カレーは卑怯だろうがよぉぉ！
+msgctxt "0028"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>そんなに気になるなら食べてみればいいのに…<CLT>
+msgctxt "0029"
+msgid "Why don't we do some flower viewing!?"
+msgstr ""
+
+#. たまにはキャラメルとか
+msgctxt "0030"
+msgid "Flower viewing...?"
+msgstr ""
+
+#. キャラメルって…あれだろ？
+#. キャラメル味のポップコーン。
+msgctxt "0031"
+msgid ""
+"Not cool, man! Seriously not cool! What are you,\n"
+"someone's grandpa?"
+msgstr ""
+
+#. 別に嫌いってわけじゃねーけどさ、
+#. あれ食うと結局その後、塩味食いたくならねー？
+msgctxt "0032"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0033"
+msgid "Come on, you think I'm an idiot?"
+msgstr ""
+
+#. はぁ？
+#. アクション映画で普通寝ねーだろ！
+msgctxt "0034"
+msgid "Don't make fun of me!"
+msgstr ""
+
+#. …って、アクションじゃなかったら
+#. オレも寝るかもしんねーけど。
+msgctxt "0035"
+msgid ""
+"You think I don't know that chicken comes from\n"
+"chickens!?"
+msgstr ""
+
+#. むしろ、アクション映画でも
+#. アクションシーン以外は寝れるよな…
+msgctxt "0036"
+msgid ""
+"<CLT 4>Should I say something...?\n"
+"<CLT>"
+msgstr ""
+
+#. トイレに行っておこう…
+msgctxt "0037"
+msgid "Do you like this place?"
+msgstr ""
+
+#. そ…それだ！
+msgctxt "0038"
+msgid ""
+"Well, it's better than most of the other places in\n"
+"this school."
+msgstr ""
+
+#. なんか忘れてると思ったんだ。
+#. だってお前、２時間だぜ？
+msgctxt "0039"
+msgid ""
+"It's not like the dining hall or whatever has a view\n"
+"of the outside world."
+msgstr ""
+
+#. 最終的に主人公と敵とオレの尿意が
+#. 三つ巴の戦いになるっつーんだよ。
+msgctxt "0040"
+msgid ""
+"And even if we could see outside, all it would do is\n"
+"remind us that we're trapped in here..."
+msgstr ""
+
+#. ほら、行くならさっさと行こうぜ！
+msgctxt "0041"
+msgid ""
+"A-Anyway! We need to just focus on getting out of\n"
+"here...!"
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0042"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

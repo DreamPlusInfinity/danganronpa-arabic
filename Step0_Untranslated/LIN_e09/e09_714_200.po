@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>よし、すごく楽しんでもらえたみたいだ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>It looks to me like she had a really good time.\n"
+"<CLT>"
+msgstr ""
+
+#. 今日も創ちゃんと遊べて
+#. すっごい楽しかったっす！
+msgctxt "0002"
+msgid "Huh? Wow, is it this late already?"
+msgstr ""
+
+#. しかもなんかちょっと
+#. イイ雰囲気かもしちゃったりなんかして…ぐふふ。
+msgctxt "0003"
+msgid "Makoto, um... I don't know what to say."
+msgstr ""
+
+#. 次回はどこに行くっすか？
+#. 今から楽しみにしてるっすよ～！
+msgctxt "0004"
+msgid "Thank you for spending so much time with me."
+msgstr ""
+
+#. それじゃ、ホテルまで
+#. お手々繋いで一緒に帰るっす！
+msgctxt "0005"
+msgid ""
+"I want you to come see me again. I want to spend as\n"
+"much time with you as possible..."
+msgstr ""
+
+#. <CLT 04>まあまあ話は盛り上がったかな。<CLT>
+msgctxt "0006"
+msgid "S-Sorry... Anyway, we should get going."
+msgstr ""
+
+#. 今日の部活もなかなかどうして
+#. エキサイティングだったっすねー！
+msgctxt "0007"
+msgid ""
+"<CLT 4>I think we both had a pretty good time.\n"
+"<CLT>"
+msgstr ""
+
+#. おかげですっかりハラペコっすよ～。
+#. 遊んだ後は美味しいご飯に限るっすからね！
+msgctxt "0008"
+msgid "Makoto...thank you for today."
+msgstr ""
+
+#. さあさあ、早く一緒に帰るっす！
+msgctxt "0009"
+msgid "Being around you seems to help me relax somehow..."
+msgstr ""
+
+#. <CLT 04>あまり楽しんでもらえなかったみたいだ…<CLT>
+msgctxt "0010"
+msgid ""
+"If you don't mind, I'd really like to spend time with\n"
+"you again."
+msgstr ""
+
+#. うーん…
+#. 唯吹、なんだか遊び足りない気分っす。
+msgctxt "0011"
+msgid "Okay, let's head back."
+msgstr ""
+
+#. ちょっと冬彦ちゃんでも
+#. いじってくるっすかね…
+msgctxt "0012"
+msgid ""
+"<CLT 4>I get the feeling she didn't have much fun...\n"
+"<CLT>"
+msgstr ""
+
+#. じゃ、バッハハーイ！
+msgctxt "0013"
+msgid "I feel really drained..."
+msgstr ""
+
+#. <CLT 04>しまった…雰囲気は最悪だ…<CLT>
+msgctxt "0014"
+msgid ""
+"Oh, but—! I-It's not your fault or anything! I'm just\n"
+"having a tough time, is all."
+msgstr ""
+
+#. 今日の創ちゃん、
+#. なんかノリがイマイチだったっす…
+msgctxt "0015"
+msgid "So...well..."
+msgstr ""
+
+#. 創ちゃんには居残り練習が必要っぽいすね。
+#. というわけで後は１人で特訓するっす！
+msgctxt "0016"
+msgid "I guess I'm gonna get going."
+msgstr ""
+
+#. バッハハーイ！
+msgctxt "0017"
+msgid ""
+"<CLT 4>Crap... I don't think I handled that too well...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "U-Umm..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"You went out of your way to spend time with me, and I\n"
+"messed it all up. I'm sorry..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid "I-I'm gonna head back to my room."
+msgstr ""

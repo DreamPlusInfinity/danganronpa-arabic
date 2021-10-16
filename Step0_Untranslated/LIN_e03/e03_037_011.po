@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT 4>I practically leapt down the stairs, nearly losing my\n"
+"balance.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 4>I reached the nurse's office, completely out of\n"
+"breath.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0003"
+msgid "...!"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"<CLT 4>I couldn't believe my eyes...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hifumi's body was there just a few minutes earlier.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0006"
+msgid "It just...disappeared?"
+msgstr ""
+
+msgctxt "0007"
+msgid "..."
+msgstr "..."
+
+msgctxt "0008"
+msgid "Me and Celeste went to the bathroom..."
+msgstr ""
+
+msgctxt "0009"
+msgid "But we were only gone for like a minute!"
+msgstr ""
+
+msgctxt "0010"
+msgid "And then, when we got back..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"This must be the work of the culprit. They must have\n"
+"come and <CLT 3>carried the body away<CLT>."
+msgstr ""
+
+msgctxt "0012"
+msgid "They must really be enjoying this..."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"Enjoying the sight of us standing around, frightened\n"
+"and confused..."
+msgstr ""
+
+msgctxt "0014"
+msgid "We're all going to die here."
+msgstr ""
+
+msgctxt "0015"
+msgid "We're going to die, just like those guys died..."
+msgstr ""
+
+msgctxt "0016"
+msgid "I don't believe this."
+msgstr ""
+
+msgctxt "0017"
+msgid "I don't believe a body would just...disappear."
+msgstr ""
+
+msgctxt "0018"
+msgid ""
+"First there were <CLT 3>two murders<CLT>, and now one of the\n"
+"bodies has been taken?"
+msgstr ""
+
+msgctxt "0019"
+msgid "This is...unnatural."
+msgstr ""
+
+msgctxt "0020"
+msgid "H-Hold on! What do you mean, TWO murders!?"
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"Taka's been killed. We found him in the equipment\n"
+"room."
+msgstr ""
+
+msgctxt "0022"
+msgid "I-It can't be! Taka, too!?"
+msgstr ""
+
+msgctxt "0023"
+msgid "It can't be... It can't be..."
+msgstr ""
+
+msgctxt "0024"
+msgid "NooooooOOOOOOO!!!"
+msgstr ""
+
+msgctxt "0025"
+msgid "Hina, calm down!"
+msgstr ""
+
+msgctxt "0026"
+msgid ""
+"We're all gonna die... All of us... They're gonna kill\n"
+"all of us!"
+msgstr ""
+
+msgctxt "0027"
+msgid "Then who might the next target be? Toko?"
+msgstr ""
+
+msgctxt "0028"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"I completely forget! She's still unconscious in the\n"
+"equipment room!"
+msgstr ""
+
+msgctxt "0030"
+msgid "You left her at the scene of the crime!?"
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"We didn't have a choice. She passed out, and she\n"
+"refused to wake up."
+msgstr ""
+
+msgctxt "0032"
+msgid "So she is still unconscious?"
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"Wait, so you knew she was still up there, and said\n"
+"nothing? Why...!?"
+msgstr ""
+
+msgctxt "0034"
+msgid ""
+"That annoying little insect that clings to me wherever\n"
+"I go... We'd be better off without her."
+msgstr ""
+
+msgctxt "0035"
+msgid "Y-You bastard!"
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"Calm down. You forgot about her, didn't you? You have\n"
+"no right to blame me."
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"Everyone stop fighting! Right now we need to hurry\n"
+"back!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"I can't take this anymore... I don't want anyone else\n"
+"to die!"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"Byakuya... If something's happened to Toko, I'll never\n"
+"forgive you!"
+msgstr ""
+
+msgctxt "0040"
+msgid "Hmph."
+msgstr ""

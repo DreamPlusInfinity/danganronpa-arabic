@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 日向クンと二人きりか…
+msgctxt "0001"
+msgid ""
+"Even when you confide in people,\n"
+"it doesn't solve anything..."
+msgstr ""
+
+#. 今日は何の話をしようかな…
+msgctxt "0002"
+msgid ""
+"But still... \n"
+"I'd just like someone to listen...!"
+msgstr ""
+
+#. ボクとしては
+#. できる限り日向クンを…
+msgctxt "0003"
+msgid ""
+"But whenever\n"
+"I *do* start talking..."
+msgstr ""
+
+#. <CLT 17>楽しませたい<CLT>んだけど…
+msgctxt "0004"
+msgid ""
+"...I just end up forcing my own beliefs,\n"
+"my values, myself on them!"
+msgstr ""
+
+#. でも、
+#. 罵られるのも悪くはないかな。
+msgctxt "0005"
+msgid ""
+"<CLT 9>Is it fair of me<CLT> to\n"
+"do something like that...?"
+msgstr ""
+
+#. ああでも、これ以上変なこと言ったら…
+msgctxt "0006"
+msgid ""
+"But Makoto's like me, right?\n"
+"He has an ultimate talent."
+msgstr ""
+
+#. きっと<CLT 17>嫌われちゃう<CLT>よね…
+msgctxt "0007"
+msgid "So maybe because it's him..."
+msgstr ""
+
+#. それはちょっと嫌だなぁ…
+msgctxt "0008"
+msgid "...am I allowed to impose?"
+msgstr ""
+
+#. ああ、なんて悩ましいんだ…！
+msgctxt "0009"
+msgid ""
+"Or am I just being\n"
+"<CLT 9>unforgivably selfish<CLT>?"
+msgstr ""

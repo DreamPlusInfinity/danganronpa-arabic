@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"<CLT 4>As we approached the dressing room...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"<CLT 4>...Kyoko looked back at us and said...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0003"
+msgid "I'm going to go on alone from here."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"Everyone else head to the dining hall. I'll check in\n"
+"with you later."
+msgstr ""
+
+msgctxt "0005"
+msgid "Why, exactly, are you going alone?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Do you even have to ask?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"<CLT 4>As she spoke, she glanced quickly at the surveillance\n"
+"camera.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0008"
+msgid "That's not what I mean. Why *you*?"
+msgstr ""
+
+msgctxt "0009"
+msgid "There's still the risk of a spy, you know."
+msgstr ""
+
+msgctxt "0010"
+msgid "..."
+msgstr "..."
+
+msgctxt "0011"
+msgid "Then I'll go, too."
+msgstr ""
+
+msgctxt "0012"
+msgid "You...?"
+msgstr ""
+
+msgctxt "0013"
+msgid "Please, let me go!"
+msgstr ""
+
+msgctxt "0014"
+msgid "..."
+msgstr "..."
+
+msgctxt "0015"
+msgid ""
+"Standing here arguing is just going to draw more\n"
+"attention to us."
+msgstr ""
+
+msgctxt "0016"
+msgid "Hmph. Do whatever you want."
+msgstr ""
+
+msgctxt "0017"
+msgid "Thank you, Byakuya."
+msgstr ""
+
+msgctxt "0018"
+msgid "Then it's up to you now."
+msgstr ""
+
+msgctxt "0019"
+msgid "I'm gonna go to the dining hall, okay?"
+msgstr ""
+
+msgctxt "0020"
+msgid "Huh? So Makoto and Kyoko are gonna go...together?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Ahh! Does that mean what I think it means!?"
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"Good luck, Makoto! Girls like her are total pushovers\n"
+"when you show a little backbone!"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>I tried to forget what Hina said. Everyone headed to\n"
+"the dining hall, leaving me and Kyoko there alone.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "0025"
+msgid "Yeah..."
+msgstr ""

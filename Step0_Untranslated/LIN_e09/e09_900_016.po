@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. さて、今日が約束の期日でちゅが…
+msgctxt "0001"
+msgid ""
+"<CLT 4>The morning of the 51st day arrived...\n"
+"<CLT>"
+msgstr ""
+
+#. …やっぱりダメでちたか。
+msgctxt "0002"
+msgid ""
+"<CLT 4>...and Monokuma told us all to head to the gym.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>"希望のカケラ"<CLT>…
+#. 全ては集まらなかったみたいでちゅね…
+msgctxt "0003"
+msgid "So! The day has come, just as promised."
+msgstr ""
+
+#. でもでも、気を落とさないでくだちゃい！
+#. また、がんばればいいだけでちゅから！
+msgctxt "0004"
+msgid ""
+"And I've discovered that you don't have any motivation\n"
+"at all!"
+msgstr ""
+
+#. <CLT 03>次はきっと、もっと上手くできる<CLT>はずでちゅよ。
+#. だから、諦めないで…
+msgctxt "0005"
+msgid ""
+"You didn't complete one single backup. Your teacher\n"
+"feels nothing but betrayal..."
+msgstr ""
+
+#. みなさんならきっと…
+#. <CLT 03>"希望"を取り戻せる<CLT>はずでちゅから…
+msgctxt "0006"
+msgid ""
+"I thought I'd made myself clear, but I suppose I need\n"
+"to say this one more time."
+msgstr ""
+
+#. 次こそは…きっと………
+msgctxt "0007"
+msgid ""
+"Until I have a proper backup, your real school life\n"
+"can't begin!"
+msgstr ""
+
+#. お、おい…ちょっと待てよ！
+msgctxt "0008"
+msgid "So this is gonna keep on going!"
+msgstr ""
+
+#. 次って…なんだ………？
+msgctxt "0009"
+msgid "Keep on going...!?"
+msgstr ""
+
+#. <CLT 04>急速に意識が遠のいていく…<CLT>
+msgctxt "0010"
+msgid "Why do you sound so surprised?"
+msgstr ""
+
+#. <CLT 04>『全ての"希望"を完成させるまで
+#. 　この"修学旅行"は終わらない…』<CLT>
+msgctxt "0011"
+msgid ""
+"I just told you to finish the backup by the 50th day.\n"
+"I never said it would *end* on that day!"
+msgstr ""
+
+#. <CLT 04>誰かがそう言う声を…<CLT>
+msgctxt "0012"
+msgid "Get ready to greet another beee-yutiful day!"
+msgstr ""
+
+#. <CLT 04>どこか遠くで聞いた気がした…<CLT>
+msgctxt "0013"
+msgid "*Sigh*"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid ""
+"<CLT 4>So apparently...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"<CLT 4>...Monokuma is gonna make us keep on living like this\n"
+"until we make a backup he's happy with.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid ""
+"<CLT 4>And we can't start our \"real school life\" until we do.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"<CLT 4>When the hell are we ever gonna get out of here...?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "Puhuhuhu..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"You should be thanking me. You'll never be as happy as\n"
+"you are right now..."
+msgstr ""

@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0004"
+msgid ""
+"You're right about one thing—if you don't eat a proper\n"
+"breakfast, your day will never start right!"
+msgstr ""
+
+#. うん、いいね！
+msgctxt "0005"
+msgid ""
+"It seems like people these days don't eat breakfast\n"
+"cuz they don't wanna get fat or whatever."
+msgstr ""
+
+#. こういうところに来たらやっぱり
+#. まずは絶叫系から攻めるべきだと思うな。
+msgctxt "0006"
+msgid ""
+"But how do you get through the morning!? Normal daily\n"
+"activity will stop you from getting fat."
+msgstr ""
+
+#. 絶叫系に始まり、絶叫系に終わるのが
+#. 遊園地のセオリーだよね。
+msgctxt "0007"
+msgid ""
+"<CLT 4>I mean...you do exercise a lot. It's not exactly\n"
+"\"normal daily activity\"...\n"
+"<CLT>"
+msgstr ""
+
+#. あ…でもよく考えたら、絶叫系とは言うけど
+#. 私、本当に絶叫したことなかったな…
+msgctxt "0008"
+msgid "So you like donuts, right?"
+msgstr ""
+
+#. よし、今日は頑張って絶叫してみるからね！
+msgctxt "0009"
+msgid ""
+"Wow, what a dumb question! You're like the general of\n"
+"the Dumb Question Brigade!"
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0010"
+msgid ""
+"Donuts are the truth of the universe! Not liking\n"
+"donuts can bring on the collapse of the world!"
+msgstr ""
+
+#. お化け屋敷かぁ。
+#. いいね、楽しそう…
+msgctxt "0011"
+msgid "And that's the bottom line!"
+msgstr ""
+
+#. …って、言っちゃダメだったかな。
+msgctxt "0012"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. えっと、ここはやっぱり
+#. きゃーって言って抱きついたりするのが正解？
+msgctxt "0013"
+msgid "Hamburgers aren't really enough though, are they?"
+msgstr ""
+
+#. うーん…ちょっと頑張ってみるよ。
+msgctxt "0014"
+msgid ""
+"When you're really starving, get that pork ramen!\n"
+"Oh, but maybe I should back off that fatty stuff..."
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0015"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. メリーゴーランドか…
+msgctxt "0016"
+msgid "You're good friends with Sakura, right?"
+msgstr ""
+
+#. 実はあれの楽しみ方が
+#. いまいちよくわからないんだよね。
+msgctxt "0017"
+msgid ""
+"Yeah! Sakura's like my best friend here! No, the best\n"
+"friend I've ever had ever!"
+msgstr ""
+
+#. ええと、寝ちゃったらごめん。
+msgctxt "0018"
+msgid ""
+"I think just getting to meet her made coming here all\n"
+"worth it..."
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0019"
+msgid "Do...do you have someone like that, Makoto?"
+msgstr ""
+
+#. うん、そうだね。
+#. 全力で遊ぶぞーって気持ちになってくるよ。
+msgctxt "0020"
+msgid "What's your favorite sport?"
+msgstr ""
+
+#. なんだか自分でもびっくりするくらい
+#. どきどきわくわくしてる気がする。
+msgctxt "0021"
+msgid "I mean, I gotta say swimming, right?"
+msgstr ""
+
+#. こういうところって、楽しむための場所だから
+#. 当たり前だけど、でもそれだけじゃなくて…
+msgctxt "0022"
+msgid ""
+"But if you're talking about land-based stuff, I like\n"
+"basketball, softball, volleyball, tennis..."
+msgstr ""
+
+#. 日向くんと一緒だから、余計にかな。
+msgctxt "0023"
+msgid ""
+"Agh, I can't decide! Darn it, Makoto! Don't make me\n"
+"try and decide!"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0024"
+msgid "Have you put on a little weight?"
+msgstr ""
+
+#. そうだね…それは素直な感想かも。
+msgctxt "0025"
+msgid "Agh! Ghh...!"
+msgstr ""
+
+#. 楽しいからいいんだけど、
+#. でもいっぱい歩かなきゃいけないし…
+msgctxt "0026"
+msgid "It's not my fault! Donuts are on call here 24/7!"
+msgstr ""
+
+#. どこかでお昼寝できるところはあるかな。
+msgctxt "0027"
+msgid ""
+"W-Wait, no! I didn't say that! Don't tell anyone I\n"
+"said that!"
+msgstr ""
+
+#. 途中で寝ちゃわないように頑張るから
+#. ゆっくり回ろうね。
+msgctxt "0028"
+msgid "Ugh! Fine! You have to go on the same diet as me!"
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0029"
+msgid ""
+"Don't bother saying you don't want to! You and me,\n"
+"we gotta do our best together!"
+msgstr ""
+
+#. え？　そうかな…
+msgctxt "0030"
+msgid ""
+"Plus...I know if you're there with me,\n"
+"I'll try even harder..."
+msgstr ""
+
+#. うーん、建物の色と形さえ覚えていけば
+#. そんな事もないと思うけど…
+msgctxt "0031"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. もしかして日向くんって…地図読めない子？
+msgctxt "0032"
+msgid "Don't you ever let your hair down?"
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0033"
+msgid "...What!?"
+msgstr ""
+
+#. あ、確かに。
+#. ここで繋がなきゃいつ繋ぐのって感じだよ。
+msgctxt "0034"
+msgid "Wh-Where's this coming from!?"
+msgstr ""
+
+#. 言ってみれば、そういう事をするための
+#. 場所みたいなもんだし…
+msgctxt "0035"
+msgid ""
+"A-Are you saying...you want to see me...with my hair\n"
+"down...?"
+msgstr ""
+
+#. 雰囲気に流されちゃってつい…
+#. っていうのはやっぱり重要だよね、うん。
+msgctxt "0036"
+msgid "U-Um...I mean, I don't mind showing you..."
+msgstr ""
+
+#. …そっかぁ、そういえばこれ
+#. デートなんだよね。
+msgctxt "0037"
+msgid "But I have to prepare myself first!"
+msgstr ""
+
+#. うーん…なんか急に難易度上がってきたな…
+msgctxt "0038"
+msgid ""
+"<CLT 4>Is it really that big of a deal? I mean, she's\n"
+"starting to turn red...\n"
+"<CLT>"
+msgstr ""
+
+#. え、ええと、出来る限り頑張ってみるからね。
+msgctxt "0039"
+msgid "That hairpin of yours really suits you."
+msgstr ""
+
+#. マスコットはどこだ？
+msgctxt "0040"
+msgid "R-Really? Thanks!"
+msgstr ""
+
+#. そうそう、まずは見つけて
+#. 握手とかしておかないとね。
+msgctxt "0041"
+msgid ""
+"Heh-heh... Actually, I'm pretty picky about what I put\n"
+"in my hair."
+msgstr ""
+
+#. あ、実はお願いすれば
+#. サインとかもしてくれるはずだよ。
+msgctxt "0042"
+msgid "It's just a little thing, so I'm glad you noticed..."
+msgstr ""
+
+#. あとは一緒に写真も撮らないと…
+msgctxt "0043"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. …ってまさか、ウサギとかクマじゃないよね？
+#. ちゃんとネズミの王様だよね？
+msgctxt "0044"
+msgid "My specialty is eating more than cooking. Hehehe..."
+msgstr ""
+
+#. でも、どこにいるんだろう…
+#. っていうか、本当にいるのかな？
+msgctxt "0045"
+msgid "...So you like girls who can cook?"
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0046"
+msgid "N-No, you didn't hear anything!"
+msgstr ""
+
+#. いいけど…もうちょっと後でにしない？
+msgctxt "0047"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

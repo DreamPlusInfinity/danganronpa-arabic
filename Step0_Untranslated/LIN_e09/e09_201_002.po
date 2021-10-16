@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. どうでちゅか？
+#. 作り方はわかりまちたか？
+msgctxt "0001"
+msgid "So? Now do you get how to do it?"
+msgstr ""
+
+#. あはは、この程度なら楽勝だよ！
+msgctxt "0002"
+msgid ""
+"If this is all there is to it, this is gonna be a\n"
+"breeze!"
+msgstr ""
+
+#. うむ…これならやれるかもしれないな。
+msgctxt "0003"
+msgid "Indeed! I'm sure we can handle this!"
+msgstr ""
+
+#. さすがでちゅね！
+#. では、次は材料集めからがんばってくだちゃい！
+msgctxt "0004"
+msgid "Even if we don't get it right the first time..."
+msgstr ""
+
+#. 初めは上手くいかなくても、何度もやっているうちに
+#. だんだん手慣れて効率もよくなってくるでちゅ！
+msgctxt "0005"
+msgid ""
+"...with enough practice, I'm sure we'll get the hang\n"
+"of it and figure everything out!"
+msgstr ""
+
+#. ただし、無理は禁物でちゅよ？
+#. <CLT 03>疲れたらお休みする<CLT>のも大事でちゅ。
+msgctxt "0006"
+msgid ""
+"Hmm...you seem pretty confident. Maybe I spoiled you a\n"
+"little too much..."
+msgstr ""
+
+#. あと、お部屋の<CLT 03>お掃除<CLT>はマメにしてくだちゃい。
+#. 限界まで汚れたら、嫌でもやってもらうでちゅよ…
+msgctxt "0007"
+msgid ""
+"But there's nothin' I can do about that! I'm just so\n"
+"sweet and kind and sincere!"
+msgstr ""
+
+#. この修学旅行の目的はあくまで期限までに
+#. <CLT 03>全ての"希望のカケラ"を集める<CLT>ことでちゅ。
+msgctxt "0008"
+msgid ""
+"So, now you're ready to gather your own materials,\n"
+"right? You can handle that much, right?"
+msgstr ""
+
+#. それだけは忘れないでくだちゃいね！
+msgctxt "0009"
+msgid ""
+"Well even if you decide you can't, I'm not gonna help\n"
+"you anymore!"
+msgstr ""
+
+#. それじゃあ次の学級目標を発表しまーちゅ！
+msgctxt "0010"
+msgid "We don't need your help!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"We're all gonna work hard and do our best and make\n"
+"your stupid backups and get outta here!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "I'm glad to see you getting all fired up, but..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"...don't overwork yourself, or I'll be the one who\n"
+"ends up taking care of you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid ""
+"Take plenty of breaks! Drink lots of fluid! Promise me\n"
+"you'll be safe, and make your teacher proud!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid ""
+"You don't have to remind us. We have no desire for you\n"
+"to take care of us."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid ""
+"Also, make sure you keep everything clean! If you\n"
+"can't do it yourselves, I'll MAKE you do it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid ""
+"This is where you live, right? You need to put in the\n"
+"effort to keep it nice and tidy!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "*Sigh* What a pain in the ass..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid ""
+"Well, to be fair, cleaning *is* part of normal school\n"
+"life..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0020"
+msgid "Okay, your next project review is coming up!"
+msgstr ""

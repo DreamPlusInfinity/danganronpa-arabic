@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 日向はなんで…
+msgctxt "0001"
+msgid "Is now a good time for it...?"
+msgstr ""
+
+#. いつも誘ってくれるんだろう？
+msgctxt "0002"
+msgid "But..."
+msgstr ""
+
+#. あたしなんて
+#. 口うるさいだけで…
+msgctxt "0003"
+msgid "To just bring it up out of nowhere..."
+msgstr ""
+
+#. <CLT 17>写真撮るしかできない<CLT>し…
+msgctxt "0004"
+msgid "Will he <CLT 9>think I'm weird<CLT>?"
+msgstr ""
+
+#. それに、その写真だって
+#. 中途半端なままなのに。
+msgctxt "0005"
+msgid ""
+"Makoto seems like he's\n"
+"definitely C-rank material."
+msgstr ""
+
+#. 人の笑顔を撮るのは
+#. やっぱり一番好きだけど…
+msgctxt "0006"
+msgid "But after that..."
+msgstr ""
+
+#. 本当にそれだけでいいのかな…
+msgctxt "0007"
+msgid ""
+"Once I've achieved my dreams,\n"
+"reached my goals,\n"
+"hit my quota in life..."
+msgstr ""
+
+#. <CLT 17>好きなことだけしてていいのか<CLT>な…
+msgctxt "0008"
+msgid ""
+"...could he be the\n"
+"type of person who can\n"
+"just...<CLT 9>stand by my side<CLT>?"
+msgstr ""
+
+#. そんなんでお母さんみたいな
+#. 写真家になれるのかな…
+msgctxt "0009"
+msgid ""
+"Could he maybe...\n"
+"rank up even more?"
+msgstr ""

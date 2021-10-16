@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "For breakfast, Japanese style is best."
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0004"
+msgid "Don't be so picky."
+msgstr ""
+
+#. メリーゴーランドって…
+#. あのキラキラしててゆっくり回るのですよね…？
+msgctxt "0005"
+msgid ""
+"If it's edible, who cares where it's from? Just a hot\n"
+"meal by itself is a luxury."
+msgstr ""
+
+#. の、乗りたいです！
+#. ものすごく乗りたいです！
+msgctxt "0006"
+msgid ""
+"<CLT 4>A hot meal is a luxury? Does she see it like that cuz\n"
+"of when she ran away from home...?\n"
+"<CLT>"
+msgstr ""
+
+#. 子供の頃から、写真でしか見たことがなくて…
+#. ずっと憧れてました。
+msgctxt "0007"
+msgid "Want something to drink?"
+msgstr ""
+
+#. 本当に乗れるなんて、すごく嬉しいです…
+msgctxt "0008"
+msgid "Oh, I'm okay. Just a bottle of water is fine for me."
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0009"
+msgid ""
+"Or! Maybe a cappuccino? That latte art people do is\n"
+"seriously cute, right?"
+msgstr ""
+
+#. え、ええと…いわゆるあの、
+#. 絶叫系って言うやつ…ですよね？
+msgctxt "0010"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. 私、乗ったことがないので
+#. 大丈夫かどうかよくわからないんですけど…
+msgctxt "0011"
+msgid ""
+"Yeah... The calorie intake is terrifying, but I just\n"
+"can't stop myself."
+msgstr ""
+
+#. でも、できればその、お漏らししそうなのは
+#. 勘弁していただけるとぉ…
+msgctxt "0012"
+msgid "Man, now I really want a hamburger!"
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0013"
+msgid ""
+"It actually takes a lot of muscle to be a model! Look\n"
+"at me. I have to keep my body nice and fit! See?"
+msgstr ""
+
+#. ええと、作り物のお化けとかは
+#. 別に怖くないんですけど…
+msgctxt "0014"
+msgid ""
+"Huh? Hey, Makoto...your face is all red. What could\n"
+"you possibly be thinking about?"
+msgstr ""
+
+#. 急に、わっと出てこられるのはちょっと…
+msgctxt "0015"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. あ、す、すみません…
+#. つまらないリアクションですみませぇん…
+msgctxt "0016"
+msgid "Do you have a lot of fans?"
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0017"
+msgid "Huh? Fans...?"
+msgstr ""
+
+#. そうですね…
+#. 地図を見ながら歩いても絶対迷うと思います…
+msgctxt "0018"
+msgid ""
+"Hmm... Yeah, I guess. I mean, I get asked for my\n"
+"autograph a lot."
+msgstr ""
+
+#. あ、でも日向さんと一緒なら
+#. 迷っちゃってもきっと楽しいです。
+msgctxt "0019"
+msgid ""
+"But I don't just give it away for free! I'm not some\n"
+"signature slut, ya know."
+msgstr ""
+
+#. だから、その…
+msgctxt "0020"
+msgid ""
+"Still...for you, if you really insist...I'll think\n"
+"about it."
+msgstr ""
+
+#. はぐれないように、
+#. 並んで歩いてもいいですか…？
+msgctxt "0021"
+msgid ""
+"Oh! How about, if you can get me out of here, I'll\n"
+"give you an autograph!"
+msgstr ""
+
+#. えへへ…それじゃさっそく行きましょう！
+msgctxt "0022"
+msgid "Is there some kind of trick to make-up?"
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0023"
+msgid "Uhh...well...I mean..."
+msgstr ""
+
+#. そうですね…
+#. なんだかものすごく広そうですし…
+msgctxt "0024"
+msgid ""
+"Wh-Why are you even asking me!? Are you trying to say\n"
+"I wear too much make-up!?"
+msgstr ""
+
+#. あ、でもいざという時の備えは万全ですから
+#. 安心してください！
+msgctxt "0025"
+msgid "Let's make lunch and go eat somewhere!"
+msgstr ""
+
+#. アミノ酸飲料に塩とあと氷砂糖も用意しましたから。
+#. 辛くなったらすぐ言ってくださいね。
+msgctxt "0026"
+msgid ""
+"Oh, that sounds awesome! I'm totally looking forward\n"
+"to a homemade lunch!"
+msgstr ""
+
+#. <CLT 04>遭難しても大丈夫そうだな…<CLT>
+msgctxt "0027"
+msgid "I mean, you *are* gonna make it for me, right?"
+msgstr ""
+
+#. 楽しそうだな
+msgctxt "0028"
+msgid ""
+"I don't really love or hate anything, so you can just\n"
+"pack whatever you feel like."
+msgstr ""
+
+#. そう…なんですよね、きっと。
+msgctxt "0029"
+msgid ""
+"Oh, but...I guess I can help a little bit, if you\n"
+"promise to eat what I make..."
+msgstr ""
+
+#. こういうところ、初めて来たので
+#. あまりよくわからないですけど…
+msgctxt "0030"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. あ、ご、ごめんなさぁい…
+#. 私のせいで楽しい気分もぶち壊しですよね…
+msgctxt "0031"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0032"
+msgid "What? Are you seriously asking me? So not cool..."
+msgstr ""
+
+#. え…？
+#. いいんですか…？
+msgctxt "0033"
+msgid "I guess I shouldn't be surprised, though."
+msgstr ""
+
+#. で、でもでもそんな、
+#. 手を繋いで遊園地だなんて…
+msgctxt "0034"
+msgid "Is it hard being a model?"
+msgstr ""
+
+#. すごい…なんだか本当のデートみたいです…
+msgctxt "0035"
+msgid ""
+"Oh, well...not really. I mean, all I have to do is be\n"
+"myself."
+msgstr ""
+
+#. あ、あの、大丈夫ですよ！
+#. さっきちゃんと手を洗っておきましたから！
+msgctxt "0036"
+msgid ""
+"And whatever doesn't look right when we're done, they\n"
+"can just photoshop it out!"
+msgstr ""
+
+#. ゆっくり回ろう
+msgctxt "0037"
+msgid ""
+"Hey...when you look at me...does it seem like I'm\n"
+"trying too hard?"
+msgstr ""
+
+#. はい！
+#. そうしたいです！
+msgctxt "0038"
+msgid ""
+"That's not good! If I make you even think about it,\n"
+"I'm not doing my job as a professional!"
+msgstr ""
+
+#. せっかく憧れの場所に来れたんですから、
+#. ちゃんと景色を見て、歩きたいです。
+msgctxt "0039"
+msgid ""
+"Thanks, Makoto! You made me realize I need to put a\n"
+"little more spirit into it!"
+msgstr ""
+
+#. 本当に…夢みたい…
+#. こんなところに連れてきてもらえるなんて…
+msgctxt "0040"
+msgid "Do you know how to cook?"
+msgstr ""
+
+#. あ、あの、日向さん、
+#. 今日はよろしくお願いします！
+msgctxt "0041"
+msgid "Well...I know how to build a fire to heat up rations."
+msgstr ""
+
+#. あの城に登ろう
+msgctxt "0042"
+msgid "Er—! What I meant to say is, I make a mean beef stew!"
+msgstr ""
+
+#. あそこに…登るんですか？
+msgctxt "0043"
+msgid "...Is that what you wanted to hear?"
+msgstr ""
+
+#. それはちょっと…
+#. 落ちたら取り返しが付かないですよ…？
+msgctxt "0044"
+msgid ""
+"Ahaha! Come on, Makoto! You should stop focusing on\n"
+"all those girly fantasies of yours."
+msgstr ""
+
+#. <CLT 04>なんで落ちる前提なんだ…<CLT>
+msgctxt "0045"
+msgid ""
+"Oh, but I bet Sayaka can cook. Maybe you should go\n"
+"talk to her..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

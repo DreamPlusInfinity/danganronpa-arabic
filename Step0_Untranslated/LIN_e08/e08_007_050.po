@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. チッ、こんな所にいつまでいなきゃなんねーんだ。
+#. 腐っちまいそーだぜ…
+msgctxt "0001"
+msgid "Are you going to...try and cheer me up?"
+msgstr ""
+
+#. けどまぁ…
+#. こうして話し相手がいるだけマシってもんか。
+msgctxt "0002"
+msgid ""
+"Sorry for making you take time out of your day like\n"
+"this..."
+msgstr ""
+
+#. <CLT 04>九頭龍と話しながら過ごした…<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>I did my best to comfort Sayaka...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>九頭龍と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0004"
+msgid ""
+"Oh, you want to talk for a bit? Sure, that sounds\n"
+"nice!"
+msgstr ""
+
+#. 渡す
+msgctxt "0005"
+msgid ""
+"<CLT 4>I spent time chatting with Sayaka...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0006"
+msgid ""
+"Okay, let's go for a walk! I think it'll help cheer\n"
+"both of us up!"
+msgstr ""
+
+#. <CLT 06><CLT><CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>I enjoyed a long, leisurely walk with Sayaka...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid ""
+"<CLT 4>Sayaka and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Sayaka a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

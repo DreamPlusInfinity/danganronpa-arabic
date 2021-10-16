@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. スポーツものか…
+msgctxt "0004"
+msgid "Oh! You like 'em too, right!?"
+msgstr ""
+
+#. おお、そいつはちょうどワシら向きじゃな！
+msgctxt "0005"
+msgid ""
+"For serious, I love these little guys. They're so\n"
+"cute. And there's five of them!"
+msgstr ""
+
+#. 戦いに赴く者と、
+#. それをすぐ傍で支え見守る者…
+msgctxt "0006"
+msgid ""
+"Five! You know, the only natural number between four\n"
+"and six!"
+msgstr ""
+
+#. 涙無しには観れん、愛の物語じゃあ！
+msgctxt "0007"
+msgid ""
+"Having five of them is crucial, Makoto! So take good\n"
+"care of them!"
+msgstr ""
+
+#. これからワシらが共に進む道じゃからの！
+#. 後学までに観ておくとするか！
+msgctxt "0008"
+msgid ""
+"<CLT 4>Why do *I* have to take care of them...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>その道はいつの間に決まったんだよ…<CLT>
+msgctxt "0009"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0010"
+msgid ""
+"If you wanna raise this many plants, you don't have\n"
+"too much choice."
+msgstr ""
+
+#. おお、アクション映画か！
+#. そいつは観る甲斐がありそうじゃあ！
+msgctxt "0011"
+msgid ""
+"But personally, I like it here. All this plant-based\n"
+"respiration is good for my brain-based inspiration!"
+msgstr ""
+
+#. 小難しいのや動きが少ないのは
+#. 観ていてつまらんからのう…
+msgctxt "0012"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. それに最悪、物語がつまらなくとも、
+#. 人間の躍動感が楽しめればそれでギリセーフじゃ！
+msgctxt "0013"
+msgid "I'm more of a detached observer."
+msgstr ""
+
+#. ホラーでも観る？
+msgctxt "0014"
+msgid ""
+"I really hate taking baths, so I don't wanna get\n"
+"dirty..."
+msgstr ""
+
+#. ホラー映画か…
+msgctxt "0015"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. "怖い"を"楽しい"と思う感覚は
+#. ワシにはちょっとわからんのう…
+msgctxt "0016"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. やっぱり塩味だな！
+msgctxt "0017"
+msgid "Uh...okay, sure."
+msgstr ""
+
+#. うむ！
+#. 塩分は重要だぞ！
+msgctxt "0018"
+msgid ""
+"There's not a ton of open space in here, but that\n"
+"should be okay."
+msgstr ""
+
+#. 塩さえあれば、大体どんな状況でも
+#. 切り抜けられるしのう。
+msgctxt "0019"
+msgid ""
+"Then let's imagine we're outside, just you and me,\n"
+"under the open sun, together..."
+msgstr ""
+
+#. 塩味などと言わず、
+#. なんなら塩そのものでも構わんぞう！
+msgctxt "0020"
+msgid "...Agh, no good. Doesn't work when it's two guys."
+msgstr ""
+
+#. <CLT 04>俺はポップコーンがいいよ…<CLT>
+msgctxt "0021"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. カレー味か…
+msgctxt "0022"
+msgid "You're a pretty positive guy, huh?"
+msgstr ""
+
+#. ほう、カレーか…
+msgctxt "0023"
+msgid ""
+"Looking at that fake sky just makes me depressed.\n"
+"Ahh...I just wanna go home."
+msgstr ""
+
+#. 合宿には欠かせない万能食だな。
+#. ワシの好物でもあるぞ！
+msgctxt "0024"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. とはいえ、映画を観ながらカレーを食うのは
+#. さすがにどうかと思うが…
+msgctxt "0025"
+msgid ""
+"Same here. It's almost a little *too* warm, but that's\n"
+"okay."
+msgstr ""
+
+#. <CLT 04>それはさすがに俺もどうかと思うよ…<CLT>
+msgctxt "0026"
+msgid ""
+"Most people would be like, \"Oh, naps are just a waste\n"
+"of time!\""
+msgstr ""
+
+#. たまにはキャラメルとか
+msgctxt "0027"
+msgid "But not you! You don't worry about stuff like that."
+msgstr ""
+
+#. 確かに糖分のコントロールも重要だがのう…
+msgctxt "0028"
+msgid "Okay! Let's hit the hay!"
+msgstr ""
+
+#. ワシはキャラメルよりチョコレート派じゃな。
+msgctxt "0029"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>チョコレートのポップコーンってあるのか…？<CLT>
+msgctxt "0030"
+msgid "How accurate is flower fortune-telling?"
+msgstr ""
+
+#. トイレに行っておこう…
+msgctxt "0031"
+msgid ""
+"You mean that \"loves me, loves me not\" stuff?\n"
+"That's...not really fortune-telling."
+msgstr ""
+
+#. おお、そうじゃ！
+#. うっかり忘れるところだった！
+msgctxt "0032"
+msgid ""
+"That's just something kids do to make themselves feel\n"
+"good. Why would I waste my time on that?"
+msgstr ""
+
+#. これを済ませておかねば
+#. 大変な事になるからのう…
+msgctxt "0033"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. では行くぞ、日向！
+#. 試合前の作戦会議じゃあ！
+msgctxt "0034"
+msgid "For serious. That's way too cruel!"
+msgstr ""
+
+#. <CLT 04>作戦って、なんのだよ…<CLT>
+msgctxt "0035"
+msgid ""
+"If you're goin' down that road, get a cow! Beef is\n"
+"where it's at. Beef reigns supreme!"
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0036"
+msgid ""
+"And cows are good cuz they let us commune with the\n"
+"great unknown..."
+msgstr ""
+
+#. うーむ、一度くらいはやってみたいと思うが
+#. 他の客に迷惑が…
+msgctxt "0037"
+msgid ""
+"They're such an amazing, gentle species. And they're\n"
+"super tasty! Perfect!"
+msgstr ""
+
+#. …無ッ！？
+#. そういえばここにはワシらしかおらん…
+msgctxt "0038"
+msgid ""
+"<CLT 4>If they're so amazing, why is he so eager to eat them?\n"
+"<CLT>"
+msgstr ""
+
+#. よし、それなら決まりじゃ！
+#. 容赦なく最前列を占領してくれるわ！
+msgctxt "0039"
+msgid "Do you like this place?"
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0040"
+msgid ""
+"I've decided that as long as we're in this school,\n"
+"it's my duty to guard this area."
+msgstr ""
+
+#. 甘い…甘いぞぉ！
+msgctxt "0041"
+msgid ""
+"I have to make sure the plants don't rise up and\n"
+"attack us!"
+msgstr ""
+
+#. 始まる前からそんな弱気でどうする！
+#. 気合い入れていかんかい！
+msgctxt "0042"
+msgid "Ah! I've already said too much...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid ""
+"You shouldn't see plants as the enemy of the human\n"
+"race."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"<CLT 4>But...he just *said* they were. Doesn't he realize\n"
+"it's too late?\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

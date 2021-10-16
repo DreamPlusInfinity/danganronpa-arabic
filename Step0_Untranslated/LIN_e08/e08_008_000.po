@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 06>渡すプレゼントを選択してくださいませ。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 23>Sorry, but we can't let you give her that. It's what\n"
+"we in the industry like to call a<CLT> <CLT 3>key item<CLT><CLT 23>.<CLT>"
+msgstr ""
+
+#. あのなぁ、いくらオレだって
+#. 食えるもんと食えないもんがあんだよ！
+msgctxt "0002"
+msgid ""
+"<CLT 23>What would you like to give her?\n"
+"<CLT>"
+msgstr ""
+
+#. ったく、腹壊したらどうしてくれんだよ…
+msgctxt "0003"
+msgid "...Are you sure about this?"
+msgstr ""
+
+#. ………………
+msgctxt "0004"
+msgid "Sorry..."
+msgstr ""
+
+#. あ、そうか、なるほどな！
+#. つまりオレとバトりてぇってことだよな！
+msgctxt "0005"
+msgid "This is...something you don't see too often."
+msgstr ""
+
+#. んー…なんか違うんだよな…
+msgctxt "0006"
+msgid ""
+"Do you mind if I keep it? I'd like to take a closer\n"
+"look at it."
+msgstr ""
+
+#. 今は食いモン以外、
+#. 受け取る気分じゃねーんだ。
+msgctxt "0007"
+msgid ""
+"<CLT 4>Does that mean she liked it...?\n"
+"<CLT>"
+msgstr ""
+
+#. うーん…
+#. そう言われてもなぁ…
+msgctxt "0008"
+msgid "Well now, this is interesting."
+msgstr ""
+
+#. やっぱ、これは返すわ。
+#. 使い道なさそうだしよ。
+msgctxt "0009"
+msgid "I must admit, I'm intrigued. Can I hold on to it?"
+msgstr ""
+
+#. お？
+#. これオレにくれんのか？
+msgctxt "0010"
+msgid "Hmhmhm..."
+msgstr ""
+
+#. よくわかってんじゃねーか！
+#. ありがとよ！
+msgctxt "0011"
+msgid "I actually feel...pleased. How strange..."
+msgstr ""
+
+#. おー、これこれ！
+#. やっぱこれがねーとな！
+msgctxt "0012"
+msgid ""
+"<CLT 4>I get the impression that she liked it. That's good...\n"
+"<CLT>"
+msgstr ""
+
+#. これ１個あれば、
+#. １０日くらいはラクショーだぜ！
+msgctxt "0013"
+msgid "Thank you. This really means a lot to me."
+msgstr ""
+
+#. …マジでいいんだな？
+msgctxt "0014"
+msgid "How did you know I was interested in this?"
+msgstr ""
+
+#. 一度もらったもんは、
+#. 何があろうとぜってー返さねーからな！
+msgctxt "0015"
+msgid "You're an enigma, Makoto Naegi..."
+msgstr ""
+
+#. こ、これ…
+#. マジでもらっていいのか…？
+msgctxt "0016"
+msgid ""
+"<CLT 4>Seeing Kyoko so pleased with something I gave her\n"
+"makes me happy!\n"
+"<CLT>"
+msgstr ""
+
+#. お前、イイヤツだな…
+msgctxt "0017"
+msgid "Are you sure you're giving this to the right person?"
+msgstr ""
+
+#. これさえあれば、オレの体も
+#. 今日からステンレス並だぜ！
+msgctxt "0018"
+msgid "I have no need for this."
+msgstr ""
+
+#. すげーな！
+#. なんだこりゃ！？
+msgctxt "0019"
+msgid ""
+"<CLT 4>Uh-oh... I don't think she was too happy with that...\n"
+"<CLT>"
+msgstr ""
+
+#. タダでこんなもんもらっちまって
+#. なんかホント…わりぃな。
+msgctxt "0020"
+msgid "Do I even need to say it?"
+msgstr ""
+
+#. へへ、ありがとよ！
+msgctxt "0021"
+msgid "Obviously I don't need something like this."
+msgstr ""
+
+#. はぁ？
+#. これをオレに？
+msgctxt "0022"
+msgid ""
+"Frankly, I'm surprised you would even have something\n"
+"like this."
+msgstr ""
+
+#. んー…ま、しかたねーから
+#. もらっといてやるよ。
+msgctxt "0023"
+msgid "That's not a compliment, by the way."
+msgstr ""
+
+#. お、なんだコレ？
+#. もらっていいのか？
+msgctxt "0024"
+msgid ""
+"<CLT 4>I...think I made her mad. She probably thinks worse of\n"
+"me now...\n"
+"<CLT>"
+msgstr ""
+
+#. 誰かに売りつけりゃいい金になりそうだな…
+#. んじゃ、ありがたくいただくぜ！
+msgctxt "0025"
+msgid "Maybe not..."
+msgstr ""
+
+#. …まぁ、いらねーっつーなら
+#. もらっといてやってもいいぜ。
+msgctxt "0026"
+msgid "Yeah, I'm sure"
+msgstr ""
+
+#. あんまり腹の足しには
+#. なりそうもねーけどな。
+msgctxt "0027"
+msgid ""
+"<CLT 23>Are you sure you don't want to give her something?\n"
+"<CLT>"
+msgstr ""

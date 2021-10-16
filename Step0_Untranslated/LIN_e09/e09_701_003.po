@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. 推理ものとか…
+msgctxt "0004"
+msgid ""
+"Is this how they're trying to teach the importance of\n"
+"life? By watching chickens breed?"
+msgstr ""
+
+#. いいね！
+#. 謎解きはやっぱり楽しいよ。
+msgctxt "0005"
+msgid ""
+"I can't imagine what caused this school to fall into\n"
+"such depravity..."
+msgstr ""
+
+#. この島に来た時は謎だらけだったのに、
+#. 今やすっかりただののほほん修学旅行だしさ…
+msgctxt "0006"
+msgid ""
+"But I have to believe it's possible to return things\n"
+"to the way they used to be!"
+msgstr ""
+
+#. 少しくらい刺激を求めたって
+#. バチは当たらないだろう？
+msgctxt "0007"
+msgid ""
+"I'm sure we'll get our chance to take the most\n"
+"excellent classes!"
+msgstr ""
+
+#. 誰かが死ぬような事件が実際に起こる事を
+#. 期待するより、全然マシだよね！
+msgctxt "0008"
+msgid ""
+"Hahaha! I just can't help myself from looking forward\n"
+"to the future!"
+msgstr ""
+
+#. ホラーでも観るか
+msgctxt "0009"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. ホラーはいいよね。
+#. 現実味がないから、安心して楽しめるよ。
+msgctxt "0010"
+msgid ""
+"Perhaps if you observed your surroundings, you would\n"
+"know why!"
+msgstr ""
+
+#. いくらボクが不運に見舞われやすくても、
+#. 霊やゾンビに襲われる事はないからね！
+msgctxt "0011"
+msgid ""
+"Clearly they're raising plants in here. So some amount\n"
+"of humidity is necessary!"
+msgstr ""
+
+#. …たぶんだけど。
+msgctxt "0012"
+msgid "Not that ALL plants need humidity, of course."
+msgstr ""
+
+#. あ、殺人鬼とかは困るな…
+msgctxt "0013"
+msgid ""
+"But either way, this place isn't designed with humans\n"
+"in mind. It's a plant-first ecology!"
+msgstr ""
+
+#. アクションにしよう
+msgctxt "0014"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. アクション映画か…
+#. 別に、嫌いってわけじゃないんだけど…
+msgctxt "0015"
+msgid ""
+"Hrmm... I don't really have much experience with that\n"
+"kind of thing."
+msgstr ""
+
+#. あんまりパニックっぽいのは楽しめないんだよね。
+#. 他人事って気がしなくて。
+msgctxt "0016"
+msgid ""
+"Y-You must view everything as a challenge to overcome,\n"
+"Makoto! So...good luck!"
+msgstr ""
+
+#. ボクが実際に体験したことがあるのも
+#. けっこう出てくるしさ…
+msgctxt "0017"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0018"
+msgid "Wanna walk around a bit?"
+msgstr ""
+
+#. うーん…
+#. ボクは別に無くても構わないかな。
+msgctxt "0019"
+msgid ""
+"Walking is the perfect way to balance your mind and\n"
+"body!"
+msgstr ""
+
+#. だってポップコーンってさ…
+#. 実はあれけっこう、あなどれないよね。
+msgctxt "0020"
+msgid "And as students, we must always maintain both!"
+msgstr ""
+
+#. 緊迫した場面や感動的なシーンに限って
+#. 舌の根本に皮が張り付いて咳き込むとかさ…
+msgctxt "0021"
+msgid ""
+"Plus, walking helps strengthen the body as well. Two\n"
+"birds with one stone!"
+msgstr ""
+
+#. やっぱり出よう
+msgctxt "0022"
+msgid ""
+"So as long as we've got the energy, let's walk like\n"
+"we've never walked before!"
+msgstr ""
+
+#. あれ？
+#. 観たい映画がないのかい？
+msgctxt "0023"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. それなら無理にここにいる必要はないね。
+#. どこか他の場所にでも行こうか。
+msgctxt "0024"
+msgid "Well, it *is* a lovely shade of blue, but..."
+msgstr ""
+
+#. ボクも映画は嫌いじゃないけど、
+#. ２時間黙って座ってるのはちょっともったいないし。
+msgctxt "0025"
+msgid ""
+"...it's not real at all! They've made a complete fool\n"
+"of you!"
+msgstr ""
+
+#. 今日はキミと過ごすって決めてるし、
+#. ボクは別にどこでも構わないよ。
+msgctxt "0026"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. ホットドッグも捨てがたい
+msgctxt "0027"
+msgid ""
+"It sounds like you're interested in the Spanish custom\n"
+"of the \"siesta.\""
+msgstr ""
+
+#. うーん…
+msgctxt "0028"
+msgid ""
+"But Spain's lifestyle is wholly inapplicable to the\n"
+"Japanese way of doing things!"
+msgstr ""
+
+#. それって絶対に、映画を観ながら
+#. 食べないとだめなのかな…
+msgctxt "0029"
+msgid "What use is there in thoughtless napping!?"
+msgstr ""
+
+#. ボクはどうせ見るなら、映画に集中したいけどな。
+msgctxt "0030"
+msgid ""
+"But I heard a ten-minute nap once a day can help you\n"
+"feel more awake and alert..."
+msgstr ""
+
+#. 観るより撮る方が…
+msgctxt "0031"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. あ、それは楽しそうだね。
+msgctxt "0032"
+msgid "It's a sprinkler..."
+msgstr ""
+
+#. そういえば、この島っていろんなところに
+#. 監視カメラがあるけど…
+msgctxt "0033"
+msgid "Yup, that's definitely a sprinkler."
+msgstr ""
+
+#. あの映像、修学旅行のお土産に
+#. くれたりしないのかな。
+msgctxt "0034"
+msgid ""
+"Ngh—! Makoto, you're not thinking of using that to get\n"
+"into some kind of...m-mischief, are you!?"
+msgstr ""
+
+#. つなぎ合わせたら、なんかすごい
+#. ドキュメンタリー映画になりそうだよね。
+msgctxt "0035"
+msgid ""
+"...No no no, you're not the kind of person who would\n"
+"ever think such thoughts!"
+msgstr ""
+
+#. <CLT 04>確かにそれは面白そうだな。<CLT>
+msgctxt "0036"
+msgid ""
+"I'm sorry, Makoto! Please forgive me for ever doubting\n"
+"you, even for an instant!"
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0037"
+msgid ""
+"<CLT 4>Wh-What is there to forgive? What did you think I was\n"
+"gonna do...?\n"
+"<CLT>"
+msgstr ""
+
+#. あーわかるよ。
+#. どうしても耐えられない時ってあるよね。
+msgctxt "0038"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. どんなに画面が派手でも音が大きくても、
+#. まぶたが閉じていくのをなぜか止められないんだよ！
+msgctxt "0039"
+msgid ""
+"Are you talking about how little meat they have on\n"
+"them? Indeed..."
+msgstr ""
+
+#. そして、ただでさえよくわからなくてつまらない映画が
+#. 途中寝ちゃった事で更にわからなくなる…
+msgctxt "0040"
+msgid "But what we CAN eat, is these chickens' eggs!"
+msgstr ""
+
+#. これ以上にない、最悪の負のスパイラルだよ！
+msgctxt "0041"
+msgid "Wait, they might all be males! In which case..."
+msgstr ""
+
+#. 一番前に座ろう
+msgctxt "0042"
+msgid "..."
+msgstr "..."
+
+#. 一番前っていいよね…
+#. 全てを独占した気になれるしね…
+msgctxt "0043"
+msgid ""
+"Well, where there's a will there's always a way! If it\n"
+"comes down to it, we gotta do what we gotta do!"
+msgstr ""
+
+#. でもボクにとってはその代償が
+#. 大きすぎる事もたまにあってさ…
+msgctxt "0044"
+msgid "I understand that now!"
+msgstr ""
+
+#. 今までに首を３回、
+#. 腰を７回痛めた事があるよ…
+msgctxt "0045"
+msgid ""
+"See how the school teaches us!? It just taught us that\n"
+"we only survive through the sacrifice of others!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "Do you like this place?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid "Well, more than just this particular location..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid ""
+"...I don't dislike observing plants. I think there's\n"
+"definitely a lot to learn from places like this."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "So make sure you observe plants as much as possible!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

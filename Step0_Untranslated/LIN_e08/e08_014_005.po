@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ぐぬぬぬぬぬ…
+#. 今日は髪のまとまりが悪いぞな…
+msgctxt "0001"
+msgid "What's wrong? Did you need something?"
+msgstr ""
+
+#. チャームポイントが…
+#. チャームじゃなくなってるっす～！
+msgctxt "0002"
+msgid "Spend some time with Chihiro"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0003"
+msgid "Go see who else is around"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0004"
+msgid ""
+"<CLT 4>Hmm... Should I hang out with Chihiro for a while?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どうする？
+#. 澪田と一緒に過ごすか？<CLT>
+msgctxt "0005"
+msgid "You want to sit down and talk for a while?"
+msgstr ""
+
+#. いつもと同じとか思ってるっすね？
+#. 実は中身が違ってるんすよ…
+msgctxt "0006"
+msgid ""
+"<CLT 4>I spent some time talking with Chihiro...\n"
+"<CLT>"
+msgstr ""
+
+#. 創ちゃんに、この髪型の極意を
+#. 伝授して差し上げちゃうよ！
+msgctxt "0007"
+msgid ""
+"<CLT 4>Chihiro and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>伝授という建前で、
+#. 澪田が髪を整えるのに付き合わされた…<CLT>
+msgctxt "0008"
+msgid "Yes, definitely"
+msgstr ""
+
+#. <CLT 04>澪田と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0009"
+msgid "Not really, no"
+msgstr ""
+
+#. 渡す
+msgctxt "0010"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Chihiro a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

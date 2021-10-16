@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ネズミー城に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the dining hall...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ここは、島全体が遊園地になっているらしい。<CLT>
+#. <CLT 04>色々と突っ込んではいけない感じのデザインだ…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>This is the one place where we all spend a lot of time\n"
+"together.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Do you like Japanese or Western food?"
+msgstr ""
+
+#. ジェットコースターに乗ろう！
+msgctxt "0004"
+msgid ""
+"Umm...as long as the food is tasty, I'm fine with\n"
+"either one."
+msgstr ""
+
+#. あったり前田のボクサーブリーフっすよ！
+#. ぶっちゃけそのために来たようなもんっす！
+msgctxt "0005"
+msgid "Sorry, that's probably not a very good answer..."
+msgstr ""
+
+#. ジェットコースターヘビロテは
+#. 基本中の基本っすからね！
+msgctxt "0006"
+msgid "But I just really like eating tasty food!"
+msgstr ""
+
+#. しかぁし！
+#. まずは全乗り物を制覇するのが先なのでっす！
+msgctxt "0007"
+msgid "Want something to drink?"
+msgstr ""
+
+#. さぁぁ、試合開始っすよぉぉぉ！
+msgctxt "0008"
+msgid "What...!?"
+msgstr ""
+
+#. お化け屋敷に入ろう
+msgctxt "0009"
+msgid ""
+"Th-Thank you... I was just thinking about how thirsty\n"
+"I was."
+msgstr ""
+
+#. おおおっ！
+#. 早速っすか！？
+msgctxt "0010"
+msgid "Sorry I keep making you worry about me..."
+msgstr ""
+
+#. 唯吹のいっそ清々しいほどのパニックぶりを
+#. 見せつけちゃうっすか！？
+msgctxt "0011"
+msgid "When I'm starving, it's burger time!"
+msgstr ""
+
+#. いやー、唯吹とお化け屋敷を選ぶなんて
+#. 創ちゃんってば勇者っすなー！
+msgctxt "0012"
+msgid "You really like hamburgers, huh?"
+msgstr ""
+
+#. それじゃまずは発声練習からっすよ。
+#. 腹の底から悲鳴をシャウトっす！！
+msgctxt "0013"
+msgid "But don't you get super full after just one?"
+msgstr ""
+
+#. メリーゴーランドに乗ろう
+msgctxt "0014"
+msgid ""
+"If I did that, I wouldn't have any more room for\n"
+"dinner..."
+msgstr ""
+
+#. いきなりそれっすか…
+msgctxt "0015"
+msgid ""
+"<CLT 4>In Chihiro's case, that's not too surprising...\n"
+"<CLT>"
+msgstr ""
+
+#. 別に嫌いじゃないっすけど、
+#. 疲れた頃の休憩タイムにしたいっていうか…
+msgctxt "0016"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. まずはもっとアクティブなのから攻めたいっす…
+msgctxt "0017"
+msgid "So what do you like to do at night?"
+msgstr ""
+
+#. よし、ダッシュだ
+msgctxt "0018"
+msgid "Hmm... Let's see..."
+msgstr ""
+
+#. いやっふー！
+msgctxt "0019"
+msgid ""
+"Mostly come up with ideas for new computer programs,\n"
+"I guess."
+msgstr ""
+
+#. …って、さすがに園内は走っちゃダメっす。
+#. 転んで怪我でもしたら台無しっすからね。
+msgctxt "0020"
+msgid ""
+"Other than that, I don't really do anything all that\n"
+"interesting..."
+msgstr ""
+
+#. それに、あちこちキョロキョロしながら
+#. 歩くのも楽しいもんっすよ。
+msgctxt "0021"
+msgid "Do you make food for yourself?"
+msgstr ""
+
+#. というわけで、
+#. はやる気持ちはおさえつつ、競歩でＧＯ！
+msgctxt "0022"
+msgid ""
+"Not really. I just eat whatever gets put in front of\n"
+"me..."
+msgstr ""
+
+#. 迷いそうだな
+msgctxt "0023"
+msgid "But I do like to bake once in a while."
+msgstr ""
+
+#. 創ちゃんってば心配症っすねー。
+#. そんなの全然問題ないっす！
+msgctxt "0024"
+msgid "Oh!"
+msgstr ""
+
+#. そもそも唯吹はいつでもどこでも迷ってるので
+#. オールオッケー！
+msgctxt "0025"
+msgid ""
+"But I'm definitely not good enough to make anything\n"
+"for everyone here."
+msgstr ""
+
+#. むしろ迷ってどこに出るかわからないってのも
+#. お楽しみのひとつっすからね！
+msgctxt "0026"
+msgid "Please don't expect too much from me..."
+msgstr ""
+
+#. ウジウジ考えるより、外に出て感じろっすよ！
+#. さぁさぁ、出発ぅぅぅー！
+msgctxt "0027"
+msgid "Let's pack a lunch and go somewhere."
+msgstr ""
+
+#. 疲れそうだな
+msgctxt "0028"
+msgid "Ahh, that sounds amazing!"
+msgstr ""
+
+#. うあー！
+#. なにを枯れきった発言してるっすか！
+msgctxt "0029"
+msgid ""
+"It seems like picnic food always tastes way better\n"
+"than regular food."
+msgstr ""
+
+#. 今日は唯吹と全力で遊ぶ約束っすよ！
+msgctxt "0030"
+msgid ""
+"You need to make a bunch of different stuff to make\n"
+"everyone happy. Sandwiches, rice balls, all that..."
+msgstr ""
+
+#. 手でも繋ごうか？
+msgctxt "0031"
+msgid ""
+"The lunch box becomes like a little treasure box,\n"
+"overflowing with goodies!"
+msgstr ""
+
+#. おおっ！
+#. 創ちゃんってば、ダイタン発言！
+msgctxt "0032"
+msgid ""
+"Eh-heh... Okay, then where should we go? I think the\n"
+"garden would be pretty nice."
+msgstr ""
+
+#. …でもでも唯吹も今、
+#. おんなじこと言おうと思ってたっす。
+msgctxt "0033"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""
+
+#. この雰囲気の中で繋がなかったら
+#. 恋愛のカミサマのバチが当たるっすからねぇ。
+msgctxt "0034"
+msgid "What should we talk about...?"
+msgstr ""
+
+#. 汗ばんできても離さないから覚悟するっす！
+msgctxt "0035"
+msgid "..."
+msgstr "..."
+
+#. あの城に登ろう
+msgctxt "0036"
+msgid "Sorry... You must be really bored, huh?"
+msgstr ""
+
+#. おお！
+#. さすが創ちゃん、目の付け所がディープっす！
+msgctxt "0037"
+msgid "I'm really sorry for not being fun enough..."
+msgstr ""
+
+#. もーっちろん行くっすよー！
+#. 乗り物が一段落したら登るっすよー！
+msgctxt "0038"
+msgid "Is that clock stopped...?"
+msgstr ""
+
+#. あそこから全体を見渡して、狙いをつけたら
+#. もう一周攻略開始っす！
+msgctxt "0039"
+msgid "Huh? Yeah, it looks like it."
+msgstr ""
+
+#. さぁさぁ、どんどん行くっすよー！
+msgctxt "0040"
+msgid ""
+"But we don't have classes, so we don't need to worry\n"
+"about the time. So that's good, I guess..."
+msgstr ""
+
+#. マスコットはどこだ？
+msgctxt "0041"
+msgid ""
+"Still...I wish we could hurry up and get back to the\n"
+"world where we *do* have to worry about time."
+msgstr ""
+
+#. いやいやいや！
+#. そんなのに構ってるヒマはないっす！
+msgctxt "0042"
+msgid "Should we clean up a little?"
+msgstr ""
+
+#. あれは乗り物への混雑を緩和するための
+#. 客寄せっすから釣られてる場合じゃないっす！
+msgctxt "0043"
+msgid "Yeah, good idea."
+msgstr ""
+
+#. <CLT 04>混雑は…してないけどな。<CLT>
+msgctxt "0044"
+msgid ""
+"We all use this area, so we all need to do our best to\n"
+"keep it clean."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "I guess you understand that better than anyone, huh?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid ""
+"<CLT 4>Hmm... What to do...?\n"
+"<CLT>"
+msgstr ""

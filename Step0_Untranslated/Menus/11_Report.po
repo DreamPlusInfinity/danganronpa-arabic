@@ -1,0 +1,812 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 自分の事をやけに卑下するが、のんきで明るい。
+#. 付き合いも良く、一緒にいると気持ちを
+#. 軽くしてくれる彼と、これから少しずつでも
+#. わかり合っていきたいと思うのだった。
+msgctxt "0001"
+msgid ""
+"A student must be a studying professional!\n"
+"That's my motto. Studying is necessary even to\n"
+"have everyday conversations with other students!"
+msgstr ""
+
+#. 私利私欲のために人を騙し陥れようとしている
+#. わけではない。だからこそ不気味。
+#. 屈託ない笑顔の彼が言っている事は
+#. なにひとつ理解できない…
+msgctxt "0002"
+msgid ""
+"School itself may observe holidays, but there's\n"
+"no such thing as vacation for a student! That's\n"
+"my motto. I wear my uniform every single day!"
+msgstr ""
+
+#. 先に体験した不幸が大きければ大きいほど、
+#. 後でやってくる幸運は大きなものになる。
+#. それが彼の"超高校級の幸運"。
+#. だから何が起ころうと明るく振る舞えるのか…
+msgctxt "0003"
+msgid ""
+"Any problem you encounter in life can be overcome\n"
+"with extra effort! That's my motto. And to prove it,\n"
+"I'm going to use my extra effort to prove that the\n"
+"average man is greater than any genius!"
+msgstr ""
+
+#. 語る過去の"幸運"と
+#. その前触れの"不幸"は壮絶な物ばかり。
+#. 彼が希望を盲信するのには
+#. それなりの、どうしようもない理由があるのだ。
+msgctxt "0004"
+msgid ""
+"I've resolved to learn the lesson of my genius\n"
+"grandfather, and rely on my own efforts to surpass\n"
+"anything he ever did...!"
+msgstr ""
+
+#. キミの中に眠る希望を心から愛している。
+#. そう語る彼の、これまでの話の
+#. どれが真実で嘘だったのだろう？
+#. 望み通りの希望を手にしたら彼はどうするのか…
+msgctxt "0005"
+msgid ""
+"My lineage, intelligence, figure, athletic\n"
+"ability—they are all ultimate. Which is to\n"
+"say, I am the Ultimate Perfection."
+msgstr ""
+
+#. 他者を圧倒する体格と溢れる自信の持ち主。
+#. 弱者の面倒を見るのが義務、と言い放つなど
+#. もの凄い上から目線ではあるが
+#. 悪いヤツではないようだ。
+msgctxt "0006"
+msgid ""
+"I am personally worth over 4 billion dollars,\n"
+"which I accrued on the stock market, separate\n"
+"from my Togami family assets. Frankly, life is\n"
+"too easy."
+msgstr ""
+
+#. 過去の記憶など無くても日向は日向、
+#. その今ある可能性を信じ助手に望んだ。
+#. かつての彼は無力だった、しかし今は違う。
+#. その言葉の意味はなんなのか…？
+msgctxt "0007"
+msgid ""
+"I have gone to battle and emerged victorious.\n"
+"*That* is why I am one of the chosen. Those\n"
+"who are \"chosen\" from birth have no concept\n"
+"of what that truly means."
+msgstr ""
+
+#. ファーストフードのように、
+#. そこに行けばいつも同じ物がある安心感。
+#. その価値に気付かず当然と受け止める日向は、
+#. 彼よりも恵まれているという。
+msgctxt "0008"
+msgid ""
+"He doesn't want to fight, but neither does he flee\n"
+"from battle. I must say, I don't understand that\n"
+"Makoto. But if he can make it to the end, I'm\n"
+"afraid I'll be forced to acknowledge him..."
+msgstr ""
+
+#. 十神一族の"特殊な世襲制度"を
+#. 最弱から勝ち上がり御曹司となった、
+#. 他の誰よりも確かな存在。それが彼なのだ。
+#. しかし、その語り口にはどこか違和感がある…
+msgctxt "0009"
+msgid ""
+"As the champion of my family's unique inheritance\n"
+"system, I have become the chosen. Now I carry with\n"
+"me the responsibility and resolve to claim victory\n"
+"after victory..."
+msgstr ""
+
+#. 生まれたときから意味も無い人間ゆえに
+#. 誰かになる事でしか生きられなかった彼。
+#. これからは自分自身として生きる為に、すべてが
+#. 終わったら日向に話したい事があるという。
+msgctxt "0010"
+msgid ""
+"Ain't nobody can hold a candle to us! Feared and\n"
+"respected wherever we go! Daiya, my bro, and me,\n"
+"Mondo! Together, we're hard as diamond! We're\n"
+"the Crazy Diamonds!"
+msgstr ""
+
+#. 言葉は難解だが、言っている内容は理解できる。
+#. "超高校級の飼育委員"の『わくわく飼育日誌』に
+#. 興味を示した日向に、ここを出られたら
+#. 特別に教えてやると約束してくれた。
+msgctxt "0011"
+msgid ""
+"Whenever I get tense or nervous, I kinda...\n"
+"start shouting. So asking girls out is kind\n"
+"of a problem. Right now I'm in the middle of\n"
+"a ten-game losing streak..."
+msgstr ""
+
+#. やはり言葉は難解だが、
+#. その全てに動物に対する深い愛情が感じられる。
+#. 動物を飼うことの
+#. 責任の重さを改めて考えさせられた。
+msgctxt "0012"
+msgid ""
+"I'm totally a dog person, ya know. I used to have a\n"
+"maltese named Chuck. But once he reached nine years\n"
+"old...that was it."
+msgstr ""
+
+#. 言葉を話すものはいつか必ず裏切る。
+#. そういう彼だが、お前を裏切るつもりなんてない
+#. という日向に少し違う笑みを見せた。
+#. 少しずつ理解し合えているのだろうか…
+msgctxt "0013"
+msgid ""
+"When I thought about what would happen after\n"
+"I graduated, I got kinda...scared. But after\n"
+"talking to Makoto, I decided I'm gonna be the\n"
+"world's best carpenter!"
+msgstr ""
+
+#. 母親の不味い料理…という毒を日々取り込んで
+#. 全身が毒となってしまった、という設定。
+#. 母を泣かせない為に頑張っていた、
+#. 本当は優しい彼に触れられる存在とは…？
+msgctxt "0014"
+msgid ""
+"I friggin' hate studying—I got into this school on\n"
+"a sports scholarship. I don't really like baseball,\n"
+"I *hate* practicing, but I'm good at it. And hey,\n"
+"ladies love a sports star!"
+msgstr ""
+
+#. 彼をただ仲間だと思っていると言う日向を、
+#. 彼に触れることができる"特異点"と認めた。
+#. そして握手という契約を結び、
+#. 許可なく死ぬことは許さんと呟くのだった…
+msgctxt "0015"
+msgid ""
+"I figured I could use my baseball fame as a stepping\n"
+"stone to become the Ultimate Musician and take my\n"
+"hardcore punk style to the top of the global charts!\n"
+"That was the dream, anyway..."
+msgstr ""
+
+#. 実家は自転車屋だが、生まれた時からガラクタや
+#. 工具だのに囲まれていたので何でも直せる。
+#. ずっと仕事を手伝っていたので、島に来たときは
+#. みんなで旅行だとワクワクしていた。
+msgctxt "0016"
+msgid ""
+"Once I stopped playing baseball, I realized...\n"
+"I actually kinda like it! So I think I'll go\n"
+"back to my old school and get back into it again..."
+msgstr ""
+
+#. 車やバイクは乗るものじゃなく、
+#. 組み立ててエンジンをブン回す物…？
+#. 作りかけのバイクもあるが、
+#. やっぱり乗るつもりはないようだ…
+msgctxt "0017"
+msgid ""
+"As the Ultimate Fanfic Creator, it's my job to spread\n"
+"the gospel of fanfic! I want to start going to cons,\n"
+"giving lectures on the power of fanfic."
+msgstr ""
+
+#. 将来の夢は宇宙ロケットの技師！
+#. ただ問題は、隣に女の子乗せては走れないこと。
+#. そこはバイクででも我慢しとけという日向に、
+#. 急に態度を変えてしまった…
+msgctxt "0018"
+msgid ""
+"I used to focus only on Princess Piggles single-setting\n"
+"events, but I'd really like to start taking part in more\n"
+"free-for-all stuff!"
+msgstr ""
+
+#. モノクマのルールがなんだ、少なくともお前を
+#. 信じてるし、お前やみんなを裏切ったりしない。
+#. そう言いきった日向に、不安さだけではない
+#. 何かを抱えた様子で立ち去ってしまった。
+msgctxt "0019"
+msgid ""
+"Ever since we got locked in here, I've been going\n"
+"through Diet Coke withdrawls. I've even started\n"
+"hallucinating that Princess Piggles is here with me...!"
+msgstr ""
+
+#. 今の彼は、親友に裏切られた過去から逃げ、
+#. 誰も信じないで生きる為に演じていたもの。
+#. その弱さを克服するきっかけをくれた日向に
+#. 何があっても信じるダチだと告げた。
+msgctxt "0020"
+msgid ""
+"When I fell in love with Princess Piggles, I was reborn as\n"
+"a fanfic creator, which has let me meet all kinds of \n"
+"other fanfic authors. She doesn't have a love interest of \n"
+"her own, so I think it's about time I...embarrass her."
+msgstr ""
+
+#. 料理に対して並々ならぬ情熱を持っている彼。
+#. 実家は定食屋で、料理人となる定めに生まれた。
+#. 度々訪れる一家の危機を救うため、料理
+#. デスマッチなどの修羅場をくぐってきたらしい。
+msgctxt "0021"
+msgid ""
+"Instead of always creating fanfic from other people's\n"
+"work, I've decided to try and inspire fanfic of my own!\n"
+"I'm counting on Makoto to become my historian, my\n"
+"narrator, my...friend!"
+msgstr ""
+
+#. 金がすべてじゃない、
+#. もっと先の事も大切と言いつつも
+#. 料理人としての目標はやっぱり金と名声…？
+#. そこには、隠したい本音があるようだ。
+msgctxt "0022"
+msgid ""
+"I'm the Ultimate Clairvoyant! 20% success rate\n"
+"right here, minimum! A mere thousand dollars an\n"
+"hour, step right up!"
+msgstr ""
+
+#. 表現は微妙ながら、食材に対する態度は真摯。
+#. 和食が食べたいという日向に、
+#. 気が向いたらド定番の肉じゃがを作ってくれると
+#. 妙に上機嫌に約束してくれた。
+msgctxt "0023"
+msgid ""
+"Fortune-telling has a crapton of techniques and secret\n"
+"arts to it, but the number one thing is inspiration!\n"
+"I hate the occult, but hey! Business is business!"
+msgstr ""
+
+#. 約束の肉じゃがは、完璧な味の
+#. ハーモニーを奏でつつ、何か忘れていたことを
+#. 思い出させてくれる味だった。
+#. そんな彼の得意料理はひょっとして…？
+msgctxt "0024"
+msgid ""
+"I'm tellin' ya, the skyfish is flying around all over\n"
+"Kamata! I know it sounds like I talk about the occult\n"
+"a lot, but I really do hate it!"
+msgstr ""
+
+#. 肉じゃがは、実は彼の実家のレシピだった…
+#. 日向との交流を通じ、一番大切な人の笑顔のため
+#. という料理を始めた本当の理由を思い出して、
+#. それを夢と考えるようになった。
+msgctxt "0025"
+msgid ""
+"I'm so stoked Makoto said he'd go to the seminar\n"
+"in exchange for that totally legit crystal ball!\n"
+"That quota can suck it!"
+msgstr ""
+
+#. すべての道はマネージャーに通ず…
+#. 多くの一流アスリートを送り出してきた彼は
+#. マネージャーという立場に
+#. 大きな自信と誇り、信念を持っている。
+msgctxt "0026"
+msgid ""
+"I'm super proud of the OOParts collection I've built\n"
+"from all my online shopping. And I'll fight anyone\n"
+"who says stories about ancient aliens and inexplicable\n"
+"technology are anything like the occult!"
+msgstr ""
+
+#. 日向の身体能力を見抜き、
+#. 鍛えればいい選手になると勧めてくる。
+#. 見て触るだけで判断できるのは、
+#. "超高校級のマネージャー"の能力なのか…？
+msgctxt "0027"
+msgid ""
+"I flunked three times and escaped into this school\n"
+"thanks to some serious trouble. I wanted to sell\n"
+"Makoto's organs, his identity, whatever it took\n"
+"to get free..."
+msgstr ""
+
+#. 発言は微妙だが、
+#. マネージャーとしての意見は真っ当。
+#. さらに独自の指圧法を駆使して
+#. 選手のトレーニングを支えているのだという。
+msgctxt "0028"
+msgid ""
+"The thing I remember about Makoto most from junior\n"
+"high was when that crane got stuck in our school\n"
+"pond and he helped get it free. I always wanted a\n"
+"chance to talk to him after that..."
+msgstr ""
+
+#. 彼にマネージャーとしての道を開いた、
+#. ある少年との出逢いを打ち明けられる。
+#. マネージャーとは、選手と一緒でなくても
+#. 勝利も敗北も分かち合う事ができる存在なのだ…
+msgctxt "0029"
+msgid ""
+"I'm so busy these days, I don't have time for a\n"
+"boyfriend. I don't even have a crush or anything.\n"
+"Although...there *is* someone I'm interested in.\n"
+"But I need to put those feelings on hold..."
+msgstr ""
+
+#. この島を出るという試合に勝つ為に、
+#. みんなのマネージャーになるという彼。
+#. その後押しは、前向きな気持ちと共に今まで
+#. 眠っていた何かを目覚めさせてくれたようだ。
+msgctxt "0030"
+msgid ""
+"(Most people worry about what they might lose in\n"
+"life. But she seems more concerned with what she's\n"
+"already lost...)"
+msgstr ""
+
+#. 夫婦喧嘩でも本気で殺しにいくような
+#. 武闘派で有名な九頭龍一家。
+#. 彼もその跡取りとして、小学２年生の時には
+#. もう喧嘩に負けても泣かない男になっていた。
+msgctxt "0031"
+msgid ""
+"(When she talks about her past, there are more\n"
+"questions than answers. And the more she says\n"
+"about herself, the more questions it raises...)"
+msgstr ""
+
+#. 甘い物好きで好物はかりんとうだが
+#. 極道らしくないと隠そうとしている一面も。
+#. また牛乳が飲めず身長が伸び悩んでいる事を
+#. 気にしている姿も、年相応に見えるのだった。
+msgctxt "0032"
+msgid ""
+"I have feelings, just like anyone else. I've simply\n"
+"learned not to show them, so that no one can ever have\n"
+"that advantage over me."
+msgstr ""
+
+#. 大事な女を２人もなくしてしまった彼。
+#. その１人、妹はまさに"超高校級の妹"、
+#. 非の打ち所のない女。
+#. しかし彼にとってはただの可愛い妹だったのだ…
+msgctxt "0033"
+msgid ""
+"If you get to know someone too well, it can cloud your\n"
+"judgment. The gloves I wear serve as a daily reminder\n"
+"never to make the same mistake again..."
+msgstr ""
+
+#. ここを出たら墓参りに行く、そしてペコを弔う。
+#. ペコや妹、それに…この修学旅行で犠牲になった
+#. みんなの死を無駄にしない為に
+#. 絶対に生きて島を出る。
+#. そう語る彼は、成長した男の顔をしていた。
+msgctxt "0034"
+msgid ""
+"Getting sick is for wimps! When it gets cold, I shed my\n"
+"layers! Yeah, I hear when people whisper behind my\n"
+"back and call me a super spaz, but so what!?"
+msgstr ""
+
+#. 初めての友達だという日向と、兄弟の杯を交わす。
+#. これは、ペコに救われた命を分けあたえる、
+#. 一緒に生きて帰るための誓いの杯だが
+#. 島を出たら本当に弟分にならないかと誘われた。
+msgctxt "0035"
+msgid ""
+"The best part of sports isn't winning, it's the fight!\n"
+"So I wanna be part of the toughest fight possible—the\n"
+"fight for the gold! Even if that makes me a super gold\n"
+"spaz, I'm gonna go for it!"
+msgstr ""
+
+#. 体操をやっている理由はお金のため。
+#. 子どもの頃から、パルクールを駆使して
+#. 街中を逃走する生活をしていたらしい。
+#. 無茶苦茶だけど、その陽気さは羨ましい…
+msgctxt "0036"
+msgid ""
+"When you run out of energy, you need sugar. That's why\n"
+"I love donuts! And so does the world. No, the entire\n"
+"universe! Donuts are the lifeblood of all humanity!\n"
+"...Right?"
+msgstr ""
+
+#. あっけらかんな態度とは裏腹に、
+#. 語る過去は日本とは思えないほど荒んだもの。
+#. 島の生活は、クズの掃き溜めのようだった
+#. 場所より断然マシだという。
+msgctxt "0037"
+msgid ""
+"Ramen's totally a snack! A real man doesn't bellyache\n"
+"about \"oh boo-hoo, this has so many calories!\" When it\n"
+"comes to food...don't get in my way."
+msgstr ""
+
+#. 働かない親に代わり、
+#. たくさんの弟妹たちを養っていた。
+#. バイト先でスカウトされて体操選手に。
+#. おかげで家を出て、弟妹と一緒に暮らせている。
+msgctxt "0038"
+msgid ""
+"(She seems really obsessed with her weight these days.\n"
+"She's trying to stick to a diet, but it must be really\n"
+"hard for her...)"
+msgstr ""
+
+#. 迷いや不安は弱さだ、
+#. 自分はそんなに弱くないから悩みなんてない。
+#. そういう彼女だが、お化けが苦手という
+#. 一面も持っているようだ。
+msgctxt "0039"
+msgid ""
+"I've never been in love, so my feminine side hasn't\n"
+"awakened. I need to do some practice runs! But after\n"
+"talking to Makoto, I realized maybe that's not the\n"
+"way to do things..."
+msgstr ""
+
+#. 弱肉強食の世界を１人で生き抜いてきた彼女。
+#. しかし日向の言葉とぬくもりに
+#. 弱さを乗り越える本当の強さや
+#. 人との繋がり、絆を意識し始めるのだった。
+msgctxt "0040"
+msgid ""
+"I'm the Ultimate Writing Prodigy, and romance is\n"
+"my area of expertise. Makoto's straightforward\n"
+"nature is, frankly, blinding."
+msgstr ""
+
+#. 彼女にとっては人生がゲーム。
+#. だからこそ殺し合いなんてのは駄目。
+#. 楽しくなくちゃゲームじゃないし、勝っても
+#. 負けても何かが残らなきゃ意味が無いから…
+msgctxt "0041"
+msgid ""
+"I'm syndicated across the country, so I have to\n"
+"write while I study. Everything I write about is\n"
+"an utter delusion, of course. I'm aware that maybe\n"
+"I went too far..."
+msgstr ""
+
+#. 誰でも知ってるひな祭りを知らない彼女。
+#. そこにはどんな事情があるんだろうか…？
+#. 日向が色々教えてくれる事を喜び、
+#. またどこか行こうとせがまれて、約束する。
+msgctxt "0042"
+msgid ""
+"I was asked on a date once. But as it turns out,\n"
+"he'd lost a dare. I can't begin to describe the\n"
+"emotional trauma that caused..."
+msgstr ""
+
+#. 生き物は苦手、感情とかを推測して
+#. 選択しなきゃいけないようなのは難しい。
+#. そう語る彼女だが…
+#. そのままでは寂しいのではないだろうか？
+msgctxt "0043"
+msgid ""
+"My powers of delusion are in a slump, but when I\n"
+"remembered why I started writing in the first place,\n"
+"I was suddenly inspired to try and write something\n"
+"that wasn't a love story!"
+msgstr ""
+
+#. プログラマーの父がいるようだが
+#. 何故か隠そうとする。
+#. 偶然、触れた日向の体に素直に感心したり…
+#. やっぱり世間知らずな所があるようだ。
+msgctxt "0044"
+msgid ""
+"My very first I-Novel turned out to be a shocking\n"
+"masterpiece. So with Makoto standing in front of me,\n"
+"I took the opportunity—I called him my friend."
+msgstr ""
+
+#. もっと色々知りたい、そうすれば色々な事が
+#. 理解できるようになるから、と願う彼女。
+#. 全部教えてやると約束する日向に、ここを出ても
+#. 私の事を忘れないでね、と呟くのだった。
+msgctxt "0045"
+msgid ""
+"It's not that I kill for any particular reason.\n"
+"\"It's easier to kill than to try not to!\" That's\n"
+"what a certain murderous fiend has to say about that!"
+msgstr ""
+
+#. 小さな専制君主国家、ノヴォセリック王国王女。
+#. 王国は豊かで、国民の王家への信頼も厚い。
+#. 今も王城に住むような由緒正しい血統だが、
+#. なぜか日本のドラマオタクのようだ…
+msgctxt "0046"
+msgid ""
+"There's no particular reason or catalyst for me\n"
+"becoming a split personality. They say this kind\n"
+"of thing can happen to anyone!"
+msgstr ""
+
+#. ノヴォセリック王国には、恋人同士は
+#. ２人でマカンゴを見せ合うまで結ばれては
+#. ならない、というしきたりがある。
+#. どうやら、想像以上に未知の国のようだ…
+msgctxt "0047"
+msgid ""
+"I told Makoto that if I could be with Master,\n"
+"I wouldn't have to kill anymore. Makoto jumped\n"
+"at the chance to play Cupid, after this whole\n"
+"\"insane murder school\" thing was resolved."
+msgstr ""
+
+#. 王族として見識を深め、悪用される
+#. 古いしきたりを廃していこうと努力している。
+#. 語る文化の違いは理解できないものの、国民に
+#. とっては素晴らしい王女様に間違いないだろう。
+msgctxt "0048"
+msgid ""
+"I am well trained in mixed martial arts. My goal\n"
+"is to claim the title of strongest human on Earth,\n"
+"but I am all too aware of those who stand in my way..."
+msgstr ""
+
+#. 祖国では、人である前に王女である彼女。
+#. 日本でもやはり普通の女の子にはなれない…
+#. そんな彼女に日向は、自分達にとっては
+#. 単なる同級生の女の子だと告げた。
+msgctxt "0049"
+msgid ""
+"The Ogami family has maintained a dojo for over\n"
+"three centuries. I continue to train so that I\n"
+"can protect my legacy, even if it means overthrowing\n"
+"my own master—and father."
+msgstr ""
+
+#. 祖国に伝わる英雄の姿に符合する日向を
+#. 運命の人とだという彼女。
+#. 島を脱出したら、共に黄金のマカンゴを捕らえ
+#. 勇者として国を統べて欲しいと言われた。
+msgctxt "0050"
+msgid ""
+"I find myself growing impatient in this school which\n"
+"has become a prison. But I've realized that enduring\n"
+"this hardship grants me yet more strength..."
+msgstr ""
+
+#. 組飴や和三盆のような可愛いものや
+#. 職人手作りの芸術のような和菓子が好き！
+#. …毒舌や嘘泣きに振り回されつつも、
+#. 西園寺の事が少しわかった気がした。
+msgctxt "0051"
+msgid ""
+"Kenshiro is my lifelong rival. He is the strongest\n"
+"man on Earth, and inheritor of the assassination art.\n"
+"However, he is more to me than just that..."
+msgstr ""
+
+#. 世の中は、選ばれた血統の人間と
+#. それに仕える奴隷で成り立っている。
+#. そんな選民思想の持ち主。
+#. もちろん彼女は選ばれた血統。
+msgctxt "0052"
+msgid ""
+"Kenshiro, my first love...is sick. When he recovers,\n"
+"and I defeat him, I will finally earn the right to\n"
+"call myself the strongest human alive. So I must\n"
+"continue preparing for that day..."
+msgstr ""
+
+#. 日本舞踊の家元、西園寺家の内部は複雑で
+#. 彼女は家名を嫌い寂しい想いをしている？
+#. それとも、それはすべて嘘で演技？
+#. 嘘泣きに振り回されて真相は謎に…
+msgctxt "0053"
+msgid ""
+"The only thing that may overwhelm strategy...is luck.\n"
+"And since luck is programmed into you from birth,\n"
+"it is fair to say I will never lose."
+msgstr ""
+
+#. 何でも欧米に合わせないで、
+#. もっと身近にある守るべき物を守るべき。
+#. 舞踊家らしい意見に感心した日向を、
+#. 今度、舞台に招待してくれるという。
+msgctxt "0054"
+msgid ""
+"Celeste's Glorious Past, pt.1: I once played Russian\n"
+"roulette mahjong with a half-insane billionaire in\n"
+"the basement of his mansion. I won, naturally."
+msgstr ""
+
+#. またもや嘘泣きで日向を振り回そうとするが、
+#. 実は、本当の涙…？
+#. とりあえず味方だと言ってくれた日向に、
+#. お人好しだけどそこがいいと呟くのだった。
+msgctxt "0055"
+msgid ""
+"My father is French nobility, and my mother is\n"
+"a musician from Germany. But I was born in Tochigi\n"
+"Prefecture, where the official food is a vulgar,\n"
+"malodorous gyoza dish."
+msgstr ""
+
+#. みんなが一緒に生きてる事の記録として
+#. 写真を撮っている。
+#. それが自分にできる役割だと考えられる彼女を
+#. すごいと褒めるが、機嫌が悪くなってしまう。
+msgctxt "0056"
+msgid ""
+"Celeste's Glorious Past, pt.2: I entered into a\n"
+"shogi tournament with no idea of the rules. There\n"
+"I defeated a very lovely, very well endowed woman\n"
+"dressed in a maid costume to win the championship."
+msgstr ""
+
+#. どんな状況でもすべてを撮り続けるのが写真家の
+#. 使命だが、彼女は人の笑顔ばかり撮ってしまう。
+#. そんな写真が好きだと、今度は自分なりの言葉で
+#. 褒めた日向に少し打ち解けてくれたようだ。
+msgctxt "0057"
+msgid ""
+"During a serious game of King of Liars, I carelessly\n"
+"spilled tea on my favorite dress. I was forced to end\n"
+"the game quickly so I could rush to the cleaners and\n"
+"avert a crisis."
+msgstr ""
+
+#. 戦場カメラマンである母に代わり、
+#. 一家の家事を取り仕切っている世話好き。
+#. 母のように海外へ飛び出す事も考えているが、
+#. 家族を思うとそれもできない…と迷っている。
+msgctxt "0058"
+msgid ""
+"(Celeste tends to rank those around her. A-rank is\n"
+"beyond impossible, B-rank doesn't even exist, and\n"
+"so apparently you have been labeled as C-rank.)"
+msgstr ""
+
+#. 一度撮った写真は絶対に消さない、
+#. その時だけの瞬間だから。それがポリシー。
+#. でも日向の写真に対しては他にも訳がある…？
+#. カメラに興味を示した日向に何か言いたげだが…
+msgctxt "0059"
+msgid ""
+"Maybe it's cuz of how I look, but nice guys never\n"
+"wanna talk to me. I think Makoto gets me, though.\n"
+"Maybe I should introduce him to one of my more\n"
+"aggressive friends..."
+msgstr ""
+
+#. 日向が見ている自分を残しておきたい、と
+#. 写真撮影を頼んでくる。
+#. 島から脱出したら、お古のカメラを譲って
+#. 写真の撮り方も指導してくれると約束した。
+msgctxt "0060"
+msgid ""
+"I've actually been homeless before. When you're in\n"
+"that situation, you never know who wants to see you\n"
+"get hurt...or who wants to hurt you."
+msgstr ""
+
+#. 挙動不審で、自分が悪いと思い込み
+#. 勝手に脱ぎ出そうとしたり、会話が成立しない。
+#. 悪い奴ではないのだが、
+#. 接し方がいまいちわからない…
+msgctxt "0061"
+msgid ""
+"Ever since I was a kid, I've chased after my dream\n"
+"without ever getting sidetracked. But looking back,\n"
+"I'm kinda worried. I've decided to start looking\n"
+"around for a new dream, a new motivation..."
+msgstr ""
+
+#. 今まで、ぶたれない為に何でもやってきた。
+#. 借金の連帯保証人、ダーツの的などなど
+#. シャレにならないものばかり。
+#. 彼女はどうしてこうなってしまったんだろうか…
+msgctxt "0062"
+msgid ""
+"I know we need to work together to get out of here,\n"
+"but I feel like I'm weighing everyone down. I feel\n"
+"depressed... But when I talk to Makoto, I feel a\n"
+"little better..."
+msgstr ""
+
+#. 病気や怪我をした人は自分より弱い。
+#. 信頼を寄せ言う事を聞いてくれるから看病する。
+#. そう語る彼女に弱ったところを見せたら
+#. 終わりなのかもしれない…
+msgctxt "0063"
+msgid ""
+"I was able to create a kind of voice recognition\n"
+"system, which my dad was really proud of! I was\n"
+"so glad to be able to make others happy, and\n"
+"that's when my love of programming was born..."
+msgstr ""
+
+#. この島では誰も自分を傷つけない。
+#. それだけで天国のようだという。
+#. 彼女がこうなってしまったのは
+#. 決して彼女自身のせいではないのだ…
+msgctxt "0064"
+msgid ""
+"Right now I'm developing a powerful AI program that\n"
+"should be able to function in many of the same ways\n"
+"as a person does. It's all based on my research into\n"
+"human consciousness and the ego."
+msgstr ""
+
+#. みんなが自分をいじめないのは関心が無いから、
+#. と不安がるのを、仲間だからだろと諭す。
+#. 自分を許してくれた日向の事は信じたいと微笑む
+#. 彼女をこれからも見守ってやりたいと思う。
+msgctxt "0065"
+msgid ""
+"I know I compare myself to other people. But nothing\n"
+"will change unless I act. Instead of thinking about\n"
+"things over and over and over, I need to put my\n"
+"thoughts into action..."
+msgstr ""
+
+#. けいおんをやろうと勧められるも、
+#. 担当楽器を適当に決められたり、拡声器の
+#. 使い方を教えられたり、わけのわからない特訓に
+#. 付き合わされたりと振り回されっぱなし…
+msgctxt "0066"
+msgid ""
+"(It was like Taka had literally *become* Mondo...\n"
+"He might see you as an ally right now, but certainly\n"
+"not a friend...)"
+msgstr ""
+
+#. 趣味はかけっこ！
+#. 他にも目的地に着けるかなゲームなどなど…
+#. 独創的発想から来るマシンガントークには
+#. ツッコミも追いつかない。
+msgctxt "0067"
+msgid "※"
+msgstr "※"
+
+#. 彼女にとって、バンドで音楽やるのに
+#. 一番大事なもの、それは一体感。
+#. そこに至高の音楽がある。
+#. でもそのための特訓はやっぱり意味不明だった。
+msgctxt "0068"
+msgid "※"
+msgstr "※"
+
+#. ガールズバンド脱退の理由は方向性の違い。
+#. もう未練はないが、やっぱり１人は寂しい。
+#. 日向となら一緒にやっていけるんじゃないか…
+#. そう感じているようだ。
+msgctxt "0069"
+msgid "※"
+msgstr "※"
+
+#. 自分なんて探さなくたって今ここにいる
+#. 自分だけが自分、と日向を励ましてくれる。
+#. そして彼女も日向といる事で、誰かと一緒に
+#. 表現する楽しさを思い出せたのだという。
+msgctxt "0070"
+msgid "※"
+msgstr "※"
+
+#. もはや武士と言ってもいい信念で剣を振う。
+#. それゆえ、放つ殺気に怯え逃げられてしまい
+#. もふもふな動物に触る事ができなくなって
+#. しまったことを悲しんでいる。
+msgctxt "0071"
+msgid "※"
+msgstr "※"

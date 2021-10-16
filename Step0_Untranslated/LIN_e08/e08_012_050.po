@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. そろそろカメラの手入れをしたいんだけどなぁ…
+msgctxt "0001"
+msgid "I truly frighten myself."
+msgstr ""
+
+#. ここじゃメンテにも出せないし、
+#. もし壊れちゃったらと思うと…
+msgctxt "0002"
+msgid ""
+"To captivate even insignificant little creatures\n"
+"like yourself..."
+msgstr ""
+
+#. でもさ、だからって使わないのも変だしね。
+#. ここは景色だけは良いし、撮りたい物もたくさんだし。
+msgctxt "0003"
+msgid ""
+"<CLT 4>I spent some time with Celeste...\n"
+"<CLT>"
+msgstr ""
+
+#. アタシは適当に撮りに行くけど…
+#. まぁ、ついてくるならご勝手にどーぞ。
+msgctxt "0004"
+msgid "Oh, you wish to stay close to me?"
+msgstr ""
+
+#. <CLT 04>小泉が撮影するのに付いて回って、
+#. 写真の撮り方についても少し教えてもらった。<CLT>
+msgctxt "0005"
+msgid "Heh-heh. I am not surprised."
+msgstr ""
+
+#. <CLT 04>小泉と少し仲良くなれたみたいだ…<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>I spent some time with Celeste.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0007"
+msgid ""
+"Normally, my pride would not permit me to allow you to\n"
+"be alone with me."
+msgstr ""
+
+#. 渡さない
+msgctxt "0008"
+msgid ""
+"But...fine. I will allow you to entertain me for a\n"
+"while."
+msgstr ""
+
+#. <CLT 06><CLT><CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0009"
+msgid ""
+"<CLT 4>I killed some time with Celeste...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid "Well then, shall we have a bit of conversation?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"Ah, but don't misunderstand. I have no affection for\n"
+"you on a personal level."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid ""
+"<CLT 4>I spent some time with Celeste...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid ""
+"<CLT 4>Celeste and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Celeste a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "So, have you decided?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Decided what...?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Decided not to laugh at my story."
+msgstr ""
+
+msgctxt "0004"
+msgid "Oh, you're talking about <CLT 3>Kenshiro<CLT>?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"I mean...I honestly don't know what there is to laugh\n"
+"at..."
+msgstr ""
+
+msgctxt "0006"
+msgid "Then join me in my room, and I will continue my story."
+msgstr ""
+
+msgctxt "0007"
+msgid "Just the two of us..."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"<CLT 4>Huh? Just the two of us, in her room?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"<CLT 4>Sakura practically dragged me to her room...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"<CLT 4>Sakura's room is...pretty much exactly how I would've\n"
+"imagined it.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>But hanging out in a girl's room, just us... Gettin'\n"
+"kinda nervous!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT 4>And it being Sakura makes me nervous for a whole other\n"
+"reason...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "Is there a reason you're glancing around?"
+msgstr ""
+
+msgctxt "0014"
+msgid "Oh, s-sorry!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Anyway, I shall continue my story..."
+msgstr ""
+
+msgctxt "0016"
+msgid "Oh yeah. The one and only Kenshiro..."
+msgstr ""
+
+msgctxt "0017"
+msgid "That's right. My lifelong rival. And..."
+msgstr ""
+
+msgctxt "0018"
+msgid "My..."
+msgstr ""
+
+msgctxt "0019"
+msgid "My <CLT 3>first love<CLT>."
+msgstr ""
+
+msgctxt "0020"
+msgid "First love...?"
+msgstr ""
+
+msgctxt "0021"
+msgid "...Did you just laugh?"
+msgstr ""
+
+msgctxt "0022"
+msgid "N-No! I definitely didn't!"
+msgstr ""
+
+msgctxt "0023"
+msgid ""
+"<CLT 4>I mean, it's pretty surprising and all, but...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0024"
+msgid "You made the choice to tell me this story..."
+msgstr ""
+
+msgctxt "0025"
+msgid "So of course I'm not going to laugh. I would never...!"
+msgstr ""
+
+msgctxt "0026"
+msgid "..."
+msgstr "..."
+
+msgctxt "0027"
+msgid "I'm ashamed of myself. I underestimated you."
+msgstr ""
+
+msgctxt "0028"
+msgid "I beg your forgiveness, Makoto."
+msgstr ""
+
+msgctxt "0029"
+msgid "N-No, that's totally not necessary..."
+msgstr ""
+
+msgctxt "0030"
+msgid "I just...didn't want to be laughed at."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"Can you imagine? A girl like me, using the word\n"
+"<CLT 3>love<CLT>?"
+msgstr ""
+
+msgctxt "0032"
+msgid ""
+"And being shy about saying it is even more girly,\n"
+"right? I creep myself out, to be honest..."
+msgstr ""
+
+msgctxt "0033"
+msgid "But you *are* a girl."
+msgstr ""
+
+msgctxt "0034"
+msgid "You're allowed to have a feminine side."
+msgstr ""
+
+msgctxt "0035"
+msgid ""
+"But my goal is to become the strongest warrior on the\n"
+"planet."
+msgstr ""
+
+msgctxt "0036"
+msgid ""
+"Maybe, but you don't have to be \"manly\" to find that\n"
+"kind of strength."
+msgstr ""
+
+msgctxt "0037"
+msgid "Gh...!"
+msgstr ""
+
+msgctxt "0038"
+msgid "Huh? Are you okay?"
+msgstr ""
+
+msgctxt "0039"
+msgid "Y-Yes, I just... You made me remember something."
+msgstr ""
+
+msgctxt "0040"
+msgid "Kenshiro once said something very similar..."
+msgstr ""
+
+msgctxt "0041"
+msgid "I'd forgotten about that..."
+msgstr ""
+
+msgctxt "0042"
+msgid "But there's no point to recalling his words now."
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"I really am a girl... Still dragging his words with me\n"
+"like a chain around my neck..."
+msgstr ""
+
+msgctxt "0044"
+msgid ""
+"<CLT 4>Huh? What do you mean...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"<CLT 4>He might already be gone.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0046"
+msgid "Right now, Kenshiro is..."
+msgstr ""
+
+msgctxt "0047"
+msgid "He's fighting."
+msgstr ""
+
+msgctxt "0048"
+msgid "O-Oh! Jeez, I thought you were gonna say—"
+msgstr ""
+
+msgctxt "0049"
+msgid "He's fighting <CLT 3>an illness<CLT>."
+msgstr ""
+
+msgctxt "0050"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"When they found out, they said he only had six months\n"
+"to live."
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"But six months has come and gone, and he's still\n"
+"fighting..."
+msgstr ""
+
+msgctxt "0053"
+msgid ""
+"That's just how he is. He would never let a disease\n"
+"beat him. He has to get better..."
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"He's the strongest human alive. I admit that—no, I\n"
+"*believe* that."
+msgstr ""
+
+msgctxt "0055"
+msgid "S-Sakura..."
+msgstr ""
+
+msgctxt "0056"
+msgid "I visited him once."
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"He'd lost so much weight. He looked like an entirely\n"
+"different person. But do you know what he said?"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"He told me that now <CLT 3>I was the strongest human alive<CLT>.\n"
+"That I had taken the title."
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"He said he'd return someday to get the title back. He\n"
+"said I'd better not let anyone else take it."
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"He didn't need to say that last part. I'll never give\n"
+"up that title, not until he gets better."
+msgstr ""
+
+msgctxt "0061"
+msgid "And when that day comes..."
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"...I will <CLT 3>defeat Kenshiro<CLT> and earn that title for\n"
+"real."
+msgstr ""
+
+msgctxt "0063"
+msgid "And that's why I have to get stronger..."
+msgstr ""
+
+msgctxt "0064"
+msgid "I had no idea..."
+msgstr ""
+
+msgctxt "0065"
+msgid ""
+"That's my biggest reason for becoming the strongest\n"
+"human alive."
+msgstr ""
+
+msgctxt "0066"
+msgid ""
+"I'm sorry for wasting your time with such a longwinded\n"
+"story..."
+msgstr ""
+
+msgctxt "0067"
+msgid "I'm...not even sure why I told you."
+msgstr ""
+
+msgctxt "0068"
+msgid "I think that somehow...you remind me of him."
+msgstr ""
+
+msgctxt "0069"
+msgid "Huh? Me?"
+msgstr ""
+
+msgctxt "0070"
+msgid ""
+"Well, in certain ways. Your build is obviously\n"
+"different, but you both have a <CLT 3>strong core<CLT>."
+msgstr ""
+
+msgctxt "0071"
+msgid "Strong core...? N-No, I..."
+msgstr ""
+
+msgctxt "0072"
+msgid ""
+"You don't have to be modest. I know strength when I\n"
+"see it."
+msgstr ""
+
+msgctxt "0073"
+msgid "Okay?"
+msgstr ""
+
+msgctxt "0074"
+msgid "O-Okay..."
+msgstr ""
+
+msgctxt "0075"
+msgid ""
+"<CLT 4>I feel like I've come to understand Sakura so much\n"
+"better...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0076"
+msgid ""
+"<CLT 4>I think maybe we've finally become <CLT><CLT 3>friends<CLT><CLT 4> in the\n"
+"truest sense of the word.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0077"
+msgid ""
+"<CLT 23>Sakura's <CLT><CLT 3>Report Card<CLT><CLT 23> has been updated based on your\n"
+"experience with her.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"<CLT 23>Your maximum number of <CLT><CLT 3>Skill Points<CLT><CLT 23> has increased!\n"
+"Hey, look at you go!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0079"
+msgid ""
+"<CLT 4>We talked for a little while longer, then I went back\n"
+"to my room.\n"
+"<CLT>"
+msgstr ""

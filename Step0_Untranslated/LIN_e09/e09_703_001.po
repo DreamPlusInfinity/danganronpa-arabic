@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>砂浜に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the rec room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どこまでも続く青い海、そして白い砂浜。<CLT>
+#. <CLT 04>実に南国らしいロケーションだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of games and stuff to do in here.\n"
+"Almost makes me feel like I'm not at school...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Wanna play Othello?"
+msgstr ""
+
+#. 泳ごう！
+msgctxt "0004"
+msgid "Uhh..."
+msgstr ""
+
+#. 水属性とは相性が悪いのだが…
+#. この島に来た以上、そうも言っていられまい。
+msgctxt "0005"
+msgid ""
+"I'm not so great at using my brain, ya know? Plus all\n"
+"the pieces are so small and orderly..."
+msgstr ""
+
+#. まだ見ぬ海の魔獣を配下に置くためにも
+#. 耐性をあげねば…
+msgctxt "0006"
+msgid "Let's play some pool."
+msgstr ""
+
+#. くッ…やはり水に近づくと
+#. 呪いで心臓が締め付けられるようだ…
+msgctxt "0007"
+msgid "Pool?"
+msgstr ""
+
+#. <CLT 04>もしかして…泳げないのか…<CLT>
+msgctxt "0008"
+msgid ""
+"You just hit the balls with a stick till they go in\n"
+"the hole, right?"
+msgstr ""
+
+#. 砂の城を作ろう！
+msgctxt "0009"
+msgid "That's kinda boring."
+msgstr ""
+
+#. ほう…貴様が王城建築士だったとはな。
+msgctxt "0010"
+msgid ""
+"But if you really wanna give it a try, I guess I don't\n"
+"mind..."
+msgstr ""
+
+#. いいだろう。
+#. その技、この俺様に見せてみるがいい！
+msgctxt "0011"
+msgid "Let's give darts a shot."
+msgstr ""
+
+#. 貴様がどのような砦を構築しようと
+#. この俺様が必ず粉砕してくれる！
+msgctxt "0012"
+msgid "Huh? Darts?"
+msgstr ""
+
+#. <CLT 04>そういう遊びになるのか…<CLT>
+msgctxt "0013"
+msgid "I just gotta throw this thing at the target, right?"
+msgstr ""
+
+#. 焼こう！
+msgctxt "0014"
+msgid ""
+"I can do that! It's like throwin' a knife, and I can\n"
+"do that with my eyes closed!"
+msgstr ""
+
+#. フッ…まだまだ甘いな。
+#. その程度の罠に、この俺様がかかるとでも？
+msgctxt "0015"
+msgid "Heh-heh. That's right, I'm kinda cocky, big deal!"
+msgstr ""
+
+#. 貴様が何を言おうと、無用な紫外線に
+#. この身を晒すほど愚かではないわ！
+msgctxt "0016"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>至極まっとうな反論だ…<CLT>
+msgctxt "0017"
+msgid "Do you believe in horoscopes and stuff?"
+msgstr ""
+
+#. とりあえず描こうか
+msgctxt "0018"
+msgid "Horoscopes...?"
+msgstr ""
+
+#. なるほど…
+#. 貴様も初めからそのつもりだったというわけか。
+msgctxt "0019"
+msgid ""
+"Hell no I don't believe in that horse shit! The hell's\n"
+"wrong with you!?"
+msgstr ""
+
+#. ならば、どちらが先にこの砂浜に
+#. 陣を完成させるか…勝負といくか？
+msgctxt "0020"
+msgid "They even have a motorcycle magazine!"
+msgstr ""
+
+#. 音速の召喚士の異名をとるこの俺様が
+#. 貴様ごときに後れをとるはずもないがな。
+msgctxt "0021"
+msgid "Seriously!? Lemme see!"
+msgstr ""
+
+#. ふはは…久々にいい地獄が見れそうだな！
+msgctxt "0022"
+msgid ""
+"Whoa! There's an article in here about the Crazy\n"
+"Diamonds!"
+msgstr ""
+
+#. <CLT 04>とりあえず砂浜に何か描けばいいって事か…<CLT>
+msgctxt "0023"
+msgid ""
+"And it isn't just surface stuff, either! They\n"
+"seriously did their homework."
+msgstr ""
+
+#. とりあえず釣ろうか
+msgctxt "0024"
+msgid ""
+"Can't believe they put that much effort into it! This\n"
+"magazine ain't half bad!"
+msgstr ""
+
+#. フッ、海の魔獣狩りか。
+#. …いいだろう。
+msgctxt "0025"
+msgid "Kinda boring here, huh...?"
+msgstr ""
+
+#. 貴様の技量がどれほどのものか…
+#. この俺様が直々に見極めてやる。
+msgctxt "0026"
+msgid "Hey hey hey HEY! You're the one that invited me here!"
+msgstr ""
+
+#. ただし、掟だけは必ず守る事だ。
+msgctxt "0027"
+msgid ""
+"If you got so much spare time, think of somethin' to\n"
+"do, ya bastard!"
+msgstr ""
+
+#. …わかっているな？
+#. キャッチアンドリリースだ！
+msgctxt "0028"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. とりあえず脱ごうか
+msgctxt "0029"
+msgid "Is that a slot machine back there...?"
+msgstr ""
+
+#. な、何ッ…！？
+msgctxt "0030"
+msgid "Looks like it."
+msgstr ""
+
+#. この俺様の動揺を誘うとは…
+#. なかなかやるな…
+msgctxt "0031"
+msgid ""
+"I'm feelin' lucky, ya know? Gonna make me some serious\n"
+"cash!"
+msgstr ""
+
+#. だが、貴様の魂胆などお見通しだ！
+#. その手には乗らん！
+msgctxt "0032"
+msgid "Hey, why don't we both test our luck?"
+msgstr ""
+
+#. <CLT 04>泳ぐ気はないみたいだな…<CLT>
+msgctxt "0033"
+msgid "Me versus you, the Ultimate Lucky Student!"
+msgstr ""
+
+#. カニでも探すか
+msgctxt "0034"
+msgid "I'm not sure about any of these games..."
+msgstr ""
+
+#. なるほど…悪くない提案だ。
+msgctxt "0035"
+msgid "Ya know, thinking about it..."
+msgstr ""
+
+#. 水陸両用の魔獣としては
+#. 比較的探しやすい部類のものだが…
+msgctxt "0036"
+msgid ""
+"I'm not really the indoors type. More of a\n"
+"\"wild blue yonder\" guy myself."
+msgstr ""
+
+#. この俺様も、まだこの島に来てから
+#. 一度も目にしてはいない。
+msgctxt "0037"
+msgid ""
+"How am I supposed to get wild and crazy inside a tiny\n"
+"little room like this!?"
+msgstr ""
+
+#. よし、さっそく召喚の儀式を始めるぞ！
+msgctxt "0038"
+msgid "Hope's Peak really is amazing..."
+msgstr ""
+
+#. <CLT 04>召喚できるのか…<CLT>
+msgctxt "0039"
+msgid "Huh? This is all it takes to impress you?"
+msgstr ""
+
+#. 棒倒しでもするか
+msgctxt "0040"
+msgid ""
+"If they had time to put in something like this, they\n"
+"shoulda put in a drag strip instead!"
+msgstr ""
+
+#. ふん…儀式としては初歩の初歩だな。
+#. だが、貴様にはちょうどいいだろう。
+msgctxt "0041"
+msgid "This isn't helping me relax at all! Dammit!"
+msgstr ""
+
+#. …どうしてもというのであれば、
+#. この俺様が手を貸してやらんこともない。
+msgctxt "0042"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

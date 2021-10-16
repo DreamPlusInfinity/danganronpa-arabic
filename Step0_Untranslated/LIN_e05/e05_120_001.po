@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "The titanium arrow..."
+msgstr ""
+
+msgctxt "0002"
+msgid "It was in the dojo locker, right?"
+msgstr ""
+
+msgctxt "0003"
+msgid ""
+"I have no doubt,\n"
+"<CLT 9>that was the murder weapon<CLT>."
+msgstr ""
+
+msgctxt "0004"
+msgid "Are you sure...?"
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"You don't sound convinced.\n"
+"What's the problem?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Well, cuz in the Monokuma File..."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"...it said the weapon must've been\n"
+"about as thick as a metal pipe, right?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"It seems like an arrow would\n"
+"just be <CLT 9>too thin<CLT>."
+msgstr ""
+
+msgctxt "0009"
+msgid "Talking back to Master..."
+msgstr ""
+
+msgctxt "0010"
+msgid "You have no r-right!"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>Hold on a second...!<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>Everyone l-listen to Master!<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>Well, I mean...<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>It doesn't matter...<CLT>"
+msgstr ""
+
+msgctxt "0015"
+msgid "<CLT 26>You still don't understand?<CLT>"
+msgstr ""

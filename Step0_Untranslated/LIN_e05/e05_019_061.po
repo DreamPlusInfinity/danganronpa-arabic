@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid ""
+"This is where we expose every last detail of the\n"
+"mastermind."
+msgstr ""
+
+msgctxt "0002"
+msgid "Is everyone ready?"
+msgstr ""
+
+msgctxt "0003"
+msgid "We've finally reached the climax!"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"So let's hurry up and finish it, before the mastermind\n"
+"catches us all!"
+msgstr ""
+
+msgctxt "0005"
+msgid "Sakura's gonna be watching over us..."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"So we're definitely gonna find something to help us\n"
+"bring this to an end!"
+msgstr ""
+
+msgctxt "0007"
+msgid "Naturally Master's the o-one to show such bravery..."
+msgstr ""
+
+msgctxt "0008"
+msgid "Just make s-sure you don't get in his way..."
+msgstr ""
+
+msgctxt "0009"
+msgid "Where do you think you're going, Makoto!?"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"We gotta set our sights on the headmaster's room! Come\n"
+"on, you know where it's at, right!?"
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"<CLT 4>This is the girls bathroom.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"<CLT 4>Gotta resist... Gotta resist... Gotta resist...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "What's wrong, Makoto? Can't you hold it...?"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"If there was ever a time to grin and bear it, that\n"
+"time is now...!"
+msgstr ""
+
+msgctxt "0015"
+msgid "That's the wrong one, Makoto!"
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"We gotta set our sights on the headmaster's room! Come\n"
+"on, you know where it's at, right!?"
+msgstr ""
+
+msgctxt "0017"
+msgid "Are you doing this on p-purpose...?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Or are you r-really just that stupid?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Wrong, Makoto! The headmaster's room is thatta way!"
+msgstr ""
+
+msgctxt "0020"
+msgid "That's not r-right at all..."
+msgstr ""
+
+msgctxt "0021"
+msgid ""
+"What, are you p-p-paralyzed with fear? Gonna fly back\n"
+"to the ch-chicken coop?"
+msgstr ""
+
+msgctxt "0022"
+msgid "That's not where we need to go..."
+msgstr ""
+
+msgctxt "0023"
+msgid "What's wrong, Makoto? You're not afraid, are you!?"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"<CLT 23>*Rattle rattle*\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0025"
+msgid "It's locked. As expected."
+msgstr ""
+
+msgctxt "0026"
+msgid "So...what are you gonna do?"
+msgstr ""
+
+msgctxt "0027"
+msgid ""
+"Isn't it obvious? We're going to tear this door off\n"
+"its hinges."
+msgstr ""
+
+msgctxt "0028"
+msgid "Wait, but...the rules say—"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"We've seen that the mastermind isn't watching us.\n"
+"Those don't matter anymore."
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"But like Makoto said... If the mastermind did show up\n"
+"while we were in there..."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"Then we'll just have to finish our business before\n"
+"that can happen."
+msgstr ""
+
+msgctxt "0032"
+msgid "Okay, sure...but..."
+msgstr ""
+
+msgctxt "0033"
+msgid ""
+"We've come this far, we can't back down now. We agreed\n"
+"this is what we have to do. So we have to do it."
+msgstr ""
+
+msgctxt "0034"
+msgid "S-So beautiful...!"
+msgstr ""
+
+msgctxt "0035"
+msgid "For serious...?"
+msgstr ""
+
+msgctxt "0036"
+msgid "We don't have any choice... We're desperate!"
+msgstr ""
+
+msgctxt "0037"
+msgid "Let's do it! Let's rip this door down!"
+msgstr ""
+
+msgctxt "0038"
+msgid ""
+"Okay, but...how are we gonna do that? This thing looks\n"
+"pretty sturdy..."
+msgstr ""
+
+msgctxt "0039"
+msgid "Then we'll need something sturdy of our own."
+msgstr ""
+
+msgctxt "0040"
+msgid "Oh...what about that one thing?"
+msgstr ""
+
+msgctxt "0041"
+msgid "The thing in the toolshed..."
+msgstr ""
+
+msgctxt "0042"
+msgid "Oh yeah! The <CLT 3>pickaxe<CLT>!"
+msgstr ""
+
+msgctxt "0043"
+msgid ""
+"Interesting. That could very well be exactly what we\n"
+"need."
+msgstr ""
+
+msgctxt "0044"
+msgid "Now then... Toko, what time is it?"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"W-Well, when we left the gym, it was j-just before 9\n"
+"o'clock. So it's probably 9 on the d-dot now..."
+msgstr ""
+
+msgctxt "0046"
+msgid "Okay. Go get the pickaxe and be back here by 9:01."
+msgstr ""
+
+msgctxt "0047"
+msgid "That's straight-up unreasonable!"
+msgstr ""
+
+msgctxt "0048"
+msgid "I-I-I...! By m-myself...?"
+msgstr ""
+
+msgctxt "0049"
+msgid ""
+"Surely you like to have your me-time once in a while,\n"
+"right?"
+msgstr ""
+
+msgctxt "0050"
+msgid ""
+"W-Well...if it's me-and-you time, Master, then\n"
+"y-yeah..."
+msgstr ""
+
+msgctxt "0051"
+msgid ""
+"You know how much time it took you to say that? Ten\n"
+"seconds."
+msgstr ""
+
+msgctxt "0052"
+msgid ""
+"Take too long, and I'll erase your existence from my\n"
+"consciousness."
+msgstr ""
+
+msgctxt "0053"
+msgid "UnacceptabbbbbbllllLLLLLLEEEEEEE!!!"
+msgstr ""
+
+msgctxt "0054"
+msgid ""
+"<CLT 4>With that, Toko ran off, loud as a herd of rabid\n"
+"elephants.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"For serious, though...are we just gonna knock this\n"
+"door down?"
+msgstr ""
+
+msgctxt "0056"
+msgid ""
+"No problem is solved by running away. Find your stones\n"
+"and be a man."
+msgstr ""
+
+msgctxt "0057"
+msgid ""
+"<CLT 4>He's right...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0058"
+msgid ""
+"<CLT 4>You can't move forward by always avoiding danger...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0059"
+msgid ""
+"If you spend all your time trying to avoid danger,\n"
+"you'll never move forward."
+msgstr ""
+
+msgctxt "0060"
+msgid ""
+"We know the danger. But if that risk means solving the\n"
+"mystery, we have no choice."
+msgstr ""
+
+msgctxt "0061"
+msgid "Am I wrong?"
+msgstr ""
+
+msgctxt "0062"
+msgid ""
+"<CLT 4>Even if it's dangerous, we have to overcome the\n"
+"challenges in front of us...!\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0063"
+msgid "Maybe, b-but I'm still super stressed..."
+msgstr ""
+
+msgctxt "0064"
+msgid "I'm so tense, I can hardly talk..."
+msgstr ""
+
+msgctxt "0065"
+msgid "I'm all flubbust—no..."
+msgstr ""
+
+msgctxt "0066"
+msgid "I'm totally flabbag—flapstaf—"
+msgstr ""
+
+msgctxt "0067"
+msgid "Fapsauce!?"
+msgstr ""
+
+msgctxt "0068"
+msgid ""
+"Gross! Where'd that come from! Wait, Genocide Jill?\n"
+"Where'd YOU come from!?"
+msgstr ""
+
+msgctxt "0069"
+msgid ""
+"Hello hello! It's the wondiferous, murdiferous fiend,\n"
+"here to greet you with a razor-sharp smile!"
+msgstr ""
+
+msgctxt "0070"
+msgid "Kyeeehahahaha!"
+msgstr ""
+
+msgctxt "0071"
+msgid "What about the pickaxe? Where is it?"
+msgstr ""
+
+msgctxt "0072"
+msgid "I was supposed to pick an axe...?"
+msgstr ""
+
+msgctxt "0073"
+msgid "No, you seeping imbecile. The *pickaxe*..."
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"S-Seeping imbecile!? Oh, Master! You wound me with\n"
+"your executive-level barbs!"
+msgstr ""
+
+msgctxt "0075"
+msgid "Bushwah! Here comes the bloody nose!"
+msgstr ""
+
+msgctxt "0076"
+msgid "Seriously, though...did you really forget the pickaxe?"
+msgstr ""
+
+msgctxt "0077"
+msgid ""
+"Omega-3 fatty acids, that's what you need! Great for\n"
+"the ol' memory factory!"
+msgstr ""
+
+msgctxt "0078"
+msgid ""
+"But I think we already established that their memory\n"
+"doesn't carry over when they switch..."
+msgstr ""
+
+msgctxt "0079"
+msgid ""
+"This is a level of uselessness I find difficult to\n"
+"tolerate..."
+msgstr ""
+
+msgctxt "0080"
+msgid "Ah! The light bulb just went on!"
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"That's why I went to the garden, right!? I was\n"
+"supposed to get the pickaxe!"
+msgstr ""
+
+msgctxt "0082"
+msgid ""
+"Alright, we've solved one mystery! That means there's\n"
+"just <CLT 3>one more mystery left<CLT>!"
+msgstr ""
+
+msgctxt "0083"
+msgid "One more mystery...?"
+msgstr ""
+
+msgctxt "0084"
+msgid ""
+"Yup! Now we just need to figure out the identity of\n"
+"<CLT 3>Object X<CLT>!"
+msgstr ""
+
+msgctxt "0085"
+msgid "Now what are you talking about...?"
+msgstr ""
+
+msgctxt "0086"
+msgid ""
+"Did you already forget what we were talking about?\n"
+"You're like, missing out on life..."
+msgstr ""
+
+msgctxt "0087"
+msgid ""
+"I'm not missing out on life! In fact, I found one in\n"
+"the garden!"
+msgstr ""
+
+msgctxt "0088"
+msgid "What...? What did you find?"
+msgstr ""
+
+msgctxt "0089"
+msgid "Kuh...oar...puss..."
+msgstr ""
+
+msgctxt "0090"
+msgid "Didja hear me!? I said corpse!"
+msgstr ""
+
+msgctxt "0091"
+msgid "A corpse...!?"
+msgstr ""
+
+msgctxt "0092"
+msgid "That's right! I found a corpse in the garden!"
+msgstr ""
+
+msgctxt "0093"
+msgid ""
+"<CLT 4>You found a corpse...in the garden...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0094"
+msgid ""
+"Well then. Before we enter the headmaster's room, it\n"
+"appears we have something else to look into."
+msgstr ""
+
+msgctxt "0095"
+msgid "We're going to the garden."
+msgstr ""
+
+msgctxt "0096"
+msgid "O-Okay...!"
+msgstr ""
+
+msgctxt "0097"
+msgid ""
+"<CLT 4>As soon as we entered the garden...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0098"
+msgid ""
+"<CLT 4>...I saw it.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0099"
+msgid ""
+"<CLT 4>I didn't want to, but...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0100"
+msgid ""
+"<CLT 4>...I saw someone laying on the ground, with <CLT><CLT 3>a mask\n"
+"covering their face<CLT><CLT 4>...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0101"
+msgid ""
+"<CLT 4>And there was a knife...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0102"
+msgid ""
+"<CLT 4>...buried in their stomach, up to the hilt.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0103"
+msgid "Wh-What the...!?"
+msgstr ""
+
+msgctxt "0104"
+msgid "A-Are they really dead!?"
+msgstr ""
+
+msgctxt "0105"
+msgid "For sure. But..."
+msgstr ""
+
+msgctxt "0106"
+msgid "Who...is it?"
+msgstr ""

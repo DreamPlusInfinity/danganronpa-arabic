@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>ジャバウォック公園…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the music room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>海に囲まれた公園の真ん中には、<CLT>
+#. <CLT 04>５体の架空の動物をかたどった銅像がある。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>But it feels less like a room, and more like a full-on\n"
+"music *hall*.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "So...do you like music?"
+msgstr ""
+
+#. とりあえず座ろうか
+msgctxt "0004"
+msgid "Music...?"
+msgstr ""
+
+#. ほう…？
+#. この俺様に膝を折れというのか…？
+msgctxt "0005"
+msgid ""
+"You mean, like...*music* music? Not like music class\n"
+"or whatever?"
+msgstr ""
+
+#. 貴様…後悔するぞ…
+msgctxt "0006"
+msgid "I mean...I guess I don't hate it."
+msgstr ""
+
+#. いい景色だな
+msgctxt "0007"
+msgid "The driving sound of a V-twin is better than anything!"
+msgstr ""
+
+#. ふん…どうという事のない
+#. ありきたりで平凡な世界の光景だな。
+msgctxt "0008"
+msgid ""
+"<CLT 4>I don't think that's music...\n"
+"<CLT>"
+msgstr ""
+
+#. だが、貴様らにとっては
+#. その平凡さこそが重要というわけか。
+msgctxt "0009"
+msgid "What instruments do you play?"
+msgstr ""
+
+#. いいだろう。
+#. せいぜい偽りの平穏を楽しむがいい。
+msgctxt "0010"
+msgid ""
+"Huh? What the hell makes you think I know how to play\n"
+"anything?"
+msgstr ""
+
+#. この島が世界の命運を決する戦場と化す、
+#. その運命のときが来るまでな！
+msgctxt "0011"
+msgid "Or are you like...makin' fun of me?"
+msgstr ""
+
+#. <CLT 04>そんな予定なのか…<CLT>
+msgctxt "0012"
+msgid "I've always wanted to see some live music."
+msgstr ""
+
+#. 散歩でもするか
+msgctxt "0013"
+msgid "Are you...asking me to go see a show with you?"
+msgstr ""
+
+#. 散歩…？
+#. 散歩だと…？
+msgctxt "0014"
+msgid "Well you better pick something I'm gonna like..."
+msgstr ""
+
+#. そんな見え透いた手には乗らんぞ！
+msgctxt "0015"
+msgid "...or I'm gonna kick your ass! Bastard!"
+msgstr ""
+
+#. <CLT 04>お前の目には何が見えてるんだよ…<CLT>
+msgctxt "0016"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. この広場の配置は…
+msgctxt "0017"
+msgid "I wanna do some karaoke."
+msgstr ""
+
+#. ほう…気付いたか…
+msgctxt "0018"
+msgid "Karaoke, huh? Yeah, I can get into that."
+msgstr ""
+
+#. この石畳と花壇が描く図形、
+#. そしてこの像の配置…
+msgctxt "0019"
+msgid ""
+"I always feel better when I get a chance to scream\n"
+"from the bottom of my lungs."
+msgstr ""
+
+#. どうやら"奴"はこの場を通して
+#. 力を蓄えているようだな…
+msgctxt "0020"
+msgid "So whaddya sing when you go, Makoto?"
+msgstr ""
+
+#. だが"約束の刻"までにはまだ間がある。
+msgctxt "0021"
+msgid ""
+"There's one song I've been wantin' to do for a while,\n"
+"so you're prolly gonna wanna get ready for it."
+msgstr ""
+
+#. 気付いてしまったからには貴様ももう戻れん。
+#. せいぜい役に立ってもらうぞ！
+msgctxt "0022"
+msgid "I'd love to hear Sayaka sing sometime..."
+msgstr ""
+
+#. あの像、まさか…
+msgctxt "0023"
+msgid ""
+"Yeah, I guess she's supposed to be pretty good at that\n"
+"stuff, huh?"
+msgstr ""
+
+#. 命が惜しければ、それ以上は言うな。
+msgctxt "0024"
+msgid ""
+"Maybe she can put on a show. Ya know, just to kill the\n"
+"boredom or whatever..."
+msgstr ""
+
+#. 常人は"奴"の名を口にしただけで
+#. 精神に異常を来すからな…
+msgctxt "0025"
+msgid "Okay, Makoto! Go for it!"
+msgstr ""
+
+#. それに貴様に言われずとも、島に足を踏み入れた
+#. ときからこの気配には気づいている。
+msgctxt "0026"
+msgid ""
+"<CLT 4>Are you asking me to set it up...?\n"
+"<CLT>"
+msgstr ""
+
+#. まみえるのは１５０年振りか…
+#. ククク…面白い…
+msgctxt "0027"
+msgid "Look at that stage..."
+msgstr ""
+
+#. あの花壇は、まさか…
+msgctxt "0028"
+msgid "My own stage is way bigger than this!"
+msgstr ""
+
+#. ………………
+msgctxt "0029"
+msgid "Dammit! How long are we gonna be stuck in here!?"
+msgstr ""
+
+#. …ごく普通の花壇だな。
+msgctxt "0030"
+msgid "I wanna get outta here and get my lady revvin'!"
+msgstr ""
+
+#. <CLT 04>く、くそっ…なんだこのむなしさは…<CLT>
+msgctxt "0031"
+msgid "My stage is..."
+msgstr ""
+
+#. あの像を壊すと…
+msgctxt "0032"
+msgid ""
+"...the entire world! I gotta get on my hog, get into\n"
+"the wilderness, and get free!"
+msgstr ""
+
+#. まさか…貴様があの"破壊の印"の
+#. 所持者だというのか…！？
+msgctxt "0033"
+msgid "Let me the hell outta heeeerree! Goddammiiiiiiittt!"
+msgstr ""
+
+#. だが、それが真実だとしても
+#. まだその時ではないはずだ…！
+msgctxt "0034"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. くッ…どこで因果律の狂いが生じた！？
+msgctxt "0035"
+msgid "Wanna try singing together with everyone?"
+msgstr ""
+
+#. この時間軸の俺様は
+#. 一体何をしでかしたんだ…！？
+msgctxt "0036"
+msgid ""
+"What, you want everyone to stand around, singin'\n"
+"songs, actin' all hippy-dippy?"
+msgstr ""
+
+#. あの像を動かすと…
+msgctxt "0037"
+msgid "Well you can count me out."
+msgstr ""
+
+#. …やめておけ。
+#. 貴様には"贄"たる資格はない。
+msgctxt "0038"
+msgid "That piano looks pretty expensive..."
+msgstr ""
+
+#. それにここで貴様に死なれては
+#. 俺様の計画にも支障が出るからな。
+msgctxt "0039"
+msgid ""
+"If you say so. Never got what makes pianos so great,\n"
+"myself."
+msgstr ""
+
+#. 時が来れば"奴"は自然と動く…
+#. 今はただ、待つだけだ。
+msgctxt "0040"
+msgid "Now choppers, *those* I understand!"
+msgstr ""
+
+#. <CLT 04>その前に帰る日が来るんじゃないかな…<CLT>
+msgctxt "0041"
+msgid ""
+"Oh! But pianos have a huge range of sounds, right?\n"
+"Like a nice, deep bass, right?"
+msgstr ""
+
+#. あの像に登ると…
+msgctxt "0042"
+msgid "I think I get that much, at least!"
+msgstr ""
+
+#. ………………
+msgctxt "0043"
+msgid "You wanna go somewhere else?"
+msgstr ""
+
+#. …何か面白いのか？
+msgctxt "0044"
+msgid "Yeah, sure thing. But I mean..."
+msgstr ""
+
+#. <CLT 04>言うんじゃなかった…<CLT>
+msgctxt "0045"
+msgid ""
+"...if we were gonna go somewhere else, why'd we come\n"
+"here in the first place?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "Seriously, why the music room? I don't get you, man."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

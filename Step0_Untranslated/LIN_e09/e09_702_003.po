@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>映画館に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the garden...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>小さなシネコンタイプで、<CLT>
+#. <CLT 04>何本かの古い映画を流しているようだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of plants growing under the fake\n"
+"blue sky. I don't recognize most of them.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "Look at those chickens!"
+msgstr ""
+
+#. ホラーにしよう
+msgctxt "0004"
+msgid "This place smells...repugnant."
+msgstr ""
+
+#. ほう…お前がホラー好きとはな。
+msgctxt "0005"
+msgid "We need to go somewhere else. Now."
+msgstr ""
+
+#. 作り物の恐怖を求める大衆心理など
+#. この俺には到底理解できんが…
+msgctxt "0006"
+msgid "It's super humid in here, huh?"
+msgstr ""
+
+#. お前がどうしても観たくてたまらないというなら
+#. 付き合ってやらない事もない。
+msgctxt "0007"
+msgid ""
+"It seems they're raising a variety of tropical plants\n"
+"here."
+msgstr ""
+
+#. サスペンスでも観る？
+msgctxt "0008"
+msgid ""
+"Although...there's one plant here I've never seen\n"
+"before. Where did it come from...?"
+msgstr ""
+
+#. ふん…この俺を楽しませるほどの
+#. 謎があるとも思えんが…
+msgctxt "0009"
+msgid ""
+"Is this the result of the efforts of another ultimate\n"
+"student? Interesting..."
+msgstr ""
+
+#. ちょっとした余興くらいにはなるだろう。
+msgctxt "0010"
+msgid ""
+"Perhaps I could incorporate their work into the\n"
+"foundation of a new business enterprise."
+msgstr ""
+
+#. 映画館に来た以上、何も観ずに帰るというのも
+#. 実に間抜けな話だしな。
+msgctxt "0011"
+msgid "Wanna do some gardening?"
+msgstr ""
+
+#. そのかわり、もしくだらん作品だったら
+#. ただではおかんからな。
+msgctxt "0012"
+msgid ""
+"...Will you be paying for my dry cleaning when we're\n"
+"done?"
+msgstr ""
+
+#. <CLT 04>俺のせいなのか…<CLT>
+msgctxt "0013"
+msgid "Hmph. Of course not. As if you could afford it."
+msgstr ""
+
+#. コメディがいいな
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. …くだらんな。
+msgctxt "0015"
+msgid "Something seems off..."
+msgstr ""
+
+#. 笑わせるための笑いなど、
+#. わざわざ観たいと思う気がしれん。
+msgctxt "0016"
+msgid ""
+"What, you mean something seems off about me being\n"
+"in a place like this? Is that what you mean?"
+msgstr ""
+
+#. そんなに笑いたければ、
+#. 鏡でも見ていればいいだろう。
+msgctxt "0017"
+msgid "You're honest, Makoto. I'll give you that."
+msgstr ""
+
+#. ホットドッグも捨てがたい
+msgctxt "0018"
+msgid ""
+"Honesty is a virtue, but also a good way to shorten\n"
+"your life span."
+msgstr ""
+
+#. それがお前の選択か…
+msgctxt "0019"
+msgid "Still...interesting."
+msgstr ""
+
+#. この件について、お前を一方的に
+#. 糾弾するつもりはない。
+msgctxt "0020"
+msgid ""
+"Perhaps it's best for someone like me to keep people\n"
+"like you around. You know...irregular people."
+msgstr ""
+
+#. ただ…残念だというだけだ。
+msgctxt "0021"
+msgid "The happy blue sky kinda cheers me up..."
+msgstr ""
+
+#. <CLT 04>十神はポップコーン派か…<CLT>
+msgctxt "0022"
+msgid ""
+"That disgraceful charade? Simple people indulge in\n"
+"simple pleasures, I suppose."
+msgstr ""
+
+#. ポップコーンは外せない
+msgctxt "0023"
+msgid "I'd love to just lay down and go to sleep."
+msgstr ""
+
+#. ああ…その通りだ。
+msgctxt "0024"
+msgid ""
+"Did you bring me here to make me listen to your empty\n"
+"daydreams?"
+msgstr ""
+
+#. 普段まったく食べない者でさえ…
+#. いや、普段から食べ尽くしている者でさえ…
+msgctxt "0025"
+msgid ""
+"It was foolish of me to think you could do anything\n"
+"other than waste my time."
+msgstr ""
+
+#. 映画館のポップコーンとコーラには
+#. 時として微塵も抗う術がない。
+msgctxt "0026"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 対価に全く見合っていない事を知りつつも
+#. 求めずにはいられない…
+msgctxt "0027"
+msgid "You wanna do some flower viewing?"
+msgstr ""
+
+#. 人間というのは実に愚かな生き物だ…
+msgctxt "0028"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>何もそこまで悲観する事ないと思うが…<CLT>
+msgctxt "0029"
+msgid ""
+"Oh, sorry. Your utterly simplistic statement left me\n"
+"at a loss for words."
+msgstr ""
+
+#. やっぱり出よう
+msgctxt "0030"
+msgid "Still...I suppose we need *some* sort of recreation."
+msgstr ""
+
+#. なんだと…？
+msgctxt "0031"
+msgid ""
+"I suppose I can join you. I hope you appreciate my\n"
+"sacrifice."
+msgstr ""
+
+#. 貴様は一体ここへ何をしに来た…
+msgctxt "0032"
+msgid "We can't eat these chickens..."
+msgstr ""
+
+#. ここまで来て、ポップコーンの一粒も口にせず
+#. おめおめと逃げ帰るというのか…！？
+msgctxt "0033"
+msgid "I'm almost afraid to ask, but..."
+msgstr ""
+
+#. 途中で寝るかも…
+msgctxt "0034"
+msgid ""
+"...what if it was a nice, big animal like a cow?\n"
+"Would you slaughter it yourself and devour it?"
+msgstr ""
+
+#. …それもひとつの選択肢だろう。
+msgctxt "0035"
+msgid ""
+"What kind of barbarian are you? I can't believe we're\n"
+"even the same species."
+msgstr ""
+
+#. この俺とて、手持ちの食料を失った後では
+#. そうせざるを得ない可能性もある。
+msgctxt "0036"
+msgid "Do you like this place?"
+msgstr ""
+
+#. そうならないような内容ならいいがな…
+msgctxt "0037"
+msgid ""
+"No, not at all. Are you so lacking in imagination that\n"
+"you actually find comfort here?"
+msgstr ""
+
+#. ３Ｄか…
+msgctxt "0038"
+msgid "If we have no business here, let's get going..."
+msgstr ""
+
+#. …確かにエンターテインメントの
+#. 正統な進化形と言えるだろう。
+msgctxt "0039"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. この茶番を仕組んだのは一体誰なのか…
+#. 考えようにも、手掛かりが不足しすぎだ。
+msgctxt "0001"
+msgid ""
+"How many times do I have to tell you? You're annoying.\n"
+"Feel free to crawl off and die."
+msgstr ""
+
+#. …考えすぎて小腹が空いたな。
+#. 軽く何か食べるか。お前も付き合え。
+msgctxt "0002"
+msgid ""
+"<CLT 4>I refused to get discouraged, and spent some time with\n"
+"Byakuya.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>軽くどころではない量の食糧を
+#. 平らげる十神を、見守って過ごした。<CLT>
+msgctxt "0003"
+msgid ""
+"Do you intend to follow me wherever I go? Gods grant\n"
+"me patience..."
+msgstr ""
+
+#. <CLT 04>十神が少し仲良くなってくれたみたいだ…<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>I refused to get discouraged, and spent some time with\n"
+"Byakuya.\n"
+"<CLT>"
+msgstr ""
+
+#. 渡す
+msgctxt "0005"
+msgid "..."
+msgstr "..."
+
+#. 渡さない
+msgctxt "0006"
+msgid "..."
+msgstr "..."
+
+#. <CLT 06><CLT><CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0007"
+msgid ""
+"<CLT 4>I spent some time with Byakuya in silence...\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0008"
+msgid "So weak..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0009"
+msgid "I have no interest in a commoner like you."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0010"
+msgid ""
+"<CLT 4>I ignored the insults, and spent some time with\n"
+"Byakuya.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid ""
+"<CLT 4>Byakuya and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0013"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0014"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Byakuya a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

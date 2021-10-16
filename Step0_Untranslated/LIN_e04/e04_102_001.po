@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "It was one of you..."
+msgstr ""
+
+msgctxt "0002"
+msgid "One of you killed Sakura!"
+msgstr ""
+
+msgctxt "0003"
+msgid "And what reason do you have for saying so?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Because you all had a motive!"
+msgstr ""
+
+msgctxt "0005"
+msgid "You <CLT 9>hated her<CLT>!"
+msgstr ""
+
+msgctxt "0006"
+msgid "Is that it? That doesn't make any sense..."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"That's <CLT 9>the only reason you have<CLT>\n"
+"for accusing us?"
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"That's l-low... That's about\n"
+"as low a-as you can g-get!"
+msgstr ""
+
+msgctxt "0009"
+msgid "<CLT 26>Wh-What!?<CLT>"
+msgstr ""
+
+msgctxt "0010"
+msgid "<CLT 26>Hmph. Idiotic.<CLT>"
+msgstr ""
+
+msgctxt "0011"
+msgid "<CLT 26>That's reason enough!<CLT>"
+msgstr ""
+
+msgctxt "0012"
+msgid "<CLT 26>Yeah... Yeah!<CLT>"
+msgstr ""
+
+msgctxt "0013"
+msgid "<CLT 26>Things have suddenly gotten interesting. Good!<CLT>"
+msgstr ""
+
+msgctxt "0014"
+msgid "<CLT 26>There's no reason!<CLT>"
+msgstr ""

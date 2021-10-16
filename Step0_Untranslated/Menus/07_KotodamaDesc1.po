@@ -1,0 +1,2822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 被害者の死体が発見されたのは、
+#. ホテル・ミライ旧館の大広間。
+#. 
+#. 死亡時刻は午後１１時３０分頃。
+#. 
+#. 死因は刺殺で、
+#. 腹部から喉にかけての数十ヵ所を
+#. めった刺しにされている。
+#. 
+#. それ以外には特に外傷もなく、
+#. 毒物などの薬品類を
+#. 摂取した痕跡もない。
+msgctxt "0001"
+msgid ""
+"The victim was Sayaka Maizono.\n"
+"The time of death is estimated\n"
+"to be around 1:30 a.m. The body\n"
+"was discovered in Makoto's room,\n"
+"in the dormitory.\n"
+"\n"
+"The death took place in the\n"
+"bathroom. The cause of death\n"
+"was a stab wound to the\n"
+"abdomen, and her right wrist\n"
+"appears to have been fractured."
+msgstr ""
+
+#. 死体が発見されたテーブルの下に
+#. 落ちていた血塗れのナイフ。
+#. 夜光塗料らしき物が
+#. 付着している。
+msgctxt "0002"
+msgid ""
+"There are a number of\n"
+"scratches and gouges on\n"
+"the bed and walls in\n"
+"Makoto's room."
+msgstr ""
+
+#. テーブルの下の死体の周りに
+#. 血溜まりができており、
+#. テーブルクロスの内側には、
+#. 激しく血痕が飛び散っている。
+#. 
+#. また、血痕に引きずられた
+#. ような跡はない。
+msgctxt "0003"
+msgid ""
+"Makoto took this from the gym\n"
+"entryway and put it in his\n"
+"room. The sword was found out\n"
+"of its sheath on the floor in\n"
+"the middle of the room.\n"
+"\n"
+"The sword handle was missing\n"
+"some of the gold coating, as\n"
+"was part of the blade."
+msgstr ""
+
+#. 大広間の床はかなり隙間だらけに
+#. なっている。
+#. 
+#. 田中はその隙間から、
+#. イヤリングを落としてしまった。
+msgctxt "0004"
+msgid ""
+"Makoto took this from the gym\n"
+"entryway and put it in his\n"
+"room. The sheath was found\n"
+"some distance from the sword\n"
+"itself, and it shows evidence\n"
+"of being scratched with a\n"
+"sharp object.\n"
+"\n"
+"If you were going to attack\n"
+"someone with the sword, you\n"
+"would almost certainly remove\n"
+"the sheath first."
+msgstr ""
+
+#. 大広間のエアコンのタイマーが、
+#. １１時３０分にセットしてある。
+msgctxt "0005"
+msgid ""
+"On the night of the murder,\n"
+"Makoto and Sayaka traded rooms\n"
+"and room keys. When the victim\n"
+"was discovered, Makoto's room\n"
+"key was also found in Makoto's\n"
+"room.\n"
+"\n"
+"Sayaka had originally asked\n"
+"Makoto to switch with her when\n"
+"someone attempted to force\n"
+"their way into her room, and\n"
+"she became frightened."
+msgstr ""
+
+#. 死体が発見された
+#. テーブルの下に落ちていた。
+#. スーパーにあった物らしい。
+msgctxt "0006"
+msgid ""
+"This had been placed in\n"
+"Makoto's room before he\n"
+"arrived. It remains unopened,\n"
+"and there is no evidence of it\n"
+"having ever been used.\n"
+"\n"
+"All the other male students\n"
+"claim that they haven't used\n"
+"theirs, either. But still..."
+msgstr ""
+
+#. 罪木は、パーティー会場で
+#. 停電中に驚いて転んでしまった。
+#. 
+#. 電気が点いた時には、
+#. 大変な格好になっていた。
+msgctxt "0007"
+msgid ""
+"Not a single hair was found on\n"
+"the floor at the scene of the\n"
+"crime. In addition, the lint\n"
+"roller shows evidence of being\n"
+"used."
+msgstr ""
+
+#. 十神白夜が持っていたケース。
+#. 防犯グッズが大量に入っていて、
+#. 堅いビニール製のケースも
+#. あった。
+#. もう１つのジュラルミンケースの
+#. 鍵も入っていた。
+msgctxt "0008"
+msgid ""
+"Sayaka's right wrist had been\n"
+"fractured, and her wrist was\n"
+"\"glittery\" at the injury's\n"
+"location.\n"
+"\n"
+"In addition, her hands\n"
+"appeared to be completely\n"
+"clean, except for the index\n"
+"finger of her left hand, which\n"
+"had some blood on it."
+msgstr ""
+
+#. 澪田は停電中、騒ぎの中の音を
+#. 聞き分けていた。
+#. 
+#. 小泉
+#. 「うわっ、停電だよ！」
+#. 左右田
+#. 「おいっ、何も見えねーぞ！？」
+#. 澪田
+#. 「ま、真っ暗だよ！
+#. もうお先真っ暗だよっ！」
+#. 小泉
+#. 「み、みんな落ち着いて！
+#. こういう時は落ち着かないと！」
+#. 西園寺
+#. 「わーん！　足踏まないでよ―！」
+#. 十神
+#. 「おいっ、お前何をしているっ！」
+#. 「やめろっ！！」
+#. 狛枝
+#. 「いてっ！」
+#. 終里
+#. 「電気点けろって！
+#. 飯が食いづれーじゃねーか！」
+#. 花村
+#. 「みんなー、どこにいるのー？
+#. て、停電って…
+#. 厨房だけじゃないのー？」
+#. ソニア
+#. 「これって、ブレーカーが
+#. 落ちたんじゃないですか？」
+#. 左右田
+#. 「ちょ、ちょっと待ってろ！
+#. オレが壁伝いに…
+#. 何とかしてくっから…！」
+msgctxt "0009"
+msgid ""
+"A series of numbers had been\n"
+"written in blood on Makoto's\n"
+"bathroom wall—11037.\n"
+"\n"
+"It is assumed that Sayaka\n"
+"wrote these numbers while\n"
+"leaned up against the wall,\n"
+"as she lay dying."
+msgstr ""
+
+#. 倉庫には、３台のアイロンが
+#. 置いてある。
+#. 狛枝が見つけた時には、
+#. アイロンは３台とも
+#. 電源が入っていたらしい。
+msgctxt "0010"
+msgid ""
+"Makoto's bathroom door was\n"
+"difficult to open, due to it\n"
+"not quite fitting in the\n"
+"doorframe properly.\n"
+"\n"
+"The only two people who knew\n"
+"the trick to opening it were\n"
+"Makoto, the room's owner,\n"
+"and Sayaka, the victim."
+msgstr ""
+
+#. 血痕の付着したテーブルクロスが
+#. 倉庫のランドリーボックスの中に
+#. 乱雑に突っ込まれていた。
+msgctxt "0011"
+msgid ""
+"Makoto's bathroom doorknob had\n"
+"been broken—the screws holding\n"
+"it in place had all been\n"
+"partially or completely\n"
+"removed."
+msgstr ""
+
+#. 厨房のキッチンのガスコンロは
+#. 電気で制御するタイプ。
+#. そのため、停電中は
+#. 使用できなかった。
+msgctxt "0012"
+msgid ""
+"The nameplates on the doors to\n"
+"Sayaka and Makoto's rooms were\n"
+"apparently switched at some\n"
+"point."
+msgstr ""
+
+#. パーティーの為に用意された
+#. 花村渾身の料理の数々。
+#. だが、口にしたのは
+#. 終里と辺古山の２人だけ。
+msgctxt "0013"
+msgid ""
+"The kitchen in the dining hall\n"
+"has a set of kitchen knives.\n"
+"Apparently one of the knives\n"
+"had gone missing."
+msgstr ""
+
+#. 旧館の廊下には、火事の延焼を
+#. 防ぐ為の防火扉がある。
+msgctxt "0014"
+msgid ""
+"The knife from the kitchen\n"
+"went missing while Aoi was in\n"
+"the dining hall.\n"
+"\n"
+"Aoi swears that Makoto did not\n"
+"come to the dining hall at any\n"
+"point while she was there."
+msgstr ""
+
+#. 厨房の備品リストには、
+#. 現場のナイフは書かれてない。
+#. リストにある備品の内、
+#. 凶器になりそうな危険物は
+#. 十神がすべて回収している。
+#. リストによると、
+#. ＢＢＱ用鉄板や、
+#. 鍋用カセットコンロなども
+#. あるらしい。
+msgctxt "0015"
+msgid ""
+"There's apparently a trash\n"
+"room within the school. It's\n"
+"blocked off by a sturdy gate\n"
+"that can only be opened with\n"
+"the trash room key."
+msgstr ""
+
+#. 七海が外で見張ってる間、
+#. 九頭龍が旧館の前に来て、
+#. そのまま去っていったらしい。
+msgctxt "0016"
+msgid ""
+"The incinerator can be\n"
+"activated via a switch on the\n"
+"machine. Hifumi was on\n"
+"cleaning duty, and he claims\n"
+"that the last time he saw the\n"
+"incinerator, it was off.\n"
+"\n"
+"However, when Makoto checked\n"
+"it after the incident, the\n"
+"incinerator was, in fact, on.\n"
+"\n"
+"The distance from the gate to\n"
+"the incinerator is roughly\n"
+"thirty feet."
+msgstr ""
+
+#. 十神の部屋にあった脅迫文。
+#. 
+#. 『警戒せよ。
+#. 今晩最初のコロシアイが起きる。
+#. 必ず誰かが誰かを殺す。』
+#. 
+#. 誰が書いた物かはわからない。
+msgctxt "0017"
+msgid ""
+"A piece of burnt clothing was\n"
+"found next to the incinerator\n"
+"in the trash room.\n"
+"\n"
+"It is apparently part of a\n"
+"shirt cuff, and it has a\n"
+"noticeable bloodstain on it."
+msgstr ""
+
+#. 停電後の十神の捜索の際、
+#. すぐに事務室に向かったが、
+#. そこに辺古山の姿はなく、
+#. 誰もいなかったらしい。
+msgctxt "0018"
+msgid ""
+"Shards of glass were found\n"
+"next to the incinerator in\n"
+"the trash room.\n"
+"\n"
+"As it turns out, the glass\n"
+"ball would have fit\n"
+"comfortably in the palm\n"
+"of a person's hand."
+msgstr ""
+
+#. 罪木の検死によると、
+#. 死んだ十神の胸や腹部には、
+#. 無数の刺し傷があり、
+#. その傷は、直径５ミリ程度の
+#. 細く鋭利な凶器によるもの
+#. らしい。
+msgctxt "0019"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 弐大はパーティー開始直後から、
+#. 何度も別館のトイレに行ったが、
+#. ずっと誰かが入っていた。
+#. 
+#. トイレに入れたのは、
+#. 十神の死体が見つかった後。
+msgctxt "0020"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 被害者となったのは小泉真昼。
+#. 死亡時刻は１５時頃…
+#. 死体発見現場となったのは、
+#. チャンドラービーチにある
+#. ビーチハウスの中。
+#. 致命傷となったのは鈍器による
+#. 頭部への殴打。
+#. 一撃で死亡している。
+#. 他には目立った外傷は見られず、
+#. 薬物などを投与された形跡も
+#. ない。
+msgctxt "0031"
+msgid ""
+"The victim was Chihiro\n"
+"Fujisaki. The time of death is\n"
+"estimated to be around 2:00\n"
+"a.m. The body was discovered\n"
+"in the girls locker room, on\n"
+"the 2nd floor of the school.\n"
+"\n"
+"The cause of death was a blow\n"
+"to the head with a blunt\n"
+"object. She was killed\n"
+"instantly."
+msgstr ""
+
+#. 現場近くには足跡が残っていた。
+#. 海の家を出て、回り込むように
+#. 道路へと続いている。
+msgctxt "0032"
+msgid ""
+"Although Chihiro wanted to get\n"
+"stronger, she declined several\n"
+"invitations from Sakura and\n"
+"Aoi, and may have used the\n"
+"locker room late at night to\n"
+"avoid them.\n"
+"\n"
+"Despite this, Chihiro had\n"
+"stated that she desired help\n"
+"with her efforts.\n"
+"\n"
+"She may have been meeting\n"
+"someone in the locker room the\n"
+"night she was murdered."
+msgstr ""
+
+#. 現場に残されていた。
+#. 血痕がついている為、
+#. 凶器と思われる。
+msgctxt "0033"
+msgid ""
+"The dumbbell found on the\n"
+"floor of the girls locker\n"
+"room had a significant\n"
+"amount of blood on it."
+msgstr ""
+
+#. ビーチハウスのゴミ箱。
+#. 空のペットボトルが入っていた。
+#. 冷蔵庫のドリンクのものだと
+#. 思われる。
+msgctxt "0034"
+msgid ""
+"Chihiro had told anyone\n"
+"willing to listen that she\n"
+"wanted to get stronger.\n"
+"\n"
+"Some assume that due to her\n"
+"inferiority complex about\n"
+"being weak, she admired\n"
+"strength more than anything\n"
+"else."
+msgstr ""
+
+#. 現場に残されていた。
+#. 美少女アニメ『太陽の魔女♪えす
+#. ぱぁ伊藤ちゃん』のキャラクター
+#. のお面。
+msgctxt "0035"
+msgid ""
+"To unlock a locker room, you\n"
+"need to swipe your e-Handbook\n"
+"over the card reader.\n"
+"\n"
+"You need a male student's\n"
+"handbook for the boys locker\n"
+"room, and a female student's\n"
+"for the girls. It is not\n"
+"possible for two people to\n"
+"enter at the same time.\n"
+"\n"
+"Additionally, lending someone\n"
+"your handbook is a violation\n"
+"of school regulations."
+msgstr ""
+
+#. ビーチハウスのクローゼットに
+#. 落ちていたお菓子のグミ。
+msgctxt "0036"
+msgid ""
+"The handbook of each student\n"
+"that has died is placed in the\n"
+"mailbox in the main hall."
+msgstr ""
+
+#. ビーチハウスのシャワールーム。
+#. だが、修理中のためシャワーは
+#. 使用できない。
+msgctxt "0037"
+msgid ""
+"One of the handbooks found in\n"
+"the main hall had been broken,\n"
+"which is apparently a rare\n"
+"occurrence.\n"
+"\n"
+"Junko and Sayaka's handbooks\n"
+"both seem to still work, so it\n"
+"is assumed that the broken\n"
+"handbook is Leon's.\n"
+"\n"
+"However, Monokuma claims it's\n"
+"very unlikely that Leon's\n"
+"handbook would have broken."
+msgstr ""
+
+#. シャワールームにある唯一の窓。
+#. 窓は開くようになっているが、
+#. 高所にあるため、肩車などを
+#. しないと通れそうにはない。
+msgctxt "0038"
+msgid ""
+"Suspected Genocide Jack\n"
+"victims include Ken Harada,\n"
+"Tetsuhiro Honda, and Shoji\n"
+"Gaku, among countless others.\n"
+"\n"
+"They were killed in the same\n"
+"way, and mounted to a nearby\n"
+"wall. The word \"bloodlust\" was\n"
+"found at the scene of each\n"
+"crime, written in blood.\n"
+"\n"
+"Profiling indicates the killer\n"
+"is likely a student suffering\n"
+"from a split personality."
+msgstr ""
+
+#. 『トワイライトシンドローム
+#. 殺人事件』で女子高生の死体が
+#. 発見された音楽室の水槽が
+#. 倒れていた。
+#. 周囲には砂利や水が
+#. 散乱している。
+msgctxt "0039"
+msgid ""
+"Chihiro seems to have\n"
+"consciously kept her distance\n"
+"from the other girls at the\n"
+"school, even from the\n"
+"beginning.\n"
+"\n"
+"Meanwhile, it had been noticed\n"
+"that she got along remarkably\n"
+"well with her male classmates."
+msgstr ""
+
+#. 『トワイライトシンドローム
+#. 殺人事件』で女子高生の死体が
+#. 発見された音楽室の窓ガラスが
+#. 割られていた。
+#. 通常、音楽室から外に出るには
+#. 必ず玄関ホールを通る必要が
+#. あるらしい。
+msgctxt "0040"
+msgid ""
+"The carpet in the boys locker\n"
+"room was found with a blackish\n"
+"stain on it."
+msgstr ""
+
+#. 『トワイライトシンドローム
+#. 殺人事件』に登場するＥ子は
+#. 何者かに水着を盗まれている。
+msgctxt "0041"
+msgid ""
+"Blood was found on the poster\n"
+"in the girls locker room. The\n"
+"poster featured a big-breasted\n"
+"supermodel popular among young\n"
+"boys.\n"
+"\n"
+"Meanwhile, the poster in the\n"
+"boys locker room was for a boy\n"
+"band popular with teenage\n"
+"girls."
+msgstr ""
+
+#. 『トワイライトシンドローム
+#. 殺人事件』のクリア特典。
+#. もうすでにモノクマが誰かに
+#. 渡してしまったようだ。
+msgctxt "0042"
+msgid ""
+"Chihiro's handbook was not\n"
+"found on her corpse, and has\n"
+"apparently gone missing."
+msgstr ""
+
+#. クリア特典のひとつ。
+#. どこかの玄関ホールらしき場所に
+#. 罪木、澪田、西園寺が
+#. 写っている。
+msgctxt "0043"
+msgid ""
+"Chihiro's body had been\n"
+"suspended, and her hands had\n"
+"been bound with some kind of\n"
+"rope. Her fatal injury was a\n"
+"blow to the head."
+msgstr ""
+
+#. クリア特典のひとつ。
+#. 割れた花瓶が写っている写真。
+#. 『トワイライトシンドローム
+#. 殺人事件』の中でＤ子がＥ子に
+#. みせた写真と同じもの。
+#. 音楽室の隣の教室の
+#. 花瓶が割れていた。
+msgctxt "0044"
+msgid ""
+"Sakura mentioned that she was\n"
+"responsible for a coffee stain\n"
+"on the girls locker room\n"
+"floor. However, the stain had\n"
+"since been inexplicably\n"
+"scrubbed away."
+msgstr ""
+
+#. クリア特典のひとつ。
+#. 音楽室で女子高生が殺されている
+#. 現場写真。
+msgctxt "0045"
+msgid ""
+"Byakuya was known to use this\n"
+"lamp often. However, the\n"
+"extension cord had gone\n"
+"missing at some point and the\n"
+"lamp's cord couldn't quite\n"
+"reach the outlet."
+msgstr ""
+
+#. クリア特典のひとつ。
+#. Ｅ子が殺された現場写真。
+#. 金属バットで殺されたようだ。
+msgctxt "0046"
+msgid ""
+"On the night of the murder,\n"
+"right before \"nighttime,\"\n"
+"Chihiro was spotted leaving\n"
+"the warehouse. It seems she\n"
+"was stuffing some blue\n"
+"exercise clothes into a duffel\n"
+"bag. Presumably she was on her\n"
+"way to exercise, but the\n"
+"clothes were not found at the\n"
+"crime scene.\n"
+"\n"
+"Celeste had not told anyone\n"
+"other than Makoto about this\n"
+"encounter."
+msgstr ""
+
+#. 西園寺の部屋に大量に
+#. 置いてあったらしい。
+#. イチゴ味とメロン味と
+#. マスカット味とオレンジ味…
+#. １袋に４種類の味が入ったグミ。
+msgctxt "0047"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 小泉のポケットにあった手紙。
+#. 「直接言おうと思ってたけど、
+#. 見当たらなかったので
+#. ポストに入れておくね。
+#. さっきの件だけど、場所と時間を
+#. 変更してもいいかな？
+#. １４時３０分に、遺跡がある島の
+#. ビーチハウスでお願い。
+#. でも、私達が会うのを
+#. ジャマしようとしている人が
+#. いるみたい。
+#. だから、待ち合わせの件は
+#. 内緒ね。私達もそれまでは
+#. 会わないようにしよう。
+#. 変に勘ぐられても困るからね。
+#. 
+#. 西園寺日寄子より」
+msgctxt "0048"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 小泉真昼は背後から殴られ、
+#. 即死だったようだ。
+msgctxt "0049"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 西園寺のコテージのポストに
+#. 入れられていた手紙。
+#. 「直接言おうと思ってたけど、
+#. 見当たらなかったので
+#. ポストに入れておくね。
+#. 実は、ちょっと待ち合わせ場所を
+#. 変更したくて…
+#. 遺跡がある島のビーチハウスに
+#. 来て欲しいんだ。
+#. 時間は同じ１４時で大丈夫だよ。
+#. でも、私達が会うのを
+#. ジャマしようとしている人が
+#. いるみたい。
+#. だから、待ち合わせの件は
+#. 内緒ね。私達もそれまでは
+#. 会わないようにしよう。
+#. 変に勘ぐられても困るからね。
+#. 
+#. 小泉真昼より」
+msgctxt "0050"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0053"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0054"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0055"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0056"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0057"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0058"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0059"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0060"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 被害者となったのは、
+#. 澪田唯吹と西園寺日寄子の２名。
+#. 澪田唯吹の死因は首を絞められた
+#. 事による頸部圧迫で、
+#. 他に目立った外傷はない。
+#. 西園寺日寄子の死因は、
+#. 首を鋭利な刃物で切られた
+#. 失血性のショック死で、
+#. ほとんど即死だった模様。
+msgctxt "0061"
+msgid ""
+"The victims were Hifumi Yamada\n"
+"and Kiyotaka Ishimaru.\n"
+"\n"
+"The cause of death for each\n"
+"was a blow to the head. It is\n"
+"thought that they were both\n"
+"killed with a similar weapon."
+msgstr ""
+
+#. 澪田唯吹の両足の裏には、
+#. 血痕が付着していた。
+msgctxt "0062"
+msgid ""
+"The tarp was found in the\n"
+"repository, under Kiyotaka's\n"
+"lifeless body.\n"
+"\n"
+"It was apparently used to move\n"
+"Kiyotaka in order to avoid\n"
+"leaving any bloodstains."
+msgstr ""
+
+#. 首吊りに使われていたロープ。
+#. 罪木によると、澪田の死因は
+#. このロープで首を吊った事で、
+#. 間違いないらしい。
+msgctxt "0063"
+msgid ""
+"The dolly was found when the\n"
+"body was rediscovered in the\n"
+"repository. This specific\n"
+"dolly has no handles, and\n"
+"blood was found on one of its\n"
+"wheels.\n"
+"\n"
+"It is assumed that this is the\n"
+"same dolly that was in the\n"
+"equipment room, where\n"
+"Kiyotaka's body was originally\n"
+"discovered."
+msgstr ""
+
+#. 西園寺が宿泊していた
+#. モーテルの部屋の鍵。
+#. 西園寺の着物の懐の
+#. 奥深くに入っていたので
+#. 取り出すのに苦労した。
+msgctxt "0064"
+msgid ""
+"When they were first found in\n"
+"the nurse's office, Hifumi's\n"
+"glasses were covered in blood.\n"
+"However, when they were next\n"
+"seen in the repository, they\n"
+"were completely clean."
+msgstr ""
+
+#. 照明バトンに引っ掛かっていた
+#. 厚手の紙の切れ端。
+msgctxt "0065"
+msgid ""
+"Hammers of all shapes and\n"
+"sizes were found in the\n"
+"repository. One of them was\n"
+"found wet, and had apparently\n"
+"been recently washed."
+msgstr ""
+
+#. ライブハウスのステージ後方に
+#. かけてあった黒いカーテン。
+#. 横の長さが足りてない。
+#. 元からライブハウスに
+#. あった物ではなく、
+#. スーパーから持ってきた物の
+#. ようだ。
+msgctxt "0066"
+msgid ""
+"The door connecting the art\n"
+"room to the repository was\n"
+"designed to open only from the\n"
+"repository side.\n"
+"\n"
+"According to Aoi, it was\n"
+"locked during the search for\n"
+"the missing body. However,\n"
+"when the body was\n"
+"rediscovered, it had\n"
+"somehow been unlocked..."
+msgstr ""
+
+#. ライブハウスのステージ上で
+#. 横倒しになっていた。
+#. 左側の側面だけに、
+#. わずかに血痕が付着している。
+msgctxt "0067"
+msgid ""
+"A puddle of blood was found in\n"
+"the equipment room where\n"
+"Kiyotaka's body was initially\n"
+"found. A tire track had been\n"
+"left behind in the blood."
+msgstr ""
+
+#. ライブハウスのステージ上の
+#. １番手前に立てられていた。
+#. 監視カメラの映像に映った
+#. ぼんやりとした明かりは
+#. このロウソクの光だったようだ。
+msgctxt "0068"
+msgid ""
+"The cloth was found in the\n"
+"trash can in the nurse's\n"
+"office. It is branded with a\n"
+"popular cartoon character, and\n"
+"was found with blood on it.\n"
+"\n"
+"One has to wonder if someone\n"
+"used it to wipe some blood\n"
+"away..."
+msgstr ""
+
+#. ライブハウスにあった、
+#. 連絡用の監視カメラセット。
+#. バラバラに壊されていて
+#. 使い物にならない。
+msgctxt "0069"
+msgid ""
+"Hifumi's body disappeared when\n"
+"Celeste and Aoi left the\n"
+"nurse's office to use the\n"
+"bathroom.\n"
+"\n"
+"Apparently they weren't gone\n"
+"for more than a minute or two."
+msgstr ""
+
+#. ライブハウスの空調は
+#. ３０℃の暖房になっている。
+#. そのせいで室内はかなり暑い。
+msgctxt "0070"
+msgid ""
+"This is the note that Yasuhiro\n"
+"wrote to get everyone to meet\n"
+"in the dining hall. \"Meet in\n"
+"the dining hall!\" is all it\n"
+"says.\n"
+"\n"
+"The handwriting is remarkably\n"
+"neat and clear."
+msgstr ""
+
+#. ライブハウスのステージの床に、
+#. 血痕を拭き取った跡が
+#. 残っていた。
+#. 澪田に出血がない為、
+#. 西園寺の血と思われる。
+msgctxt "0071"
+msgid ""
+"These are the blueprints for\n"
+"Robo Justice, which were found\n"
+"in Yasuhiro's room."
+msgstr ""
+
+#. ライブハウス入口の
+#. ドアとドアが接する部分に
+#. 付着していた妙な塊。
+msgctxt "0072"
+msgid ""
+"No one but Yasuhiro could have\n"
+"possibly fit into the costume.\n"
+"\n"
+"In addition, anyone wearing it\n"
+"would not be able to see their\n"
+"feet, or bend at the waist\n"
+"more than 90 degrees."
+msgstr ""
+
+#. 朝のモノクマアナウンスが
+#. 鳴るちょっと前まで、
+#. 日向と一緒に行動していた。
+#. その後、病室のみんなの様子を
+#. 見に行ったところで、
+#. 澪田が消えた事に気付いた。
+#. そして、澪田を探しに
+#. 病院を出たところで、
+#. 九頭龍と会ったらしい。
+msgctxt "0073"
+msgid ""
+"Apparently, Yasuhiro received\n"
+"a mysterious note last night.\n"
+"The note reads...\n"
+"\n"
+"\"I found a hole maybe we can\n"
+"use to escape. Monokuma can't\n"
+"find out, so don't tell anyone\n"
+"else for now. Let's meet in\n"
+"the rec room at 1 a.m.\""
+msgstr ""
+
+#. 病院で日向が見た映像。
+#. 麻袋を被った患者服姿の人物が、
+#. 首を吊る為に
+#. 自分から脚立を上っていく
+#. 映像だった。
+msgctxt "0074"
+msgid ""
+"Kiyotaka's wristwatch broke\n"
+"with the hands pointing just\n"
+"past 6 o'clock.\n"
+"\n"
+"It was confirmed that as of\n"
+"late last night, the watch\n"
+"still worked, which means it\n"
+"must have broken the following\n"
+"morning when he was attacked."
+msgstr ""
+
+#. 病院前で罪木と会った後、
+#. ２人で手分けして澪田を捜した。
+#. 映画館と電気街にも行ったが、
+#. 誰とも出会っていない。
+#. 罪木と別行動した時間は
+#. 少しの間らしい。
+msgctxt "0075"
+msgid ""
+"Kiyotaka's lifeless hand was\n"
+"found clutching a small scrap\n"
+"of paper."
+msgstr ""
+
+#. １人で着付けができないせいで、
+#. 着物が滅茶苦茶になって
+#. 西園寺は困っていた。
+#. そこで、ソニアは
+#. ライブハウスの倉庫に大きな鏡が
+#. ある事を教えてあげたらしい。
+msgctxt "0076"
+msgid ""
+"Hifumi had this note hidden on\n"
+"him. One edge of it appears to\n"
+"be torn. The note reads:\n"
+"\n"
+"\"I found a hole maybe we can\n"
+"use to escape. Monokuma can't\n"
+"find out, so don't tell anyone\n"
+"else for now. Let's meet in\n"
+"the equipment room at 6 a.m.\""
+msgstr ""
+
+#. モノクマが用意した
+#. 映画の招待券。１人につき
+#. １枚しか配布しておらず、
+#. 配られた日だけ見る事ができる。
+msgctxt "0077"
+msgid ""
+"Each student has their own\n"
+"e-Handbook, which also acts\n"
+"as a cardkey. The owner's name\n"
+"is displayed each time the\n"
+"handbook is booted up.\n"
+"\n"
+"It is believed that no\n"
+"handbooks were involved\n"
+"in carrying out the murders\n"
+"this time."
+msgstr ""
+
+#. 映画館で売っていたモノミの
+#. トートバッグは限定１人に販売。
+#. １つ買うと、特典としてもう１つ
+#. 同じ物が付いてくるらしい。
+msgctxt "0078"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. モノクマが監督した映画。
+#. 映画の中には、
+#. 全部で３つの事件があった。
+#. 最初にモノミかかしが
+#. 首を吊って死に、
+#. 次にモノミライオンが
+#. 弓矢で磔となってしんだ。
+#. 最後にブリキのモノミ木こりが
+#. バラバラの鉄の塊になり死んだ。
+msgctxt "0079"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0080"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0081"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0082"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0083"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0084"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0085"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0086"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0087"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0088"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0089"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0090"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 被害者となったのはロボット化
+#. した弐大猫丸…
+#. 通称"メカ弐大"である。
+#. 死体が発見されたのは
+#. ドッキリハウス内にある、
+#. マスカットタワーだった。
+#. 頭部を修復不可能なほど激しく
+#. 損傷しており、それをもって
+#. 死亡と認定する。
+#. 足や手などがバラバラになって
+#. しまっているが、これは元々
+#. 取り外し可能だった箇所が、
+#. 激しい衝撃を受けて
+#. 外れてしまった模様。
+#. それ以外にも、全身にわたって
+#. 数箇所を損傷しており、
+#. それに伴い、いくつかの機能が
+#. 停止してしまっているようだ。
+msgctxt "0091"
+msgid ""
+"The victim was Sakura Ogami.\n"
+"The time of death is estimated\n"
+"to be around 12 noon. The body\n"
+"was discovered in the rec\n"
+"room, on the 3rd floor of the\n"
+"school.\n"
+"\n"
+"There is evidence of a strong\n"
+"blow to the victim's head. No\n"
+"other injuries were noted;\n"
+"however, it seems that at some\n"
+"point, the victim suffered\n"
+"from violent vomiting of\n"
+"blood."
+msgstr ""
+
+#. 弐大の胴体と左足は
+#. 頑丈な鉄製のワイヤーで
+#. 縛られていた。
+#. そのワイヤーの先端部分は
+#. 輪っかになっていた。
+msgctxt "0092"
+msgid ""
+"A chair had been jammed\n"
+"against the door within the\n"
+"rec room, blocking access from\n"
+"the outside.\n"
+"\n"
+"It is believed that the killer\n"
+"did this to create a \"locked\n"
+"room\" scenario."
+msgstr ""
+
+#. 弐大の首の後ろにあるスイッチ。
+#. 押すと全機能を停止させる
+#. 強制スリープモードになる。
+msgctxt "0093"
+msgid ""
+"Sakura was found dead seated\n"
+"in a chair, slumping forward.\n"
+"\n"
+"Traces of blood were found\n"
+"around her mouth, presumably\n"
+"from when she vomited blood.\n"
+"However, there was no injury\n"
+"or indication as to why she\n"
+"would have vomited blood."
+msgstr ""
+
+#. 弐大の体から流れ出したオイル。
+#. 特に致命傷となった頭部から
+#. 大量に流れ出している。
+msgctxt "0094"
+msgid ""
+"A bloodstain was found in\n"
+"front of the shelf of\n"
+"magazines. The blood is\n"
+"presumed to be Sakura's.\n"
+"\n"
+"There is currently no\n"
+"explanation for how a\n"
+"bloodstain would have appeared\n"
+"so far away from where the\n"
+"victim was found."
+msgstr ""
+
+#. 扉の脇の柱が
+#. １本だけ倒れていて、
+#. 柱が砕けた部分には
+#. 染みが付着している。
+#. 柱は２人がかりでも
+#. 持ち上げられないくらい重い。
+msgctxt "0095"
+msgid ""
+"At one point Aoi had been\n"
+"injured and taken to the\n"
+"nurse's office. After she was\n"
+"taken care of, she gave a\n"
+"piece of candy to Sakura which\n"
+"had this type of wrapper.\n"
+"\n"
+"According to Aoi, she had\n"
+"\"monopolized\" this candy as\n"
+"soon as it had become\n"
+"available, so obtaining a\n"
+"piece would have been\n"
+"difficult to impossible."
+msgstr ""
+
+#. タワーに落ちてた巨大ハンマー。
+#. 新品のようにキレイだった。
+msgctxt "0096"
+msgid ""
+"There were pieces of red glass\n"
+"scattered near the table in\n"
+"the rec room.\n"
+"\n"
+"After finding the top and\n"
+"bottom pieces, it was\n"
+"concluded that the shards must\n"
+"have come from a bottle."
+msgstr ""
+
+#. マスカットタワーの奥の扉は
+#. チェーンで塞がれている。
+msgctxt "0097"
+msgid ""
+"A Monokuma figure was found\n"
+"laying on the rec room floor.\n"
+"It would fit roughly in the palm\n"
+"of your hand."
+msgstr ""
+
+#. 朝の５時３０分くらいに、
+#. 地響きのような音を
+#. 聞いたらしい。
+msgctxt "0098"
+msgid ""
+"There are a number of red\n"
+"bottles on a shelf in the rec\n"
+"room. Inside each bottle is a\n"
+"Monokuma figure."
+msgstr ""
+
+#. 弐大の死体の下には、
+#. 小さい石の破片が
+#. 大量に落ちていた。
+#. しかし、体の上には
+#. その破片は落ちていなかった。
+msgctxt "0099"
+msgid ""
+"An empty protein drink was\n"
+"found near the rec room door.\n"
+"The container had a label\n"
+"reading CHEM A-2.\n"
+"\n"
+"The shards of glass from the\n"
+"window that was broken to get\n"
+"into the room were found both\n"
+"around and underneath the\n"
+"container."
+msgstr ""
+
+#. 九頭龍は朝の５時くらいに、
+#. 弐大がストロベリーハウス１階に
+#. 降りて行く姿を見たらしい。
+msgctxt "0100"
+msgid ""
+"A fresh handprint was found\n"
+"inside the rec room's open\n"
+"locker.\n"
+"\n"
+"Since the locker was open\n"
+"before they opened the \"locked\n"
+"room,\" there's no way someone\n"
+"was hiding in there before\n"
+"they arrived."
+msgstr ""
+
+#. 朝の５時３０分に
+#. ストロベリーハウス２階の
+#. ラウンジにある時計の
+#. アラームが鳴った。
+#. たまたまラウンジにいた九頭龍が
+#. 止めたが、左右田と田中も
+#. 音に気付いて駆け付けた。
+#. しかし、狛枝だけは
+#. 音に気付かなかったらしい…
+msgctxt "0101"
+msgid ""
+"Sakura had written notes to\n"
+"Toko, Byakuya, and Yasuhiro\n"
+"asking them to meet her in the\n"
+"rec room by noon. She had slid\n"
+"these notes underneath each\n"
+"person's room door."
+msgstr ""
+
+#. 両ハウス間を移動する為の
+#. 連絡エレベーターは、
+#. 壊れて動かなくなっていた。
+#. マスカットハウス側から
+#. 壊された模様で、
+#. 最後に使った人物は、
+#. マスカットハウスで降りたはず。
+msgctxt "0102"
+msgid ""
+"Byakuya confirmed that he\n"
+"received Sakura's note, but\n"
+"also claimed that he never\n"
+"went to see her, and in fact\n"
+"had not seen her at all that\n"
+"day."
+msgstr ""
+
+#. タワーに繋がるイチゴ回廊の扉を
+#. 開ける為のボタンが
+#. 壊されてしまっている。
+msgctxt "0103"
+msgid ""
+"Toko confirmed that she\n"
+"received Sakura's note, but\n"
+"also claimed that she never\n"
+"went to see her."
+msgstr ""
+
+#. ストロベリーハウスにいたはずの
+#. 狛枝が、なぜかマスカットハウス
+#. にやってきた。
+#. 連絡エレベーターは壊れている
+#. はずだが…
+msgctxt "0104"
+msgid ""
+"A small bit of garbage\n"
+"accidentally fell out of\n"
+"Yasuhiro's pocket. It was a\n"
+"piece of paper with red polka\n"
+"dots on it."
+msgstr ""
+
+#. 連絡エレベーターに乗っている
+#. 間に、コンパスの針が
+#. １８０度回転したらしい。
+msgctxt "0105"
+msgid ""
+"Yellow powder was found on the\n"
+"instep of Sakura's foot."
+msgstr ""
+
+#. 弐大がスリープモードから
+#. 復帰する為の目覚まし時計。
+#. その時計の針は、
+#. ７時３０分付近で止まっている。
+#. アラームの設定も
+#. ７時３０分だった。
+msgctxt "0106"
+msgid ""
+"Sakura suffered two blows to\n"
+"the head, not one. No blood\n"
+"was found on either of her\n"
+"hands."
+msgstr ""
+
+#. 弐大についている時計は
+#. 定期的に電波情報を受信して
+#. 自律的に時間のズレを修正する。
+#. 簡単に言えば、決して狂わない
+#. スゲー正確な時計で、
+#. 時間の設定すら不可能。
+msgctxt "0107"
+msgid ""
+"All of the Monokuma Bottles\n"
+"appear to be roughly the same\n"
+"weight. However, when the\n"
+"bottle shards were weighed\n"
+"against an intact bottle, the\n"
+"shards were found to be\n"
+"heavier."
+msgstr ""
+
+#. 倒れた柱の下にあったドアノブ。
+#. 根元のネジから外れており、
+#. 握る部分に何かで擦ったような
+#. 跡がある。
+msgctxt "0108"
+msgid ""
+"On the magazine shelf, one\n"
+"magazine had been put back\n"
+"upside down.\n"
+"\n"
+"Inside this magazine, Toko's\n"
+"name had been written in\n"
+"blood. It is assumed that\n"
+"whoever wrote it used their\n"
+"finger to do so."
+msgstr ""
+
+#. タワーに入る際、
+#. ブドウ回廊とイチゴ回廊の
+#. どちらから入っても、
+#. 弐大の死体の位置、倒れた柱、
+#. オイル痕や
+#. 左右田が分解した部品までもが
+#. まったく同じ配置になっていた。
+msgctxt "0109"
+msgid ""
+"On the shelf in the chem lab,\n"
+"section A contains\n"
+"supplements, section B\n"
+"contains reagents, and section\n"
+"C contains harmful chemicals.\n"
+"\n"
+"A bottle of poison labeled as\n"
+"section C had been placed in\n"
+"section A of the shelf."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0110"
+msgid ""
+"There was a broken bottle in\n"
+"front of the chem lab shelf,\n"
+"which was labeled CHEM C-4. The\n"
+"powder on the floor is assumed\n"
+"to have come from this.\n"
+"\n"
+"According to Byakuya, the\n"
+"powder would had to have been\n"
+"spilled after the incident\n"
+"took place."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0111"
+msgid ""
+"Someone had left footprints in\n"
+"the powder spilled in the chem\n"
+"lab. These footprints appeared\n"
+"only near the leftmost section\n"
+"of the shelf.\n"
+"\n"
+"From this it can be assumed\n"
+"that the suspect only had\n"
+"business in this area."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0112"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0113"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0114"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0115"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0116"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0117"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0118"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0119"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0120"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 被害者となったのは狛枝凪斗。
+#. 死体が発見されたのは、
+#. ヌイグルミ工場内にある
+#. グッズ倉庫だった。
+#. 死亡推定時刻は正午くらい。
+#. 槍で腹部を貫かれている他、
+#. 両足のふとももには
+#. 刺し傷があり、
+#. 左腕には切られた傷がある。
+#. さらに、右手の平には
+#. ナイフが貫通している。
+msgctxt "0121"
+msgid ""
+"Due to the the explosion, the\n"
+"victim's identity is unknown.\n"
+"They were, however, dead\n"
+"before the blast. The victim\n"
+"had been stabbed a single time\n"
+"with a knife, which went\n"
+"completely through the body.\n"
+"\n"
+"They had also been struck in\n"
+"the head with an object about\n"
+"as thick as a metal pipe. The\n"
+"body was covered with other\n"
+"wounds, but these were at\n"
+"least several days old."
+msgstr ""
+
+#. 両足をロープで縛られており、
+#. それぞれのロープが
+#. 近くの柱に結ばれて、
+#. 身動き取れないようにしてある。
+#. ふとももに大量の刺し傷がある。
+msgctxt "0122"
+msgid ""
+"The explosion has burnt the\n"
+"upper half of the body beyond\n"
+"recognition.\n"
+"\n"
+"The upper half of the body\n"
+"remained on fire and had to be\n"
+"extinguished. Because of this,\n"
+"the upper half was soaking\n"
+"wet, while the bottom half\n"
+"remained dry."
+msgstr ""
+
+#. 右腕を結んでいたロープは
+#. 燃えて切れてしまっている。
+#. だが、狛枝の右手の袖は
+#. キレイなままだった。
+msgctxt "0123"
+msgid ""
+"The body was wearing notably\n"
+"long fake nails."
+msgstr ""
+
+#. 狛枝の右手の平に突き刺さって
+#. いるアーミーナイフ。
+#. 軍事施設にあった物。
+#. 狛枝の両足と左腕の傷は
+#. これによるものだと思われる。
+msgctxt "0124"
+msgid ""
+"The body had a tattoo of a dog\n"
+"on the back of the right hand."
+msgstr ""
+
+#. 左手の平には飛び散った血が
+#. 付着しているが、
+#. なぜか途中で途切れている。
+#. 一方で、手の裏は
+#. 指の第二関節のあたりだけに
+#. 不自然に血が付いている。
+msgctxt "0125"
+msgid ""
+"There were bits of charred\n"
+"debris near the body. It seems\n"
+"familiar to something that was\n"
+"seen earlier..."
+msgstr ""
+
+#. 狛枝の口はガムテープで
+#. 厳重に塞がれていた。
+#. しかし、狛枝の顔に飛んだ血痕は
+#. ガムテープの下にはなかった。
+#. さらにガムテープには
+#. 必死に口を動かしたような
+#. 皺ができていた。
+msgctxt "0126"
+msgid ""
+"The sprinklers are programmed\n"
+"to come on every morning at\n"
+"7:30, and this time is\n"
+"impossible to change.\n"
+"\n"
+"As such, it can be assumed\n"
+"that if the body had been in\n"
+"the garden before 7:30, it\n"
+"would have gotten wet."
+msgstr ""
+
+#. 狛枝の腹部に突き刺さった槍。
+#. 柄の先端からムチが伸び、
+#. 先に鉄の分銅が付いている。
+#. 分銅とムチの繋がっている部分
+#. だけ、なぜか血が付着してない。
+msgctxt "0127"
+msgid ""
+"7 a.m.: Makoto wakes to the\n"
+"morning announcement.\n"
+"\n"
+"7:30 a.m.: Makoto and Aoi\n"
+"arrive in the dining hall.\n"
+"\n"
+"7:30-9 a.m.: Makoto meets the\n"
+"others in the gym, and\n"
+"together they head to the\n"
+"headmaster's room.\n"
+"\n"
+"9 a.m.: Toko is told to find\n"
+"the pickaxe in the garden,\n"
+"where she discovers the body."
+msgstr ""
+
+#. 火元の近くに落ちていた、
+#. 等身大のモノクマヌイグルミ。
+#. 腹部に刺されたような穴が
+#. 空いていて、その腹部の周辺は
+#. 血で汚れていた。
+msgctxt "0128"
+msgid ""
+"The knife found near the body\n"
+"was the same knife that was\n"
+"used to stab it before the\n"
+"explosion.\n"
+"\n"
+"It is also the same knife that\n"
+"Toko had given to Makoto for\n"
+"safe keeping, and the knife\n"
+"the masked assailant was\n"
+"holding when they attacked\n"
+"Makoto."
+msgstr ""
+
+#. グッズ倉庫の天井の梁に、
+#. 赤い一直線の跡が薄らと
+#. 付いていた。
+msgctxt "0129"
+msgid ""
+"The tarp was hidden among the\n"
+"other items in the toolshed.\n"
+"\n"
+"One side was wet and filthy\n"
+"with mud and grime. The other\n"
+"side was completely clean and\n"
+"dry."
+msgstr ""
+
+#. グッズ倉庫に大量に倒れていた。
+#. 一部、扉から奥の方まで、
+#. 規則正しく一列に折り重なって
+#. 倒れているように見えるが…
+msgctxt "0130"
+msgid ""
+"The number of chickens in the\n"
+"chicken coop had decreased\n"
+"from five to four.\n"
+"\n"
+"Yasuhiro claims that there\n"
+"were without a doubt five\n"
+"chickens just before nighttime\n"
+"last night, and yet..."
+msgstr ""
+
+#. 火元に落ちていた。
+#. これが火事の原因と思われる。
+msgctxt "0131"
+msgid ""
+"Byakuya stated that there was\n"
+"no corpse in the garden just\n"
+"after nighttime last night, so\n"
+"it can be assumed the murder\n"
+"must have taken place sometime\n"
+"after that.\n"
+"\n"
+"Byakuya also said that he,\n"
+"Yasuhiro, Toko, and Aoi were\n"
+"in the gym the entire night,\n"
+"and none of them were alone at\n"
+"any point."
+msgstr ""
+
+#. スピーカーとセットになっている
+#. ＭＰ３プレイヤー。
+#. グッズ倉庫に来た時、大音量で
+#. 流れていた音楽は
+#. ここから流れていた。
+msgctxt "0132"
+msgid ""
+"The corpse had a mask covering\n"
+"its head, and a white jacket\n"
+"covering the body. A knife had\n"
+"been thrust into the abdomen,\n"
+"and there were bloodstains\n"
+"around the wound.\n"
+"\n"
+"The body had stopped bleeding,\n"
+"but the blood was still wet.\n"
+"It was noted, however, that\n"
+"there was no blood on the\n"
+"ground around the body."
+msgstr ""
+
+#. ソニアは軍事施設にあった爆弾を
+#. 遺跡でこっそり使い、
+#. 爆弾が偽物だという事を知った。
+#. その時、モノミもこっそり
+#. 覗き見していたらしい。
+msgctxt "0133"
+msgid ""
+"Makoto woke up at 7 a.m., and\n"
+"met Aoi in the dining hall at\n"
+"7:30. They met up with the\n"
+"others in the gym, and went to\n"
+"the headmaster's office.\n"
+"\n"
+"After some time, Toko was sent\n"
+"to the garden to retrieve the\n"
+"pickaxe, which is when she\n"
+"found the body. It is\n"
+"generally agreed that she\n"
+"found the body around 9 a.m."
+msgstr ""
+
+#. 爆弾が偽物だという事を
+#. モノクマは最初から知っていた。
+#. だが、その事実は
+#. 誰にも言っていないらしい。
+msgctxt "0134"
+msgid ""
+"Mukuro Ikusaba—female. Known\n"
+"as the Ultimate Soldier.\n"
+"\n"
+"She became been obsessed with\n"
+"the military from a young age.\n"
+"She disappeared while on\n"
+"vacation in Europe, and\n"
+"reappeared in Japan three\n"
+"years later.\n"
+"\n"
+"She revealed that she had\n"
+"joined the Fenrir Mercenary\n"
+"Corps."
+msgstr ""
+
+#. モノミが毎日つけていた日記帳…
+#. かどうかは定かではない。
+#. モノクマによるとモノミは
+#. 字が書けないらしいのだ…
+msgctxt "0135"
+msgid ""
+"Apparently, the killing game\n"
+"began with sixteen\n"
+"participants—all students. It\n"
+"is assumed that Mukuro Ikusaba\n"
+"was the sixteenth student.\n"
+"\n"
+"Monokuma also revealed that\n"
+"the reason Kyoko wears gloves\n"
+"is to hide something she\n"
+"doesn't want anyone to see."
+msgstr ""
+
+#. 狛枝のコテージのベッドの下に
+#. 隠されていた。
+msgctxt "0136"
+msgid ""
+"This woodblock decoration was\n"
+"found in Kyoko's room. It\n"
+"looks like it's actually the\n"
+"key to one of the lockers in\n"
+"the dojo."
+msgstr ""
+
+#. 狛枝のコテージのベッドの下に
+#. 落ちていた。
+#. 丸くて薄いアルミの紙切れ。
+msgctxt "0137"
+msgid ""
+"A set of titanium arrows was\n"
+"found in a dojo locker. There\n"
+"appear to be ten in total."
+msgstr ""
+
+#. 狛枝のコテージの冷蔵庫の中に
+#. あった毒薬。
+#. 中身は３分の１くらいしかない。
+#. 裏面に注意書きによると…
+#. 『この魔法の液体は強力かつ
+#. 即効性があるので、
+#. 取扱いにはご注意ください。
+#. 揮発性はそこまで高くありません
+#. が、気化すると危ない感じになっ
+#. ちゃいますよ。
+#. 気体になると空気より
+#. 重くなります。数分で分解され、
+#. 加水分解もされやすいので
+#. 後腐れなく
+#. 毒殺する事が可能です。
+#. 保存の際にはプラスチックか
+#. ガラスの容器に入れて、
+#. 日光には当てないように冷やして
+#. くださいね。』
+msgctxt "0138"
+msgid ""
+"Along with the arrows, there\n"
+"was also a wadded up ball of\n"
+"duct tape in the locker. The\n"
+"duct tape had traces of blood\n"
+"on it. It's assumed that this\n"
+"is related to the case, but\n"
+"nobody can imagine how..."
+msgstr ""
+
+#. 修学旅行に参加した１６人全員の
+#. プロフィールが書かれている、
+#. 希望ヶ峰学園の生徒ファイル。
+#. モノクマが裏切り者の情報を
+#. ねつ造した為、
+#. これを見ただけでは
+#. 裏切り者の正体はわからない。
+msgctxt "0139"
+msgid ""
+"Kyoko used Monokuma's \"secret\n"
+"tool,\" which grants access to\n"
+"any room in the school, to\n"
+"sneak into the 2nd floor of\n"
+"the dorms. This area seems to\n"
+"have no monitors or security\n"
+"cameras."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0140"
+msgid ""
+"The murder took place before\n"
+"the sprinklers turned on. The\n"
+"suspect covered the body with\n"
+"a tarp to prevent it from\n"
+"getting wet.\n"
+"\n"
+"Later, when they removed the\n"
+"tarp, the suspect placed the\n"
+"white jacket on the body. This\n"
+"jacket had previously been\n"
+"treated with blood to make it\n"
+"look like the corpse had been\n"
+"wearing it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0141"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0142"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0143"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0144"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0145"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0146"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0147"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0148"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0149"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0150"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 超高校級があつまる本科と違い、
+#. 一般入試で集められた生徒が
+#. 所属する学科。
+#. 希望ヶ峰学園の資金集めの為に
+#. 設立された。
+msgctxt "0151"
+msgid ""
+"Several rooms had been locked\n"
+"up until this point: The\n"
+"headmaster's room on the 4th\n"
+"floor, the bio lab on the 5th\n"
+"floor, the Monokuma door in\n"
+"the data center on the 4th\n"
+"floor, and the 2nd floor of\n"
+"the dormitory area.\n"
+"\n"
+"In addition, the areas\n"
+"directly connected to Mukuro\n"
+"Ikusaba's death are the garden\n"
+"and dojo."
+msgstr ""
+
+#. 希望ヶ峰学園が総力を挙げて
+#. 育成した"超高校級の希望"
+#. カムクライズルが生徒会１３人の
+#. 生徒を惨殺した事件。
+#. 学園側が隠蔽したその事件を
+#. 利用したある人物によって、
+#. 待遇に不満を募らせていた
+#. 予備学科の生徒が一斉蜂起した。
+msgctxt "0152"
+msgid ""
+"The Monokuma room in the data\n"
+"center opened to reveal a small\n"
+"room used to command Monokuma.\n"
+"This is where the mastermind\n"
+"had been issuing commands to\n"
+"the ursine robot."
+msgstr ""
+
+#. 希望ヶ峰学園を崩壊させた
+#. "ある人物"を中心とする
+#. "超高校級の絶望"と呼ばれる
+#. 集団が引き起こした絶望的事件。
+#. 洗脳のように一般市民を引き入れ、
+#. 絶望という観念にとり憑かれた
+#. 人々を大量に生み出し続けてる。
+msgctxt "0153"
+msgid ""
+"The tarp found in the garden\n"
+"had played a part in Mukuro's\n"
+"murder. \"Bio lab\" had been\n"
+"stamped onto one corner of the\n"
+"tarp."
+msgstr ""
+
+#. 人類史上最大最悪の絶望的事件を
+#. 起こした集団を指す言葉だが、
+#. 本来はある１人の女子高生を
+#. 指す言葉…
+#. その名は"江ノ島盾子"。
+msgctxt "0154"
+msgid ""
+"According to the headmaster's\n"
+"report, Mukuro did not have a\n"
+"single scar or wound when she\n"
+"came to Hope's Peak Academy.\n"
+"\n"
+"In addition, her physical\n"
+"features were as follows:\n"
+"\n"
+"Height: 5 foot 7 inches\n"
+"Weight: 97 pounds\n"
+"Vitals: 31-22-32"
+msgstr ""
+
+#. 人類史上最大最悪の絶望的事件の
+#. 一環として、江ノ島盾子は、
+#. 希望ヶ峰学園の生徒達に
+#. コロシアイをさせ、
+#. その模様を監視カメラで撮影し、
+#. 世界各地に中継していた。
+msgctxt "0155"
+msgid ""
+"The phrase \"the Ultimate\n"
+"Despair\" doesn't refer to a\n"
+"single individual, but a\n"
+"like-minded group of people.\n"
+"\n"
+"One year ago, that group\n"
+"brought about the single worst\n"
+"event in human history.\n"
+"\n"
+"They are motivated only by\n"
+"despair, making them some of\n"
+"the most despicable people to\n"
+"ever live."
+msgstr ""
+
+#. 未来機関のレポートによると、
+#. 希望ヶ峰学園の生き残りを名乗る
+#. 人間が１５人いるらしい。
+msgctxt "0156"
+msgid ""
+"There was a brightly colored\n"
+"box sitting in the\n"
+"headmaster's hidden room.\n"
+"Inside the box were human\n"
+"bones—the last remains of the\n"
+"headmaster."
+msgstr ""
+
+#. 江ノ島盾子が亡き後も、
+#. "絶望の残党"と呼ばれる
+#. 勢力が残っている。
+#. "絶望の残党"を止めない限り、
+#. 人類史上最大最悪の絶望的事件は
+#. 終わらない。
+msgctxt "0157"
+msgid ""
+"In his hidden room, the headmaster\n"
+"kept a photo of him and a young\n"
+"Kyoko together. In the photo, the\n"
+"are both smiling."
+msgstr ""
+
+#. "被験者リスト"として、
+#. みんなの名前が書かれていた。
+#. 新聞の切り抜きも貼られていて、
+#. 西園寺と似ているが、
+#. 肉体的にかなり成長した女性が
+#. 記事になっていた。
+msgctxt "0158"
+msgid ""
+"An emergency handbook was\n"
+"found in the headmaster's\n"
+"hidden room.\n"
+"\n"
+"This handbook apparently has\n"
+"no restrictions, and was given\n"
+"to the school's ultimate\n"
+"authority—the headmaster."
+msgstr ""
+
+#. 職員室に掛けられた肖像画の
+#. ネームプレートには、
+#. 『希望ヶ峰学園創立者　
+#. 神座出流』
+#. と書かれていた。
+msgctxt "0159"
+msgid ""
+"The notebook was found in a\n"
+"locker on the 2nd floor of\n"
+"the dorms.\n"
+"\n"
+"Yasuhiro's name was written on\n"
+"the inside, and it has notes\n"
+"for a number of different\n"
+"classes."
+msgstr ""
+
+#. 希望ヶ峰学園は長年に渡る
+#. 研究結果を総動員し、
+#. 世界に希望をもたらす為の
+#. "真の希望"を自らの力で
+#. 生み出そうとしていた。
+msgctxt "0160"
+msgid ""
+"The pocketbook was found in a\n"
+"locker on the 2nd floor of the\n"
+"dorms, and based on what was\n"
+"written inside, it's believed\n"
+"to be Kyoko's.\n"
+"\n"
+"There's some kind of message\n"
+"scrawled on the last page of\n"
+"the pocketbook:\n"
+"\n"
+"\"Despair walks among us. And\n"
+"so, we survive... There's a\n"
+"second 'despair'...\""
+msgstr ""
+
+#. 未来機関第十四支部　苗木誠へ
+#. 
+#. キミ達は今どこで
+#. 何をやっているんだ？
+#. わかっているのか？
+#. キミ達の行為は
+#. 重大な規則違反なんだぞ。
+#. どうして絶望の残党を庇うんだ？
+#. 連中を生かしておく事が
+#. どれだけ危険かは、キミ達は
+#. 身に染みてわかっているはずだ。
+#. 落ち着いてよく考えてみてくれ。
+#. キミ達は騙されているんだ。
+#. 世界に希望の灯りをともす為に
+#. 何が大事なのかよく考えるんだ。
+#. キミ達６人は我々の理念に
+#. 賛同したからこそ、
+#. 未来機関に加わったのだろう？
+#. 惨劇を生き抜いたキミ達を救い、
+#. 記憶を取り戻す協力をしたのは
+#. 未来機関なんだぞ。
+#. 速やかに絶望の残党を
+#. "我ら本部"に引き渡すんだ。
+#. 彼らを抹消しない限り、
+#. 人類史上最大最悪の絶望的事件は
+#. 終わらない…
+#. すべては…
+#. 希望溢れる未来の為なんだ…
+msgctxt "0161"
+msgid ""
+"The bio lab on the 5th floor\n"
+"seems to have been repurposed\n"
+"as a morgue."
+msgstr ""
+
+#. 新世界プログラムとは、別名…
+#. サイコセラピューティック・
+#. コミュニケーション・
+#. シュミレーター。
+#. 新世界プログラムは
+#. 最新型サイコセラピー機器と、
+#. 管理プログラムで構成される。
+#. 
+#. 新世界プログラムの
+#. 開発にあたっては、
+#. 多くの希望ヶ峰学園の才能達の
+#. 研究結果が活用されている。
+#. 
+#. 当該装置を頭部に装着する事で
+#. 被験者の全員に
+#. "共感覚仮想世界"を
+#. 体感させる事が可能で、
+#. その仮想世界で構築された
+#. 記憶情報を、
+#. 現実世界の情報と置換する事で、
+#. 仮想世界と現実世界の情報に
+#. 逆転現象を生じさせる事が
+#. 可能となっている。
+#. あくまで心理療法の為の装置で、
+#. 他の用途での使用は
+#. 固く禁じられている。
+#. 洗脳や人格支配に対する治療に
+#. 効果的な反面、悪用されれば
+#. 人格破壊の危険性もある為だ。
+msgctxt "0162"
+msgid ""
+"A corpse fridge has been\n"
+"installed in the bio lab. It\n"
+"seems that a blue light comes\n"
+"on to indicate a slot is\n"
+"occupied."
+msgstr ""
+
+#. 新世界プログラムには、
+#. 教師役と生徒役の２名の監視者が
+#. 存在する。
+#. 教師役の監視者には、
+#. 新世界のルール作りなど、
+#. 絶大な権限が与えられている。
+msgctxt "0163"
+msgid ""
+"The photo depicts all the\n"
+"Hope's Peak students wearing\n"
+"matching uniforms. Worth\n"
+"noting is that Mukuro is\n"
+"pictured, while Makoto is not.\n"
+"\n"
+"Could that mean all the\n"
+"others are working together\n"
+"somehow...?"
+msgstr ""
+
+#. 遺跡に入る為のパスワード。
+#. 教師役も知らない。
+#. これを設定した人物にとっては
+#. 意味のある数字らしい。
+msgctxt "0164"
+msgid ""
+"It would seem that while Toko\n"
+"and Genocide Jack share\n"
+"certain fundamental knowledge,\n"
+"their individual memories are\n"
+"separate."
+msgstr ""
+
+#. 卒業試験で使える特別な命令。
+#. これを使うと監視者を無視し、
+#. 強制的に"新世界"から
+#. 抜け出す事ができる。
+#. それを防ぐのは、
+#. 教師役の監視者でも不可能。
+msgctxt "0165"
+msgid ""
+"Kyoko attests that both the\n"
+"stab wound and the blow to the\n"
+"head were inflicted after\n"
+"death."
+msgstr ""
+
+#. いつかの記憶。
+#. 狛枝の腕がどこか不自然だが…
+msgctxt "0166"
+msgid ""
+"Kyoko found this DVD in the\n"
+"headmaster's hidden room, and\n"
+"handed over to Makoto for him\n"
+"to watch."
+msgstr ""
+
+#. 未来機関は、
+#. 人類史上最大最悪の絶望的事件に
+#. 対抗すべく、
+#. 希望ヶ峰学園の卒業生を中心に
+#. 設立された。
+msgctxt "0167"
+msgid ""
+"Mukuro's fatal injury would\n"
+"appear to be the collection of\n"
+"wounds covering her body."
+msgstr ""
+
+#. 強制シャットダウンをすれば、
+#. 日向達は、今の記憶を忘れ、
+#. 絶望に戻る。
+#. 死んだ仲間達の本体は、
+#. 目覚める事はない。
+#. 江ノ島は新世界プログラムから
+#. 出て来れずに消滅する。
+msgctxt "0168"
+msgid ""
+"It would appear that Makoto\n"
+"may have hidden within him the\n"
+"power to stand against the\n"
+"Ultimate Despair."
+msgstr ""
+
+#. 卒業ボタンを押せば、
+#. 日向達は今の記憶を持ったまま
+#. 本体に戻る。
+#. 死んだ仲間達の本体には、
+#. 江ノ島がインストールされる。
+msgctxt "0169"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 湧き上がる感情も、
+#. 優しい言葉も、
+#. 望むべき希望も、
+#. 絶つべき絶望も、
+#. 撃つべき言弾は、
+#. そこには無い。
+msgctxt "0170"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 『やればなんとかなる』
+#. 自分自身を信じる事を悟り、
+#. 日向創は、日向創に成った。
+msgctxt "0171"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0172"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0173"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0174"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0175"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0176"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0177"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0178"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0179"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0180"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0181"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0182"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0183"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0184"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0185"
+msgid ""
+"The victim was Junko Enoshima.\n"
+"The time of death is estimated\n"
+"to be somewhere between 10\n"
+"a.m. and 1 p.m. The body was\n"
+"discovered in classroom #2."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0186"
+msgid ""
+"A number of cleaning\n"
+"implements were found in the\n"
+"classroom—dustpan, dustcloth,\n"
+"and so on."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0187"
+msgid ""
+"A sketch was made of the scene\n"
+"of the crime."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0188"
+msgid ""
+"Shards of a broken vase were\n"
+"found scattered around the\n"
+"scene of the crime."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0189"
+msgid ""
+"Sayaka claims she saw Leon\n"
+"walking down the hall by\n"
+"himself. She says he was\n"
+"acting strange and secretive."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0190"
+msgid ""
+"Small pieces of material were\n"
+"found stuck to the classroom\n"
+"cleaning implements. These\n"
+"apparently came from the\n"
+"broken vase at the crime\n"
+"scene."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0191"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0192"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0193"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0194"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0195"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0196"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0197"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0198"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0199"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0200"
+msgid ""
+"These are used to solve\n"
+"mysteries."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0201"
+msgid ""
+"The victim was Yasuhiro\n"
+"Hagakure. The time of death is\n"
+"estimated to be around 1:30\n"
+"a.m. The body was discovered\n"
+"in Makoto's room, in the\n"
+"dormitory.\n"
+"\n"
+"The death took place in the\n"
+"bathroom. The cause of death\n"
+"was a stab wound to the\n"
+"abdomen."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0202"
+msgid ""
+"There are a number of\n"
+"scratches and gouges on the\n"
+"bed and walls in Makoto's\n"
+"room."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0203"
+msgid ""
+"Not a single hair was found on\n"
+"the floor at the scene of the\n"
+"crime.\n"
+"\n"
+"It is assumed that the suspect\n"
+"destroyed all possible\n"
+"evidence."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0204"
+msgid ""
+"The kitchen in the dining hall\n"
+"has a set of kitchen knives.\n"
+"Apparently one of the knives\n"
+"had gone missing."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0205"
+msgid ""
+"The knife from the kitchen\n"
+"went missing while Aoi was in\n"
+"the dining hall."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0206"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0207"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0208"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0209"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0210"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0211"
+msgid ""
+"The player had a certain\n"
+"impression of this game..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0212"
+msgid ""
+"The player had a certain\n"
+"impression of this game..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0213"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0214"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0215"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0216"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0217"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0218"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0219"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0220"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0221"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0222"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0223"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0224"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0225"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0226"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0227"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0228"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0229"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0230"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0231"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0232"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0233"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0234"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0235"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0236"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0237"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0238"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0239"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0240"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0241"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0242"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0243"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0244"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0245"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0246"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0247"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0248"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0249"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0250"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0251"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0252"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0253"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0254"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0255"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0256"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"

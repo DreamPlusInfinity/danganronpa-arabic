@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 日向創…
+msgctxt "0001"
+msgid "Gimme a fuckin' break..."
+msgstr ""
+
+#. 奴の潜在能力は計り知れない…
+msgctxt "0002"
+msgid "What the hell am I supposed to do?"
+msgstr ""
+
+#. もし奴が
+#. その気になりさえすれば…
+msgctxt "0003"
+msgid "Once I get out of here, what then?"
+msgstr ""
+
+#. <CLT 17>この島を支配下に置く事も可能<CLT>…
+msgctxt "0004"
+msgid ""
+"Right now I'm the leader\n"
+"of the Crazy Diamonds, but after that..."
+msgstr ""
+
+#. だが、なぜ奴はそうしない？
+msgctxt "0005"
+msgid ""
+"What, am I gonna go to college?\n"
+"<CLT 9>No chance, right<CLT>?"
+msgstr ""
+
+#. いっそのこと、
+#. 直接問いただすか？
+msgctxt "0006"
+msgid ""
+"I've spent my whole life running wild,\n"
+"just causin' trouble and fuckin' shit up."
+msgstr ""
+
+#. いや、それはあまりに危険だ…
+msgctxt "0007"
+msgid ""
+"But now I wanna *do* something\n"
+"with my life. I wanna make stuff\n"
+"instead of breakin' it."
+msgstr ""
+
+#. 何より<CLT 17>俺様らしくない<CLT>…
+msgctxt "0008"
+msgid "But if I told Makoto that..."
+msgstr ""
+
+#. だが気になる…ああ気になる…
+msgctxt "0009"
+msgid "...I bet he'd just <CLT 9>laugh at me<CLT>."
+msgstr ""

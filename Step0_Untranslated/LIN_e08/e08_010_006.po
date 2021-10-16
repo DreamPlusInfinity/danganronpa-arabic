@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 狛枝さんは大丈夫なのでしょうか？
+#. 少し心配です。
+msgctxt "0001"
+msgid "*Gasp* Makoto! Are you...l-leering at me!?"
+msgstr ""
+
+#. 誘ってみる
+msgctxt "0002"
+msgid ""
+"What are you th-thinking? What are you planning to\n"
+"d-do to me!?"
+msgstr ""
+
+#. 他の場所へ行く
+msgctxt "0003"
+msgid "Spend some time with Toko"
+msgstr ""
+
+#. <CLT 04>どうしよう？
+#. ソニアを誘ってみるか？<CLT>
+msgctxt "0004"
+msgid "Go see who else is around"
+msgstr ""
+
+#. えぇ…少し歩きたい気分ですので、
+#. 付き合って頂けますか？
+msgctxt "0005"
+msgid ""
+"<CLT 4>Hmm... Should I talk to Toko while she's acting like\n"
+"this...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>ソニアと一緒に、ぶらぶら散歩して過ごした。<CLT>
+msgctxt "0006"
+msgid "I was p-perfectly happy spending time by m-myself..."
+msgstr ""
+
+#. <CLT 04>恐れ多くもソニアと少し仲良くなれたみたいだ…<CLT>
+msgctxt "0007"
+msgid ""
+"But I guess if you're so d-desperate for attention, I\n"
+"can h-hang out for a little bit..."
+msgstr ""
+
+#. 渡す
+msgctxt "0008"
+msgid ""
+"<CLT 4>I spent some time with a cold and distant Toko...\n"
+"<CLT>"
+msgstr ""
+
+#. 渡さない
+msgctxt "0009"
+msgid ""
+"<CLT 4>Toko and I grew a little closer today.\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 03>プレゼント<CLT><CLT 06>を渡しますか？<CLT>
+msgctxt "0010"
+msgid "Yes, definitely"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0011"
+msgid "Not really, no"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0012"
+msgid "<CLT 3><CLT><CLT 23>Would you like to give Toko a<CLT> <CLT 3>present<CLT><CLT 23>?<CLT>"
+msgstr ""

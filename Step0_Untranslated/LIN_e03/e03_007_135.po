@@ -1,0 +1,1069 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "[anime characters]"
+msgstr ""
+
+msgctxt "0002"
+msgid ""
+"Oh yeah! Speaking of anime, that reminds me... I found\n"
+"something while I was looking around!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Hrm...a digital camera?"
+msgstr ""
+
+msgctxt "0004"
+msgid "That's what it seems like..."
+msgstr ""
+
+msgctxt "0005"
+msgid "Does it still work?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Yeah, it seems fine."
+msgstr ""
+
+msgctxt "0007"
+msgid "Well then, let's see it!"
+msgstr ""
+
+msgctxt "0008"
+msgid "What the heck? This thing is like a kid's toy!"
+msgstr ""
+
+msgctxt "0009"
+msgid ""
+"It looks like it can store like five pictures, maybe?\n"
+"It doesn't have a timer or anything!"
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"On top of that, its appearance seems...questionable.\n"
+"Is this some kind of anime character? Strange..."
+msgstr ""
+
+msgctxt "0011"
+msgid ""
+"Rude! She's not strange! She's Princess Piggles, from\n"
+"<CLT 3>\"Demon Angel☆Pretty Pudgy Princess\"<CLT>!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Oh, you recognize this, Hifumi?"
+msgstr ""
+
+msgctxt "0013"
+msgid "Of course I recognize it!"
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"It's a super rare prize that was given away at a bingo\n"
+"contest at a big anime convention..."
+msgstr ""
+
+msgctxt "0015"
+msgid ""
+"You have any idea how much I had to pay that guy to\n"
+"get my hands on it!?"
+msgstr ""
+
+msgctxt "0016"
+msgid "Wait...that's my camera!"
+msgstr ""
+
+msgctxt "0017"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Wh-Where did you find it!?"
+msgstr ""
+
+msgctxt "0019"
+msgid "In the physics lab..."
+msgstr ""
+
+msgctxt "0020"
+msgid ""
+"It's my most prized possession. I brought it here with\n"
+"me, but I lost it the first day, along with my phone."
+msgstr ""
+
+msgctxt "0021"
+msgid "Why would it have reappeared in the physics lab...?"
+msgstr ""
+
+msgctxt "0022"
+msgid "Agh, but look at it!"
+msgstr ""
+
+msgctxt "0023"
+msgid "It got all messed up!"
+msgstr ""
+
+msgctxt "0024"
+msgid ""
+"Like when someone steals a sticker from your\n"
+"collection, or you buy a secondhand shirt..."
+msgstr ""
+
+msgctxt "0025"
+msgid "Well, that's it..."
+msgstr ""
+
+msgctxt "0026"
+msgid "Huh? That's it...?"
+msgstr ""
+
+msgctxt "0027"
+msgid "It's not mint condition. I don't need it anymore..."
+msgstr ""
+
+msgctxt "0028"
+msgid "But weren't you just saying how much it meant to you?"
+msgstr ""
+
+msgctxt "0029"
+msgid ""
+"Then...may *I* have it? I might be able to find some\n"
+"sort of use for it."
+msgstr ""
+
+msgctxt "0030"
+msgid ""
+"If any of you would like to borrow it, please feel\n"
+"free to ask."
+msgstr ""
+
+msgctxt "0031"
+msgid ""
+"Well...I can't really imagine any of us are gonna need\n"
+"to take any pictures or whatever..."
+msgstr ""
+
+msgctxt "0032"
+msgid "Yeah, true..."
+msgstr ""
+
+msgctxt "0033"
+msgid "[bothering me]"
+msgstr ""
+
+msgctxt "0034"
+msgid "What's bothering you, Celeste?"
+msgstr ""
+
+msgctxt "0035"
+msgid "It's about Hina..."
+msgstr ""
+
+msgctxt "0036"
+msgid "What? Me!?"
+msgstr ""
+
+msgctxt "0037"
+msgid ""
+"You said your stomach hurt, did you not? But I believe\n"
+"that was a lie. What really happened?"
+msgstr ""
+
+msgctxt "0038"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0039"
+msgid ""
+"It varies from person to person, but whenever someone\n"
+"lies, they tend to have a way of showing it."
+msgstr ""
+
+msgctxt "0040"
+msgid ""
+"It is called a \"tell\"—something that you can't hide,\n"
+"no matter how hard you try."
+msgstr ""
+
+msgctxt "0041"
+msgid ""
+"Whenever Hina lies, the tip of her nose gets just a\n"
+"little bit longer."
+msgstr ""
+
+msgctxt "0042"
+msgid "What!? For real!?"
+msgstr ""
+
+msgctxt "0043"
+msgid "Actually, no."
+msgstr ""
+
+msgctxt "0044"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "0045"
+msgid ""
+"But your reaction just now confirmed it—you *were*\n"
+"lying."
+msgstr ""
+
+msgctxt "0046"
+msgid "Th-That's no fair!"
+msgstr ""
+
+msgctxt "0047"
+msgid ""
+"Hmhm. If you are going to lie, at least try to lie\n"
+"convincingly."
+msgstr ""
+
+msgctxt "0048"
+msgid ""
+"Hina...be honest. Were you lying about your\n"
+"stomachache?"
+msgstr ""
+
+msgctxt "0049"
+msgid "..."
+msgstr "..."
+
+msgctxt "0050"
+msgid "Y-Yes..."
+msgstr ""
+
+msgctxt "0051"
+msgid "Why...? Why would you lie about that?"
+msgstr ""
+
+msgctxt "0052"
+msgid "Are you feeling guilty about something!?"
+msgstr ""
+
+msgctxt "0053"
+msgid "No, that's not it at all!"
+msgstr ""
+
+msgctxt "0054"
+msgid "It's just... I mean, I have a reason for it!"
+msgstr ""
+
+msgctxt "0055"
+msgid ""
+"<CLT 4>A reason...?\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0056"
+msgid "[the truth]"
+msgstr ""
+
+msgctxt "0057"
+msgid "The truth...?"
+msgstr ""
+
+msgctxt "0058"
+msgid "...I saw it."
+msgstr ""
+
+msgctxt "0059"
+msgid "Saw what...?"
+msgstr ""
+
+msgctxt "0060"
+msgid "A ghost..."
+msgstr ""
+
+msgctxt "0061"
+msgid "A ghost...? You mean like, THAT ghost!?"
+msgstr ""
+
+msgctxt "0062"
+msgid "Is there more than one ghost...?"
+msgstr ""
+
+msgctxt "0063"
+msgid "B-But...I mean, ghosts are..."
+msgstr ""
+
+msgctxt "0064"
+msgid "See! I told you you wouldn't believe me!"
+msgstr ""
+
+msgctxt "0065"
+msgid "I-It's not that I don't believe you, but..."
+msgstr ""
+
+msgctxt "0066"
+msgid "...I believe you."
+msgstr ""
+
+msgctxt "0067"
+msgid ""
+"No matter what anyone else might say, I will believe\n"
+"whatever you say, no matter what."
+msgstr ""
+
+msgctxt "0068"
+msgid "So...can you tell us exactly what happened?"
+msgstr ""
+
+msgctxt "0069"
+msgid "If you really mean that, Sakura..."
+msgstr ""
+
+msgctxt "0070"
+msgid "...then okay. I'll tell you."
+msgstr ""
+
+msgctxt "0071"
+msgid "Umm, so...it happened last night."
+msgstr ""
+
+msgctxt "0072"
+msgid "I was in bed, but I couldn't get to sleep."
+msgstr ""
+
+msgctxt "0073"
+msgid ""
+"I just kept thinking about everything that's happened\n"
+"up till now. I ended up just getting more upset..."
+msgstr ""
+
+msgctxt "0074"
+msgid ""
+"So to try and cheer myself up, I thought I'd go get\n"
+"some donuts."
+msgstr ""
+
+msgctxt "0075"
+msgid "Donuts again!?"
+msgstr ""
+
+msgctxt "0076"
+msgid "And you ignored the rule regarding nighttime..."
+msgstr ""
+
+msgctxt "0077"
+msgid "I know, sorry. I feel really bad about that..."
+msgstr ""
+
+msgctxt "0078"
+msgid "Anyway, please continue."
+msgstr ""
+
+msgctxt "0079"
+msgid ""
+"Well... So I left my room and headed for the\n"
+"warehouse..."
+msgstr ""
+
+msgctxt "0080"
+msgid "But then I started hearing a strange sound..."
+msgstr ""
+
+msgctxt "0081"
+msgid ""
+"<CLT 23>*Grr grnnn*\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0082"
+msgid ""
+"<CLT 23>*Grn grn grrnnn*\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0083"
+msgid "It was coming from the direction of the bathhouse."
+msgstr ""
+
+msgctxt "0084"
+msgid "So I headed that way..."
+msgstr ""
+
+msgctxt "0085"
+msgid ""
+"The locker was halfway open, so I took a look\n"
+"inside..."
+msgstr ""
+
+msgctxt "0086"
+msgid ""
+"And I saw a human shape, surrounded by a pale green\n"
+"light."
+msgstr ""
+
+msgctxt "0087"
+msgid "There's no doubt who it was..."
+msgstr ""
+
+msgctxt "0088"
+msgid "It was Chihiro!"
+msgstr ""
+
+msgctxt "0089"
+msgid "KYAAAAAAAAAAAAAHHH!!!"
+msgstr ""
+
+msgctxt "0090"
+msgid "N-No way...! A gh-gh-gh-ghost!?"
+msgstr ""
+
+msgctxt "0091"
+msgid "It is simply not possible. You must be mistaken."
+msgstr ""
+
+msgctxt "0092"
+msgid ""
+"Just as in most cases of \"paranormal\" activity, it was\n"
+"born from your weakened mental state."
+msgstr ""
+
+msgctxt "0093"
+msgid "Then all we have to do is go see for ourselves, right?"
+msgstr ""
+
+msgctxt "0094"
+msgid "Let's just go to the bathhouse and see what Hina saw."
+msgstr ""
+
+msgctxt "0095"
+msgid "It is a waste of time."
+msgstr ""
+
+msgctxt "0096"
+msgid "Maybe, but...there's no harm in it, right?"
+msgstr ""
+
+msgctxt "0097"
+msgid "If we don't find anything, that'll be the end of it."
+msgstr ""
+
+msgctxt "0098"
+msgid ""
+"You're gonna go try and see a gh-gh-ghost...? Is that\n"
+"really a good idea? It might put a curse on you!"
+msgstr ""
+
+msgctxt "0099"
+msgid "You can wait here if you want."
+msgstr ""
+
+msgctxt "0100"
+msgid "I don't wanna be alone! Take me with you!"
+msgstr ""
+
+msgctxt "0101"
+msgid "What are you going to do, Celeste?"
+msgstr ""
+
+msgctxt "0102"
+msgid "I suppose I have no choice..."
+msgstr ""
+
+msgctxt "0103"
+msgid "How about you, Mr. Ishimaru? Are you gonna wait here?"
+msgstr ""
+
+msgctxt "0104"
+msgid "..."
+msgstr "..."
+
+msgctxt "0105"
+msgid "...I guess that's a yes."
+msgstr ""
+
+msgctxt "0106"
+msgid ""
+"<CLT 4>When I got back to the dining hall, the first thing I\n"
+"noticed was...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0107"
+msgid "Ah—!"
+msgstr ""
+
+msgctxt "0108"
+msgid "Hina!?"
+msgstr ""
+
+msgctxt "0109"
+msgid ""
+"<CLT 4>I tried to talk to her, but...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0110"
+msgid ""
+"<CLT 4>...my voice was immediately drowned out by the others\n"
+"as they rushed into the dining hall.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0111"
+msgid "Hina!"
+msgstr ""
+
+msgctxt "0112"
+msgid "Huh? I thought she was sick or somethin'."
+msgstr ""
+
+msgctxt "0113"
+msgid ""
+"<CLT 4>Everyone rushed past me and crowded around Hina.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0114"
+msgid ""
+"<CLT 4>Being surrounded by everyone like that, Hina looked\n"
+"really uncomfortable.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0115"
+msgid "Are you feeling better already?"
+msgstr ""
+
+msgctxt "0116"
+msgid ""
+"Y-Yeah... I ate a few donuts, and that really helped a\n"
+"lot."
+msgstr ""
+
+msgctxt "0117"
+msgid "You do love those donuts..."
+msgstr ""
+
+msgctxt "0118"
+msgid "But...wasn't it your stomach that was hurting?"
+msgstr ""
+
+msgctxt "0119"
+msgid ""
+"Well, my stomachache kinda made me hungry, so...you\n"
+"know..."
+msgstr ""
+
+msgctxt "0120"
+msgid "Er, ahaha...I guess my memory's kinda fuzzy lately..."
+msgstr ""
+
+msgctxt "0121"
+msgid ""
+"They say that a goldfish will eat however much food\n"
+"you give it, even if it's about to burst."
+msgstr ""
+
+msgctxt "0122"
+msgid "Miss Asahina's pretty much the same, it looks like."
+msgstr ""
+
+msgctxt "0123"
+msgid "Hey! You of all people don't have any room to talk!"
+msgstr ""
+
+msgctxt "0124"
+msgid "Anyway... I was worried about you."
+msgstr ""
+
+msgctxt "0125"
+msgid "S-Sorry..."
+msgstr ""
+
+msgctxt "0126"
+msgid "Besides that, you—!"
+msgstr ""
+
+msgctxt "0127"
+msgid "H-Huh...?"
+msgstr ""
+
+msgctxt "0128"
+msgid ""
+"Jeez, your knockers are HUGE! What the heck, did you\n"
+"convince them to double up on milk production!?"
+msgstr ""
+
+msgctxt "0129"
+msgid "Stay away from her, fiend."
+msgstr ""
+
+msgctxt "0130"
+msgid ""
+"A-Anyway...first thing's first, we should talk about\n"
+"what we found. Right, Taka?"
+msgstr ""
+
+msgctxt "0131"
+msgid "..."
+msgstr "..."
+
+msgctxt "0132"
+msgid "...Right."
+msgstr ""
+
+msgctxt "0133"
+msgid ""
+"Um, I wasn't able to help much with the investigation,\n"
+"but...I did make one discovery..."
+msgstr ""
+
+msgctxt "0134"
+msgid ""
+"It didn't happen to be a donut-related discovery, did\n"
+"it?"
+msgstr ""
+
+msgctxt "0135"
+msgid "What does that even mean?"
+msgstr ""
+
+msgctxt "0136"
+msgid ""
+"Never mind... It's about the nurse's office! Remember?\n"
+"There's one on the 1st floor, right?"
+msgstr ""
+
+msgctxt "0137"
+msgid "I remember. But it's locked."
+msgstr ""
+
+msgctxt "0138"
+msgid "Actually...not anymore."
+msgstr ""
+
+msgctxt "0139"
+msgid ""
+"Did you find any protein in there? Or even vitamin\n"
+"supplements would be fine."
+msgstr ""
+
+msgctxt "0140"
+msgid ""
+"I did look, but no dice... Just a bunch of headache\n"
+"medicine and over-the-counter stuff."
+msgstr ""
+
+msgctxt "0141"
+msgid "I see... That's disappointing."
+msgstr ""
+
+msgctxt "0142"
+msgid ""
+"It *is* disappointing. Like the end of the world is\n"
+"already here..."
+msgstr ""
+
+msgctxt "0143"
+msgid ""
+"<CLT 4>I-I'm not sure it's *that* disappointing...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0144"
+msgid "To be honest...I didn't have a stomachache."
+msgstr ""
+
+msgctxt "0145"
+msgid ""
+"I did it cuz...even if I came and told you <CLT 1>[the truth]<CLT>,\n"
+"I thought you wouldn't believe me..."
+msgstr ""
+
+msgctxt "0146"
+msgid "Hmm... What is it that's bothering Celeste?"
+msgstr ""
+
+msgctxt "0147"
+msgid ""
+"We can get into the nurse's office, but there no\n"
+"protein or supplements or anything. Too bad..."
+msgstr ""
+
+msgctxt "0148"
+msgid ""
+"There was an art room on the 3rd floor, and it had all\n"
+"kinds of gear."
+msgstr ""
+
+msgctxt "0149"
+msgid ""
+"Myehehe... Now I'll be able to recreate all my\n"
+"favorite <CLT 1>[anime characters]<CLT>!"
+msgstr ""
+
+msgctxt "0150"
+msgid ""
+"If I can't WATCH all the anime, then I'll MAKE all the\n"
+"anime!"
+msgstr ""
+
+msgctxt "0151"
+msgid ""
+"<CLT 4>Anime characters... That reminds me of that thing I\n"
+"found...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0152"
+msgid "We need to press Hina and find out what she's hiding!"
+msgstr ""
+
+msgctxt "0153"
+msgid "Ngh-gh-gh!?"
+msgstr ""
+
+msgctxt "0154"
+msgid ""
+"What's bothering Miss Ludenberg!? That's what's\n"
+"bothering ME!"
+msgstr ""
+
+msgctxt "0155"
+msgid ""
+"There was an art room on the 3rd floor. With\n"
+"everything they had in there..."
+msgstr ""
+
+msgctxt "0156"
+msgid ""
+"Mwehehe! I'm free to create all the anime characters I\n"
+"want!"
+msgstr ""
+
+msgctxt "0157"
+msgid ""
+"If I can't WATCH all the anime, then I'll MAKE all the\n"
+"anime!"
+msgstr ""
+
+msgctxt "0158"
+msgid "I will hold on to the digital camera."
+msgstr ""
+
+msgctxt "0159"
+msgid ""
+"If any of you would like to borrow it, please feel\n"
+"free to ask."
+msgstr ""
+
+msgctxt "0160"
+msgid ""
+"Oh, I just remembered! I saw Byakuya a little while\n"
+"ago."
+msgstr ""
+
+msgctxt "0161"
+msgid "What!?"
+msgstr ""
+
+msgctxt "0162"
+msgid "Where!? WHERE WAS HE!?!?"
+msgstr ""
+
+msgctxt "0163"
+msgid "Y-You're kinda scarin' me..."
+msgstr ""
+
+msgctxt "0164"
+msgid "Where. Was. HE!?"
+msgstr ""
+
+msgctxt "0165"
+msgid ""
+"He was in the locker room... He had a huge stack of\n"
+"books he musta got from the library."
+msgstr ""
+
+msgctxt "0166"
+msgid ""
+"So THAT'S where he was hiding! I won't let him get\n"
+"away from me!"
+msgstr ""
+
+msgctxt "0167"
+msgid "Kyehehe..."
+msgstr ""
+
+msgctxt "0168"
+msgid "She just...ran off!"
+msgstr ""
+
+msgctxt "0169"
+msgid "Is...is she okay?"
+msgstr ""
+
+msgctxt "0170"
+msgid "We should not concern ourselves with her."
+msgstr ""
+
+msgctxt "0171"
+msgid "Hina...what are you hiding?"
+msgstr ""
+
+msgctxt "0172"
+msgid ""
+"Celeste said something was bothering her... What could\n"
+"it be?"
+msgstr ""
+
+msgctxt "0173"
+msgid "Yeah, I totally screwed Byakuya over..."
+msgstr ""
+
+msgctxt "0174"
+msgid ""
+"<CLT 4>I think Byakuya knew exactly what he was doing.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0175"
+msgid ""
+"<CLT 4>He probably went to the boys locker room specifically\n"
+"so she couldn't bother him.\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0176"
+msgid ""
+"I searched the entire 3rd floor, but...all the windows\n"
+"in the halls and the rooms were blocked off."
+msgstr ""
+
+msgctxt "0177"
+msgid ""
+"I wish they'd give this a rest already, for serious!\n"
+"Gimme back my bright blue skies!"
+msgstr ""
+
+msgctxt "0178"
+msgid "Just forget about it."
+msgstr ""
+
+msgctxt "0179"
+msgid ""
+"You make it sound like I dropped a nickel or\n"
+"something!"
+msgstr ""
+
+msgctxt "0180"
+msgid ""
+"Just to be sure, I went from one end to the other,\n"
+"testing each metal plate. None of them budged."
+msgstr ""
+
+msgctxt "0181"
+msgid ""
+"It would seem escape via the 3rd floor is as\n"
+"impossible as we feared..."
+msgstr ""
+
+msgctxt "0182"
+msgid "I see..."
+msgstr ""
+
+msgctxt "0183"
+msgid "What is this \"truth\"?"
+msgstr ""
+
+msgctxt "0184"
+msgid "What is she bothered by...?"
+msgstr ""
+
+msgctxt "0185"
+msgid ""
+"I searched the entire 3rd floor, but...all the windows\n"
+"in the halls and the rooms were blocked off."
+msgstr ""
+
+msgctxt "0186"
+msgid ""
+"It would seem escape via the 3rd floor is as\n"
+"impossible as we feared..."
+msgstr ""
+
+msgctxt "0187"
+msgid ""
+"There *is* one piece of good news. There just so\n"
+"happens to be a rec room up on the 3rd floor!"
+msgstr ""
+
+msgctxt "0188"
+msgid ""
+"I have no doubt that our student life here will be\n"
+"even more enjoyable because of it."
+msgstr ""
+
+msgctxt "0189"
+msgid ""
+"Hmhm. Will someone join me in a game of Othello\n"
+"sometime?"
+msgstr ""
+
+msgctxt "0190"
+msgid "Heh-heh... What is it you're hiding...?"
+msgstr ""
+
+msgctxt "0191"
+msgid ""
+"There is also something that has been\n"
+"<CLT 1>[bothering me]<CLT>,\n"
+"which I would like to discuss."
+msgstr ""
+
+msgctxt "0192"
+msgid ""
+"There just so happens to be a rec room up on the 3rd\n"
+"floor!"
+msgstr ""
+
+msgctxt "0193"
+msgid ""
+"I have no doubt that our student life here will be\n"
+"even more enjoyable because of it."
+msgstr ""
+
+msgctxt "0194"
+msgid ""
+"There was a rather remarkable physics lab on the 3rd\n"
+"floor."
+msgstr ""
+
+msgctxt "0195"
+msgid ""
+"In the middle of the room, there was a machine bigger\n"
+"than anything I've ever seen before..."
+msgstr ""
+
+msgctxt "0196"
+msgid "Oh yeah, apparently it's an air purifier."
+msgstr ""
+
+msgctxt "0197"
+msgid "Huh? What's something like that doing there?"
+msgstr ""
+
+msgctxt "0198"
+msgid "Is the device really that big?"
+msgstr ""
+
+msgctxt "0199"
+msgid "I...really don't get it."
+msgstr ""
+
+msgctxt "0200"
+msgid "..."
+msgstr "..."
+
+msgctxt "0201"
+msgid ""
+"Until we hear what her \"truth\" is, there's nothing for\n"
+"us to believe or disbelieve."
+msgstr ""
+
+msgctxt "0202"
+msgid "What's \"bothering\" her, I wonder..."
+msgstr ""
+
+msgctxt "0203"
+msgid ""
+"Well, there's no way to know for sure without asking\n"
+"her directly."
+msgstr ""
+
+msgctxt "0204"
+msgid "That gigantic machine is an air purifier...?"
+msgstr ""
+
+msgctxt "0205"
+msgid ""
+"The long road to maidenhood begins with a single\n"
+"step..."
+msgstr ""
+
+msgctxt "0206"
+msgid ""
+"That road may begin with only wrinkly old men, but it\n"
+"will end with strapping young adorable boys!"
+msgstr ""
+
+msgctxt "0207"
+msgid "What the hell are you talking about...?"
+msgstr ""
+
+msgctxt "0208"
+msgid "Kyeehahaha!"
+msgstr ""
+
+msgctxt "0209"
+msgid "..."
+msgstr "..."
+
+msgctxt "0210"
+msgid "..."
+msgstr "..."
+
+msgctxt "0211"
+msgid ""
+"<CLT 4>It's no use...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0212"
+msgid "..."
+msgstr "..."
+
+msgctxt "0213"
+msgid "..."
+msgstr "..."
+
+msgctxt "0214"
+msgid ""
+"<CLT 4>I'm gonna try to not worry about these monitors for\n"
+"now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0215"
+msgid ""
+"<CLT 4>I'm gonna try to not worry about these surveillance\n"
+"cameras for now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0216"
+msgid ""
+"<CLT 4>There's no point in going to the kitchen right now...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0217"
+msgid ""
+"<CLT 4>Worrying about the time won't do any good. It's all\n"
+"pointless...\n"
+"<CLT>"
+msgstr ""
+
+msgctxt "0218"
+msgid ""
+"<CLT 4>Leaving isn't going to do any good...\n"
+"<CLT>"
+msgstr ""

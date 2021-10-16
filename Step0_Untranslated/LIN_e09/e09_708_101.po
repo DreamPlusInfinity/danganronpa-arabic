@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ありえねえ…
+msgctxt "0001"
+msgid "Why am I here...?"
+msgstr ""
+
+#. このオレがこんな事、
+#. 考えるなんて…
+msgctxt "0002"
+msgid ""
+"Why am I stuck in this\n"
+"incomprehensible situation?"
+msgstr ""
+
+#. ちくしょう、どうなってんだ！
+msgctxt "0003"
+msgid ""
+"Now is no time for me\n"
+"to be getting swept away..."
+msgstr ""
+
+#. <CLT 17>飯より大事なものなんてない<CLT>はずだろ！
+msgctxt "0004"
+msgid ""
+"I can hear the impatience\n"
+"whispering in my ear,\n"
+"I know it's real, but..."
+msgstr ""
+
+#. いや、バトんのも大事だけどよ…
+msgctxt "0005"
+msgid ""
+"...the way things are right now,\n"
+"<CLT 9>there's nothing I can do<CLT>."
+msgstr ""
+
+#. …まてよ、
+#. つまりそういう事なのか？
+msgctxt "0006"
+msgid "But why is it...?"
+msgstr ""
+
+#. オレは日向と…
+msgctxt "0007"
+msgid "When I'm with Makoto..."
+msgstr ""
+
+#. <CLT 17>バトりてえと思ってる<CLT>ってのか！？
+msgctxt "0008"
+msgid ""
+"Why does that make that\n"
+"impatient whispering stop?"
+msgstr ""
+
+#. あの戦闘力ゴミ以下の男とか…？
+msgctxt "0009"
+msgid "Do I...<CLT 9>need Makoto<CLT>?"
+msgstr ""

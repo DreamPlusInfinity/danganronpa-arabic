@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. こんな島にいつまでもいたら…
+msgctxt "0001"
+msgid "What should I do...?"
+msgstr ""
+
+#. いい加減、
+#. 平和ボケしちまうぜ。
+msgctxt "0002"
+msgid ""
+"Makoto...\n"
+"He's someone I know\n"
+"I can trust completely."
+msgstr ""
+
+#. オレには
+#. やらなきゃならねえ事がある…
+msgctxt "0003"
+msgid ""
+"But sometimes he can\n"
+"be a little too nice..."
+msgstr ""
+
+#. こんなのは<CLT 17>時間の無駄<CLT>だぜ。
+msgctxt "0004"
+msgid ""
+"If we get too close,\n"
+"I'll just end up <CLT 9>being a nuisance<CLT>."
+msgstr ""
+
+#. とは言っても…
+msgctxt "0005"
+msgid "I...hate the idea of it."
+msgstr ""
+
+#. どうすりゃここから
+#. 出られるんだっけ？
+msgctxt "0006"
+msgid ""
+"I hate the idea of giving\n"
+"someone a reason to dislike me."
+msgstr ""
+
+#. <CLT 17>邪魔な奴を
+#. 始末すりゃいい<CLT>のか？
+msgctxt "0007"
+msgid "But I want to know more about him."
+msgstr ""
+
+#. …駄目だ。
+msgctxt "0008"
+msgid ""
+"I wonder if <CLT 9>he\n"
+"thinks I'm strange<CLT>..."
+msgstr ""
+
+#. 完全に忘れたぜ…
+msgctxt "0009"
+msgid "I don't think today is the day..."
+msgstr ""

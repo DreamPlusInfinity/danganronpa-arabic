@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ………………
+msgctxt "0001"
+msgid "..."
+msgstr "..."
+
+#. <CLT 04>どうしたんだ？
+#. 急に黙り込んで…<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>What happened? Why'd Sayaka get so quiet\n"
+"all of a sudden?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>（クソッ…）<CLT>
+msgctxt "0003"
+msgid ""
+"<CLT 4>(What should I do?)\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>え…？<CLT>
+msgctxt "0004"
+msgid ""
+"<CLT 4>Huh?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>今の声って、まさか…<CLT>
+msgctxt "0005"
+msgid ""
+"<CLT 4>That voice—could it be...?\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>九頭龍の心の声、なのか…？<CLT>
+msgctxt "0006"
+msgid ""
+"<CLT 4>Are these Sayaka's inner thoughts?\n"
+"<CLT>"
+msgstr ""
+
+#. 無駄…って事はないんじゃないか？
+#. こうして色々話す事で、お互い理解も深まるし
+msgctxt "0007"
+msgid "Absolutely not."
+msgstr ""
+
+#. ふん…
+#. わかった風な事、言いやがって。
+msgctxt "0008"
+msgid "Huh!? Absolutely not what...?"
+msgstr ""
+
+#. ま、そこまで言うなら
+#. 無駄じゃない時間って奴を過ごそうぜ。
+msgctxt "0009"
+msgid ""
+"You just feel the way you feel. There's no way I'd\n"
+"ever think that was strange."
+msgstr ""
+
+#. たまにゃ、お前の話も聞かせろよ？
+msgctxt "0010"
+msgid "Makoto...!"
+msgstr ""
+
+#. <CLT 04>その後、九頭龍と色々な話をして過ごした…<CLT>
+msgctxt "0011"
+msgid "Th-Thank you..."
+msgstr ""
+
+#. 確かに無駄かもな…
+msgctxt "0012"
+msgid "Hmhm. I kind of figured you'd say that."
+msgstr ""
+
+#. ちッ…そう思ってんなら、
+#. 始めから誘うんじゃねーよ。
+msgctxt "0013"
+msgid ""
+"But right now...I haven't figured out exactly what's\n"
+"going on with me."
+msgstr ""
+
+#. 全然違うだろ！
+#. そんな物騒な目的じゃないって！
+msgctxt "0014"
+msgid ""
+"Will you wait, and listen to everything I have to say\n"
+"someday?"
+msgstr ""
+
+#. あぁ？
+#. 何だよ、急に…
+msgctxt "0015"
+msgid "Of course. I'm ready whenever you are."
+msgstr ""
+
+#. 言っとくが、お前らみたいなカタギの学生に
+#. 手ぇ出すほど落ちぶれちゃいねえぞ？
+msgctxt "0016"
+msgid "Thank you. When that time comes..."
+msgstr ""
+
+#. なんかそんな話、どっかで聞いた事あんなって
+#. 思っただけだ。
+msgctxt "0017"
+msgid "Of course you're not a nuisance!"
+msgstr ""
+
+#. そもそもこれ、ただの修学旅行なんだろ？
+#. ったく、早く終われってんだよ…
+msgctxt "0018"
+msgid "Huh...?"
+msgstr ""
+
+#. おい、日向。
+#. なんか面白い話でもしてくれや。
+msgctxt "0019"
+msgid ""
+"Sure, maybe hearing the truth or learning something\n"
+"about someone might change things..."
+msgstr ""
+
+#. <CLT 04>その後、九頭龍と色々な話をして過ごした…<CLT>
+msgctxt "0020"
+msgid "But I would never, ever consider that a nuisance!"
+msgstr ""
+
+#. 生き残った１人だけが
+#. この島を出る事ができる…
+msgctxt "0021"
+msgid "Makoto..."
+msgstr ""
+
+#. …なんて、よくある話だけどよ、
+#. そう言やこれ、ただの修学旅行なんだよな。
+msgctxt "0022"
+msgid ""
+"I want you to talk to me anytime, about anything.\n"
+"Don't even hesitate."
+msgstr ""
+
+#. あークソ、
+#. 早く終われっつーんだよ。
+msgctxt "0023"
+msgid "...Okay!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "You really are a wonderful person, aren't you?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "Thank you, Makoto..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid ""
+"I'm not ready right now, but...when the time comes,\n"
+"please listen to what I have to say."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid "Definitely. I'm looking forward to it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid "So am I..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "I can't say for sure it wouldn't be a nuisance."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "Ah..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid "But even if it is...that's fine."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "Because I want to help you, however I can."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "Makoto..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "So you're a psychic, too?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid ""
+"N-No, it's just... Well, I'm not sure. Maybe I'm just\n"
+"starting to understand things better?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "I see..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid ""
+"Well, you don't have to worry about me. Whatever\n"
+"you're thinking, please forget about it."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "You're not strange. I just...don't know what to do."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "You don't know...? What do you mean?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"I mean, to you I'm just another person in a room full\n"
+"of people. How could either of us know each other?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid "..."
+msgstr "..."
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "I see..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid ""
+"I don't want to cause you any more problems. Maybe\n"
+"it's best if I don't say any more..."
+msgstr ""

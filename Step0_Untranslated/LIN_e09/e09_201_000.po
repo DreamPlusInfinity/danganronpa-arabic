@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>その後、さんざんビーチで遊び尽くした俺たちは、
+#. ウサミの誘導に従い、再び公園に来ていた…<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Once that was all done, we moved from the gym to the\n"
+"dining hall, to talk about our future here.\n"
+"<CLT>"
+msgstr ""
+
+#. はーい！　それではみなさんお待ちかねの
+#. 修学旅行の過ごし方をご説明しまちゅ！
+msgctxt "0002"
+msgid ""
+"<CLT 4>But...\n"
+"<CLT>"
+msgstr ""
+
+#. 過ごし方…？　なんだよそれ！
+#. ただ遊んで過ごせばいいんじゃねーのかよ！？
+msgctxt "0003"
+msgid ""
+"When he says we have to make him some backups,\n"
+"what exactly are we supposed to do?"
+msgstr ""
+
+#. ようやく本題というわけか…
+msgctxt "0004"
+msgid "Yeah, he didn't explain any of the important bits!"
+msgstr ""
+
+#. 貴様は確かサバイバルをさせると言っていたな…
+#. あれはどういう意味だ？
+msgctxt "0005"
+msgid "That was just for convenience's sake!"
+msgstr ""
+
+#. そう、サバイバルでちゅ。
+#. でもサバイバルと言っても、危険はありまちぇん！
+msgctxt "0006"
+msgid "Uwah! Now he's here!?"
+msgstr ""
+
+#. みなさんの目的はあくまでも
+#. <CLT 03>"希望のカケラ"を集めること<CLT>でちゅからね。
+msgctxt "0007"
+msgid ""
+"Sure, I could have explained everything in the gym.\n"
+"But if I'd gone on any longer..."
+msgstr ""
+
+#. というわけで、みなさんにはこれから<CLT 03>５０日間<CLT>、
+#. この島で協力しあって生活してもらいまちゅ！
+msgctxt "0008"
+msgid ""
+"...it would've been totally annoying, right!? It\n"
+"would've been like, \"Hey! Hurry up and start already!\""
+msgstr ""
+
+#. ５０日！？　ちょーなげーっす！！
+msgctxt "0009"
+msgid "I-I'm not sure I agree with that...!"
+msgstr ""
+
+#. チッ…そんなにあんのかよ…
+msgctxt "0010"
+msgid "So, let me explain right now!"
+msgstr ""
+
+#. 期間はまあいい…
+#. それよりも協力とはどういうことだ？
+msgctxt "0011"
+msgid ""
+"I'm going to give you guys the next 50 days to make me\n"
+"a proper set of backups!"
+msgstr ""
+
+#. ズバリ、<CLT 03>学級目標<CLT>でちゅ！
+msgctxt "0012"
+msgid "50 days!? That's like, forever! Why so long!?"
+msgstr ""
+
+#. がっきゅーもくひょうぅ？
+msgctxt "0013"
+msgid "That's for convenience's sake, too."
+msgstr ""
+
+#. みなさんに、より仲良くなってもらうために
+#. 定期的に共同作業をお願いするでちゅ。
+msgctxt "0014"
+msgid ""
+"You guys would totally slack off if you didn't have a\n"
+"time limit. Humans give in so easily to corruption."
+msgstr ""
+
+#. 要はでちゅね、あちしがお願いする物を
+#. みなさんで一緒に作って欲しいのでちゅ！
+msgctxt "0015"
+msgid ""
+"Okay, but what about this whole \"backup\" thing? You\n"
+"said you wanted a bunch of bonus features, but..."
+msgstr ""
+
+#. 無ッ…面倒なのは嫌じゃのぉ…
+msgctxt "0016"
+msgid "But it's super vague!"
+msgstr ""
+
+#. あ、あのぉ…それって、もしできなかったら
+#. お…おしおきとかされちゃうんですか…？
+msgctxt "0017"
+msgid "I thought you might say that."
+msgstr ""
+
+#. め、滅相もないでちゅ！
+#. もしできなくても、ペナルティは特にないでちゅ。
+msgctxt "0018"
+msgid ""
+"So from time to time, I'll give you a special concept!\n"
+"You can use that to design the next backup."
+msgstr ""
+
+#. その代わり、ちゃんと目標を達成できたら
+#. <CLT 03>イイモノ<CLT>をあげるでちゅ！
+msgctxt "0019"
+msgid "What!? Can't we just make one and be done with it?"
+msgstr ""
+
+#. とにかく！
+#. まずはひとつやってみまちょうー！
+msgctxt "0020"
+msgid "Of course you can't just make one and be done with it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0021"
+msgid ""
+"Who knows what kind of violence you guys might commit\n"
+"against poor old me? I need all the help I can get!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0022"
+msgid ""
+"Heck, just a second ago you were talking about how you\n"
+"should just destroy me right now!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0023"
+msgid "I heard you! You wanna...wanna...waaaah!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0024"
+msgid "Is this really necessary?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0025"
+msgid "Fake cry all you want, we're not gonna fall for it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0026"
+msgid "Fake...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0027"
+msgid ""
+"No, I really am sad. All your heartless comments have\n"
+"made me sad!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0028"
+msgid ""
+"But your teacher won't let it get to him... No matter\n"
+"what, I'll put you all on the right path!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0029"
+msgid "And the right path would be...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0030"
+msgid "Oh yeah!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0031"
+msgid ""
+"To keep you all from slacking off, I'll be performing\n"
+"project reviews as you progress!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0032"
+msgid "Project reviews...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid ""
+"What, never heard of a project review? Want me to\n"
+"write it down for you?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "N-No! I know what it is! It's, uh..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "It's meant to check our progress."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid ""
+"So you're going to be checking up on us to see how\n"
+"things are coming!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "That's just common sense! Hahaha!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "Yeah, it's TOTALLY common sense!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "...I feel like I want to die right now."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "Okay then, hurry up and get to work!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0041"
+msgid ""
+"I'm as excited as the rest of you to get through this\n"
+"and begin your real school life!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0042"
+msgid ""
+"B-But, um...if we fail our project review...is there\n"
+"some kind of p-punishment...?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0043"
+msgid "Puhuhuhu... Weeeell..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0044"
+msgid "Here it comes..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0045"
+msgid "No, nothing in particular."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0046"
+msgid "Wh-What!? Don't scare us like that...!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0047"
+msgid ""
+"There's no punishment, but if you can't do it, you\n"
+"won't trigger that escape flag I mentioned."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid "Plus, if you pass, I'll give you something awesome!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid ""
+"What is it? Well, you'll just have to get it and find\n"
+"out! But it's super fun, I promise!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "Now then, are you ready for your first assignment?"
+msgstr ""

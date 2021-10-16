@@ -1,0 +1,1530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 水道水に満足できない現代人のた
+#. めに海洋深層水を加工した飲料。
+#. ミネラルが豊富。
+msgctxt "0001"
+msgid ""
+"Drawn from the ocean depths\n"
+"and rigorously purified.\n"
+"Ideal for a modern on-the-go\n"
+"public unsatisfied with tap\n"
+"water."
+msgstr ""
+
+#. レモン風味のする甘い炭酸飲料。
+#. レモネードが語源。
+#. ビー玉で栓をしたビンが特徴的。
+#. ビンはラムネ屋さんに持っていく
+#. ことで再利用される。
+msgctxt "0002"
+msgid ""
+"Contains a highly stimulating,\n"
+"almost addictive sweetness.\n"
+"Pair it with some nice junk\n"
+"food for a can't-miss combo."
+msgstr ""
+
+#. ヤシの実の内部に溜まった水。
+#. 無色透明でさっぱりとした甘さ。
+msgctxt "0003"
+msgid ""
+"Made from an extremely rare\n"
+"and expensive coffee bean\n"
+"collected from the dung of the\n"
+"Asian palm civet. It has a\n"
+"unique fragrance..."
+msgstr ""
+
+#. 別名、逆エナジードリンク。
+#. 飲むと退廃的な気分になる。
+#. "ブルーラム、翼をもぎとる"
+#. のキャッチコピーで大ヒット。
+msgctxt "0004"
+msgid ""
+"An herbal tea said to promote\n"
+"beauty and wellness. You can\n"
+"somehow sense its essential\n"
+"elegance..."
+msgstr ""
+
+#. ジャコウネコのフンから採取され
+#. るコーヒー豆。
+#. 世界でも最も希少で高価とされ、
+#. 独特の香りを持つ。
+msgctxt "0005"
+msgid ""
+"A basic seasoning produced\n"
+"from the evaporation of\n"
+"seawater. It also sees use\n"
+"as a preservative."
+msgstr ""
+
+#. 紅茶にシナモンスティックを
+#. 添えたもの。
+#. 身体を温めたり、胃腸の調子を
+#. 整える効能があるという。
+msgctxt "0006"
+msgid ""
+"A staple snack food made by\n"
+"frying thin potato slices in\n"
+"oil. Beware its dangerously\n"
+"high calorie count."
+msgstr ""
+
+#. アルコールがほとんど入っていな
+#. い清涼飲料水。
+#. ワインというよりは、酸味のある
+#. ぶどうジュースに近い味。
+msgctxt "0007"
+msgid ""
+"A tough, long-lasting cracker\n"
+"used mainly as an emergency\n"
+"ration. Each piece contains a\n"
+"full seven different flavors."
+msgstr ""
+
+#. 米と大麦を混ぜた麦ごはん。
+#. 食物繊維などの栄養も豊富。
+#. 牛タンにも合う。
+msgctxt "0008"
+msgid ""
+"A baked good made from black\n"
+"ingredients. It looks burnt,\n"
+"but it's actually pretty good."
+msgstr ""
+
+#. チョコチップをまぶした燻製肉。
+#. ちょい足し料理人が、保存食と
+#. して考案。
+#. 足せば良いというものではない。
+msgctxt "0009"
+msgid ""
+"Instant noodles. Fill it with\n"
+"boiling water and it's ready\n"
+"in 3 seconds. Of course, it\n"
+"also goes bad in like 30..."
+msgstr ""
+
+#. 明太子をバターで練ったものを
+#. 切れ目に詰め込んだパン。
+#. ボリュームも満点。
+#. 和洋折衷の到達点のひとつ。
+msgctxt "0010"
+msgid ""
+"A curry pack made for kids.\n"
+"It's made with expensive,\n"
+"high-quality ingredients you\n"
+"wouldn't expect from a kid's\n"
+"food."
+msgstr ""
+
+#. マリーアントワネットの好物と
+#. して知られるパン。
+#. 名前には"僧侶帽"という意味が
+#. ある。
+msgctxt "0011"
+msgid ""
+"A set of canned and vacuum-\n"
+"sealed foodstuffs. The taste\n"
+"isn't bad, and certain snakes\n"
+"that enjoy hide-and-go-seek\n"
+"are just crazy about it."
+msgstr ""
+
+#. 保存性に優れる非常食用のパン。
+#. 希望ヶ峰学園のマークが入って
+#. いる。
+#. 被災用に生徒達に支給されて
+#. いた非常食のようだ。
+msgctxt "0012"
+msgid ""
+"A gigantic donut that doubles\n"
+"as a flotation device. And\n"
+"naturally, you can snack on it\n"
+"while floating out to sea. It\n"
+"comes in a variety of styles."
+msgstr ""
+
+#. メロンパンやバターピーナッツ
+#. パンなどたくさんの菓子パンが
+#. 入っている。
+#. 紙袋にはヘンデル＆グレーテルの
+#. ロゴ。
+msgctxt "0013"
+msgid ""
+"A lunch box stuffed with rice,\n"
+"ginger, carrots, peppers,\n"
+"mushrooms, and more. It's\n"
+"meat-free, so you vegetarians\n"
+"out there are covered, too."
+msgstr ""
+
+#. ジャガイモを薄切りにして、
+#. 油で揚げたスナック菓子。
+#. 同系の菓子より、カロリー高め。
+#. 『やめたくない♪
+#. 　　　とめたくない♪』
+#. のＣＭで知られる。
+msgctxt "0014"
+msgid ""
+"The seeds of that particular\n"
+"flower that loves facing the\n"
+"sun. They have a flavor\n"
+"somewhat similar to peanuts."
+msgstr ""
+
+#. いちご味のかき氷。
+#. スプーンにクジが付いていて、
+#. 当たりを引くと、もう１個無料で
+#. もらえる。
+msgctxt "0015"
+msgid ""
+"Sprinkle this around outside\n"
+"and watch the birds come\n"
+"flocking. There's nothing\n"
+"stopping you from eating it\n"
+"too, I suppose..."
+msgstr ""
+
+#. ジャバウォック島で採れる天然の
+#. 塩。島ではさまざまな料理に使わ
+#. れる他、先住民達の怪しげな儀式
+#. にも使われるという。
+msgctxt "0016"
+msgid ""
+"A hairclip in the shape of a\n"
+"little kitty cat. Properly\n"
+"placed, it can make a girl\n"
+"positively sparkle."
+msgstr ""
+
+#. ヤシの実の内部の白い果肉を
+#. そぎ落としたもの。
+#. 醤油とワサビで食べると、
+#. お刺身のような味。
+msgctxt "0017"
+msgid ""
+"A handcrafted item made\n"
+"with needle and thread. They\n"
+"say that once you put it on,\n"
+"it will never come off again."
+msgstr ""
+
+#. 太陽に向かって咲く花の種。
+#. 食べるとピーナッツのような味が
+#. する。
+#. 花言葉は"あなたを見つめる"。
+msgctxt "0018"
+msgid ""
+"Wear it on your right hand,\n"
+"you're looking for love. On\n"
+"your left, you've found it.\n"
+"On both...well, that's just\n"
+"asking for catastrophe."
+msgstr ""
+
+#. ヤシの実から現れたヤシの実。
+#. 食べられるだけでなく、
+#. 加工すれば楽器にもなるなど、
+#. 用途は様々。
+msgctxt "0019"
+msgid ""
+"A brand-name diamond popularly\n"
+"used in engagement rings.\n"
+"Although...this one's just\n"
+"an imitation..."
+msgstr ""
+
+#. 普通のシャツに"いろは歌"が
+#. びっしりプリントされている。
+#. 『色は匂へど 散りぬるを
+#. 　我が世誰ぞ 常ならん
+#. 　有為の奥山 境越えて
+#. 　浅き夢見じ 酔ひもせず』
+msgctxt "0020"
+msgid ""
+"A school ring emblazoned with\n"
+"the Hope's Peak Academy school\n"
+"crest. It stands as proof of\n"
+"friendship between those who\n"
+"spent their youth together."
+msgstr ""
+
+#. その正義感のあまり、太陽に
+#. 向かってほえた刑事のジーパン。
+#. ジーンズではなくジーパン。
+#. ところどころほつれている。
+msgctxt "0021"
+msgid ""
+"Very popular with men these\n"
+"days. But to be honest,\n"
+"although it does attract the\n"
+"ladies, most guys hate the\n"
+"smell..."
+msgstr ""
+
+#. メイド服としては代表的な服。
+#. このドレスを着ると、一見、
+#. ご主人様に逆らえなくなるが、
+#. 実はご主人様を操る事ができる。
+msgctxt "0022"
+msgid ""
+"The scarab was considered to\n"
+"be sacred by many ancient\n"
+"societies. It's better known\n"
+"today as...the dung beetle."
+msgstr ""
+
+#. "終わりのない物語"に登場する
+#. 竜の毛皮で作られたマフラー。
+#. 常夏の国では暑苦しい。
+msgctxt "0023"
+msgid ""
+"A charm devised by the\n"
+"protective deity of martial\n"
+"arts, the Great and Gracious\n"
+"Kashima."
+msgstr ""
+
+#. 昔、下着や包帯として着用されて
+#. いた木綿の布。
+#. 体に巻きつける事で、身も心も
+#. 引き締まる。
+msgctxt "0024"
+msgid ""
+"A pair of boxing gloves infused\n"
+"with a staggering amount of\n"
+"passion and effort. Wearing them\n"
+"makes you want to throw a\n"
+"thousand cross-counters."
+msgstr ""
+
+#. 天才奇術師クイーン・テルコが、
+#. 脱出マジックに用いたという服。
+#. 両手の自由を奪う。
+#. その拘束感に、快感を覚えてしま
+#. う人もいるらしい。
+msgctxt "0025"
+msgid ""
+"They say that wearing these\n"
+"while performing incantations\n"
+"will help you better speak\n"
+"with the target of your spell."
+msgstr ""
+
+#. スパイのように素早く、そして
+#. 俊敏に動けるようになるスパイク。
+#. 略して"スパスパ"。
+msgctxt "0026"
+msgid ""
+"Most people consider it a\n"
+"\"throwaway watch\" due to its\n"
+"poor quality. Still, it enjoys\n"
+"massive popularity thanks to\n"
+"its low price."
+msgstr ""
+
+#. 身長をごまかすために上げ底に
+#. なっているブーツ。
+msgctxt "0027"
+msgid ""
+"Slippers with a small wheel\n"
+"installed in each heel. They\n"
+"were invented to move easily\n"
+"around the house, but there is\n"
+"absolutely no demand for them."
+msgstr ""
+
+#. つま先だけを覆うハーフシューズ
+#. だが、安全靴のように、先端部に
+#. 鉄板が仕込んである。
+msgctxt "0028"
+msgid ""
+"A scarf belonging to a certain\n"
+"masked hero. It's tattered and\n"
+"worn due to the countless\n"
+"battles it's been through."
+msgstr ""
+
+#. 自分の煩悩を、現実に重ねて見る
+#. ことができるようになるメガネ。
+#. 煩悩をビーム状にして発射できる
+#. 機能もあるらしい。
+#. （ただしビームは尻から出る）
+msgctxt "0029"
+msgid ""
+"A loincloth meant to emphasize\n"
+"one's manliness. Its simple\n"
+"design features a single leaf\n"
+"overlaid on white cloth."
+msgstr ""
+
+#. 純金で出来た人気ブランドの
+#. ブレスレット。
+#. 男性からも女性からも
+#. 愛されている老舗の一品。
+#. その高級感と輝きで、
+#. 注目度が１０％アップする。
+msgctxt "0030"
+msgid ""
+"The latest style from premier\n"
+"gothic lolita fashion label,\n"
+"Wonder Dungeon."
+msgstr ""
+
+#. 伝説の家庭教師が作ったピアス。
+#. 羽根の形をイメージし、金と銀
+#. でワンセット。
+#. 金色は運を増幅し、銀色は運を
+#. 蓄積するという。
+msgctxt "0031"
+msgid ""
+"One of the most popular items\n"
+"from gothic lolita designer\n"
+"Ina Bauer."
+msgstr ""
+
+#. 純度の高いシルバーの指輪。
+#. 裏側に天然石ピンクトルマリンが
+#. 埋め込まれている。
+#. 贈り物に迷ったらコレ。
+msgctxt "0032"
+msgid ""
+"Strips of cotton cloth. They\n"
+"were once commonly used for\n"
+"underwear and bandages. They\n"
+"say when you wrap it around\n"
+"yourself, both body and soul\n"
+"become taut."
+msgstr ""
+
+#. 希望ヶ峰学園の校章が刻まれたス
+#. クールリング。
+#. 青春時代を共に過ごす仲間達との
+#. 友情の証。
+msgctxt "0033"
+msgid ""
+"A limited-edition shirt\n"
+"featuring legendary punk\n"
+"rocker Jimmy Decay. Only a\n"
+"hundred were ever made."
+msgstr ""
+
+#. 別宇宙に流れ着いた金髪の地球人
+#. が身につけていたという指輪。
+#. 指輪には氷点下のギャグが
+#. 封じられている。
+msgctxt "0034"
+msgid ""
+"Designed solely for those in\n"
+"control of their buttocks. For\n"
+"better or worse, it's unisex."
+msgstr ""
+
+#. オシャレな意匠の風呂敷。
+#. モダンガールなご年配への贈り物
+#. に最適。
+#. なお、包んだ物の時間を進めたり
+#. 戻したりする効果は無い。
+msgctxt "0035"
+msgid ""
+"A bra designed to slip over\n"
+"your hands. Its slogan?\n"
+"\"Raise your hands, raise\n"
+"your spirits!\""
+msgstr ""
+
+#. 至宝ホープダイヤ、その所有者
+#. には死がつきまとうという伝説が
+#. ある。
+#. このダイヤは、その昔、ホープ
+#. ダイヤをカットした際の残りで
+#. 作られた。
+msgctxt "0036"
+msgid ""
+"A competition swimsuit for\n"
+"women. Its design concept is\n"
+"to \"become one with the water\"\n"
+"and it claims to increase\n"
+"swimming speed by 10%."
+msgstr ""
+
+#. ヤシの木をモチーフにしたペン
+#. ダント。
+#. ジャバウォック島では、親から
+#. 子へ、子から孫へ代々受け継ぐ
+#. 風習がある。
+msgctxt "0037"
+msgid ""
+"A collectible figure of\n"
+"Princess Piggles, the popular\n"
+"heroine from \"Demon Angel\n"
+"Pretty Pudgy Princess.\""
+msgstr ""
+
+#. 平安時代より伝わる扇子。
+#. これを所持する者は、霊と会話が
+#. できるようになるという。
+msgctxt "0038"
+msgid ""
+"A figurine of the popular TV\n"
+"personality who hosted \"Lost\n"
+"in Forbidden Love Fantasy\n"
+"Outer Space.\""
+msgstr ""
+
+#. １日のありとあらゆる出来事を
+#. メモするのに最適なデザインが
+#. された手帳。
+#. 収納できるボールペンつき。
+msgctxt "0039"
+msgid ""
+"Since Hope's Peak Academy\n"
+"doesn't have a barber, the\n"
+"students are responsible for\n"
+"cutting their own hair."
+msgstr ""
+
+#. アメリカのクレイ数学研究所が
+#. 発表した７つの数学問題。
+#. １問でも解けたら賞金１００万
+#. ドルが与えられる。
+msgctxt "0040"
+msgid ""
+"A specialized set of scissors\n"
+"used to create advanced styling\n"
+"designs. Watch the edges!"
+msgstr ""
+
+#. ありとあらゆるゲームの裏技が
+#. 記された書物の続編。
+#. 対応ハードも増えたゲームファン
+#. 必読の書。
+msgctxt "0041"
+msgid ""
+"A dark red seat cover. Its\n"
+"refined design is intended for\n"
+"only the most elite clientele."
+msgstr ""
+
+#. 人体７０８つの経絡秘孔を
+#. 記した書。
+#. これを会得した者は、
+#. 究極のマッサージ師になれる。
+msgctxt "0042"
+msgid ""
+"A camera invented to take\n"
+"pictures of electrical fields\n"
+"surrounding objects. Sadly,\n"
+"there's no film in it..."
+msgstr ""
+
+#. 男性用グルメ雑誌。
+#. シチュエーションに合わせた
+#. 流行の飲食店を紹介している。
+#. オススメデートスポット記事が
+#. 特に人気。
+msgctxt "0043"
+msgid ""
+"A DVD that contains footage\n"
+"of people reacting to various\n"
+"pieces of art."
+msgstr ""
+
+#. 他人の名前を書くと、その人物と
+#. キスができるというおまじない
+#. ノート。
+#. ただし、このノートを一度でも
+#. 使うと、心が失われる。
+msgctxt "0044"
+msgid ""
+"A dried-out plant seen in many\n"
+"Western films. If they pile up\n"
+"around your yard, just toss\n"
+"'em off a cliff or something."
+msgstr ""
+
+#. さまざまな詐欺の入門書。
+#. 一般の目に留まる事がないように
+#. 黒ウサギの表紙になっている。
+#. 白ウサギ版、赤ウサギ版もある
+#. らしい。
+msgctxt "0045"
+msgid ""
+"A dandelion toy. You can blow\n"
+"the fluff away, and the\n"
+"attached string will pull it\n"
+"back, so you can do it over\n"
+"and over and over and..."
+msgstr ""
+
+#. 立体的かつ薄っぺらな音響を
+#. 提供するヘッドホン。
+#. これを使ったオーディオマニアは
+#. みな口を揃えてこう言ったという。
+#. 『こいつはサイコポップだね。』
+msgctxt "0046"
+msgid ""
+"A small rose stored inside a\n"
+"test tube. It's good for both\n"
+"hellos and farewells. In the\n"
+"language of flowers, a red\n"
+"rose means passionate love."
+msgstr ""
+
+#. 気温、湿度、気圧などを測定する
+#. 気象観測機器。
+#. 気球によって上空へ打ち上げる。
+msgctxt "0047"
+msgid ""
+"A collection of branches from\n"
+"a sakura tree. In the language\n"
+"of flowers, cherry blossoms\n"
+"represent \"a woman of superior\n"
+"beauty.\""
+msgstr ""
+
+#. マスキュラのマークが描かれた
+#. 実験器具。
+#. メスフラスコと組み合わせる事で
+#. 有機合成が可能。
+msgctxt "0048"
+msgid ""
+"A whip made from real roses.\n"
+"Even the most beautiful rose\n"
+"has thorns..."
+msgstr ""
+
+#. フェミニンのマークが描かれた
+#. 実験器具。
+#. オスシリンダーと組み合わせる事
+#. で有機合成が可能。
+msgctxt "0049"
+msgid ""
+"A sword that can't even cut\n"
+"through iron. Or flesh. Or\n"
+"anything, really. In other\n"
+"words, totally useless..."
+msgstr ""
+
+#. 残りもののご飯を入れるだけで、
+#. "フォー"ができる調理器具。
+#. ご家庭にベトナム料理ブームを
+#. 巻き起こした。
+msgctxt "0050"
+msgid ""
+"The strongest weapon ever\n"
+"made. It's great for dungeon\n"
+"diving and lets you warp\n"
+"through walls. Of course,\n"
+"it doesn't actually exist in\n"
+"this reality, so..."
+msgstr ""
+
+#. 肌に直接触れなくても体温が
+#. 測れる体温計。
+#. 人体から放射される赤外線を
+#. 検知して体温を測定する。
+msgctxt "0051"
+msgid ""
+"Created with hi-tech future\n"
+"technology. A single shot can\n"
+"melt every molecule in a fully\n"
+"grown human. There aren't any\n"
+"batteries, though, so you\n"
+"can't fire it..."
+msgstr ""
+
+#. 銃器の先端に取り付け、発射炎
+#. や反動を抑制させるための部品。
+#. 
+#. ただし、ボルカニックナックル
+#. 社製のこの装置は、発射音を虎の
+#. 咆哮のように増幅してしまう。
+msgctxt "0052"
+msgid ""
+"A replica of the gun preferred\n"
+"by a famous assassin. It's not\n"
+"really much good by itself.\n"
+"You can't even cock it..."
+msgstr ""
+
+#. 航空技師リリエンタールが残した
+#. ハンググライダーの模型。
+#. 空を目指す人間達の夢が
+#. 詰まっている。
+msgctxt "0053"
+msgid ""
+"Donning this armor bestows the\n"
+"wearer with immense power, but\n"
+"at the cost of their soul and\n"
+"senses."
+msgstr ""
+
+#. キルリアン写真を撮る事ができる
+#. カメラ。
+#. 残念ながらフィルムはない。
+msgctxt "0054"
+msgid ""
+"Once you record a message onto\n"
+"this, it sets up a chemical\n"
+"reaction that will destroy the\n"
+"tape a few seconds after it's\n"
+"played."
+msgstr ""
+
+#. 医療用に作られたホチキス。
+#. 
+#. 専用の針をセットすれば、
+#. どんな傷口でも、マンガ本閉じる
+#. みてーにちゃんと止まる。
+msgctxt "0055"
+msgid ""
+"A phone that, for some unknown\n"
+"reason, doesn't let you hear\n"
+"the person on the other end,\n"
+"and doesn't let them hear you."
+msgstr ""
+
+#. 水素核融合を起点に、重力縮退を
+#. 繰り返し、マイクロブラック
+#. ホールを生成、取り出したエネル
+#. ギーを利用する超機関。
+msgctxt "0056"
+msgid ""
+"A caterpillar toy that was all\n"
+"the rage years ago. As you\n"
+"pull it, it moves up and down,\n"
+"making it look alive."
+msgstr ""
+
+#. ４面、６面、１２面、２０面
+#. ダイスのセット一式。
+#. 
+#. 世界でも有名なテーブルトーク
+#. ＲＰＧ『ウップス』の３０周年
+#. 記念で作られた。
+msgctxt "0057"
+msgid ""
+"A radio with a retro exterior\n"
+"but state-of-the-art\n"
+"technology inside. Of course,\n"
+"there's no reception in the\n"
+"school, so you can't hear\n"
+"anything anyway."
+msgstr ""
+
+#. お金には代えられない、プライス
+#. レスな体験を約束するゲーム機。
+#. 
+#. でもソフトはお金で買う必要があ
+#. る。
+msgctxt "0058"
+msgid ""
+"A baseball-shaped velocity\n"
+"measurement machine. Throw\n"
+"it to measure your speed. But,\n"
+"uh...don't throw it at the wall."
+msgstr ""
+
+#. 大ヒットしている携帯ゲーム機。
+#. 
+#. 音楽プレイヤーや動画再生の機能
+#. もある。
+msgctxt "0059"
+msgid ""
+"A porcelain doll. Due to the\n"
+"exquisite craftsmanship of the\n"
+"doll and its clothing, many\n"
+"people still collect and prize\n"
+"them to this very day."
+msgstr ""
+
+#. ２個の玉を紐でつないだ
+#. オモチャ。
+#. 
+#. カチカチと音を鳴らして遊ぶ。
+#. 円を描く玉の軌道と、連続する
+#. 打撃音に、大人から子供まで
+#. 夢中になった。
+msgctxt "0060"
+msgid ""
+"A skull carved from pure rock\n"
+"crystal. Some think skulls\n"
+"like this were created\n"
+"hundreds of years ago, perhaps\n"
+"with alien intervention, and\n"
+"consider them \"OOPArts.\""
+msgstr ""
+
+#. 安価な素材で作られたカメラ。
+#. その品質故、写真がぼけたり、
+#. 変な色が出たりするが、それが
+#. 逆に人気に火をつけた。
+msgctxt "0061"
+msgid ""
+"A golden sculpture said to\n"
+"reprent a plane or spaceship.\n"
+"It was found in ruins in\n"
+"Colombia dated to around 1,000\n"
+"CE, indicating to some that\n"
+"this represents an \"OOPArt.\""
+msgstr ""
+
+#. 手袋型のゲームコントローラ。
+#. 現代のゲーム機には対応していな
+#. い。
+#. 指を動かす事でゲームを操作でき、
+#. その独特の操作感から、根強い
+#. ファンがいる。
+msgctxt "0062"
+msgid ""
+"A spherical representation of\n"
+"Earth, about the size of a\n"
+"softball. Some believe it to\n"
+"be an \"OOPArt\" since it\n"
+"depicts a round Earth, despite\n"
+"being many centuries old."
+msgstr ""
+
+#. スチール製のばね状の玩具。
+#. 階段から落としたりして遊ぶ。
+#. 鮮やかな赤色をしており、その
+#. 原型は巨神が作ったとも伝わる。
+msgctxt "0063"
+msgid ""
+"A rock taken from the Sea of\n"
+"Tranquility on the moon by the\n"
+"astronauts on Apollo 11. Its\n"
+"composition is apparently\n"
+"unusual for where it was\n"
+"found..."
+msgstr ""
+
+#. 車のシミュレーター風味の
+#. おもちゃ。数十年前に流行した。
+#. 
+#. この商品だけの特徴として、
+#. "ニトロボタン"がある。
+#. 押すと本体から風が吹き出て
+#. 気持ちいい。
+msgctxt "0064"
+msgid ""
+"A jewel treasured by an\n"
+"ancient super-race. \"Even the\n"
+"devil has friends. You fool...\"\n"
+"And then...tears flow."
+msgstr ""
+
+#. 通常は定規のようにまっすぐと
+#. 伸びているが、腕をペチッと叩く
+#. とクルッと巻きつくオモチャ。
+msgctxt "0065"
+msgid ""
+"A little-known book about\n"
+"Brazilian jiu-jitsu that\n"
+"teaches high-level shoulder\n"
+"lock techniques. \"Omoplata\" is\n"
+"another word for the scapula,\n"
+"or shoulder blade."
+msgstr ""
+
+#. 犬のようにくわえて遊ぶオモチャ。
+#. くわえると面白い顔になる事から
+#. ギャグボールと呼ばれる。
+msgctxt "0066"
+msgid ""
+"These seven important\n"
+"mathematical problems were\n"
+"posed by the Clay Mathematics\n"
+"Institute, with a reward of\n"
+"one million dollars for each\n"
+"one solved."
+msgstr ""
+
+#. 底部のスイッチを押すと震えだす
+#. こけし人形。
+#. どうやら子供のオモチャのようだ
+#. が、使い方はよく分からない。
+msgctxt "0067"
+msgid ""
+"The newest popular portable\n"
+"game system. It has a hi-def\n"
+"touchscreen, and can also play\n"
+"music and videos, making for\n"
+"the perfect all-in-one media\n"
+"machine!"
+msgstr ""
+
+#. 囲碁に使われる黒石と白石。
+#. 布石や定石など、囲碁から生まれ
+#. た言葉は多い。
+#. 黒と白の２色が生みだすのは絶望
+#. かもしれない。
+msgctxt "0068"
+msgid ""
+"A mature game designed for the\n"
+"Funplane, where a former\n"
+"runway model takes zombies as\n"
+"slaves in a post-apocalyptic\n"
+"world. It's been out of print\n"
+"for a while..."
+msgstr ""
+
+#. 手紙の入ったビン。
+#. 口が固くて、中の手紙を読むこと
+#. はできない。
+msgctxt "0069"
+msgid ""
+"A mature game designed for the\n"
+"Funplane, which allows you to\n"
+"become a massive god handing\n"
+"out divine punishment to puny\n"
+"mortals. Good luck finding a\n"
+"copy..."
+msgstr ""
+
+#. レトロな見た目だが、中身は最新
+#. 技術が使われているクラシックな
+#. ラジオ。
+#. あとはラジオ局を作るだけ！
+msgctxt "0070"
+msgid ""
+"A thick book that has hints\n"
+"and codes for every game ever\n"
+"released. A must-have for any\n"
+"true gaming fanatic."
+msgstr ""
+
+#. 頭部などが磁器で作られている陶
+#. 器の人形。
+#. その精巧な作りやミニチュア衣装
+#. の美しさに、現代でも収集家は
+#. 多い。
+msgctxt "0071"
+msgid ""
+"Available only at the posh\n"
+"Maiden Road, which is geared\n"
+"toward female fanfic fans.\n"
+"Please, PLEASE take me with\n"
+"you next time you go!"
+msgstr ""
+
+#. 卒業シーズンになると急に価値が
+#. 上がる学生服のボタン。
+#. 場合によっては予約制になる。
+msgctxt "0072"
+msgid ""
+"Flip the switch on the bottom\n"
+"to set the doll shaking.\n"
+"Apparently it's a kid's toy,\n"
+"but I don't really get the\n"
+"point of it..."
+msgstr ""
+
+#. アポロ計画で月から持ち帰られた
+#. 石。
+#. 月の石は採取された場所によって、
+#. 成分が異なる。
+#. この石は、"島の海"で採取され
+#. たもの。
+msgctxt "0073"
+msgid ""
+"The button from a school\n"
+"uniform which increases in\n"
+"value as graduation\n"
+"approaches. In a few cases,\n"
+"reservations are necessary."
+msgstr ""
+
+#. 任侠映画のビデオテープ。
+#. 抗争シーンが一切ない異色の
+#. ヤクザ映画として人気を博した。
+#. シリーズ第一作。
+msgctxt "0074"
+msgid ""
+"A Hope's Peak graduation album\n"
+"that someone left behind. The\n"
+"signature pages are all\n"
+"completely blank..."
+msgstr ""
+
+#. フォークソングの新時代を切り
+#. 開いたシンガーソングライター、
+#. フルタ・タツロウの名曲集。
+msgctxt "0075"
+msgid ""
+"A tool used to grip and\n"
+"stabilize materials (like\n"
+"metal) to shape and fix it.\n"
+"Somehow, just the name conveys\n"
+"a strong sense of power..."
+msgstr ""
+
+#. 最高級の剣山。
+#. 針状の突起に花や枝を立てて
+#. 飾り付けるための道具。
+msgctxt "0076"
+msgid ""
+"The branch from a sakaki tree,\n"
+"commonly used in Shinto\n"
+"rituals. It serves as a\n"
+"connection between humans\n"
+"and the gods."
+msgstr ""
+
+#. 一流の職人が作った和紙。
+#. 懐に入れて携帯し、口を拭ったり
+#. するのに使われる。
+msgctxt "0077"
+msgid ""
+"A porous rock formed within a\n"
+"volcano. Many people use these\n"
+"to exfoliate and remove dead\n"
+"skin from the body."
+msgstr ""
+
+#. 幻想的な美しさを見せる
+#. 深海に浮かぶ雪。
+#. その正体はプランクトンの死骸。
+msgctxt "0078"
+msgid ""
+"A thin, edible film made from\n"
+"starch. It's commonly used as\n"
+"a candy wrapper, but also\n"
+"helps cover up the taste of\n"
+"bitter medicine."
+msgstr ""
+
+#. 刀身にあたる部分に、
+#. 美しい蒔絵が描かれた袋竹刀。
+msgctxt "0079"
+msgid ""
+"A unique type of flute. You\n"
+"pour water into the base and\n"
+"blow into the top, which can\n"
+"create a variety of sounds\n"
+"similar to a chirping bird."
+msgstr ""
+
+#. 手のひらサイズの消波ブロック。
+#. 島のお土産品。
+#. 砂浜に置いておくと、フナムシ
+#. が集まる。
+msgctxt "0080"
+msgid ""
+"Made from seeds and coconut\n"
+"fiber, these are used in\n"
+"Buddhist prayers. You\n"
+"determine your wish based\n"
+"on how you position the\n"
+"arms and legs."
+msgstr ""
+
+#. 持っているだけで幸せになれる
+#. という星の砂の小瓶。
+#. 
+#. 砂といっても岩石ではなく、
+#. 海中の小さな生物の殻からでき
+#. ている。
+msgctxt "0081"
+msgid ""
+"Common wisdom might make you\n"
+"think that shining this light\n"
+"on you will turn you small...\n"
+"but nope. It's just that the\n"
+"light itself is about the size\n"
+"of a matchbox."
+msgstr ""
+
+#. 高級ブランドであるロイヤル
+#. ウッド製の湯飲み。
+#. 
+#. この食器を使うと、ただの水
+#. でも甘みを感じるという。
+msgctxt "0082"
+msgid ""
+"This originally belonged to a\n"
+"detective who has the body\n"
+"of a child but the mind of a\n"
+"genius. The bowtie lets its\n"
+"user speak in a variety of\n"
+"voices."
+msgstr ""
+
+#. 南国の弦楽器の一種らしい。
+#. 両側に弦が張られていて、
+#. 音の響きが異なる。
+#. 表はとても軽く明るい音、
+#. 裏はとても暗く重い音がする。
+msgctxt "0083"
+msgid ""
+"Two tickets that advertise \"a\n"
+"whirlwind tour of Mu with the\n"
+"Ancients for four days and\n"
+"three nights!\""
+msgstr ""
+
+#. いつでもどこでも釣りが楽しめる
+#. ように作られた釣り竿。
+#. 縮めるとボールペンサイズになり、
+#. 持ち運び自由。
+msgctxt "0084"
+msgid ""
+"It once belonged to a late,\n"
+"great novelist. They say the\n"
+"writer's soul is sealed within\n"
+"the pen, and any user can only\n"
+"write one sentence: \"I have\n"
+"become something not human.\""
+msgstr ""
+
+#. つる草の実とココナッツの繊維で
+#. 作られた男女ペアの人形。
+#. 願掛けにも使われる。
+#. 腕や足の組み方で願い事を
+#. 表現する。
+msgctxt "0085"
+msgid ""
+"Used to distribute a full-length\n"
+"novel based on what the\n"
+"world would look like if all\n"
+"of someone's dreams came true."
+msgstr ""
+
+#. 花やハーブ、果物の皮を混ぜ合わ
+#. せて熟成させた、香りを楽しむ
+#. アイテム。
+#. 百年の間、香りを楽しめるように
+#. という思いがこもっている。
+msgctxt "0086"
+msgid ""
+"You might think it has to do\n"
+"with pets, but it's more\n"
+"related to...beds. It's a\n"
+"guide for junior high and high\n"
+"school students to help with\n"
+"their...um...physical health."
+msgstr ""
+
+#. 調律をマスターした人間が使えば、
+#. 共振により全てを破壊する力を
+#. 秘めた巨大な音叉。
+#. 洗濯物を干すのにも便利。
+msgctxt "0087"
+msgid ""
+"An arrowhead discovered in\n"
+"some ancient ruins. Fashioned\n"
+"from a meteorite, they say\n"
+"that getting pierced by it\n"
+"will give you the power to\n"
+"see demons."
+msgstr ""
+
+#. 島で発掘された"はにわ"。
+#. その中から見つかった刀。
+#. 七つに枝分かれた刃が特徴的。
+#. 使用回数は切れている。
+msgctxt "0088"
+msgid ""
+"A fashion accessory that\n"
+"allows you to equip a drill\n"
+"on your chin. It is said to\n"
+"represent the idea of\n"
+"\"spiral energy.\""
+msgstr ""
+
+#. 得たいの知れない生物の角。
+#. 途中で折れてしまっている。
+#. この角を持つ者は、風を読む事が
+#. できるようになる。
+msgctxt "0089"
+msgid ""
+"As soon as you put this on,\n"
+"you'll feel like you can take\n"
+"on any challenge. It resembles\n"
+"a stereotypical dinosaur."
+msgstr ""
+
+#. ボロボロのノート。表紙には、
+#. "音……子…記憶ノート"と書い
+#. てある。
+#. 中の文字はボロボロで読めない。
+msgctxt "0090"
+msgid ""
+"Jump into this, and you'll\n"
+"feel like you can support the\n"
+"world. It resembles some kind\n"
+"of yeti creature..."
+msgstr ""
+
+#. 希望ヶ峰学園の刻印が入った
+#. ナイフ。
+#. 刃は錆びて使い物にならない。
+msgctxt "0091"
+msgid ""
+"A wash basin intended to give\n"
+"you the courage to seek out\n"
+"a true man's fantasy. Specifically,\n"
+"in public bathhouses..."
+msgstr ""
+
+#. 海底から見つかった大量破壊兵器。
+#. 弾頭部には言葉が刻まれている。
+#. 亡国の姫が書いたようだ。
+#. 『こんなもの無くたって
+#. 　人は生きていけます。』
+msgctxt "0092"
+msgid ""
+"One press of this button will\n"
+"allow you to escape from\n"
+"Hope's Peak Academy. Once you\n"
+"possess it, a new clip will be\n"
+"added to the Movie Gallery."
+msgstr ""
+
+#. 写実画家リスキニ・ハーデン・
+#. フェノメノンの作品。
+#. 晩年、彼は絶望に浸り、同じ少女
+#. の絵ばかり描いていたという。
+msgctxt "0093"
+msgid ""
+"Proof that you've cleared the\n"
+"Prologue. It's a patch that\n"
+"displays the Hope's Peak\n"
+"Academy school crest."
+msgstr ""
+
+#. 釘を抜いたり、テコのようにして
+#. 使う金属製の工具。
+#. よく、"バールのような物"と
+#. 不当な扱いを受けている。
+msgctxt "0094"
+msgid ""
+"Proof that you've cleared\n"
+"Chapter 1. The name really\n"
+"doesn't sound pleasant—it\n"
+"creates a foreboding sense\n"
+"that something very bad has\n"
+"begun."
+msgstr ""
+
+#. ペン先にインクを含ませて、
+#. 線を引くペン。
+#. テクニック次第で、多彩な線を
+#. 描けるので、漫画やイラストなど
+#. で用いられる。
+msgctxt "0095"
+msgid ""
+"Proof that you've cleared\n"
+"Chapter 2. It's Mondo's old\n"
+"trenchcoat, which has the name\n"
+"of the country's greatest\n"
+"biker gang leader embroidered\n"
+"on it."
+msgstr ""
+
+#. 現代人が現代人たる象徴。
+#. 鼻をかんだり、汚れをふいたり、
+#. 優しさに包まれたりできる、
+#. 多目的な使い捨て紙。
+msgctxt "0096"
+msgid ""
+"Proof that you've cleared\n"
+"Chapter 3. Hifumi created this\n"
+"costume at the school, but the\n"
+"quality is so high, it's hard\n"
+"to imagine it was made solely\n"
+"with materials in the school."
+msgstr ""
+
+#. ジャバウォック島に生息する
+#. カエル。
+#. 非常に長寿で６００年生きると
+#. 言われる。
+msgctxt "0097"
+msgid ""
+"Proof that you've cleared\n"
+"Chapter 4. It's the only\n"
+"thing left of Alter Ego..."
+msgstr ""
+
+#. ジャバウォック島に生息する
+#. イグアナ。
+#. 言い伝えによると、島の若い
+#. 娘が魔法によって姿を変えた
+#. 生物らしい。
+msgctxt "0098"
+msgid ""
+"Proof that you've cleared\n"
+"Chapter 5. It was once\n"
+"abandoned on Dream Island.\n"
+"It feels strangely familiar..."
+msgstr ""
+
+#. 普通に使おうとしても、
+#. 何も切ることのできない包丁。
+#. だが、超一流の料理人は包丁を
+#. 選ぶことはないという…
+msgctxt "0099"
+msgid ""
+"Proof that you've cleared\n"
+"Chapter 6. As the final\n"
+"memento of Junko Enoshima,\n"
+"they're decorated with twin\n"
+"bear figures."
+msgstr ""
+
+#. 撮影したデジタル写真を、自動的
+#. に心霊写真風に加工して表示して
+#. くれる写真立て。
+msgctxt "0100"
+msgid ""
+"Proof that you've cleared the\n"
+"Epilogue. It serves as a\n"
+"graduation token for all those\n"
+"who made it out of Hope's\n"
+"Peak. Is it a symbol of hope,\n"
+"or of despair...?"
+msgstr ""
+
+#. アルコールフリーの日本酒。
+#. アルコールフリーなのに、
+#. 酔っぱらってしまう。
+msgctxt "0101"
+msgid ""
+"Kiyotaka's favorite briefs.\n"
+"They were also the preferred\n"
+"briefs of his grandfather,\n"
+"the former prime minister and\n"
+"the official Ultimate Manager.\n"
+"The manufacturer, \"Military\n"
+"World,\" claims they help\n"
+"support all ideal Japanese\n"
+"men from down below."
+msgstr ""
+
+#. 送り物に最適な、試験管の中に入
+#. った小さなバラ。
+#. 赤いバラの花言葉は"愛情"。
+msgctxt "0102"
+msgid ""
+"Byakuya's favorite high-end\n"
+"underwear. It comes from the\n"
+"only brand that the truly\n"
+"elite will wear. All of his\n"
+"family's underwear is made-to-\n"
+"order, in order to show that\n"
+"no matter how much money some\n"
+"no-name upstart may have,\n"
+"they'll never be a Togami."
+msgstr ""
+
+#. 『タイムトラベラーズ』に登場
+#. する不気味なドクロの仮面。
+#. テロリスト・スケルトンの
+#. 部下たちがつけている。
+msgctxt "0103"
+msgid ""
+"Mondo's favorite boxer briefs.\n"
+"They fit nice and snug in\n"
+"order to keep from getting\n"
+"in the way when you're riding\n"
+"your hog. Mondo doesn't\n"
+"normally have a thing for\n"
+"tiger print, but the instant\n"
+"he saw them, he found himself\n"
+"drawn to the design..."
+msgstr ""
+
+#. 鑑賞用の刀。
+#. 鞘に傷があり、柄の部分の金箔が
+#. 剥げてしまっている。
+#. 値打ちは無さそうだが…
+msgctxt "0104"
+msgid ""
+"Leon's favorite supportive\n"
+"sports underoos. He may\n"
+"claim he hates baseball,\n"
+"but deep down it still holds\n"
+"a special place in his heart.\n"
+"After all, that's what makes\n"
+"him \"ultimate.\""
+msgstr ""
+
+#. １０代、２０代の女子に向けた
+#. ファッション雑誌。
+#. 最新の流行や、今晩のおかず、
+#. 相手を磨く女子力アップ術など、
+#. 幅広い記事が魅力。
+msgctxt "0105"
+msgid ""
+"Hifumi's favorite briefs.\n"
+"This one-of-a-kind, not-for-\n"
+"sale-anywhere item was\n"
+"designed to mimic the garments\n"
+"of the galactic king, Robo\n"
+"Justice. Due to Hifumi's\n"
+"exceptional girth, the briefs\n"
+"have been stretched into a\n"
+"rather form-fitting thong."
+msgstr ""
+
+#. 自然界には存在しない大きな栗。
+#. それは男子の心にあるという。
+#. これを食べることで、ロマンを
+#. 追い求める力が湧いてくる。
+msgctxt "0106"
+msgid ""
+"Yasuhiro's favorite bikini\n"
+"briefs. \"The higher the waist,\n"
+"the higher your luck!\" This is\n"
+"what the salesman told him at\n"
+"one of his seminars, and he\n"
+"couldn't resist. Later, he\n"
+"would run into severe money\n"
+"troubles."
+msgstr ""
+
+#. 秘密の呪文を唱えると、どんな姿
+#. にも仮装できる不思議な鏡。
+#. 普段は目立たない女の子でも、
+#. これを使えばフロントアクター。
+msgctxt "0107"
+msgid ""
+"Sayaka's favorite everyday\n"
+"underwear. They may be\n"
+"inexpensive, but when the\n"
+"Ultimate Pop Sensation wears\n"
+"them, they still shine with\n"
+"an inner light. Of course,\n"
+"the brighter the light,\n"
+"the darker the shadow..."
+msgstr ""
+
+#. その毒々しい見た目とは裏腹に、
+#. 天上に昇るような甘さを持つ実。
+#. ただし食べた者は、闇に魅入られ
+#. 暗黒面に堕ちると言われる。
+msgctxt "0108"
+msgid ""
+"Kyoko's favorite low-rise\n"
+"briefs. No matter what\n"
+"position she finds herself\n"
+"in, their mysterious darkness\n"
+"obscures her form. Whether\n"
+"she's squatting to inspect\n"
+"a crime scene or climbing a\n"
+"ladder in search of evidence,\n"
+"she's safe..."
+msgstr ""
+
+#. 傷口の止血や保護を目的とした布。
+#. 病的な透明感や、残酷さを表現す
+#. るために巻かれる場合もある。
+msgctxt "0109"
+msgid ""
+"Aoi's favorite panties.\n"
+"They're the kind of thing\n"
+"you'd expect to find in any\n"
+"bedroom in the world—they're\n"
+"as plain as what any prison\n"
+"inmate might wear, but still\n"
+"completely comfortable. The\n"
+"one drawback is that they turn\n"
+"totally see-through if you go\n"
+"swimming in them..."
+msgstr ""
+
+#. ある殺陣の演目動作を記した書。
+#. 舞い散る花びらを斬っていくよう
+#. な美しい演武。
+#. その所作は、剣が歌っているかの
+#. ごとく。
+msgctxt "0110"
+msgid ""
+"Toko's favorite panties.\n"
+"Actually, they're probably\n"
+"Genocide Jack's favorite.\n"
+"They have reinforced elastic\n"
+"and loops to hold her deadly\n"
+"scissors."
+msgstr ""
+
+#. ボーイズバンド、黒さくらんぼの
+#. デビューシングル。
+#. 夏を意識した詩と曲で、大ヒット
+#. となった。
+msgctxt "0111"
+msgid ""
+"Sakura's favorite loincloth.\n"
+"She wears the complicated\n"
+"garment to remind her daily of\n"
+"the process of putting on her\n"
+"various martial arts uniforms.\n"
+"The loincloth represents her\n"
+"willingness to accept any\n"
+"challenge at any time."
+msgstr ""
+
+#. 割れてしまった水晶玉。
+#. セロハンテープで補強してある。
+#. 以前の持ち主はこれを使って、
+#. だいたい３回に１回くらいは、
+#. 未来を言い当てたと言う。
+msgctxt "0112"
+msgid ""
+"Celeste's favorite dark-hued\n"
+"panties. Their most notable\n"
+"feature is the tulle lace,\n"
+"and it's rumored that a\n"
+"C-rank human can't bear to\n"
+"gaze upon them. They give off\n"
+"the distinct air of a queen."
+msgstr ""
+
+#. ラジコンを使って戦う少年の成長
+#. を描いた男児向け漫画。
+#. 最終回の太郎の台詞には、
+#. 日本中の小学生が涙したという。
+#. 『逆走だってゴールはゴールだ！
+#. 　これだから大人ってやつは！』
+msgctxt "0113"
+msgid ""
+"Junko's favorite underwear.\n"
+"In contrast to her title as\n"
+"the Ultimate Fashionista, the\n"
+"underwear is remarkably plain.\n"
+"However, it's also woven from\n"
+"blade-resistant and bulletproof\n"
+"fibers, making it much more\n"
+"durable. Still, it doesn't\n"
+"seem to be spear-proof..."
+msgstr ""
+
+#. モノミからもらったにんじん。
+#. すりきれるほどに、
+#. よく使いこまれている。
+msgctxt "0114"
+msgid ""
+"Chihiro's favorite bloomers.\n"
+"Even if you got a peek under\n"
+"his skirt, you wouldn't be\n"
+"able to tell at a glance that\n"
+"he was a boy. His choice of\n"
+"underwear clearly underlines\n"
+"how strong his fear of\n"
+"weakness really is."
+msgstr ""

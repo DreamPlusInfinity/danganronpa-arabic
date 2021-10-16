@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. <CLT 04>砂浜に着いた。<CLT>
+msgctxt "0001"
+msgid ""
+"<CLT 4>Here we are at the rec room...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>どこまでも続く青い海、そして白い砂浜。<CLT>
+#. <CLT 04>実に南国らしいロケーションだ。<CLT>
+msgctxt "0002"
+msgid ""
+"<CLT 4>There's all kinds of games and stuff to do in here.\n"
+"Almost makes me feel like I'm not at school...\n"
+"<CLT>"
+msgstr ""
+
+#. <CLT 04>俺たちの他に人影はないみたいだけど…<CLT>
+#. <CLT 04>さてどうしようか？<CLT>
+msgctxt "0003"
+msgid "You wanna read a magazine?"
+msgstr ""
+
+#. 釣ろう！
+msgctxt "0004"
+msgid ""
+"Sorry, but I've already read every magazine I'm\n"
+"interested in at least once."
+msgstr ""
+
+#. お、いいね！
+#. 海釣りは久しぶりだよ！
+msgctxt "0005"
+msgid "The rest, to be honest, aren't worth my time."
+msgstr ""
+
+#. 一流の料理人は、時には自ら最高級の食材を
+#. 探し求めに行くものさ。
+msgctxt "0006"
+msgid "Let's play some pool."
+msgstr ""
+
+#. 思い出すなぁ、あのカリブでの死闘を…
+msgctxt "0007"
+msgid "Gwehehe... Are you issuing a challenge to me?"
+msgstr ""
+
+#. さ、そうと決まればさっそく出航だ！
+#. あ、大漁旗も忘れずにね！
+msgctxt "0008"
+msgid ""
+"You probably look at me and guess that I'm no good at\n"
+"pool."
+msgstr ""
+
+#. <CLT 04>旗も船もないんだけどな…<CLT>
+msgctxt "0009"
+msgid "How naive can you be!?"
+msgstr ""
+
+#. 焼こう！
+msgctxt "0010"
+msgid ""
+"I've let this arm loose in many an offline meeting.\n"
+"Would you like to see what it can do!?"
+msgstr ""
+
+#. 待ってました！
+#. もちろん、オイルならぼくが持ってるさ！
+msgctxt "0011"
+msgid "Let's give darts a shot."
+msgstr ""
+
+#. 肉にオイルを塗りたくる事にかけては
+#. ぼくの右に出る者はいないからね…
+msgctxt "0012"
+msgid ""
+"While I am happy to admit that I'm sensitive to all\n"
+"the latest fads..."
+msgstr ""
+
+#. さ、安心してこのぼくに
+#. 身も心もゆだねるといいよ！
+msgctxt "0013"
+msgid ""
+"...I don't waste my time taking part in them! That\n"
+"part is entirely worthless."
+msgstr ""
+
+#. <CLT 04>なんか早まった気がする…<CLT>
+msgctxt "0014"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 泳ごう！
+msgctxt "0015"
+msgid "There's lots of magazines here."
+msgstr ""
+
+#. んー、それもいいけど…
+#. ぼくとしては浜辺で優雅に過ごしたいな。
+msgctxt "0016"
+msgid ""
+"The selection is so-so. They're all old editions,\n"
+"though. Nothing new here..."
+msgstr ""
+
+#. せっかく君のために
+#. 特製オイルも用意してきた事だしね！
+msgctxt "0017"
+msgid "No comics, no books I wanna read, these magazines..."
+msgstr ""
+
+#. <CLT 04>どう特製なのかはあまり聞きたくないな…<CLT>
+msgctxt "0018"
+msgid ""
+"Their selection isn't much better than what you'd find\n"
+"at a little rural hot spring, ya know?"
+msgstr ""
+
+#. とりあえず脱ごうか
+msgctxt "0019"
+msgid "A massage chair..."
+msgstr ""
+
+#. ふふ…日向くんにしては大胆だね…
+msgctxt "0020"
+msgid ""
+"Gweh...guhuhu... Gentle movements massaging away the\n"
+"stress of a day of creating..."
+msgstr ""
+
+#. いいとも！
+#. さあ、見せつけるがいい！
+msgctxt "0021"
+msgid "Ahh, I can't get enough!"
+msgstr ""
+
+#. 君の生まれたままの姿を…
+#. そしてこのぼくの胸に飛び込んでおいで…！
+msgctxt "0022"
+msgid "What about you, Mr. Naegi? Guhuhuhu...!"
+msgstr ""
+
+#. <CLT 04>どうしてそうなるんだ…<CLT>
+msgctxt "0023"
+msgid "Oh-ho! But I'm first! I refuse to hand it over!"
+msgstr ""
+
+#. とりあえずナンパだ
+msgctxt "0024"
+msgid ""
+"<CLT 4>Wh-Why's he getting so excited? Is he into massaging\n"
+"that much?\n"
+"<CLT>"
+msgstr ""
+
+#. もちろんだよ！
+#. なんてったって南国ビーチだからね！
+msgctxt "0025"
+msgid "Is that a slot machine back there...?"
+msgstr ""
+
+#. 心も体も開放的になった水着姿の女神達と
+#. めくるめくような甘い一夜を…
+msgctxt "0026"
+msgid "Mr. Naegi!"
+msgstr ""
+
+#. って、ここには君とぼくしかいないんだけど。
+msgctxt "0027"
+msgid ""
+"Are you challenging me, who has the mandate of heaven,\n"
+"to a game of luck!?"
+msgstr ""
+
+#. …はッ、そうか！
+#. つまり君をナンパすればいいってことか！！
+msgctxt "0028"
+msgid "You foolish boy!"
+msgstr ""
+
+#. <CLT 04>うかつな事を言ってしまった…<CLT>
+msgctxt "0029"
+msgid ""
+"The gods have given me talent in more arenas than just\n"
+"the creation of fan fiction!"
+msgstr ""
+
+#. とりあえず走ろうか
+msgctxt "0030"
+msgid ""
+"Unbelievably good luck is another of my many traits!\n"
+"You may think I'm exaggerating, but I'm not!"
+msgstr ""
+
+#. 砂浜で追いかけっこか…
+#. 嫌いなシチュエーションではないけど…
+msgctxt "0031"
+msgid ""
+"After all, you need a certain amount of luck to\n"
+"succeed in the fanfic world to begin with!"
+msgstr ""
+
+#. さすがにちょっと暑すぎてね…
+msgctxt "0032"
+msgid ""
+"Of course I realize that you are the Ultimate Lucky\n"
+"Student, so..."
+msgstr ""
+
+#. ぼくの事は気にせずに、
+#. 太陽と戯れてくるといいよ！
+msgctxt "0033"
+msgid "Come on, let's do it! A fair fight between equals!"
+msgstr ""
+
+#. 椰子の実を落とそう
+msgctxt "0034"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
+
+#. 落としたらすぐに美味しいジュースが飲める！
+#. …とか思ったら大間違いだよ。
+msgctxt "0035"
+msgid "Kinda boring here, huh...?"
+msgstr ""
+
+#. それなりの刃物が無ければ割るどころか
+#. 穴を開ける事もできないし…
+msgctxt "0036"
+msgid "Yup, sure is..."
+msgstr ""
+
+#. そもそも、ぬるいココナッツジュースって
+#. 普通に美味しくないからね…？
+msgctxt "0037"
+msgid "..."
+msgstr "..."
+
+#. それにどっちかっていうと果肉の方が有用だから
+#. 採れたら持って帰ろうよ。
+msgctxt "0038"
+msgid "Sure is boring..."
+msgstr ""
+
+#. ぼくが極上スイーツに
+#. 生まれ変わらせてあげるからさ！
+msgctxt "0039"
+msgid "..."
+msgstr "..."
+
+#. 貝殻を拾おう
+msgctxt "0040"
+msgid ""
+"<CLT 4>A lame response to a lame question...\n"
+"<CLT>"
+msgstr ""
+
+#. 貝殻か…
+#. 確かに料理の皿として使う事もあるけどね。
+msgctxt "0041"
+msgid "I'm not sure about any of these games..."
+msgstr ""
+
+#. ぼくはほら、中身重視だから。
+#. 外見だけには興味ないっていうか。
+msgctxt "0042"
+msgid "Hrmm...indeed..."
+msgstr ""
+
+#. だいたい、外見がどんなに綺麗でも、
+#. 中身が空っぽっていうのはちょっと…ねえ？
+msgctxt "0043"
+msgid "I see nothing here to stimulate my creative impulses."
+msgstr ""
+
+#. スイカを割ろう
+msgctxt "0044"
+msgid "However..."
+msgstr ""
+
+#. 君がそんな野蛮人だったとはね…
+msgctxt "0045"
+msgid ""
+"Perhaps somewhere in this empty space, I'll find some\n"
+"clue to lead me to a whole new universe!"
+msgstr ""
+
+#. スイカはちゃんと冷やして、
+#. 切り分けて食べるから美味しいんだよ！
+msgctxt "0046"
+msgid "For that is genius! THAT is Hifumi!"
+msgstr ""
+
+#. ぼくは果汁の一滴だって砂浜なんかに
+#. まき散らす気はないからね！
+msgctxt "0047"
+msgid ""
+"The higher the hurdle before me, the hotter I burn to\n"
+"overcome it!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0048"
+msgid "Hope's Peak really is amazing..."
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0049"
+msgid "Kh—! Mr. Naegi, do you know what you're saying?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0050"
+msgid "What about entertainment? Have you no mind for that?"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0051"
+msgid ""
+"There is nothing here I would classify as having any\n"
+"level of entertainment value!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0052"
+msgid ""
+"<CLT 4>It looks like nobody's here right now.\n"
+"What should we do?\n"
+"<CLT>"
+msgstr ""
