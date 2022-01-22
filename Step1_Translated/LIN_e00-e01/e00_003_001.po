@@ -1,20 +1,23 @@
+# كوتشيكي <tmahmed783@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: DR2 (PC)\n"
 "Report-Msgid-Bugs-To: your_email\n"
 "POT-Creation-Date: 10/15/2021\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-22 23:42+0200\n"
+"Last-Translator: كوتشيكي <tmahmed783@gmail.com>\n"
+"Language-Team: C <kde-i18n-doc@kde.org>\n"
 "Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #. みんなは島の探索をしていると思うよ。
 msgctxt "0001"
 msgid "Jeez... This hallway is kind of weird, too."
-msgstr ""
+msgstr "آخ... حتى هذه الردهة غريبة نوعا ما أيضًا."
 
 #. この島で暮らせと言われている以上は、
 #. 島の事を知らない訳にはいかないからね。
@@ -22,7 +25,7 @@ msgctxt "0002"
 msgid ""
 "<CLT 4>This is getting stranger by the second.\n"
 "<CLT>"
-msgstr ""
+msgstr "يغدو الأمر أغرب فأغرب."
 
 #. ボクたちも島を見て回るついでに、
 #. みんなとの自己紹介を済ませちゃおうよ。
@@ -30,49 +33,53 @@ msgctxt "0003"
 msgid ""
 "<CLT 4>I honestly have no idea what's going on...\n"
 "<CLT>"
-msgstr ""
+msgstr "ليس لدي أي فكرة عمّا يجري..."
 
 #. あぁ、わかったよ。
 msgctxt "0004"
 msgid "Well, for now I'll just head to the main hall..."
-msgstr ""
+msgstr "سأتوجه إلى القاعة الرئيسية في الوقت الحالي..."
 
 #. はい
 msgctxt "0005"
 msgid ""
-"<CLT 23>Use the <CLT><CLT 3>%CTRL_LEFT_STICK%<CLT><CLT 23> to <CLT><CLT 3>move<CLT><CLT 23> through the hallway.\n"
+"<CLT 23>Use the <CLT><CLT 3>%CTRL_LEFT_STICK%<CLT><CLT 23> to <CLT><CLT 3"
+">move<CLT><CLT 23> through the hallway.\n"
 "<CLT>"
-msgstr ""
+msgstr "استخدم الـ  × كي تتحرك في الردهة."
 
 #. いいえ
 msgctxt "0006"
 msgid ""
-"<CLT 23>Hold down the <CLT><CLT 3>%CTRL_RUN%<CLT><CLT 23> while moving to <CLT><CLT 3>run<CLT><CLT 23>.\n"
+"<CLT 23>Hold down the <CLT><CLT 3>%CTRL_RUN%<CLT><CLT 23> while moving to <"
+"CLT><CLT 3>run<CLT><CLT 23>.\n"
 "<CLT>"
-msgstr ""
+msgstr "أطل الضغط على %CTRL_RUN% أثناء التحرك كي تجري."
 
 #. <CLT 06>ここから出ますか？<CLT>
 msgctxt "0007"
 msgid ""
-"<CLT 23>Also, you can press the <CLT><CLT 3>%CTRL_MAP%<CLT><CLT 23> to bring up a\n"
+"<CLT 23>Also, you can press the <CLT><CLT 3>%CTRL_MAP%<CLT><CLT 23> to bring"
+" up a\n"
 "<CLT><CLT 3>map<CLT><CLT 23>.\n"
 "<CLT>"
-msgstr ""
+msgstr "أيضًا، بإمكانك الضغط على %CTRL_MAP% كي تُظهر الخريطة."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0008"
 msgid ""
-"<CLT 23>Press the <CLT><CLT 3>%CTRL_MAP%<CLT><CLT 23> again to <CLT><CLT 3>close<CLT><CLT 23> the map. How\n"
+"<CLT 23>Press the <CLT><CLT 3>%CTRL_MAP%<CLT><CLT 23> again to <CLT><CLT 3"
+">close<CLT><CLT 23> the map. How\n"
 "convenient!\n"
 "<CLT>"
-msgstr ""
+msgstr "اضغط على %CTRL_MAP% مرة أخرى كي تغلق الخريطة. ياله من أمر مفيد!"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0009"
 msgid ""
 "<CLT 4>\"Despair Hotel\"...?\n"
 "<CLT>"
-msgstr ""
+msgstr "فندق اليأس...؟"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0010"
@@ -81,20 +88,21 @@ msgid ""
 "anyway, I need to get to the main hall...!\n"
 "<CLT>"
 msgstr ""
+"أعتقد أنه مكان يبيت فيه الناس. على كل حال، علي أن أصل إلى القاعة الرئيسية...!"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0011"
 msgid ""
 "<CLT 4>Room 1-B. The door's locked tight...\n"
 "<CLT>"
-msgstr ""
+msgstr "الغرفة 1-ب. إن الباب موصد بإحكام..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0012"
 msgid ""
 "<CLT 4>Room 1-A. The door won't budge...\n"
 "<CLT>"
-msgstr ""
+msgstr "الغرفة 1-أ. إن الباب لا يتحرك..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0013"
@@ -103,34 +111,35 @@ msgid ""
 "feel sick standing here...\n"
 "<CLT>"
 msgstr ""
+"إلى أين يؤدي هذا الباب الأحمر يا ترى. بدأت أشعر بالغثيان من الوقوف هنا..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0014"
 msgid ""
 "<CLT 4>The A/V room. It's locked...\n"
 "<CLT>"
-msgstr ""
+msgstr "غرفة السمعيات والبصريات. إنها مغلقة..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0015"
 msgid ""
 "<CLT 4>The school store. I guess it's not open...\n"
 "<CLT>"
-msgstr ""
+msgstr "متجر المدرسة. يبدو أنه ليس مفتوحا..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0016"
 msgid ""
 "<CLT 4>The nurse's office. Off-limits, it looks like.\n"
 "<CLT>"
-msgstr ""
+msgstr "مكتب التمريض. يبدو أن دخوله ممنوع."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0017"
 msgid ""
 "<CLT 4>The boys bathroom. Good thing I don't have to go...\n"
 "<CLT>"
-msgstr ""
+msgstr "دورة مياه الأولاد. جيد أني لا أحتاج للدخول..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0018"
@@ -138,18 +147,18 @@ msgid ""
 "<CLT 4>The girls bathroom. Not that it matters, but it's\n"
 "locked.\n"
 "<CLT>"
-msgstr ""
+msgstr "دورة مياه البنات. لست مهتمًا، لكنها مغلقة."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0019"
 msgid ""
 "<CLT 4>I wonder why there's a gate here...\n"
 "<CLT>"
-msgstr ""
+msgstr "لم توجد بوابة هنا يا ترى..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0020"
 msgid ""
 "<CLT 4>The gym. The handle didn't move at all...\n"
 "<CLT>"
-msgstr ""
+msgstr "الصالة الرياضية. لم يتحرك المقبض مطلقًا..."
