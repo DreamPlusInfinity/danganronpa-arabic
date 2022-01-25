@@ -1,31 +1,34 @@
+# كوتشيكي <tmahmed783@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: DR2 (PC)\n"
 "Report-Msgid-Bugs-To: your_email\n"
 "POT-Creation-Date: 10/15/2021\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-25 03:03+0200\n"
+"Last-Translator: كوتشيكي <tmahmed783@gmail.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
 "Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #. 前回保存した続きから、プレイを再開致します。
 msgctxt "0001"
 msgid "Start from chapter beginning"
-msgstr ""
+msgstr "ابدأ من بداية الفصل"
 
 #. 一度クリアしたチャプターを、再度プレイ頂けます。
 msgctxt "0002"
 msgid "Start from class trial"
-msgstr ""
+msgstr "ابدأ من محاكمة الفصل"
 
 #. 本編の裏で行われていた、モノミとモノケモノの戦いを、
 #. あなた様自身の手で再現頂けます。
 msgctxt "0003"
 msgid "Best results"
-msgstr ""
+msgstr "أفضل النتائج"
 
 #. モノクマがウサミに敗れた世界で行われる、
 #. シミュレーション風のモードでございます。
@@ -33,130 +36,130 @@ msgctxt "0004"
 msgid ""
 "The game will begin from the chapter\n"
 "you've selected. Is this okay?"
-msgstr ""
+msgstr "ستبدأ اللعبة من الفصل الذي اخترته. ألا بأس بذلك؟"
 
 #. 初代ダンガンロンパのＩＦストーリーをお読みいただけます。
 #. 作家・成田良悟による渾身の書き下ろし！
 msgctxt "0005"
 msgid "Yes"
-msgstr ""
+msgstr "نعم"
 
 #. 様々な特典を閲覧頂けます。
 #. 特典内容はゲームを進めて頂くと、充実していきます。
 msgctxt "0006"
 msgid "No"
-msgstr ""
+msgstr "لا"
 
 #. あなた様にあった快適な環境を設定致します。
 msgctxt "0007"
 msgid "Okay"
-msgstr ""
+msgstr "حسنا"
 
 #. イベントシーンをご覧頂けます。
 msgctxt "0008"
 msgid ""
 "The game will begin from where you\n"
 "last left off. Is this okay?"
-msgstr ""
+msgstr "ستبدأ اللعبة من آخر نقطة كنت فيها. ألا بأس بذلك؟"
 
 #. ムービーをご覧頂けます。
 msgctxt "0009"
 msgid "Prologue"
-msgstr ""
+msgstr "المقدمة"
 
 #. アートワークをご覧頂けます。
 msgctxt "0010"
 msgid "Chapter 1"
-msgstr ""
+msgstr "الفصل 1"
 
 #. ＢＧＭをご視聴頂けます。
 msgctxt "0011"
 msgid "Chapter 2"
-msgstr ""
+msgstr "الفصل 2"
 
 #. ゲーム中の様々な条件を満たして、フラワーを集めましょう。
 #. いわゆるトロフィーとかいうやつです。
 msgctxt "0012"
 msgid "Chapter 3"
-msgstr ""
+msgstr "الفصل 3"
 
 #. モノモノヤシーンで景品を獲得することができます。
 msgctxt "0013"
 msgid "Chapter 4"
-msgstr ""
+msgstr "الفصل 4"
 
 #. 自動販売機でアイテムを購入することができます。
 msgctxt "0014"
 msgid "Chapter 5"
-msgstr ""
+msgstr "الفصل 5"
 
 #. まだ解放されておりません。
 msgctxt "0015"
 msgid "Chapter 6"
-msgstr ""
+msgstr "الفصل 6"
 
 #. ストーリーを最初から始めます。
 msgctxt "0016"
 msgid "Epilogue"
-msgstr ""
+msgstr "الخاتمة"
 
 #. チャプターの最初から始める
 msgctxt "0017"
 msgid "Ending"
-msgstr ""
+msgstr "النهاية"
 
 #. 非日常編から始める
 msgctxt "0018"
 msgid "School Life"
-msgstr ""
+msgstr "الحياة المدرسية"
 
 #. 学級裁判から始める
 msgctxt "0019"
 msgid "School Life: Daily Life"
-msgstr ""
+msgstr "الحياة المدرسية: الحياة اليومية"
 
 #. 学級裁判の最高成績を確認する
 msgctxt "0020"
 msgid "School Life: Daily Life (Free Time)"
-msgstr ""
+msgstr "الحياة المدرسية: الحياة اليومية (وقت الفراغ)"
 
 #. 選んだチャプターからプレイを開始致します。
 #. よろしいでしょうか？
 msgctxt "0021"
 msgid "School Life: Deadly Life"
-msgstr ""
+msgstr "الحياة المدرسية: الحياة المميتة"
 
 #. はい
 msgctxt "0022"
 msgid "School Life: Deadly Life (Investigation)"
-msgstr ""
+msgstr "الحياة المدرسية: الحياة المميتة (التحقيق)"
 
 #. いいえ
 msgctxt "0023"
 msgid "School Life: Trial Verdict"
-msgstr ""
+msgstr "الحياة المدرسية: حكم المحاكمة"
 
 #. ＯＫ
 msgctxt "0024"
 msgid "School Life: Checkpoint"
-msgstr ""
+msgstr "الحياة المدرسية: نقطة حفظ"
 
 #. 前回の続きからプレイを再開致します。
 #. よろしいでしょうか？
 #. <CLT 34>前回の終了時の状態<CLT>
 msgctxt "0025"
 msgid "Class Trial"
-msgstr ""
+msgstr "محاكمة الصف"
 
 #. ＰＲＯＬＯＧＵＥ
 msgctxt "0026"
 msgid "Pre-Trial Prep"
-msgstr ""
+msgstr "التجهيز للمحاكمة"
 
 #. ＣＨＡＰＴＥＲ　１
 msgctxt "0027"
 msgid "Class Trial: Interrupted"
-msgstr ""
+msgstr "محاكمة الصف: قُوطعت"
 
 #. ＣＨＡＰＴＥＲ　２
 msgctxt "0028"
@@ -166,7 +169,7 @@ msgstr "[EMPTY_LINE]"
 #. ＣＨＡＰＴＥＲ　３
 msgctxt "0029"
 msgid "Please choose a difficulty level."
-msgstr ""
+msgstr "اختر مستوى صعوبة من فضلك."
 
 #. ＣＨＡＰＴＥＲ　４
 msgctxt "0030"
@@ -180,6 +183,8 @@ msgid ""
 "you will receive a small gift. Would\n"
 "you like to load save data?"
 msgstr ""
+"ستتلقى هدية صغيرة إن حملت بيانات حفظ النسخة التجريبية. أترغب في تحميل بيانات"
+" الحفظ؟"
 
 #. ＣＨＡＰＴＥＲ　０＆６
 msgctxt "0032"
@@ -187,21 +192,23 @@ msgid ""
 "For every 10 Monocoins you acquire in the demo version, you\n"
 "will get 1 Monocoin in the full version. First one's free!"
 msgstr ""
+"ستكسب مونوكوين واحدة في النسخة الكاملة لقاء كل 10 مونوكوينز كسبتها في النسخة"
+" التجريبية. الأولى مجانية!"
 
 #. ＥＰＩＬＯＧＵＥ
 msgctxt "0033"
 msgid "Monocoins acquired:"
-msgstr ""
+msgstr "المونوكوينز التي كسبتها:"
 
 #. ＥＮＤ
 msgctxt "0034"
 msgid "coin(s)"
-msgstr ""
+msgstr "كوين(ز)"
 
 #. 島内生活
 msgctxt "0035"
 msgid "No demo version save data found."
-msgstr ""
+msgstr "لم نجد بيانات حفظ تابعة للنسخة التجريبية."
 
 #. 島内生活　（非）日常編
 msgctxt "0036"
@@ -213,37 +220,37 @@ msgctxt "0037"
 msgid ""
 "Would you like to spend Monocoins to\n"
 "unlock this special item?"
-msgstr ""
+msgstr "أترغب في صرف مونوكوينز لفتح هذا الغرض المميز؟"
 
 #. 島内生活　非日常編
 msgctxt "0038"
 msgid "Monocoins needed:"
-msgstr ""
+msgstr "المونوكوينز المطلوبة:"
 
 #. 島内生活　非日常編　捜査
 msgctxt "0039"
 msgid "coin(s)"
-msgstr ""
+msgstr "كوين(ز)"
 
 #. 島内生活　裁判決着
 msgctxt "0040"
 msgid "You do not have enough Monocoins."
-msgstr ""
+msgstr "لا تملك مونوكوينز كافية."
 
 #. セーブポイント
 msgctxt "0041"
 msgid "Monocoins needed:"
-msgstr ""
+msgstr "المونوكوينز المطلوبة:"
 
 #. 学級裁判
 msgctxt "0042"
 msgid "coin(s)"
-msgstr ""
+msgstr "كوين(ز)"
 
 #. 学級裁判　裁判準備
 msgctxt "0043"
 msgid "Would you like to save your changes?"
-msgstr ""
+msgstr "أتريد حفظ تغييراتك؟ "
 
 #. 学級裁判　中断
 msgctxt "0044"
@@ -251,7 +258,7 @@ msgid ""
 "Install data already exists on inserted\n"
 "media. Would you like to delete install\n"
 "data and reinstall?"
-msgstr ""
+msgstr "نص:PSP"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0045"
@@ -261,7 +268,7 @@ msgstr "※"
 #. 難易度をお選びください。
 msgctxt "0046"
 msgid "School Mode"
-msgstr ""
+msgstr "طور المدرسة "
 
 #. 制限時間もヒントもたっぷりでございます。
 #. ストーリーを楽しみたい方向け。

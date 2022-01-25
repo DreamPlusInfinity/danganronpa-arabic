@@ -1,65 +1,68 @@
+# كوتشيكي <tmahmed783@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: DR2 (PC)\n"
 "Report-Msgid-Bugs-To: your_email\n"
 "POT-Creation-Date: 10/15/2021\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-25 02:52+0200\n"
+"Last-Translator: كوتشيكي <tmahmed783@gmail.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
 "Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #. 移動、照準移動
 msgctxt "0001"
 msgid "Move / Aim"
-msgstr ""
+msgstr "تحرك \ صوب"
 
 #. 視点移動
 msgctxt "0002"
 msgid "Move Reticle"
-msgstr ""
+msgstr "حرك المؤشر"
 
 #. 話す、調べる
 msgctxt "0003"
 msgid "Talk / Examine"
-msgstr ""
+msgstr "تحدث \ تفحص"
 
 #. 廊下：走る（要スキル）　部屋：部屋を出る
 msgctxt "0004"
 msgid "Hallway: Run (skill required) | Class: Leave"
-msgstr ""
+msgstr "في الردهة: اُركض (يتطلب مهارة) | في الفصل: غادر"
 
 #. 手帳メニューを開く
 msgctxt "0005"
 msgid "Open Handbook Menu"
-msgstr ""
+msgstr "افتح قائمة الكتيب"
 
 #. 廊下：マップ表示　部屋：観察（要スキル）
 msgctxt "0006"
 msgid "Hallway: Map | Class: Observe (skill required)"
-msgstr ""
+msgstr "في القاعة: أظهر الخريطة | في الفصل: عاين (يتطلب مهارة)"
 
 #. 左平行移動、部屋では左回転
 msgctxt "0007"
 msgid "Strafe left / Turn left"
-msgstr ""
+msgstr "مل يسارًا \ التفت إلى اليمين"
 
 #. 右平行移動、部屋では右回転
 msgctxt "0008"
 msgid "Strafe right / Turn right"
-msgstr ""
+msgstr "تحرك يمينًا \ التفت إلى اليسار"
 
 #. 操作説明を開く
 msgctxt "0009"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. バックログを開く
 msgctxt "0010"
 msgid "Open Transcript"
-msgstr ""
+msgstr "افتح سجل الحوارات"
 
 #. ―
 msgctxt "0011"
@@ -74,17 +77,17 @@ msgstr "―"
 #. 決定、メッセージ送り
 msgctxt "0013"
 msgid "Confirm / Advance Text"
-msgstr ""
+msgstr "أكّد \ قدّم النص"
 
 #. キャンセル、メッセージスキップ
 msgctxt "0014"
 msgid "Cancel / Skip Text"
-msgstr ""
+msgstr "ألغ \ تخط النص"
 
 #. 手帳メニューを開く
 msgctxt "0015"
 msgid "Open Handbook Menu"
-msgstr ""
+msgstr "افتح قائمة الكتيب"
 
 #. ―
 msgctxt "0016"
@@ -94,47 +97,47 @@ msgstr "―"
 #. テキストウインドウＯＮ／ＯＦＦ
 msgctxt "0017"
 msgid "Text Window ON/OFF"
-msgstr ""
+msgstr "نافذة النص تشغيل\إيقاف"
 
 #. オートモード
 msgctxt "0018"
 msgid "Auto Mode"
-msgstr ""
+msgstr "النمط التلقائي"
 
 #. 操作説明を開く
 msgctxt "0019"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. バックログを開く
 msgctxt "0020"
 msgid "Open Transcript"
-msgstr ""
+msgstr "افتح سجل الحوارات"
 
 #. 選択、スクロール
 msgctxt "0021"
 msgid "Highlight / Scroll"
-msgstr ""
+msgstr "تمييز النص \ التمرير"
 
 #. 選択、スクロール
 msgctxt "0022"
 msgid "Highlight / Scroll"
-msgstr ""
+msgstr "تمييز النص \ التمرير"
 
 #. 決定
 msgctxt "0023"
 msgid "Confirm"
-msgstr ""
+msgstr "أكّّد"
 
 #. キャンセル
 msgctxt "0024"
 msgid "Cancel"
-msgstr ""
+msgstr "ألغ"
 
 #. 手帳メニューを閉じる
 msgctxt "0025"
 msgid "Close Handbook Menu"
-msgstr ""
+msgstr "أغلق قائمة الكتيب"
 
 #. ―
 msgctxt "0026"
@@ -144,42 +147,42 @@ msgstr "―"
 #. ページ切り替え
 msgctxt "0027"
 msgid "Advance"
-msgstr ""
+msgstr "قدّم"
 
 #. ページ切り替え
 msgctxt "0028"
 msgid "Advance"
-msgstr ""
+msgstr "قدّم"
 
 #. 操作説明を開く
 msgctxt "0029"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. バックログを開く
 msgctxt "0030"
 msgid "Open Transcript"
-msgstr ""
+msgstr "افتح سجل الحوارات"
 
 #. 選択、スクロール
 msgctxt "0031"
 msgid "Highlight / Scroll"
-msgstr ""
+msgstr "تمييز النص \ التمرير"
 
 #. 選択、スクロール
 msgctxt "0032"
 msgid "Highlight / Scroll"
-msgstr ""
+msgstr "تمييز النص \ التمرير"
 
 #. 決定、スキルの装備
 msgctxt "0033"
 msgid "Confirm / Equip Skills"
-msgstr ""
+msgstr "أكّد \ جهّز المهارات"
 
 #. キャンセル
 msgctxt "0034"
 msgid "Cancel"
-msgstr ""
+msgstr "ألغ"
 
 #. ―
 msgctxt "0035"
@@ -224,17 +227,17 @@ msgstr "―"
 #. 決定、メッセージ送り
 msgctxt "0043"
 msgid "Confirm / Advance Text"
-msgstr ""
+msgstr "أكّد \ قدّم النص"
 
 #. キャンセル、メッセージスキップ
 msgctxt "0044"
 msgid "Cancel / Skip Text"
-msgstr ""
+msgstr "أكّد \ تخط النص"
 
 #. 手帳メニューを開く
 msgctxt "0045"
 msgid "Open Handbook Menu"
-msgstr ""
+msgstr "افتح قائمة الكتيب"
 
 #. ―
 msgctxt "0046"
@@ -249,17 +252,17 @@ msgstr "―"
 #. オートモード
 msgctxt "0048"
 msgid "Auto Mode"
-msgstr ""
+msgstr "النمط التلقائي"
 
 #. 操作説明を開く
 msgctxt "0049"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. バックログを開く
 msgctxt "0050"
 msgid "Open Transcript"
-msgstr ""
+msgstr "افتح سجل الحوارات"
 
 #. 照準移動
 msgctxt "0051"
@@ -404,7 +407,7 @@ msgstr ""
 #. 操作説明を開く
 msgctxt "0079"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. ―
 msgctxt "0080"
@@ -414,12 +417,12 @@ msgstr "―"
 #. 照準移動
 msgctxt "0081"
 msgid "Aim"
-msgstr ""
+msgstr "صوب"
 
 #. 照準移動
 msgctxt "0082"
 msgid "Aim"
-msgstr ""
+msgstr "صوب"
 
 #. 推理コマをつかむ、置く
 msgctxt "0083"
@@ -454,7 +457,7 @@ msgstr ""
 #. 操作説明を開く
 msgctxt "0089"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. ―
 msgctxt "0090"
@@ -504,7 +507,7 @@ msgstr "―"
 #. 操作説明を開く
 msgctxt "0099"
 msgid "Open Help"
-msgstr ""
+msgstr "افتح قائمة المساعدة"
 
 #. ―
 msgctxt "0100"
