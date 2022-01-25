@@ -1,265 +1,268 @@
+# كوتشيكي <tmahmed783@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: DR2 (PC)\n"
 "Report-Msgid-Bugs-To: your_email\n"
 "POT-Creation-Date: 10/15/2021\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-25 02:47+0200\n"
+"Last-Translator: كوتشيكي <tmahmed783@gmail.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
 "Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #. 日向　創
 msgctxt "0001"
 msgid "Makoto Naegi"
-msgstr ""
+msgstr "نايغي ماكوتو"
 
 #. 狛枝　凪斗
 msgctxt "0002"
 msgid "Kiyotaka Ishimaru"
-msgstr ""
+msgstr "إيشيمارو كيوتاكا"
 
 #. 十神　白夜
 msgctxt "0003"
 msgid "Byakuya Togami"
-msgstr ""
+msgstr "توغامي بياكويا"
 
 #. 田中　眼蛇夢
 msgctxt "0004"
 msgid "Mondo Owada"
-msgstr ""
+msgstr "أوادا موندو"
 
 #. 左右田　和一
 msgctxt "0005"
 msgid "Leon Kuwata"
-msgstr ""
+msgstr "كوواتا ليون"
 
 #. 花村　輝々
 msgctxt "0006"
 msgid "Hifumi Yamada"
-msgstr ""
+msgstr "يامادا هيفومي"
 
 #. 弐大　猫丸
 msgctxt "0007"
 msgid "Yasuhiro Hagakure"
-msgstr ""
+msgstr "هاغاكوري ياسوهيرو"
 
 #. 九頭竜　冬彦
 msgctxt "0008"
 msgid "Sayaka Maizono"
-msgstr ""
+msgstr "مايزونو ساياكا"
 
 #. 終里　赤音
 msgctxt "0009"
 msgid "Kyoko Kirigiri"
-msgstr ""
+msgstr "كيريغيري كيوكو"
 
 #. 七海　千秋
 msgctxt "0010"
 msgid "Aoi Asahina"
-msgstr ""
+msgstr "أساهينا آوي"
 
 #. ソニア・ネヴァーマインド
 msgctxt "0011"
 msgid "Toko Fukawa"
-msgstr ""
+msgstr "فوكاوا توكو"
 
 #. 西園寺　日寄子
 msgctxt "0012"
 msgid "Sakura Ogami"
-msgstr ""
+msgstr "أوغامي ساكورا"
 
 #. 小泉　真昼
 msgctxt "0013"
 msgid "Celestia Ludenberg"
-msgstr ""
+msgstr "لودنبرغ سيليستيا"
 
 #. 罪木　蜜柑
 msgctxt "0014"
 msgid "Junko Enoshima"
-msgstr ""
+msgstr "إينوشيما جونكو"
 
 #. 澪田　唯吹
 msgctxt "0015"
 msgid "Chihiro Fujisaki"
-msgstr ""
+msgstr "فوجيساكي شيهيرو"
 
 #. 辺古山　ペコ
 msgctxt "0016"
 msgid "5 ft. 3 in. (160 cm.)"
-msgstr ""
+msgstr "(١٦٠ سم)"
 
 #. １７９ｃｍ
 msgctxt "0017"
 msgid "5 ft. 9 in. (176 cm.)"
-msgstr ""
+msgstr "(١٧٦ سم)"
 
 #. １８０ｃｍ
 msgctxt "0018"
 msgid "6 ft. 1 in. (185 cm.)"
-msgstr ""
+msgstr "(١٨٥ سم)"
 
 #. １８５ｃｍ
 msgctxt "0019"
 msgid "6 ft. 2 in. (187 cm.)"
-msgstr ""
+msgstr "(١٨٧ سم)"
 
 #. １８２ｃｍ
 msgctxt "0020"
 msgid "5 ft. 9 in. (175 cm.)"
-msgstr ""
+msgstr "(١٧٥ سم)"
 
 #. １７２ｃｍ
 msgctxt "0021"
 msgid "5 ft. 7 in. (170 cm.)"
-msgstr ""
+msgstr "(١٧٠ سم)"
 
 #. １３３ｃｍ
 msgctxt "0022"
 msgid "6 ft. 0 in. (180 cm.)"
-msgstr ""
+msgstr "(١٨٠ سم)"
 
 #. １９８ｃｍ
 msgctxt "0023"
 msgid "5 ft. 5 in. (165 cm.)"
-msgstr ""
+msgstr "(١٦٥ سم)"
 
 #. １５７ｃｍ
 msgctxt "0024"
 msgid "5 ft. 6 in. (167 cm.)"
-msgstr ""
+msgstr "(١٦٧ سم)"
 
 #. １７６ｃｍ
 msgctxt "0025"
 msgid "5 ft. 3 in. (160 cm.)"
-msgstr ""
+msgstr "(١٦٠ سم)"
 
 #. １６０ｃｍ
 msgctxt "0026"
 msgid "5 ft. 4 in. (164 cm.)"
-msgstr ""
+msgstr "(١٦٤ سم)"
 
 #. １７４ｃｍ
 msgctxt "0027"
 msgid "6 ft. 4 in. (192 cm.)"
-msgstr ""
+msgstr "(١٩٢ سم)"
 
 #. １３０ｃｍ
 msgctxt "0028"
 msgid "5 ft. 5 in. (164 cm.)"
-msgstr ""
+msgstr "(١٦٤ سم)"
 
 #. １６５ｃｍ
 msgctxt "0029"
 msgid "5 ft. 7 in. (169 cm.)"
-msgstr ""
+msgstr "(١٦٩ سم)"
 
 #. １６５ｃｍ
 msgctxt "0030"
 msgid "4 ft. 10 in. (148 cm.)"
-msgstr ""
+msgstr "(١٤٨ سم)"
 
 #. １６４ｃｍ
 msgctxt "0031"
 msgid "115 lbs. (52 kg.)"
-msgstr ""
+msgstr "(٥٢ كغ)"
 
 #. １７２ｃｍ
 msgctxt "0032"
 msgid "146 lbs. (66 kg.)"
-msgstr ""
+msgstr "(٦٦ كغ)"
 
 #. ６７ｋｇ
 msgctxt "0033"
 msgid "150 lbs. (68 kg.)"
-msgstr ""
+msgstr "(٦٨ كغ)"
 
 #. ６５ｋｇ
 msgctxt "0034"
 msgid "168 lbs. (76 kg.)"
-msgstr ""
+msgstr "(٧٦ كغ)"
 
 #. １３０ｋｇ
 msgctxt "0035"
 msgid "148 lbs. (67 kg.)"
-msgstr ""
+msgstr "(٦٧ كغ)"
 
 #. ７４ｋｇ
 msgctxt "0036"
 msgid "342 lbs. (155 kg.)"
-msgstr ""
+msgstr "(١٥٥ كغ)"
 
 #. ６４ｋｇ
 msgctxt "0037"
 msgid "157 lbs. (71 kg.)"
-msgstr ""
+msgstr "(٧١ كغ)"
 
 #. ６９ｋｇ
 msgctxt "0038"
 msgid "108 lbs. (49 kg.)"
-msgstr ""
+msgstr "(٤٩ كغ)"
 
 #. １２２ｋｇ
 msgctxt "0039"
 msgid "106 lbs. (48 kg.)"
-msgstr ""
+msgstr "(٤٨ كغ)"
 
 #. ４３ｋｇ
 msgctxt "0040"
 msgid "110 lbs. (50 kg.)"
-msgstr ""
+msgstr "(٥٠ كغ)"
 
 #. ５６ｋｇ
 msgctxt "0041"
 msgid "104 lbs. (47 kg.)"
-msgstr ""
+msgstr "(٤٧ كغ)"
 
 #. ４６ｋｇ
 msgctxt "0042"
 msgid "218 lbs. (99 kg.)"
-msgstr ""
+msgstr "(٩٩ كغ)"
 
 #. ５０ｋｇ
 msgctxt "0043"
 msgid "101 lbs. (46 kg.)"
-msgstr ""
+msgstr "(٤٦ كغ)"
 
 #. ３１ｋｇ
 msgctxt "0044"
 msgid "97 lbs. (44 kg.)"
-msgstr ""
+msgstr "(٤٤ كغ)"
 
 #. ４６ｋｇ
 msgctxt "0045"
 msgid "90 lbs. (41 kg.)"
-msgstr ""
+msgstr "(٤١ كغ)"
 
 #. ５７ｋｇ
 msgctxt "0046"
 msgid "28 in. (70 cm.)"
-msgstr ""
+msgstr "(٧٠ سم)"
 
 #. ４２ｋｇ
 msgctxt "0047"
 msgid "32 in. (81 cm.)"
-msgstr ""
+msgstr "(٨١ سم)"
 
 #. ５１ｋｇ
 msgctxt "0048"
 msgid "33 in. (85 cm.)"
-msgstr ""
+msgstr "(٨٥ سم)"
 
 #. ９１ｃｍ
 msgctxt "0049"
 msgid "37 in. (95 cm.)"
-msgstr ""
+msgstr "(٩٥ سم)"
 
 #. ８４ｃｍ
 msgctxt "0050"
 msgid "32 in. (82 cm.)"
-msgstr ""
+msgstr "(٨٢ سم)"
 
 #. １２８ｃｍ
 msgctxt "0051"
@@ -389,4 +392,4 @@ msgstr ""
 #. Ｂ
 msgctxt "0076"
 msgid "？？？"
-msgstr ""
+msgstr "???"

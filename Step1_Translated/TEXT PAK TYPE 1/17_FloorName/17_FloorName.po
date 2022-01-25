@@ -1,75 +1,78 @@
+# كوتشيكي <tmahmed783@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: DR2 (PC)\n"
 "Report-Msgid-Bugs-To: your_email\n"
 "POT-Creation-Date: 10/15/2021\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-25 02:57+0200\n"
+"Last-Translator: كوتشيكي <tmahmed783@gmail.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
 "Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #. 中央の島
 msgctxt "0001"
 msgid "Hope's Peak 1st Floor"
-msgstr ""
+msgstr "طابق قمة الأمل الأول"
 
 #. １番目の島
 msgctxt "0002"
 msgid "Hope's Peak 2nd Floor"
-msgstr ""
+msgstr "طابق قمة الأمل الثاني "
 
 #. ホテル敷地
 msgctxt "0003"
 msgid "Hope's Peak 3rd Floor"
-msgstr ""
+msgstr "طابق قمة الأمل الثالث"
 
 #. 旧館
 msgctxt "0004"
 msgid "Hope's Peak 4th Floor"
-msgstr ""
+msgstr "طابق قمة الأمل الرابع"
 
 #. ２番目の島
 msgctxt "0005"
 msgid "Hope's Peak 5th Floor"
-msgstr ""
+msgstr "طابق قمة الأمل الخامس"
 
 #. ３番目の島
 msgctxt "0006"
 msgid "Gym 1st Floor"
-msgstr ""
+msgstr "صالة الطابق الأول الرياضية"
 
 #. 病院１Ｆ
 msgctxt "0007"
 msgid "Gym 2nd Floor"
-msgstr ""
+msgstr "صالة الطابق الثاني الرياضية"
 
 #. 病院２Ｆ
 msgctxt "0008"
 msgid "Dormitory 1st Floor"
-msgstr ""
+msgstr "مهجع الطابق الأول"
 
 #. ４番目の島
 msgctxt "0009"
 msgid "Dormitory 2nd Floor"
-msgstr ""
+msgstr "مهجع الطابق الثاني"
 
 #. ストロベリーハウス１Ｆ
 msgctxt "0010"
 msgid "Dormitory 3rd Floor"
-msgstr ""
+msgstr "مهجع الطابق الثالث"
 
 #. ストロベリーハウス２Ｆ
 msgctxt "0011"
 msgid "Hope's Peak Basement"
-msgstr ""
+msgstr "قبو قمة الأمل"
 
 #. ストロベリーハウス３Ｆ
 msgctxt "0012"
 msgid "Monokuma Zone"
-msgstr ""
+msgstr "نطاق مونوكوما "
 
 #. マスカットハウス１Ｆ
 msgctxt "0013"
@@ -89,4 +92,4 @@ msgstr "※"
 #. ５番目の島
 msgctxt "0016"
 msgid "？？？"
-msgstr ""
+msgstr "???"
