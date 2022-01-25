@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. DANGANRONPA SUPER MIX
+msgctxt "0001"
+msgid "Trigger Happy Havoc"
+msgstr ""
+
+#. だんだんだんがんろんぱ！
+msgctxt "0002"
+msgid "Danganronpa!"
+msgstr ""
+
+#. Beautiful Ruin
+msgctxt "0003"
+msgid "Beautiful Death"
+msgstr ""
+
+#. Beautiful Ruin  (Summer Salt)
+msgctxt "0004"
+msgid "Welcome to Despair"
+msgstr ""
+
+#. イコロシア
+msgctxt "0005"
+msgid "Beautiful Morning"
+msgstr ""
+
+#. エコロシア
+msgctxt "0006"
+msgid "To Survive"
+msgstr ""
+
+#. Re: Beautiful Morning
+msgctxt "0007"
+msgid "Boys' Life of Despair"
+msgstr ""
+
+#. Beautiful Days Piano
+msgctxt "0008"
+msgid "Despair Syndrome (1)"
+msgstr ""
+
+#. 絶望トロピカル
+msgctxt "0009"
+msgid "Despair Syndrome (2)"
+msgstr ""
+
+#. 磯の香りのデッドエンド
+msgctxt "0010"
+msgid "Death Wish"
+msgstr ""
+
+#. Re: ゼツボウシンドローム
+msgctxt "0011"
+msgid "Death Wish (No Intro)"
+msgstr ""
+
+#. Re: 絶望症候群
+msgctxt "0012"
+msgid "All Star Apologies"
+msgstr ""
+
+#. Re: モノクマ先生の授業
+msgctxt "0013"
+msgid "Beautiful Days"
+msgstr ""
+
+#. Re: モノクマ先生の課外授業
+msgctxt "0014"
+msgid "100 Mile Junk Food Dash"
+msgstr ""
+
+#. モノミ先生の教育実習
+msgctxt "0015"
+msgid "New World Order"
+msgstr ""
+
+#. Re: オール・オール・アポロジーズ
+msgctxt "0016"
+msgid "Mr. Monokuma After Class"
+msgstr ""
+
+#. Re: ようこそ絶望学園
+msgctxt "0017"
+msgid "Box 15"
+msgstr ""
+
+#. Re: 疾走する青春のジャンクフード
+msgctxt "0018"
+msgid "Box 16"
+msgstr ""
+
+#. Re: 処刑に願いを（イントロ無し）
+msgctxt "0019"
+msgid "Distrust"
+msgstr ""
+
+#. Re: DISTRUST
+msgctxt "0020"
+msgid "Mr. Monokuma's Lesson"
+msgstr ""
+
+#. Re: ニュー・ワールド・オーダー
+msgctxt "0021"
+msgid "Underground Trial"
+msgstr ""
+
+#. 未来の前の日
+msgctxt "0022"
+msgid "Class Trial [DAWN]"
+msgstr ""
+
+#. Re: 開廷アンダーグラウンド
+msgctxt "0023"
+msgid "Class Trial [CHAOS]"
+msgstr ""
+
+#. 学級裁判黎明編 巻の二
+msgctxt "0024"
+msgid "Class Trial [THE SUN]"
+msgstr ""
+
+#. 学級裁判異形編
+msgctxt "0025"
+msgid "Argument [BREAK]"
+msgstr ""
+
+#. 学級裁判未来編
+msgctxt "0026"
+msgid "Argument [TURN UP THE HEAT]"
+msgstr ""
+
+#. 反論 -CROSS SWORD-
+msgctxt "0027"
+msgid "Argument [HOPE VS DESPAIR]"
+msgstr ""
+
+#. 議論 -BREAK-
+msgctxt "0028"
+msgid "Hangman's Gambit"
+msgstr ""
+
+#. 議論 -HEAT UP-
+msgctxt "0029"
+msgid "Closing Argument"
+msgstr ""
+
+#. 議論 -HOPE VS DESPAIR-
+msgctxt "0030"
+msgid "Climactic Re-enactment"
+msgstr ""
+
+#. DIVE DRIVE
+msgctxt "0031"
+msgid "BTB"
+msgstr ""
+
+#. アナグラム．NET
+msgctxt "0032"
+msgid "Super BTB"
+msgstr ""
+
+#. Re: クライマックス推理
+msgctxt "0033"
+msgid "Super Final BTB"
+msgstr ""
+
+#. Re: クライマックス再現
+msgctxt "0034"
+msgid "Goodbye Despair High School"
+msgstr ""
+
+#. P.T.A
+msgctxt "0035"
+msgid "Rebirth, Rebuild"
+msgstr ""
+
+#. HYPER P.T.A
+msgctxt "0036"
+msgid "???"
+msgstr ""

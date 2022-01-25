@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 日向　創
+msgctxt "0001"
+msgid "Makoto Naegi"
+msgstr ""
+
+#. 狛枝　凪斗
+msgctxt "0002"
+msgid "Kiyotaka Ishimaru"
+msgstr ""
+
+#. 十神　白夜
+msgctxt "0003"
+msgid "Byakuya Togami"
+msgstr ""
+
+#. 田中　眼蛇夢
+msgctxt "0004"
+msgid "Mondo Owada"
+msgstr ""
+
+#. 左右田　和一
+msgctxt "0005"
+msgid "Leon Kuwata"
+msgstr ""
+
+#. 花村　輝々
+msgctxt "0006"
+msgid "Hifumi Yamada"
+msgstr ""
+
+#. 弐大　猫丸
+msgctxt "0007"
+msgid "Yasuhiro Hagakure"
+msgstr ""
+
+#. 九頭竜　冬彦
+msgctxt "0008"
+msgid "Sayaka Maizono"
+msgstr ""
+
+#. 終里　赤音
+msgctxt "0009"
+msgid "Kyoko Kirigiri"
+msgstr ""
+
+#. 七海　千秋
+msgctxt "0010"
+msgid "Aoi Asahina"
+msgstr ""
+
+#. ソニア・ネヴァーマインド
+msgctxt "0011"
+msgid "Toko Fukawa"
+msgstr ""
+
+#. 西園寺　日寄子
+msgctxt "0012"
+msgid "Sakura Ogami"
+msgstr ""
+
+#. 小泉　真昼
+msgctxt "0013"
+msgid "Celestia Ludenberg"
+msgstr ""
+
+#. 罪木　蜜柑
+msgctxt "0014"
+msgid "Junko Enoshima"
+msgstr ""
+
+#. 澪田　唯吹
+msgctxt "0015"
+msgid "Chihiro Fujisaki"
+msgstr ""
+
+#. 辺古山　ペコ
+msgctxt "0016"
+msgid "5 ft. 3 in. (160 cm.)"
+msgstr ""
+
+#. １７９ｃｍ
+msgctxt "0017"
+msgid "5 ft. 9 in. (176 cm.)"
+msgstr ""
+
+#. １８０ｃｍ
+msgctxt "0018"
+msgid "6 ft. 1 in. (185 cm.)"
+msgstr ""
+
+#. １８５ｃｍ
+msgctxt "0019"
+msgid "6 ft. 2 in. (187 cm.)"
+msgstr ""
+
+#. １８２ｃｍ
+msgctxt "0020"
+msgid "5 ft. 9 in. (175 cm.)"
+msgstr ""
+
+#. １７２ｃｍ
+msgctxt "0021"
+msgid "5 ft. 7 in. (170 cm.)"
+msgstr ""
+
+#. １３３ｃｍ
+msgctxt "0022"
+msgid "6 ft. 0 in. (180 cm.)"
+msgstr ""
+
+#. １９８ｃｍ
+msgctxt "0023"
+msgid "5 ft. 5 in. (165 cm.)"
+msgstr ""
+
+#. １５７ｃｍ
+msgctxt "0024"
+msgid "5 ft. 6 in. (167 cm.)"
+msgstr ""
+
+#. １７６ｃｍ
+msgctxt "0025"
+msgid "5 ft. 3 in. (160 cm.)"
+msgstr ""
+
+#. １６０ｃｍ
+msgctxt "0026"
+msgid "5 ft. 4 in. (164 cm.)"
+msgstr ""
+
+#. １７４ｃｍ
+msgctxt "0027"
+msgid "6 ft. 4 in. (192 cm.)"
+msgstr ""
+
+#. １３０ｃｍ
+msgctxt "0028"
+msgid "5 ft. 5 in. (164 cm.)"
+msgstr ""
+
+#. １６５ｃｍ
+msgctxt "0029"
+msgid "5 ft. 7 in. (169 cm.)"
+msgstr ""
+
+#. １６５ｃｍ
+msgctxt "0030"
+msgid "4 ft. 10 in. (148 cm.)"
+msgstr ""
+
+#. １６４ｃｍ
+msgctxt "0031"
+msgid "115 lbs. (52 kg.)"
+msgstr ""
+
+#. １７２ｃｍ
+msgctxt "0032"
+msgid "146 lbs. (66 kg.)"
+msgstr ""
+
+#. ６７ｋｇ
+msgctxt "0033"
+msgid "150 lbs. (68 kg.)"
+msgstr ""
+
+#. ６５ｋｇ
+msgctxt "0034"
+msgid "168 lbs. (76 kg.)"
+msgstr ""
+
+#. １３０ｋｇ
+msgctxt "0035"
+msgid "148 lbs. (67 kg.)"
+msgstr ""
+
+#. ７４ｋｇ
+msgctxt "0036"
+msgid "342 lbs. (155 kg.)"
+msgstr ""
+
+#. ６４ｋｇ
+msgctxt "0037"
+msgid "157 lbs. (71 kg.)"
+msgstr ""
+
+#. ６９ｋｇ
+msgctxt "0038"
+msgid "108 lbs. (49 kg.)"
+msgstr ""
+
+#. １２２ｋｇ
+msgctxt "0039"
+msgid "106 lbs. (48 kg.)"
+msgstr ""
+
+#. ４３ｋｇ
+msgctxt "0040"
+msgid "110 lbs. (50 kg.)"
+msgstr ""
+
+#. ５６ｋｇ
+msgctxt "0041"
+msgid "104 lbs. (47 kg.)"
+msgstr ""
+
+#. ４６ｋｇ
+msgctxt "0042"
+msgid "218 lbs. (99 kg.)"
+msgstr ""
+
+#. ５０ｋｇ
+msgctxt "0043"
+msgid "101 lbs. (46 kg.)"
+msgstr ""
+
+#. ３１ｋｇ
+msgctxt "0044"
+msgid "97 lbs. (44 kg.)"
+msgstr ""
+
+#. ４６ｋｇ
+msgctxt "0045"
+msgid "90 lbs. (41 kg.)"
+msgstr ""
+
+#. ５７ｋｇ
+msgctxt "0046"
+msgid "28 in. (70 cm.)"
+msgstr ""
+
+#. ４２ｋｇ
+msgctxt "0047"
+msgid "32 in. (81 cm.)"
+msgstr ""
+
+#. ５１ｋｇ
+msgctxt "0048"
+msgid "33 in. (85 cm.)"
+msgstr ""
+
+#. ９１ｃｍ
+msgctxt "0049"
+msgid "37 in. (95 cm.)"
+msgstr ""
+
+#. ８４ｃｍ
+msgctxt "0050"
+msgid "32 in. (82 cm.)"
+msgstr ""
+
+#. １２８ｃｍ
+msgctxt "0051"
+msgid "48 in. (123 cm.)"
+msgstr ""
+
+#. ９３ｃｍ
+msgctxt "0052"
+msgid "39 in. (98 cm.)"
+msgstr ""
+
+#. ８６ｃｍ
+msgctxt "0053"
+msgid "29 in. (74 cm.)"
+msgstr ""
+
+#. ８８ｃｍ
+msgctxt "0054"
+msgid "30 in. (76 cm.)"
+msgstr ""
+
+#. １２２ｃｍ
+msgctxt "0055"
+msgid "28 in. (70 cm.)"
+msgstr ""
+
+#. ７３ｃｍ
+msgctxt "0056"
+msgid "31 in. (78 cm.)"
+msgstr ""
+
+#. ９３ｃｍ
+msgctxt "0057"
+msgid "39 in. (98 cm.)"
+msgstr ""
+
+#. ８８ｃｍ
+msgctxt "0058"
+msgid "29 in. (75 cm.)"
+msgstr ""
+
+#. ８３ｃｍ
+msgctxt "0059"
+msgid "30 in. (76 cm.)"
+msgstr ""
+
+#. ６４ｃｍ
+msgctxt "0060"
+msgid "26 in. (65 cm.)"
+msgstr ""
+
+#. ７７ｃｍ
+msgctxt "0061"
+msgid "29 in. (75 cm.)"
+msgstr ""
+
+#. ８９ｃｍ
+msgctxt "0062"
+msgid "31 in. (79 cm.)"
+msgstr ""
+
+#. ７６ｃｍ
+msgctxt "0063"
+msgid "32 in. (81 cm.)"
+msgstr ""
+
+#. ８５ｃｍ
+msgctxt "0064"
+msgid "34 in. (86 cm.)"
+msgstr ""
+
+#. Ａ
+msgctxt "0065"
+msgid "31 in. (80 cm.)"
+msgstr ""
+
+#. Ｏ
+msgctxt "0066"
+msgid "59 in. (150 cm.)"
+msgstr ""
+
+#. Ｂ
+msgctxt "0067"
+msgid "32 in. (82 cm.)"
+msgstr ""
+
+#. Ｂ
+msgctxt "0068"
+msgid "33 in. (83 cm.)"
+msgstr ""
+
+#. Ａ
+msgctxt "0069"
+msgid "32 in. (82 cm.)"
+msgstr ""
+
+#. Ａ
+msgctxt "0070"
+msgid "35 in. (88 cm.)"
+msgstr ""
+
+#. Ａ
+msgctxt "0071"
+msgid "31 in. (79 cm.)"
+msgstr ""
+
+#. ＡＢ
+msgctxt "0072"
+msgid "51 in. (130 cm.)"
+msgstr ""
+
+#. Ｂ
+msgctxt "0073"
+msgid "31 in. (80 cm.)"
+msgstr ""
+
+#. Ｏ
+msgctxt "0074"
+msgid "31 in. (80 cm.)"
+msgstr ""
+
+#. Ａ
+msgctxt "0075"
+msgid "28 in. (70 cm.)"
+msgstr ""
+
+#. Ｂ
+msgctxt "0076"
+msgid "？？？"
+msgstr ""

@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 設定画・日向創
+msgctxt "0001"
+msgid "Character Art: Makoto Naegi"
+msgstr ""
+
+#. 設定画・狛枝凪斗
+msgctxt "0002"
+msgid "Character Art: Kiyotaka Ishimaru"
+msgstr ""
+
+#. 設定画・十神白夜
+msgctxt "0003"
+msgid "Character Art: Byakuya Togami"
+msgstr ""
+
+#. 設定画・田中眼蛇夢
+msgctxt "0004"
+msgid "Character Art: Mondo Owada"
+msgstr ""
+
+#. 設定画・破壊神暗黒四天王
+msgctxt "0005"
+msgid "Character Art: Leon Kuwata"
+msgstr ""
+
+#. 設定画・左右田和一
+msgctxt "0006"
+msgid "Character Art: Hifumi Yamada"
+msgstr ""
+
+#. 設定画・花村輝々
+msgctxt "0007"
+msgid "Character Art: Yasuhiro Hagakure"
+msgstr ""
+
+#. 設定画・弐大猫丸
+msgctxt "0008"
+msgid "Character Art: Sayaka Maizono"
+msgstr ""
+
+#. 設定画・メカ弐大
+msgctxt "0009"
+msgid "Character Art: Kyoko Kirigiri"
+msgstr ""
+
+#. 設定画・九頭龍冬彦
+msgctxt "0010"
+msgid "Character Art: Aoi Asahina"
+msgstr ""
+
+#. 設定画・九頭龍冬彦（眼帯）
+msgctxt "0011"
+msgid "Character Art: Toko Fukawa"
+msgstr ""
+
+#. 設定画・終里赤音
+msgctxt "0012"
+msgid "Character Art: Genocide Jack"
+msgstr ""
+
+#. 設定画・七海千秋
+msgctxt "0013"
+msgid "Character Art: Sakura Ogami"
+msgstr ""
+
+#. 設定画・ソニア・ネヴァーマインド
+msgctxt "0014"
+msgid "Character Art: Celeste"
+msgstr ""
+
+#. 設定画・西園寺日寄子
+msgctxt "0015"
+msgid "Character Art: Chihiro Fujisaki"
+msgstr ""
+
+#. 設定画・小泉真昼
+msgctxt "0016"
+msgid "Character Art: Junko Enoshima (Imposter)"
+msgstr ""
+
+#. 設定画・罪木蜜柑
+msgctxt "0017"
+msgid "Character Art: Junko Enoshima (Genuine)"
+msgstr ""
+
+#. 設定画・澪田唯吹
+msgctxt "0018"
+msgid "Character Art: Monokuma"
+msgstr ""
+
+#. 設定画・辺古山ペコ
+msgctxt "0019"
+msgid "Character Art: Robo Justice"
+msgstr ""
+
+#. 設定画・キラキラちゃん
+msgctxt "0020"
+msgid "Promo Art: Makoto Naegi"
+msgstr ""
+
+#. 設定画・患者服
+msgctxt "0021"
+msgid "Promo Art: Kiyotaka Ishimaru"
+msgstr ""
+
+#. 背景ラフ画・サイバーパンク島
+msgctxt "0022"
+msgid "Promo Art: Byakuya Togami"
+msgstr ""
+
+#. 背景ラフ画・シャワールーム
+msgctxt "0023"
+msgid "Promo Art: Mondo Owada"
+msgstr ""
+
+#. 背景ラフ画・スーパーマーケット
+msgctxt "0024"
+msgid "Promo Art: Leon Kuwata"
+msgstr ""
+
+#. 背景ラフ画・チャンドラービーチ
+msgctxt "0025"
+msgid "Promo Art: Hifumi Yamada"
+msgstr ""
+
+#. 背景ラフ画・ライブハウス前
+msgctxt "0026"
+msgid "Promo Art: Yasuhiro Hagakure"
+msgstr ""
+
+#. 背景ラフ画・レストラン
+msgctxt "0027"
+msgid "Promo Art: Sayaka Maizono"
+msgstr ""
+
+#. 背景ラフ画・遺跡
+msgctxt "0028"
+msgid "Promo Art: Kyoko Kirigiri"
+msgstr ""
+
+#. 背景ラフ画・旧館トイレ
+msgctxt "0029"
+msgid "Promo Art: Aoi Asahina"
+msgstr ""
+
+#. 背景ラフ画・旧館厨房
+msgctxt "0030"
+msgid "Promo Art: Toko Fukawa"
+msgstr ""
+
+#. 背景ラフ画・旧館倉庫
+msgctxt "0031"
+msgid "Promo Art: Genocide Jack"
+msgstr ""
+
+#. 背景ラフ画・牧場
+msgctxt "0032"
+msgid "Promo Art: Sakura Ogami"
+msgstr ""
+
+#. 処刑タイトル別案・花村輝々
+msgctxt "0033"
+msgid "Promo Art: Celeste"
+msgstr ""
+
+#. 処刑タイトル別案・辺古山ペコ
+msgctxt "0034"
+msgid "Promo Art: Chihiro Fujisaki"
+msgstr ""
+
+#. 処刑タイトル別案・罪木蜜柑
+msgctxt "0035"
+msgid "Promo Art: Junko Enoshima (Imposter)"
+msgstr ""
+
+#. ドット絵
+msgctxt "0036"
+msgid "Promo Art: Junko Enoshima (Genuine)"
+msgstr ""
+
+#. モノクマ・モノミ劇場
+msgctxt "0037"
+msgid "Promo Art: Monokuma"
+msgstr ""
+
+#. モノミの魔法使い・１
+msgctxt "0038"
+msgid "Special Art: Kenshiro"
+msgstr ""
+
+#. モノミの魔法使い・２
+msgctxt "0039"
+msgid "Special Art: Shikiba Santa"
+msgstr ""
+
+#. モノミの魔法使い・３
+msgctxt "0040"
+msgid "Special Art: Kiyondo"
+msgstr ""
+
+#. モノミの魔法使い・４
+msgctxt "0041"
+msgid "Special Art: Mukuro Ikusaba"
+msgstr ""
+
+#. モノミの魔法使い・５
+msgctxt "0042"
+msgid "Full Body Art: Makoto Naegi"
+msgstr ""
+
+#. モノミの魔法使い・６
+msgctxt "0043"
+msgid "Full Body Art: Kiyotaka Ishimaru"
+msgstr ""
+
+#. 設定画・ボスケモノ（ウマ）
+msgctxt "0044"
+msgid "Full Body Art: Byakuya Togami"
+msgstr ""
+
+#. 設定画・ボスケモノ（トラ）
+msgctxt "0045"
+msgid "Full Body Art: Mondo Owada"
+msgstr ""
+
+#. 設定画・ボスケモノ（トリ）
+msgctxt "0046"
+msgid "Full Body Art: Leon Kuwata"
+msgstr ""
+
+#. 設定画・ボスケモノ（ヒト）
+msgctxt "0047"
+msgid "Full Body Art: Hifumi Yamada"
+msgstr ""
+
+#. 設定画・モノケモノ１
+msgctxt "0048"
+msgid "Full Body Art: Yasuhiro Hagakure"
+msgstr ""
+
+#. 設定画・モノケモノ２
+msgctxt "0049"
+msgid "Full Body Art: Sayaka Maizono"
+msgstr ""
+
+#. 設定画・モノケモノ３
+msgctxt "0050"
+msgid "Full Body Art: Kyoko Kirigiri"
+msgstr ""
+
+#. 設定画・モノケモノ４
+msgctxt "0051"
+msgid "Full Body Art: Aoi Asahina"
+msgstr ""
+
+#. 設定画・モノケモノ５
+msgctxt "0052"
+msgid "Full Body Art: Toko Fukawa"
+msgstr ""
+
+#. 設定画・モノケモノ６
+msgctxt "0053"
+msgid "Full Body Art: Sakura Ogami"
+msgstr ""
+
+#. 設定画・モノケモノ７
+msgctxt "0054"
+msgid "Full Body Art: Celeste"
+msgstr ""
+
+#. 設定画・モノケモノ８
+msgctxt "0055"
+msgid "Full Body Art: Junko Enoshima (Imposter)"
+msgstr ""
+
+#. 設定画・モノケモノ９
+msgctxt "0056"
+msgid "Full Body Art: Chihiro Fujisaki"
+msgstr ""
+
+#. 設定画・モノケモノ１０
+msgctxt "0057"
+msgid "Full Body Art: Monokuma"
+msgstr ""
+
+#. 設定画・モノケモノ１１
+msgctxt "0058"
+msgid "Promo Art"
+msgstr ""
+
+#. 設定画・モノミ
+msgctxt "0059"
+msgid "Pixel Art"
+msgstr ""
+
+#. 設定画・ウサミ
+msgctxt "0060"
+msgid "Impatient Leon"
+msgstr ""
+
+#. モノクマ・モノミ身長比較
+msgctxt "0061"
+msgid "Monokuma Picture Book"
+msgstr ""
+
+#. 設定画・ボスケモノ（ヘビ）
+msgctxt "0062"
+msgid "Fire Truck"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0063"
+msgid "Alter Ego (Tears)"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0064"
+msgid "Alter Lump"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0065"
+msgid "Here Comes Junko!"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid "Execution Image"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid "Preview Image 1"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid "Preview Image 2"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid "Preview Image 3"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid "Chips"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0071"
+msgid "Mondo Butter"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0072"
+msgid "Pudgy Princess Piggles"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0073"
+msgid "Alternate Sakura"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0074"
+msgid "Depressed Monokuma"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0075"
+msgid "Yo Monokuma RAPS"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0076"
+msgid "Monokuma Rough Draft (Phantom)"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0077"
+msgid "K.O. Illustration"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0078"
+msgid "Magazine Ad 1"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0079"
+msgid "Magazine Ad 2"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0080"
+msgid "Magazine Ad 3"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0081"
+msgid "Card Illustration"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0082"
+msgid "Cover Art (Blue)"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0083"
+msgid "Cover Art (Red)"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0084"
+msgid "Meeting Picture 1"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0085"
+msgid "Meeting Picture 2"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0086"
+msgid "？？？"
+msgstr ""

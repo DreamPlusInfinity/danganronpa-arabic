@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ・歩く、走る
+#. アナログパッドで左右に移動します。
+#. ×ボタンを押しながら操作すると、走る事ができます。
+#. 移動する事で、わずかに経験値が手に入ります。
+#. 
+#. ・クイック移動
+#. 方向キー左右で、次のマップポイントまで、瞬時に移動します。
+#. ただし、歩数はカウントされません。
+msgctxt "0001"
+msgid ""
+"• Map Indicator\n"
+"Press the %CTRL_MAP% to turn the map on or off.\n"
+"\n"
+"• Running\n"
+"Hold down the %CTRL_RUN% while %CTRL_MOVE_STICK% to run."
+msgstr ""
+
+#. ・マップ表示
+#. △ボタンを押す事でマップ表示のオン、オフを切り替える事ができます。
+#. 
+#. ・歩く、走る
+#. アナログパッドで前後左右に移動します。
+#. ×ボタンを押しながら操作すると、走る事ができます。
+#. 移動する事で、わずかに経験値が手に入ります。
+#. 
+#. ・視点移動
+#. 方向キーで、上下左右を見渡す事ができます。
+#. 
+#. ・平行移動
+#. Ｌボタン、Ｒボタンで左右に平行移動します。
+msgctxt "0002"
+msgid ""
+"• Reaction Mode\n"
+"While talking to other characters, purple words may appear\n"
+"and the %CTRL_REACT% will flash. \n"
+"Press the %CTRL_REACT% to enter Reaction Mode. \n"
+"Use the %CTRL_REACT_SELECT% to highlight a choice,\n"
+"then press the %CTRL_MENU_ACCEPT% to select it. \n"
+"This will begin a new conversation.\n"
+"\n"
+"• Giving Presents\n"
+"While you're in Free Time, you can give people presents.\n"
+"Simply select the present you'd like to give, then press\n"
+"the %CTRL_PRESENT% to give it to them.\n"
+"\n"
+"• Fast-Forward\n"
+"When dialogue appears, you can hold down the\n"
+"%CTRL_TRIAL_SPEED_UP% in order to speed up the text.\n"
+"\n"
+"• Auto Mode\n"
+"As dialogue appears, pressing the %CTRL_MESS_AUTO% will cause the\n"
+"text to automatically advance.\n"
+"\n"
+"• Window ON/OFF\n"
+"As dialogue appears, pressing the %CTRL_HIDE_WINDOW% will cause the\n"
+"text window and other UI elements to disappear. During this\n"
+"time, the text will not advance. Press the %CTRL_HIDE_WINDOW% again\n"
+"to return to normal and advance the text."
+msgstr ""
+
+#. ・観察 
+#. △ボタンを押す事で、調査可能な対象を発見します。
+#. 
+#. ・部屋から出る 、前のマップに戻る
+#. ×ボタンで、部屋から出ることができます。
+#. 
+#. ・視点リセット 
+#. ＬボタンとＲボタンを同時に押すと、
+#. 視点を最初の状態に戻す事ができます。
+msgctxt "0003"
+msgid ""
+"• Map\n"
+"Use the Map menu for an overview of the layout of Hope's\n"
+"Peak Academy. Also, if you've visited an area at least once,\n"
+"you can use this menu to warp to that location. During Free\n"
+"Time, the location of each character will be displayed.\n"
+"\n"
+"• Truth Bullets\n"
+"Here you can review key details you've obtained throughout\n"
+"your investigation. Highlight a bullet and press the %CTRL_ITEM_INFO% to review details about that topic.\n"
+"\n"
+"• Presents\n"
+"This will display whatever items you've collected.\n"
+"Highlight a present and press the %CTRL_ITEM_INFO% to learn\n"
+"more about it. You can carry up to 99 of each present.\n"
+"\n"
+"• Report Card\n"
+"Each character has their own report card, which will\n"
+"display that character's profile along with any additional\n"
+"information you may have learned about them. The maximum\n"
+"number of pages varies by character.\n"
+"\n"
+"• Regulations\n"
+"In this menu, you can review the details of the school\n"
+"regulations surrounding the killing game. As new rules\n"
+"are explained, they will be added here.\n"
+"\n"
+"• System\n"
+"Here you can save and load your game, change various\n"
+"options, and check your transcripts. There will be points\n"
+"throughout the game where you won't be able to save."
+msgstr ""
+
+#. ・プレゼントセレクト
+#. 自由行動中には、他のメンバーにプレゼントをあげる
+#. 機会があります。
+#. △ボタンで選択したプレゼントを渡します。
+#. 人や物によって、プレゼントに対する印象は異なります。
+#. 
+#. ・メッセージスキップ
+#. ×ボタンを押し続けるか、スクリーンをタッチし続けると、
+#. メッセージを早送りする事ができます。
+#. 方向キー下を押しながらスキップすると更に早送りする事が出来ます。
+#. 
+#. ・オートモード
+#. メッセージ送りアイコンが表示されている時に、
+#. Ｒボタンを押すと、メッセージを自動的に送る
+#. "オートモード"に切り替える事ができます。
+#. オートモードを解除するには、もう一度Ｒボタンを押します。
+#. 
+#. ・ウインドウのＯＮ／ＯＦＦ
+#. メッセージ送りアイコンが表示されている時に、
+#. Ｌボタンを押すと、メッセージウインドウなどの
+#. 表示物を消す事ができます。
+#. 消している間は、メッセージが進行しないため、
+#. 進める場合は、もう一度Ｌボタンを押して、
+#. メッセージウインドウを表示させてください。
+msgctxt "0004"
+msgid ""
+"• Set Skills\n"
+"When you obtain a skill via Free Time, head to this menu to\n"
+"set it for use during the class trial. The number of skills\n"
+"you can equip is based on the number of Skill Points you\n"
+"have.\n"
+"\n"
+"• Skill Points (SP)\n"
+"These are required to set and use skills. As long as your\n"
+"max SP (located on the right side of the screen) is not\n"
+"full. Each skill has its own associated cost, and you can\n"
+"increase your max SP by developing your relationships with\n"
+"the other students."
+msgstr ""
+
+#. ・モノモノヤシーンについて
+#. モノクマメダルを使う事でプレゼントアイテムを
+#. 入手する事ができます。
+#. 
+#. ・メダルを入れる
+#. 方向キー下でメダルを投入する事ができます。
+#. 方向キー上で投入したメダルを戻します。
+#. △ボタンを押しながら操作すると、
+#. １０枚単位でメダルの投入ができます。
+#. 
+#. ・レバーを回す
+#. メダルを１枚以上投入した状態で○ボタンを押すと、
+#. レバーを回し、景品がでてきます。
+#. 
+#. ・重複率
+#. メダルを多く入れれば入れるほど、
+#. 所持していないプレゼントアイテムを
+#. 入手しやすくなります。
+#. 
+#. ・ラッキー
+#. たまに、ラッキーが発生し、プレゼントアイテムを
+#. さらに入手できる場合があります。
+msgctxt "0005"
+msgid ""
+"• Influence Gauge\n"
+"If you choose the wrong statement or Truth Bullet, you will\n"
+"take damage. If your Influence Gauge reaches 0, that will\n"
+"end the case.\n"
+"\n"
+"• Selecting Truth Bullets\n"
+"At points throughout each trial, you will have to present\n"
+"key information.  Use the %CTRL_TRIAL_KEY_INFORMATION% to bring up a list \n"
+"of Truth Bullets to choose from.\n"
+"\n"
+"• Choosing Classmates\n"
+"You will have to select people during the trial. To do this,\n"
+"highlight a character with the %CTRL_LEFT_STICK%, then press the\n"
+"%CTRL_MENU_ACCEPT% to confirm your selection.\n"
+"\n"
+"• Fast-Forward\n"
+"When dialogue appears, you can hold down the %CTRL_TRIAL_SPEED_UP%\n"
+" in order to speed up the text.\n"
+"\n"
+"• Auto Mode\n"
+"As dialogue appears, pressing the %CTRL_TRIAL_AUTO% will cause the\n"
+"text to automatically advance.\n"
+"\n"
+"• Window ON/OFF\n"
+"As dialogue appears, pressing the %CTRL_HIDE_WINDOW% will cause the\n"
+"text window and other UI elements to disappear. During this\n"
+"time, the text will not advance. Press the %CTRL_HIDE_WINDOW% again\n"
+"to return to normal and advance the text."
+msgstr ""
+
+#. モノクマメダルを使って好きなプレゼントアイテムを購入できます。
+msgctxt "0006"
+msgid ""
+"• Influence Gauge\n"
+"If you choose the wrong statement or Truth Bullet, you will\n"
+"take damage. If your Influence Gauge reaches 0, that will\n"
+"end the case.\n"
+"\n"
+"• Focus Gauge\n"
+"This determines how much concentration you can do.\n"
+"\n"
+"• Concentration\n"
+"By holding down the %CTRL_TRIAL_CONCENTRATE%, you can concentrate and slow\n"
+"down the passage of time. This will consume your Focus\n"
+"Gauge, and you can't concentrate when it's empty.\n"
+"\n"
+"• Fast-Forward\n"
+"Hold down the %CTRL_TRIAL_SPEED_UP% to speed up the debate.\n"
+"\n"
+"• Weak Spots\n"
+"When a character is talking, some text may appear in yellow.\n"
+"This is their weak spot, and it represents a potential lie\n"
+"or contradiction in their argument. Multiple weak spots may\n"
+"appear, and it's up to you to figure out the right one and\n"
+"attack it, which will allow you to move the trial forward.\n"
+"\n"
+"• Firing Truth Bullets\n"
+"Press the %CTRL_TRIAL_SHOOT% to fire whatever Truth Bullet \n"
+"you have loaded.\n"
+"\n"
+"• Loading Truth Bullets\n"
+"%CTRL_TRUTH_BULLET_DETAIL%\n"
+"\n"
+"• Quick Select\n"
+"If you quickly press the %CTRL_QUICK_SELECT%, Truth Bullets will be\n"
+"automatically loaded according to their order.\n"
+"\n"
+"• Truth Bullet Flashback\n"
+"If you target a weak spot and then hold down the\n"
+"%CTRL_TRIAL_SHOOT%, you can use that weak spot \n"
+"as a temporary Truth Bullet later in the argument. \n"
+"These \"Flashback\" bullets will disappear as soon \n"
+"as you use them or switch to another Truth Bullet.\n"
+"\n"
+"• Silencer\n"
+"You can eliminate \"white noise\" with your silencer by\n"
+"targeting it and press the %CTRL_TRIAL_SHOOT_SILENT%. If you successfully \n"
+"eliminate white noise this way, your timer will increase. \n"
+"However, if you shoot something else, you'll lose time \n"
+"instead."
+msgstr ""
+
+#. ・マップ
+#. マップメニューでは、希望ヶ峰学園のマップを確認できます。
+#. また、一度行った事のある特定のポイントへ、
+#. 移動する事ができます。自由行動中は、
+#. 各キャラクターの現在位置も表示されます。
+#. 
+#. ・言弾（コトダマ）
+#. 言弾（コトダマ）メニューでは、ゲーム中で手に入れた
+#. 言弾（コトダマ）を確認する事ができます。
+#. 言弾（コトダマ）を選択して○ボタンを押すと、
+#. 詳細を確認する事ができます。
+#. 
+#. ・プレゼント
+#. プレゼントメニューでは、ゲーム中で手に入れた
+#. プレゼントを確認する事ができます。
+#. プレゼントを選択して、○ボタンを押すと、
+#. 詳細を確認する事ができます。
+#. プレゼントはそれぞれ９９個まで持つ事ができます。
+#. 
+#. ・通信簿
+#. 通信簿メニューでは、各キャラクターのプロフィールや
+#. 獲得した情報を確認する事ができます。キャラクターに
+#. よって、最大ページ数は異なります。
+#. 
+#. ・校則
+#. 校則メニューでは、コロシアイ学園生活のルールを確認
+#. する事ができます。校則が追加されると、ページが増えます。
+#. 
+#. ・システム
+#. システムメニューでは、ゲームのセーブやロード、オプ
+#. ションの変更、バックログの確認ができます。特定の場
+#. 所では、セーブができない場合もあります。
+msgctxt "0007"
+msgid ""
+"• Influence Gauge\n"
+"During a Bullet Time Battle, you will take damage to\n"
+"your Influence Gauge whenever your opponent's statements\n"
+"explode. If this gauge reaches 0, you will fail the case.\n"
+"\n"
+"• Tempo Marker\n"
+"This indicates the current tempo, and you'll have to press\n"
+"buttons in rhythm. Failing to hit a statement in time will\n"
+"count as a Miss.\n"
+"\n"
+"• Combos and \"Tempo Up\"\n"
+"If you're able to keep up with the rhythm, you can\n"
+"eventually perform a combo. Get your combo past a certain\n"
+"level and the rhythm will change, resulting in a \"Tempo Up.\"\n"
+"On the flipside, if you keep on missing, that will result in\n"
+"a \"Tempo Down.\"\n"
+"\n"
+"• Lock On (%CTRL_BULLET_TIME_LOCK_ON%)\n"
+"As you continue to match the rhythm, you will have the\n"
+"chance to lock on to an enemy statement. At this point,\n"
+"press the %CTRL_BULLET_TIME_LOCK_ON% to lock on.\n"
+"\n"
+"• Attack (%CTRL_BULLET_TIME_ATTACK%)\n"
+"Once you're locked on to a statement, press the\n"
+"%CTRL_BULLET_TIME_ATTACK% to destroy it and deal damage \n"
+"to the enemy. You can also lock on to multiple statements \n"
+"and destroy them all at once. If you can pull that off, \n"
+"you'll do more damage than if you'd destroyed them \n"
+"one at a time. As you attack, you'll consume ammo. \n"
+"If you run out of bullets, you'll be forced to reload.\n"
+"\n"
+"• Reload (%CTRL_BULLET_TIME_RELOAD%)\n"
+"Press the %CTRL_BULLET_TIME_RELOAD% in time with the rhythm to reload your\n"
+"bullets; each button press will reload one bullet. If your\n"
+"difficulty level is set to Kind, you will not have to\n"
+"reload.\n"
+"\n"
+"• Fever Time (%CTRL_BULLET_TIME_FEVER%)\n"
+"Press the %CTRL_BULLET_TIME_FEVER% to activate Fever Time, which will\n"
+"consume the Focus Gauge. During Fever Time you will not\n"
+"be required to reload, and the tempo will be forced to\n"
+"its maximum.\n"
+"\n"
+"• Nega Time\n"
+"During the battle, your enemy may activate Nega Time. When\n"
+"this happens, the Tempo Marker will disappear, making it\n"
+"more difficult to match the timing. In addition, their word\n"
+"bombs will explode after a shorter amount of time. If your\n"
+"difficulty level is set to Kind, Nega Time will never occur.\n"
+"\n"
+"• Final Strike\n"
+"Once you've destroyed the enemy's Influence Gauge, they'll\n"
+"deliver their closing remark. Target this statement with a\n"
+"Truth Bullet, then destroy it by pressing the \n"
+"%CTRL_BULLET_TIME_ATTACK%. If you use the right Truth Bullet, \n"
+"the statement will be destroyed, but if you get it wrong, \n"
+"you'll take damage and the enemy will recover some of their Influence Gauge. \n"
+"Use the %CTRL_TRIAL_KEY_INFORMATION% to choose \n"
+"the Truth Bullet you'd like to use."
+msgstr ""
+
+#. ・スキルセット
+#. 自由行動で獲得した学級裁判用のスキルをセットする事
+#. ができます。スキルは、スキルポイントの上限までしか
+#. セットする事はできません。
+#. 
+#. ・スキルポイント（ＳＰ）
+#. スキルをセットするために必要なポイントです。スキル
+#. ポイントの最大値（右側）のぶんだけスキルをセットす
+#. る事ができます。スキルによって必要なスキルポイント
+#. は異なります。レベルをあげる事でスキルポイントを
+#. 増やす事ができます。
+msgctxt "0008"
+msgid ""
+"• Influence Gauge\n"
+"If you shoot the wrong letters during the Hangman's Gambit,\n"
+"you'll take damage. If your Influence Gauge reaches 0, you\n"
+"will fail the case.\n"
+"\n"
+"• Focus Gauge\n"
+"This determines what special actions you can take\n"
+"(e.g. concentration).\n"
+"\n"
+"• Concentration\n"
+"By holding down the %CTRL_TRIAL_CONCENTRATE%, you can concentrate and slow\n"
+"down the passage of time. This will consume your Focus\n"
+"Gauge, and you can't concentrate when it's empty.\n"
+"\n"
+"• Fast-Forward\n"
+"Hold down the %CTRL_TRIAL_SPEED_UP% in order to speed up the letters.\n"
+"\n"
+"• Shoot the Letters\n"
+"Shoot down letters by pressing the \n"
+"%CTRL_HANGMAN_SHOOT%. \n"
+"You'll have to shoot some letters more than once to \n"
+"destroy them."
+msgstr ""
+
+#. ・発言力ゲージ
+#. 選択肢やコトダマセレクトで間違った答えを選ぶと、
+#. ダメージを受けます。
+#. 発言力が無くなると失敗となります。
+#. 
+#. ・コトダマセレクト
+#. 学級裁判中、言弾（コトダマ）の提示を求められる事が
+#. あります。
+#. 言弾（コトダマ）を選んで△ボタンで提示できます。
+#. 
+#. ・スポットセレクト
+#. 画面に表示された絵の中から、答えとなりそうな部分を
+#. 選び、○ボタンか、スクリーンタップで答えます。
+#. 
+#. ・人物の指名
+#. 学級裁判中、人物の指名を求められる事があります。
+#. 人物をアナログパッドか、スクリーンの左右フリックで選んで
+#. ○ボタンか、スクリーンタップで決定します。
+#. 
+#. ・メッセージスキップ
+#. ×ボタンを押し続けるか、スクリーンをタッチし続けると、
+#. メッセージを早送りする事ができます。
+#. 方向キー下を押しながらスキップすると更に早送りする事が出来ます。
+#. 
+#. ・オートモード
+#. メッセージ送りアイコンが表示されている時に、
+#. Ｒボタンを押すと、メッセージを自動的に送る
+#. "オートモード"に切り替える事ができます。
+#. オートモードを解除するには、もう一度Ｒボタンを
+#. 押してください。
+#. 
+#. ・ウインドウのＯＮ／ＯＦＦ
+#. メッセージ送りアイコンが表示されている時に、
+#. Ｌボタンを押すと、メッセージウインドウなどの表示物
+#. を消す事ができます。
+#. 消している間は、メッセージが進行しないため、
+#. 進める場合は、もう一度Ｌボタンを押して、
+#. メッセージウインドウを表示させてください。
+msgctxt "0009"
+msgid ""
+"• Influence Gauge\n"
+"If you make a mistake re-enacting the case during your\n"
+"closing argument, you'll take damage. If your Influence\n"
+"Gauge reaches 0, you'll fail the case.\n"
+"\n"
+"• Turn the Page\n"
+"Turn the page by moving your reticle to the edges of the\n"
+"screen, or by simply pressing the \n"
+"%CTRL_RECONSTRUCT_LEFT_RIGHT%.\n"
+"\n"
+"• Truth Panels\n"
+"You'll find the panels lined up at the bottom of the screen.\n"
+"It's your job to use these panels to fill in the missing\n"
+"sections and complete the comic.\n"
+"\n"
+"• Moving Truth Panels\n"
+"Hold down the %CTRL_RECONSTRUCT_PICK_UP% to pick up a Truth Panel.\n"
+"While holding on to it, use the %CTRL_RECONSTRUCT_MOVE% to move it. \n"
+"Let go of the %CTRL_RECONSTRUCT_PICK_UP% to place it.\n"
+"\n"
+"• Navigating Truth Panels\n"
+"Use the %CTRL_RECONSTRUCT_TAB_PANELS% to navigate through all of the\n"
+"available Truth Panels.\n"
+"\n"
+"• Hints\n"
+"If you target an empty section and press the\n"
+"%CTRL_RECONSTRUCT_HINT%, you will be given a hint \n"
+"about what goes there.\n"
+"\n"
+"• Re-enactment\n"
+"Once all the panels have been placed, press the\n"
+"%CTRL_RECONSTRUCT_BEGIN% to begin the re-enactment."
+msgstr ""
+
+#. ・発言力ゲージ
+#. ノンストップ議論でウィークポイントに間違った言弾
+#. （コトダマ）を当てるとダメージを受けます。
+#. 発言力が無くなると失敗となります。
+#. 
+#. ・集中力ゲージ
+#. 精神集中に必要なゲージです。
+#. 
+#. ・精神集中
+#. Ｒボタンを押している間、精神集中を行い、
+#. 時間の流れを遅くする事ができます。
+#. ただし、集中力ゲージを消費し、
+#. 無くなると精神集中はできなくなります。
+#. 
+#. ・議論の早送り
+#. ×ボタンを押している間、議論のスピードをあげる事が
+#. できます。
+#. 
+#. ・ウィークポイント
+#. キャラクターの発言の中で黄色くなっている文字が
+#. ウィークポイントです。
+#. ウィークポイントは、ウソや矛盾などの発言の穴を
+#. 示しています。
+#. 議論中のいずれかのウィークポイントに、
+#. 正しい言弾（コトダマ）を当てる事で
+#. 議論をクリアする事ができます。
+#. 
+#. ・言弾（コトダマ）の発射
+#. △ボタンを押すか、スクリーンをタップすると、
+#. 装填されている言弾（コトダマ）を発射します。
+#. 
+#. ・言弾（コトダマ）の選択
+#. Ｌボタンを押している間、コトダマシリンダーが開き、
+#. アナログパッドで、装填する言弾（コトダマ）を
+#. 選ぶ事ができます。
+#. Ｌボタンを離すと、言弾（コトダマ）が装填されます。
+#. 
+#. ・クイックセレクト
+#. Ｌボタンを押してすぐに離すと、装填されている
+#. 言弾（コトダマ）が順送りに切り替わります。
+#. 
+#. ・言弾（コトダマ）の記憶
+#. △ボタンを押し続けるか、ウィークポイントをタッチし続けると、
+#. ウィークポイントの言葉を、一時的な言弾（コトダマ）として装填します。
+#. 記憶によって手に入れた言弾（コトダマ）は、
+#. １度撃ったり、変更したりすると無くなります。
+#. 
+#. ・サイレンサー
+#. ○ボタンか、背面タッチパッドをタップすることで、
+#. 雑音を弾き飛ばすサイレンサーを
+#. 撃つ事ができます。
+#. サイレンサーで雑音を撃つと、タイムリミットが
+#. 回復します。
+#. ただし、雑音以外の言葉にサイレンサーが
+#. 当たるとタイムリミットが減ってしまいます。
+msgctxt "0010"
+msgid ""
+"• The MonoMono Machine\n"
+"You can spend Monocoins at the MonoMono machine to get\n"
+"presents.\n"
+"\n"
+"• Inserting Coins\n"
+"Use the %CTRL_MONOMONO_ADD_REMOVE_COINS% to add or remove coins. \n"
+"If you hold down the %CTRL_MONOMONO_ADD_COINS_FASTER% the amount\n"
+"will increase/decrease by increments of 10.\n"
+"\n"
+"• Turn the Knob\n"
+"Once you've inserted at least one coin, press the\n"
+"%CTRL_MONOMONO_TURN_KNOB% to turn the knob and get a prize!\n"
+"\n"
+"• Overspending\n"
+"The more coins you spend, the more likely you are to get a\n"
+"present you've never gotten before.\n"
+"\n"
+"• Lucky Lucky\n"
+"Sometimes Lady Luck will smile down on you, and you'll get\n"
+"more than one present at once."
+msgstr ""
+
+#. ・発言力ゲージ
+#. ノンストップ議論でウィークポイントに間違った言弾
+#. （コトダマ）を当てるとダメージを受けます。
+#. 発言力が無くなると失敗となります。
+#. 
+#. ・集中力ゲージ
+#. 精神集中に必要なゲージです。
+#. 
+#. ・精神集中
+#. Ｒボタンを押している間、精神集中を行い、
+#. 時間の流れを遅くする事ができます。
+#. ただし、集中力ゲージを消費し、
+#. 無くなると精神集中はできなくなります。
+#. 
+#. ・議論の早送り
+#. ×ボタンを押している間、議論のスピードをあげる事が
+#. できます。
+#. 
+#. ・ウィークポイント
+#. キャラクターの発言セリフ中の黄色や青色の文字は
+#. ウィークポイントと呼ばれます。
+#. 黄色のウィークポイント（論破ポイント）は、
+#. ウソや間違いなどの発言の穴を示しています。
+#. 青色のウィークポイント（賛成ポイント）は、
+#. 相手の発言の正しい点を示しています。
+#. 議論中のいずれかのウィークポイントに、
+#. 正しい言弾（コトダマ）を当てる事で
+#. 議論をクリアする事ができます。
+#. 
+#. ・言弾（コトダマ）の発射
+#. △ボタンを押すと、装填されている言弾（コトダマ）を
+#. 発射します。
+#. 
+#. ・言弾（コトダマ）の選択
+#. Ｌボタンを押している間、コトダマシリンダーが開き、
+#. アナログパッドで、装填する言弾（コトダマ）を
+#. 選ぶ事ができます。
+#. Ｌボタンを離すと、言弾（コトダマ）が装填されます。
+#. 
+#. ・クイックセレクト
+#. Ｌボタンを押してすぐに離すと、装填されている
+#. 言弾（コトダマ）が順送りに切り替わります。
+#. 
+#. ・言弾（コトダマ）の記憶
+#. △ボタンを押し続けると、ウィークポイントの言葉を、
+#. 一時的な言弾（コトダマ）として装填します。
+#. 記憶によって手に入れた言弾（コトダマ）は、
+#. １度撃ったり、変更したりすると無くなります。
+#. 
+#. ・サイレンサー
+#. ○ボタンで、雑音を弾き飛ばすサイレンサーを
+#. 撃つ事ができます。
+#. サイレンサーで雑音を撃つと、タイムリミットが
+#. 回復します。
+#. ただし、雑音以外の言葉にサイレンサーが
+#. 当たるとタイムリミットが減ってしまいます。
+msgctxt "0011"
+msgid ""
+"• Observation\n"
+"Press the %CTRL_OBSERVING_EYE% to observe the room you're in. This will\n"
+"display what people and objects you can interact with.\n"
+"\n"
+"• Exit/Return\n"
+"Press the %CTRL_EXIT_RETURN% to exit to the hallway, or return to\n"
+"whatever room you were just in.\n"
+"\n"
+"• Reset View\n"
+"Press the %CTRL_RESET_VIEW% to return the\n"
+"camera view to normal."
+msgstr ""
+
+#. ・スラッシュ
+#. 方向キーか、スクリーンをフリックすることで
+#. 相手の反論に対して、切り返します。
+#. 方向キーの入力した方向か、フリックした方向に切り返します。
+#. 相手の発言セリフには耐久力があるため、
+#. 何度か切らなければいけない場合もあります。
+#. 
+#. ・コンボスラッシュ
+#. 同じ方向に２回切った後に、別の方向に切ると、
+#. 威力２倍のスラッシュを行う事ができます。
+#. 
+#. ・返し切り
+#. ○ボタンを押すと、前回切った方向と逆の方向に切ります。
+#. 
+#. ・切れ味
+#. 画面右下にある数字は、言葉の切れ味です。
+#. スラッシュをする度に減っていきます。
+#. ０になると、１周するまで反論できなくなります。
+#. 
+#. ・ムードバー
+#. 相手の発言を切ると、画面を分けている線"ムードバー"が動きます。
+#. 有利なほど、自分が映っている画面が広くなります。
+#. 
+#. ・発展
+#. 相手の発言が終わった際、
+#. ムードバーが一定値まで傾いていると、
+#. 相手の主張が"発展"し、さらなる証言を引き出します。
+#. これによって、ウィークポイントが出現します。
+#. 
+#. ・逆発展
+#. 発展後に相手に押し切られると、"逆発展"し、
+#. 相手の主張が元に戻ってしまいます。
+#. 
+#. ・言刃（コトノハ）
+#. このモードでは、言弾（コトダマ）を言刃（コトノハ）と呼びます。
+#. 呼び方が違うだけで、通常の議論と違いはありません。
+#. 
+#. ・言刃（コトノハ）の抜刀
+#. △ボタンを押すか、スクリーンを２本の指でフリックすると、
+#. 装備しているコトノハで、相手の発言を斬ります。
+#. ただし、ウィークポイント以外をコトノハで斬る事はできません。
+#. 
+#. ・言刃（コトノハ）の選択
+#. Ｌボタンを押している間、コトノハシリンダーが開き、
+#. アナログパッドで、装備するコトノハを選ぶ事ができます。
+#. Ｌボタンを離すと、コトノハが装備されます。
+#. 
+#. ・クイックセレクト
+#. Ｌボタンを押してすぐに離すと、
+#. 装備しているコトノハが順送りに切り替わります。
+msgctxt "0012"
+msgid ""
+"• Running\n"
+"Hold down the %CTRL_RUN% while %CTRL_MOVE_STICK% to run.\n"
+"\n"
+"• Quick Move\n"
+"Press the %CTRL_QUICK_MOVE% to switch to Quick Move mode. In this\n"
+"mode, use the %CTRL_QUICK_MOVE_CYCLE% to cycle through your choices,\n"
+"and then press the %CTRL_QUICK_MOVE_EXECUTE% \n"
+"to execute the action and jump to that person's location."
+msgstr ""
+
+#. ・発言力ゲージ
+#. 閃きアナグラムで間違った文字を撃ち落とすとダメ―ジを受けま
+#. す。発言力が無くなると失敗となります。
+#. 
+#. ・集中力ゲージ
+#. 精神集中などの特殊なアクションに必要なゲージです。
+#. 
+#. ・精神集中
+#. Ｒボタンを押している間、精神集中を行い、時間の流れを遅くする
+#. 事ができます。ただし、集中力ゲージを消費し、無くなると精神集
+#. 中はできなくなります。
+#. 
+#. ・文字の早送り
+#. ×ボタンを押している間、議論のスピードをあげる事ができます。
+#. 
+#. ・文字を撃ち落とす
+#. ○ボタンまたは△ボタンで、文字を撃ち落とします。
+#. 何発か撃たないと、撃ち落とせない文字もあります。
+msgctxt "0013"
+msgid ""
+"• Fast-Forward\n"
+"When dialogue appears, you can hold down the %CTRL_TRIAL_SPEED_UP%\n"
+"in order to speed up the text.\n"
+"\n"
+"• Auto Mode\n"
+"As dialogue appears, pressing the %CTRL_MESS_AUTO% will cause the\n"
+"text to automatically advance.\n"
+"\n"
+"• Window ON/OFF\n"
+"As dialogue appears, pressing the %CTRL_HIDE_WINDOW% will cause the\n"
+"text window and other UI elements to disappear. During this\n"
+"time, the text will not advance. Press the %CTRL_HIDE_WINDOW% \n"
+"again to return to normal and advance the text."
+msgstr ""

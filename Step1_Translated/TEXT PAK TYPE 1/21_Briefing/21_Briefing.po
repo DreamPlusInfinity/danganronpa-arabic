@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. スキルセット
+msgctxt "0001"
+msgid "Open e-Handbook"
+msgstr ""
+
+#. 電子生徒手帳を見る
+msgctxt "0002"
+msgid "Set Skills"
+msgstr ""
+
+#. 難易度を変更する
+msgctxt "0003"
+msgid "Finish Preparations"
+msgstr ""
+
+#. 準備を終える
+msgctxt "0004"
+msgid "What's this \"class trial\" that Monokuma mentioned? Can Makoto sweep away the cloud of suspicion surrounding him, even with a dead body laying in his bathroom? And what about the blackened who's actually responsible for Sayaka's death?"
+msgstr ""
+
+#. ※
+msgctxt "0005"
+msgid "The bizarre class trial begins again. Why was Chihiro murdered? Is the killer hiding within the group? Is there any help to be found in this series of murders...?"
+msgstr ""
+
+#. 十神白夜が殺された…青色のバカンスは一転し、サビ色のコロシアイへと色相を変えていく。　犯人は本当にこの中に？　それとも自分達以外の何者かが…？　超高校級達の学級裁判が、今…始まる。
+msgctxt "0006"
+msgid "And now they must confront *two* murders...! Who claimed the lives of Hifumi and Kiyotaka? In this class trial, suspicion builds upon suspicion!"
+msgstr ""
+
+#. モノクマにより作られたゲーム…そこに潜むは真実かまやかしか。　ゲームと現実、２つの殺人を結びつける動機とは？　そしてビーチハウスを抜け出した犯人の行方は？　トワイライトが映し出す絶望の記憶に、目を背ける事はできない。
+msgctxt "0007"
+msgid "Multiple suspects. Murder in a locked room. If anyone was likely to survive, it was Sakura. And yet..."
+msgstr ""
+
+#. 絶望病、そして連続殺人…絶望するメンバー達に、三度宣告される学級裁判。何故、絶望病が動機足りえるのか？　何故、澪田は首吊りで発見されたのか？　そして何故、西園寺の死体が出現したのか…？　謎が謎を呼ぶ学級裁判を生き抜け！
+msgctxt "0008"
+msgid "Memories float back, Kyoko is gone, and a mysterious masked body appears—the threads holding them all together begin to spin and twine into one..."
+msgstr ""
+
+#. ドッキリハウスで待っていたのは、過酷なサバイバルだった。追い詰められたメンバー達の前に、弐大の死が訪れる…　ファイナルデッドルームの封印が解かれし時、"極上の凶器"が眠りから目を覚ます！
+msgctxt "0009"
+msgid "The mastermind stands exposed, and must pay for their crimes. Now all that's left is the looming mystery of Hope's Peak Academy itself..."
+msgstr ""
+
+#. 惨殺された狛枝…誰もが予想しなかったトリックスターの死は、日向達の心に大きな影と謎を残した。"裏切り者"の正体は誰なのか？　狛枝が残した手がかりとは？　希望と絶望の狭間の闇に、光は見えるか…！？
+msgctxt "0010"
+msgid "The curtain opens on the class trial! Can Makoto sweep away the cloud of suspicion surrounding him, even with a dead body laying in his bathroom? And what about the blackened who's actually responsible for Yasuhiro's death?"
+msgstr ""
+
+#. ＨＥ％ＬＯ　Ｗ％ＲＬＤ　Ｈ＃Ｌ（Ｏ　ＷＯ｛￥Ｄ　＆ＥＬＬ◇　ＷＯＲ￥Ｄ　ＨＥＬＬ？　ＷＯ♪ＬＤ　ＨＥＬＬＯ　ＷＯＲＬ＊　Ｈ＞ＬＬ！　ＷＯＲ％Ｄ　ＨＥ◇ＬＯ　＃ＯＲ？Ｄ　Ｈ＝ＬＬ％　Ｗ＜ＲＬＤ　Ｈ＊ＬＬ□　ＷＯＲ／Ｄ　＆ＥＬＬＯ　Ｗ＠ＲＬＤ
+msgctxt "0011"
+msgid "Here you can use your accumulated Skill Points to equip different abilities."
+msgstr ""
+
+#. ＳＰ（スキルポイント）の範囲内で、スキルを装備することができます。
+msgctxt "0012"
+msgid "※"
+msgstr "※"
+
+#. 学級裁判へ進みます。
+#. 準備は宜しいでしょうか？
+msgctxt "0013"
+msgid "※"
+msgstr "※"
+
+#. ※
+msgctxt "0014"
+msgid "※"
+msgstr "※"
+
+#. ※
+msgctxt "0015"
+msgid "※"
+msgstr "※"
+
+#. ※
+msgctxt "0016"
+msgid "※"
+msgstr "※"

@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0001"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0002"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0003"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0004"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0005"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0006"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0007"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0008"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0009"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0010"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0011"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0012"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0013"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0014"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0015"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0016"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0017"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0018"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0019"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0020"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0021"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0022"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0023"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0024"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0025"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0026"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0027"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0028"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0029"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0030"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0031"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0032"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0033"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0034"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0035"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0036"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0037"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0038"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0039"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0040"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0041"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0042"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0043"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0044"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0045"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0046"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0047"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0048"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0049"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0050"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0051"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0052"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0053"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0054"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0055"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0056"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0057"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0058"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0059"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0060"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0061"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0062"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0063"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0064"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0065"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+msgctxt "0066"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"

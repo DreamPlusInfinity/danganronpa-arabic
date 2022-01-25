@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. スーパーダンガンロンパ２　さよなら絶望学園
+msgctxt "0001"
+msgid "Danganronpa: Trigger Happy Havoc"
+msgstr ""
+
+#. スーパーダンガンロンパ２
+#. さよなら絶望学園
+msgctxt "0002"
+msgid "Save Data"
+msgstr ""
+
+#. セーブデータ
+msgctxt "0003"
+msgid "New Save Data"
+msgstr ""
+
+#. 新規セーブデータ
+msgctxt "0004"
+msgid "Save Data for Danganronpa: Trigger Happy Havoc"
+msgstr ""
+
+#. ①
+msgctxt "0005"
+msgid "Monocoins"
+msgstr ""
+
+#. ①/②
+msgctxt "0006"
+msgid "Number of times saved: ●"
+msgstr ""
+
+#. モノクマメダル ① 枚
+msgctxt "0007"
+msgid "Phase ●"
+msgstr ""
+
+#. プレイ時間 ①:②:③ セーブ回数 ④ 回
+msgctxt "0008"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. インストールデータ
+msgctxt "0009"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. 「スーパーダンガンロンパ２　さよなら絶望学園」の
+#. インストールデータです。
+msgctxt "0010"
+msgid "[EMPTY_LINE]"
+msgstr "[EMPTY_LINE]"
+
+#. スーパーダンガンロンパ２
+#. さよなら絶望学園　体験版
+msgctxt "0011"
+msgid "Danganronpa: Trigger Happy Havoc"
+msgstr ""
+
+#. セーブデータ
+msgctxt "0012"
+msgid "Game Data"
+msgstr ""
+
+#. 新規セーブデータ
+msgctxt "0013"
+msgid "New Game Data"
+msgstr ""
+
+#. 体験版をプレイして頂き、誠にありがとうございます。
+#. このセーブデータがあると、製品版で何かいいことが…？
+msgctxt "0014"
+msgid "???"
+msgstr ""
+
+#. モノクマメダル ① 枚獲得！
+msgctxt "0015"
+msgid "※"
+msgstr "※"
+
+#. 記録メディアの空き容量が不足しています。
+#. このゲームのデータをセーブするには
+#. 空き容量が①KB以上必要です。
+msgctxt "0016"
+msgid "※"
+msgstr "※"
+
+#. セーブ処理がキャンセルされました。
+msgctxt "0017"
+msgid "※"
+msgstr "※"
+
+#. セーブに失敗しました。
+#. (Debug:プログラムエラー 0x①)
+msgctxt "0018"
+msgid "※"
+msgstr "※"
+
+#. ロード処理がキャンセルされました。
+msgctxt "0019"
+msgid "※"
+msgstr "※"
+
+#. メモリースティック™ が差さっていません。
+#. このゲームのデータをセーブするには
+#. 空き容量が①KB以上必要です。
+msgctxt "0020"
+msgid "※"
+msgstr "※"
+
+#. ロードに失敗しました。
+#. (Debug:プログラムエラー 0x①)
+msgctxt "0021"
+msgid "Danganronpa Trial"
+msgstr ""
+
+#. セーブデータがありません。
+msgctxt "0022"
+msgid "Save data"
+msgstr ""
+
+#. メモリースティック™ が差さっていません。
+msgctxt "0023"
+msgid "New Save data"
+msgstr ""
+
+#. セーブを続けますか？
+msgctxt "0024"
+msgid "※"
+msgstr "※"
+
+#. セーブデータを削除しますか？
+msgctxt "0025"
+msgid "Monocoins"
+msgstr ""
+
+#. ①　は
+#. 既にインストールされています。
+#. 
+#. インストールデータを削除して、再インストールしますか？
+msgctxt "0026"
+msgid "Get!"
+msgstr ""

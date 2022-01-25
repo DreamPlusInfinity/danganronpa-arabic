@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ミネラルウォーター
+msgctxt "0001"
+msgid "Mineral Water"
+msgstr ""
+
+#. ラムネ
+msgctxt "0002"
+msgid "Cola Cola"
+msgstr ""
+
+#. ココナッツジュース
+msgctxt "0003"
+msgid "Civet Coffee"
+msgstr ""
+
+#. ブルーラム
+msgctxt "0004"
+msgid "Rose Hip Tea"
+msgstr ""
+
+#. ルアックコーヒー
+msgctxt "0005"
+msgid "Sea Salt"
+msgstr ""
+
+#. シナモンティー
+msgctxt "0006"
+msgid "Potato Chips"
+msgstr ""
+
+#. ノンアルコールワイン
+msgctxt "0007"
+msgid "Prismatic Hardtack"
+msgstr ""
+
+#. 麦飯パック
+msgctxt "0008"
+msgid "Black Croissant"
+msgstr ""
+
+#. チョコチップジャーキー
+msgctxt "0009"
+msgid "Sonic Cup-a-Noodle"
+msgstr ""
+
+#. 明太フランスパン
+msgctxt "0010"
+msgid "Royal Curry"
+msgstr ""
+
+#. クグロフ
+msgctxt "0011"
+msgid "Ration"
+msgstr ""
+
+#. 希望の乾パン
+msgctxt "0012"
+msgid "Flotation Donut"
+msgstr ""
+
+#. 菓子パン袋
+msgctxt "0013"
+msgid "Overflowing Lunch Box"
+msgstr ""
+
+#. 油芋
+msgctxt "0014"
+msgid "Sunflower Seeds"
+msgstr ""
+
+#. ビバ氷
+msgctxt "0015"
+msgid "Birdseed"
+msgstr ""
+
+#. ジャバの天然塩
+msgctxt "0016"
+msgid "Kitten Hairclip"
+msgstr ""
+
+#. ヤシミ
+msgctxt "0017"
+msgid "Everlasting Bracelet"
+msgstr ""
+
+#. ひまわりの種
+msgctxt "0018"
+msgid "Love Status Ring"
+msgstr ""
+
+#. ヤシの実
+msgctxt "0019"
+msgid "Zoles Diamond"
+msgstr ""
+
+#. イロハシャツ
+msgctxt "0020"
+msgid "Hope's Peak Ring"
+msgstr ""
+
+#. 純色ジーパン
+msgctxt "0021"
+msgid "Blueberry Perfume"
+msgstr ""
+
+#. エプロンドレス
+msgctxt "0022"
+msgid "Scarab Brooch"
+msgstr ""
+
+#. ファーマフラー
+msgctxt "0023"
+msgid "God of War Charm"
+msgstr ""
+
+#. 新品のサラシ
+msgctxt "0024"
+msgid "Mac's Gloves"
+msgstr ""
+
+#. 女王の拘束衣
+msgctxt "0025"
+msgid "Glasses"
+msgstr ""
+
+#. スパイ・スパイク
+msgctxt "0026"
+msgid "G-Sick"
+msgstr ""
+
+#. シークレットブーツ
+msgctxt "0027"
+msgid "Roller Slippers"
+msgstr ""
+
+#. 半分安全靴
+msgctxt "0028"
+msgid "Red Scarf"
+msgstr ""
+
+#. 煩悩メガネ
+msgctxt "0029"
+msgid "Leaf Covering"
+msgstr ""
+
+#. ブルベリの金無垢
+msgctxt "0030"
+msgid "Torneko's Pants"
+msgstr ""
+
+#. 破邪のピアス
+msgctxt "0031"
+msgid "Bunny Earmuffs"
+msgstr ""
+
+#. シルバーリング
+msgctxt "0032"
+msgid "Fresh Bindings"
+msgstr ""
+
+#. 希望ヶ峰の指輪
+msgctxt "0033"
+msgid "Jimmy Decay T-shirt"
+msgstr ""
+
+#. スぺクターリング
+msgctxt "0034"
+msgid "Emperor's Thong"
+msgstr ""
+
+#. 風呂敷バック
+msgctxt "0035"
+msgid "Hand Bra"
+msgstr ""
+
+#. アナザーホープ
+msgctxt "0036"
+msgid "Waterlover"
+msgstr ""
+
+#. ジャバイアンジュエリー
+msgctxt "0037"
+msgid "Demon Angel Princess Figure"
+msgstr ""
+
+#. 疾駆守扇子
+msgctxt "0038"
+msgid "Astral Boy Doll"
+msgstr ""
+
+#. ユビキタス手帳
+msgctxt "0039"
+msgid "Shears"
+msgstr ""
+
+#. ミレニアム懸賞問題
+msgctxt "0040"
+msgid "Layering Shears"
+msgstr ""
+
+#. 超技林　第二版
+msgctxt "0041"
+msgid "Quality Chinchilla Cover"
+msgstr ""
+
+#. 大神宗家の書
+msgctxt "0042"
+msgid "Kirlian Camera"
+msgstr ""
+
+#. ＭＥＮ'Ｓ　ＭＡＮＭＡ
+msgctxt "0043"
+msgid "Adorable Reactions Collection"
+msgstr ""
+
+#. ＫＩＳＳノート
+msgctxt "0044"
+msgid "Tumbleweed"
+msgstr ""
+
+#. 黒ウサギ読本
+msgctxt "0045"
+msgid "Unending Dandelion"
+msgstr ""
+
+#. ２．５Ｄヘッドホン
+msgctxt "0046"
+msgid "Rose In Vitro"
+msgstr ""
+
+#. ラジオゾンデ
+msgctxt "0047"
+msgid "Cherry Blossom Bouquet"
+msgstr ""
+
+#. オスシリンダー
+msgctxt "0048"
+msgid "Rose Whip"
+msgstr ""
+
+#. メスフラスコ
+msgctxt "0049"
+msgid "Zantetsuken"
+msgstr ""
+
+#. レーザーライスＨＧ
+msgctxt "0050"
+msgid "Muramasa"
+msgstr ""
+
+#. 赤外線式体温計
+msgctxt "0051"
+msgid "Raygun Zurion"
+msgstr ""
+
+#. フラッシュハイダー
+msgctxt "0052"
+msgid "Golden Gun"
+msgstr ""
+
+#. リリエンタールの翼
+msgctxt "0053"
+msgid "Berserker Armor"
+msgstr ""
+
+#. キルリアンカメラ
+msgctxt "0054"
+msgid "Self-Destructing Cassette"
+msgstr ""
+
+#. Ｍｒ．ホチキス
+msgctxt "0055"
+msgid "Silent Receiver"
+msgstr ""
+
+#. 小型縮退炉
+msgctxt "0056"
+msgid "Pretty Hungry Caterpillar"
+msgstr ""
+
+#. 多面ダイスセット
+msgctxt "0057"
+msgid "Old Timey Radio"
+msgstr ""
+
+#. 家庭用ゲーム機
+msgctxt "0058"
+msgid "Mr. Fastball"
+msgstr ""
+
+#. 携帯ゲーム機
+msgctxt "0059"
+msgid "Antique Doll"
+msgstr ""
+
+#. アメリカン・クラッカー
+msgctxt "0060"
+msgid "Crystal Skull"
+msgstr ""
+
+#. トイカメラ
+msgctxt "0061"
+msgid "Golden Airplane"
+msgstr ""
+
+#. ハンドパワーグローブ
+msgctxt "0062"
+msgid "Prince Shotoku's Globe"
+msgstr ""
+
+#. メソポタミア
+msgctxt "0063"
+msgid "Moon Rock"
+msgstr ""
+
+#. ドライビングニトロ
+msgctxt "0064"
+msgid "Asura's Tears"
+msgstr ""
+
+#. ペッチンバンド
+msgctxt "0065"
+msgid "Secrets of the Omoplata"
+msgstr ""
+
+#. ギャグボール
+msgctxt "0066"
+msgid "Millennium Prize Problems"
+msgstr ""
+
+#. 動くこけし
+msgctxt "0067"
+msgid "The Funplane"
+msgstr ""
+
+#. 碁石
+msgctxt "0068"
+msgid "Project Zombie"
+msgstr ""
+
+#. ボトルメール
+msgctxt "0069"
+msgid "Pagan Dancer"
+msgstr ""
+
+#. 昭和ラジオ
+msgctxt "0070"
+msgid "Tips & Tips"
+msgstr ""
+
+#. アンティークドール
+msgctxt "0071"
+msgid "Maiden's Handbag"
+msgstr ""
+
+#. 第二ボタン
+msgctxt "0072"
+msgid "Kokeshi Dynamo"
+msgstr ""
+
+#. 月の石
+msgctxt "0073"
+msgid "The Second Button"
+msgstr ""
+
+#. 戦いなき仁義
+msgctxt "0074"
+msgid "Someone's Graduation Album"
+msgstr ""
+
+#. じぼうじき
+msgctxt "0075"
+msgid "Vise"
+msgstr ""
+
+#. 千本桜影好
+msgctxt "0076"
+msgid "Sacred Tree Sprig"
+msgstr ""
+
+#. 懐紙"十幕目詩録"
+msgctxt "0077"
+msgid "Pumice"
+msgstr ""
+
+#. マリンスノー
+msgctxt "0078"
+msgid "Oblaat"
+msgstr ""
+
+#. 蒔絵竹刀
+msgctxt "0079"
+msgid "Water Flute"
+msgstr ""
+
+#. 消波ブロック・ミニ
+msgctxt "0080"
+msgid "Bojobo Dolls"
+msgstr ""
+
+#. 星の砂
+msgctxt "0081"
+msgid "Small Light"
+msgstr ""
+
+#. ジャパニーズティーカップ
+msgctxt "0082"
+msgid "Voice-Changing Bowtie"
+msgstr ""
+
+#. 表裏ウクレレ
+msgctxt "0083"
+msgid "Ancient Tour Tickets"
+msgstr ""
+
+#. ボールペンロッド
+msgctxt "0084"
+msgid "Novelist's Fountain Pen"
+msgstr ""
+
+#. ボージョボー人形
+msgctxt "0085"
+msgid "\"If\" Fax"
+msgstr ""
+
+#. 百年ポプリ
+msgctxt "0086"
+msgid "Cat-Dog Magazine"
+msgstr ""
+
+#. 絶対音叉
+msgctxt "0087"
+msgid "Meteorite Arrowhead"
+msgstr ""
+
+#. 七支刀
+msgctxt "0088"
+msgid "Chin Drill"
+msgstr ""
+
+#. 神の砂の嵐の角
+msgctxt "0089"
+msgid "Green Costume"
+msgstr ""
+
+#. 記憶ノート
+msgctxt "0090"
+msgid "Red Costume"
+msgstr ""
+
+#. 戦刃ナイフ
+msgctxt "0091"
+msgid "A Man's Fantasy"
+msgstr ""
+
+#. 壊れたミサイル
+msgctxt "0092"
+msgid "Escape Button"
+msgstr ""
+
+#. クマの髪飾りの少女
+msgctxt "0093"
+msgid "School Crest"
+msgstr ""
+
+#. バール
+msgctxt "0094"
+msgid "Despair Bat"
+msgstr ""
+
+#. つけペン
+msgctxt "0095"
+msgid "Crazy Diamond"
+msgstr ""
+
+#. ティッシュ
+msgctxt "0096"
+msgid "Super Robo Justice"
+msgstr ""
+
+#. ジャバ・ザ・フロッグ
+msgctxt "0097"
+msgid "Alter Lump"
+msgstr ""
+
+#. 娘のイグアナ
+msgctxt "0098"
+msgid "Dream Island Rocket"
+msgstr ""
+
+#. なまくら包丁
+msgctxt "0099"
+msgid "Monokuma Hairties"
+msgstr ""
+
+#. オカルトフォトフレーム
+msgctxt "0100"
+msgid "Easter Egg"
+msgstr ""
+
+#. 淫れ雪月花
+msgctxt "0101"
+msgid "Kiyotaka's Undergarments"
+msgstr ""
+
+#. イン・ビトロ・ローズ
+msgctxt "0102"
+msgid "Byakuya's Undergarments"
+msgstr ""
+
+#. ドクロマスク
+msgctxt "0103"
+msgid "Mondo's Undergarments"
+msgstr ""
+
+#. 金箔の模擬刀
+msgctxt "0104"
+msgid "Leon's Undergarments"
+msgstr ""
+
+#. あんぁんぁあん
+msgctxt "0105"
+msgid "Hifumi's Undergarments"
+msgstr ""
+
+#. 男のマロン
+msgctxt "0106"
+msgid "Yasuhiro's Undergarments"
+msgstr ""
+
+#. 仮装のコンパクト
+msgctxt "0107"
+msgid "Sayaka's Undergarments"
+msgstr ""
+
+#. 天使の果実
+msgctxt "0108"
+msgid "Kyoko's Undergarments"
+msgstr ""
+
+#. 包帯
+msgctxt "0109"
+msgid "Aoi's Undergarments"
+msgstr ""
+
+#. 剣風秘帖・舞園鞘花
+msgctxt "0110"
+msgid "Toko's Undergarments"
+msgstr ""
+
+#. 夏まトゥリー
+msgctxt "0111"
+msgid "Sakura's Undergarments"
+msgstr ""
+
+#. 葉隠流水晶
+msgctxt "0112"
+msgid "Celeste's Undergarments"
+msgstr ""
+
+#. ラジコンバトラー四駆太郎
+msgctxt "0113"
+msgid "Junko's Undergarments"
+msgstr ""
+
+#. 使いこまれたにんじん
+msgctxt "0114"
+msgid "Chihiro's Undergarments"
+msgstr ""

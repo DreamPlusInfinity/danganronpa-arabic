@@ -1,0 +1,1292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 何もない空間
+msgctxt "0001"
+msgid "Open Space"
+msgstr ""
+
+#. 砂浜
+msgctxt "0002"
+msgid "Hallway 1F (Stairs to 2F)"
+msgstr ""
+
+#. 空港
+msgctxt "0003"
+msgid "Main Hall"
+msgstr ""
+
+#. ロケットパンチマーケット
+msgctxt "0004"
+msgid "Main Hall"
+msgstr ""
+
+#. 牧場
+msgctxt "0005"
+msgid "Gym Entryway"
+msgstr ""
+
+#. 廊下
+msgctxt "0006"
+msgid "Display Case"
+msgstr ""
+
+#. 広間
+msgctxt "0007"
+msgid "Gym"
+msgstr ""
+
+#. 広間
+msgctxt "0008"
+msgid "Gym"
+msgstr ""
+
+#. 厨房
+msgctxt "0009"
+msgid "Gym"
+msgstr ""
+
+#. 倉庫
+msgctxt "0010"
+msgid "A/V Room"
+msgstr ""
+
+#. 倉庫
+msgctxt "0011"
+msgid "School Store"
+msgstr ""
+
+#. 事務室
+msgctxt "0012"
+msgid "Nurse's Office"
+msgstr ""
+
+#. トイレ
+msgctxt "0013"
+msgid "Nurse's Office"
+msgstr ""
+
+#. 旧館_テーブル下
+msgctxt "0014"
+msgid "Nurse's Office"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0015"
+msgid "Class 1-A"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0016"
+msgid "Class 1-B"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0017"
+msgid "Boys Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0018"
+msgid "Girls Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0019"
+msgid "Hallway 1F"
+msgstr ""
+
+#. 橋の前
+msgctxt "0020"
+msgid "Hallway 1F (Main Hall)"
+msgstr ""
+
+#. 橋の前
+msgctxt "0021"
+msgid "Hallway 1F (Dorms)"
+msgstr ""
+
+#. 図書館
+msgctxt "0022"
+msgid "Hallway 2F (Stairs to 1F)"
+msgstr ""
+
+#. ダイナー前駐車場
+msgctxt "0023"
+msgid "Library"
+msgstr ""
+
+#. ダイナー
+msgctxt "0024"
+msgid "Library"
+msgstr ""
+
+#. ドラッグストア
+msgctxt "0025"
+msgid "Library"
+msgstr ""
+
+#. チャンドラービーチ
+msgctxt "0026"
+msgid "Archive"
+msgstr ""
+
+#. ビーチハウス
+msgctxt "0027"
+msgid "Hallway (Pool)"
+msgstr ""
+
+#. ビーチハウス
+msgctxt "0028"
+msgid "Boys Locker Room"
+msgstr ""
+
+#. シャワールーム
+msgctxt "0029"
+msgid "Girls Locker Room"
+msgstr ""
+
+#. クローゼット
+msgctxt "0030"
+msgid "Girls Locker Room"
+msgstr ""
+
+#. 遺跡
+msgctxt "0031"
+msgid "Pool"
+msgstr ""
+
+#. 遺跡
+msgctxt "0032"
+msgid "Class 2-A"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0033"
+msgid "Class 2-B"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0034"
+msgid "Boys Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0035"
+msgid "Girls Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0036"
+msgid "Storage Closet"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0037"
+msgid "Secret Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0038"
+msgid "Boys Locker Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0039"
+msgid "Hallway 2F (Stairs to 3F)"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0040"
+msgid "Hallway 2F (Classroom)"
+msgstr ""
+
+#. 橋の前
+msgctxt "0041"
+msgid "※"
+msgstr "※"
+
+#. 電気街
+msgctxt "0042"
+msgid "Hallway 3F (Physics Lab)"
+msgstr ""
+
+#. 映画館　ロビー
+msgctxt "0043"
+msgid "Rec Room"
+msgstr ""
+
+#. 映画館　劇場
+msgctxt "0044"
+msgid "Rec Room"
+msgstr ""
+
+#. モーテル　中庭
+msgctxt "0045"
+msgid "Art Room"
+msgstr ""
+
+#. モーテル
+msgctxt "0046"
+msgid "Repository"
+msgstr ""
+
+#. ライブハウス前駐車場
+msgctxt "0047"
+msgid "Repository"
+msgstr ""
+
+#. ライブハウス
+msgctxt "0048"
+msgid "Physics Lab"
+msgstr ""
+
+#. ライブハウス
+msgctxt "0049"
+msgid "Equipment Room"
+msgstr ""
+
+#. ライブハウス
+msgctxt "0050"
+msgid "Equipment Room"
+msgstr ""
+
+#. ライブハウス
+msgctxt "0051"
+msgid "Equipment Room"
+msgstr ""
+
+#. ライブハウス
+msgctxt "0052"
+msgid "Class 3-A"
+msgstr ""
+
+#. ライブハウス
+msgctxt "0053"
+msgid "Class 3-B"
+msgstr ""
+
+#. ライブハウス　倉庫
+msgctxt "0054"
+msgid "Hallway 3F (Stairs to 4F)"
+msgstr ""
+
+#. ライブハウス　倉庫
+msgctxt "0055"
+msgid "Hallway 3F (Stairs to 2F)"
+msgstr ""
+
+#. ロビー
+msgctxt "0056"
+msgid "Hallway 1F (Main Area)"
+msgstr ""
+
+#. １階廊下
+msgctxt "0057"
+msgid "Hallway 1F (Stairs to 2F)"
+msgstr ""
+
+#. ２階廊下
+msgctxt "0058"
+msgid "Hallway 1F (Trash Room)"
+msgstr ""
+
+#. 病室
+msgctxt "0059"
+msgid "※"
+msgstr "※"
+
+#. 病室
+msgctxt "0060"
+msgid "※"
+msgstr "※"
+
+#. 病室
+msgctxt "0061"
+msgid "※"
+msgstr "※"
+
+#. 病室
+msgctxt "0062"
+msgid "Hallway 4F (Stairs to 3F)"
+msgstr ""
+
+#. 病室
+msgctxt "0063"
+msgid "Chem Lab"
+msgstr ""
+
+#. 休憩室
+msgctxt "0064"
+msgid "Chem Lab"
+msgstr ""
+
+#. 会議室
+msgctxt "0065"
+msgid "Chem Lab"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0066"
+msgid "Office"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0067"
+msgid "Headmaster's Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0068"
+msgid "Music Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0069"
+msgid "Data Center"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0070"
+msgid "Control Room"
+msgstr ""
+
+#. 橋の前
+msgctxt "0071"
+msgid "Class 4-A"
+msgstr ""
+
+#. 廊下
+msgctxt "0072"
+msgid "Class 4-B"
+msgstr ""
+
+#. 豪華な客室
+msgctxt "0073"
+msgid "Boys Bathroom"
+msgstr ""
+
+#. 豪華な客室
+msgctxt "0074"
+msgid "Girls Bathroom"
+msgstr ""
+
+#. 普通の客室
+msgctxt "0075"
+msgid "Hallway 4F (Headmaster's Room)"
+msgstr ""
+
+#. 粗末な客室
+msgctxt "0076"
+msgid "Hallway 4F (Stairs to 5F)"
+msgstr ""
+
+#. 粗末な客室
+msgctxt "0077"
+msgid "※"
+msgstr "※"
+
+#. ラウンジ
+msgctxt "0078"
+msgid "※"
+msgstr "※"
+
+#. 屋内公園
+msgctxt "0079"
+msgid "※"
+msgstr "※"
+
+#. 廊下
+msgctxt "0080"
+msgid "※"
+msgstr "※"
+
+#. 豪華な客室
+msgctxt "0081"
+msgid "※"
+msgstr "※"
+
+#. 豪華な客室
+msgctxt "0082"
+msgid "Hallway 5F (Garden)"
+msgstr ""
+
+#. 普通の客室
+msgctxt "0083"
+msgid "Garden"
+msgstr ""
+
+#. 粗末な客室
+msgctxt "0084"
+msgid "Garden"
+msgstr ""
+
+#. 粗末な客室
+msgctxt "0085"
+msgid "Garden"
+msgstr ""
+
+#. ラウンジ
+msgctxt "0086"
+msgid "Toolshed"
+msgstr ""
+
+#. モノクマ資料室
+msgctxt "0087"
+msgid "Chicken Coop"
+msgstr ""
+
+#. ストロベリータワー
+msgctxt "0088"
+msgid "Dojo"
+msgstr ""
+
+#. ストロベリータワー
+msgctxt "0089"
+msgid "Dojo (Locker)"
+msgstr ""
+
+#. ストロベリータワー
+msgctxt "0090"
+msgid "Bio Lab"
+msgstr ""
+
+#. ストロベリータワー
+msgctxt "0091"
+msgid "Class 5-A"
+msgstr ""
+
+#. マスカットタワー
+msgctxt "0092"
+msgid "Class 5-B"
+msgstr ""
+
+#. マスカットタワー
+msgctxt "0093"
+msgid "Class 5-C"
+msgstr ""
+
+#. マスカットタワー
+msgctxt "0094"
+msgid "※"
+msgstr "※"
+
+#. マスカットタワー
+msgctxt "0095"
+msgid "※"
+msgstr "※"
+
+#. マスカットタワー
+msgctxt "0096"
+msgid "Hallway 5F (Bio Lab)"
+msgstr ""
+
+#. ファイナルデッドルーム
+msgctxt "0097"
+msgid "Hallway 5F (Stairs to 4F)"
+msgstr ""
+
+#. ファイナルデッドルーム
+msgctxt "0098"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0099"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0100"
+msgid "※"
+msgstr "※"
+
+#. ホテル敷地
+msgctxt "0101"
+msgid "※"
+msgstr "※"
+
+#. ホテル　ロビー
+msgctxt "0102"
+msgid "Hallway 1F (Main Area)"
+msgstr ""
+
+#. ホテル　レストラン
+msgctxt "0103"
+msgid "Main Hall"
+msgstr ""
+
+#. ホテル　ラウンジ
+msgctxt "0104"
+msgid "Makoto's Room"
+msgstr ""
+
+#. 日向創のコテージ
+msgctxt "0105"
+msgid "Makoto's Room"
+msgstr ""
+
+#. 狛枝凪斗のコテージ
+msgctxt "0106"
+msgid "Bathroom"
+msgstr ""
+
+#. 田中眼蛇夢のコテージ
+msgctxt "0107"
+msgid "Bathroom"
+msgstr ""
+
+#. 左右田和一のコテージ
+msgctxt "0108"
+msgid "Kiyotaka's Room"
+msgstr ""
+
+#. 十神白夜のコテージ
+msgctxt "0109"
+msgid "Bathroom"
+msgstr ""
+
+#. 花村輝々のコテージ
+msgctxt "0110"
+msgid "Byakuya's Room"
+msgstr ""
+
+#. 弐大猫丸のコテージ
+msgctxt "0111"
+msgid "Bathroom"
+msgstr ""
+
+#. 九頭龍冬彦のコテージ
+msgctxt "0112"
+msgid "Mondo's Room"
+msgstr ""
+
+#. 終里赤音のコテージ
+msgctxt "0113"
+msgid "Bathroom"
+msgstr ""
+
+#. 七海千秋のコテージ
+msgctxt "0114"
+msgid "Leon's Room"
+msgstr ""
+
+#. ソニア・ネヴァーマインドのコテージ
+msgctxt "0115"
+msgid "Bathroom"
+msgstr ""
+
+#. 西園寺日寄子のコテージ
+msgctxt "0116"
+msgid "Hifumi's Room"
+msgstr ""
+
+#. 小泉真昼のコテージ
+msgctxt "0117"
+msgid "Bathroom"
+msgstr ""
+
+#. 罪木蜜柑のコテージ
+msgctxt "0118"
+msgid "Yasuhiro's Room"
+msgstr ""
+
+#. 澪田唯吹のコテージ
+msgctxt "0119"
+msgid "Bathroom"
+msgstr ""
+
+#. 辺古山ペコのコテージ
+msgctxt "0120"
+msgid "Sayaka's Room"
+msgstr ""
+
+#. ホテル　ロビー
+msgctxt "0121"
+msgid "Bathroom"
+msgstr ""
+
+#. ホテル　ロビー
+msgctxt "0122"
+msgid "Kyoko's Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0123"
+msgid "Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0124"
+msgid "Aoi's Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0125"
+msgid "Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0126"
+msgid "Toko's Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0127"
+msgid "Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0128"
+msgid "Sakura's Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0129"
+msgid "Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0130"
+msgid "Celeste's Room"
+msgstr ""
+
+#. ネズミー城前
+msgctxt "0131"
+msgid "Bathroom"
+msgstr ""
+
+#. ネズミー城
+msgctxt "0132"
+msgid "Junko's Room"
+msgstr ""
+
+#. ドッキリハウス
+msgctxt "0133"
+msgid "Bathroom"
+msgstr ""
+
+#. モノミハウス前
+msgctxt "0134"
+msgid "Chihiro's Room"
+msgstr ""
+
+#. モノミハウス
+msgctxt "0135"
+msgid "Bathroom"
+msgstr ""
+
+#. ジェットコースター
+msgctxt "0136"
+msgid "Dining Hall"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0137"
+msgid "Kitchen"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0138"
+msgid "Trash Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0139"
+msgid "Trash Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0140"
+msgid "Laundry"
+msgstr ""
+
+#. ジャバウォック公園前
+msgctxt "0141"
+msgid "Warehouse"
+msgstr ""
+
+#. ジャバウォック公園前
+msgctxt "0142"
+msgid "Dressing Room"
+msgstr ""
+
+#. ジャバウォック公園
+msgctxt "0143"
+msgid "Dressing Room Lockers"
+msgstr ""
+
+#. ジャバウォック公園
+msgctxt "0144"
+msgid "Dressing Room Lockers"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0145"
+msgid "Bathhouse"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0146"
+msgid "Sauna"
+msgstr ""
+
+#. 灯台
+msgctxt "0147"
+msgid "Boys Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0148"
+msgid "Girls Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0149"
+msgid "Hallway 2F"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0150"
+msgid "Empty Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0151"
+msgid "Locker Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0152"
+msgid "Headmaster's Private Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0153"
+msgid "Headmaster's Hidden Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0154"
+msgid "Boys Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0155"
+msgid "Girls Bathroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0156"
+msgid "Hallway 3F"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0157"
+msgid "Trash Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0158"
+msgid "Locker Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0159"
+msgid "Locker Room"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0160"
+msgid "Bathroom"
+msgstr ""
+
+#. 橋の前
+msgctxt "0161"
+msgid "Hallway 1F"
+msgstr ""
+
+#. ジャバウォック軍事施設
+msgctxt "0162"
+msgid "Hallway 1F (Stairs to 2F)"
+msgstr ""
+
+#. ヌイグルミ工場前
+msgctxt "0163"
+msgid "Hallway 1F (Trash Room)"
+msgstr ""
+
+#. ヌイグルミ工場
+msgctxt "0164"
+msgid "Hallway 2F (Private Room)"
+msgstr ""
+
+#. ヌイグルミ工場
+msgctxt "0165"
+msgid "※"
+msgstr "※"
+
+#. ヌイグルミ工場　給湯室
+msgctxt "0166"
+msgid "※"
+msgstr "※"
+
+#. グッズ倉庫
+msgctxt "0167"
+msgid "※"
+msgstr "※"
+
+#. グッズ倉庫
+msgctxt "0168"
+msgid "※"
+msgstr "※"
+
+#. グッズ倉庫
+msgctxt "0169"
+msgid "※"
+msgstr "※"
+
+#. グッズ倉庫
+msgctxt "0170"
+msgid "※"
+msgstr "※"
+
+#. ワタツミ・インダストリアル
+msgctxt "0171"
+msgid "※"
+msgstr "※"
+
+#. 屋台通り
+msgctxt "0172"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0173"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0174"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0175"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0176"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0177"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0178"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0179"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0180"
+msgid "※"
+msgstr "※"
+
+#. 教室
+msgctxt "0181"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0182"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0183"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0184"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0185"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0186"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0187"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0188"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0189"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0190"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0191"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0192"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0193"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0194"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0195"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0196"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0197"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0198"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0199"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0200"
+msgid "※"
+msgstr "※"
+
+#. モノクマロック
+msgctxt "0201"
+msgid "※"
+msgstr "※"
+
+#. モノクマロック
+msgctxt "0202"
+msgid "Hallway (Courtroom)"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0203"
+msgid "Elevator"
+msgstr ""
+
+#. ストロベリータワー
+msgctxt "0204"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0205"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. 体育館
+msgctxt "0206"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0207"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0208"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0209"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. ストロベリータワー
+msgctxt "0210"
+msgid "Execution Grounds"
+msgstr ""
+
+#. モノクマロック
+msgctxt "0211"
+msgid "Execution Grounds"
+msgstr ""
+
+#. 体育館
+msgctxt "0212"
+msgid "Execution Grounds"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0213"
+msgid "Execution Grounds"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0214"
+msgid "Execution Grounds"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0215"
+msgid "Execution Grounds"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0216"
+msgid "Execution Grounds"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0217"
+msgid "Dream Island"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0218"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0219"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0220"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0221"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0222"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0223"
+msgid "Class Trial Courtroom"
+msgstr ""
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0224"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0225"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0226"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0227"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0228"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0229"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0230"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0231"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0232"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0233"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0234"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0235"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0236"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0237"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0238"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0239"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0240"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0241"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0242"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0243"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0244"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0245"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0246"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0247"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0248"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0249"
+msgid "※"
+msgstr "※"
+
+#. JAPANESE LINE NOT FOUND
+msgctxt "0250"
+msgid "※"
+msgstr "※"
+
+#. 教室_夕方
+msgctxt "0251"
+msgid "※"
+msgstr "※"
+
+#. 教室差分_夕方
+msgctxt "0252"
+msgid "※"
+msgstr "※"
+
+#. １F廊下_夕方
+msgctxt "0253"
+msgid "※"
+msgstr "※"
+
+#. ２F廊下_夕方
+msgctxt "0254"
+msgid "※"
+msgstr "※"
+
+#. 音楽室_夕方
+msgctxt "0255"
+msgid "※"
+msgstr "※"
+
+#. 裏庭
+msgctxt "0256"
+msgid "？？？"
+msgstr ""

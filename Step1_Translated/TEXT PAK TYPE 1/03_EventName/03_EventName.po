@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DR2 (PC)\n"
+"Report-Msgid-Bugs-To: your_email\n"
+"POT-Creation-Date: 10/15/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 覗き込む狛枝
+msgctxt "0001"
+msgid "Hope's Peak From a Distance"
+msgstr ""
+
+#. 校門から眺める希望ヶ峰学園
+msgctxt "0002"
+msgid "Hope's Peak School Gate"
+msgstr ""
+
+#. 希望ヶ峰学園
+msgctxt "0003"
+msgid "Hope's Peak Online Thread"
+msgstr ""
+
+#. 希望ヶ峰学園・全景
+msgctxt "0004"
+msgid "Orientation Guide"
+msgstr ""
+
+#. 漂流教室への扉
+msgctxt "0005"
+msgid "Ultimate Pop Sensation"
+msgstr ""
+
+#. 超高校級の面々
+msgctxt "0006"
+msgid "Ultimate Baseball Star"
+msgstr ""
+
+#. 必殺☆マジカルステッキ！
+msgctxt "0007"
+msgid "Ultimate Fashionista"
+msgstr ""
+
+#. ウサミＴＶアナウンス
+msgctxt "0008"
+msgid "Ultimate Biker Gang Leader"
+msgstr ""
+
+#. ジャバウォック島空撮
+msgctxt "0009"
+msgid "Strange Classroom"
+msgstr ""
+
+#. ビーチで和気あいあい！
+msgctxt "0010"
+msgid "Student Meeting"
+msgstr ""
+
+#. モノクマTVアナウンス
+msgctxt "0011"
+msgid "Kiyotaka's Introduction"
+msgstr ""
+
+#. モノクマTVアナウンス（シルエット）
+msgctxt "0012"
+msgid "Byakuya's Introduction"
+msgstr ""
+
+#. ウサミＶＳモノクマ
+msgctxt "0013"
+msgid "Mondo's Introduction"
+msgstr ""
+
+#. モノクマドＳパンチ
+msgctxt "0014"
+msgid "Leon's Introduction"
+msgstr ""
+
+#. モノクマドＳキック
+msgctxt "0015"
+msgid "Hifumi's Introduction"
+msgstr ""
+
+#. モノクマドＳコークスクリュー
+msgctxt "0016"
+msgid "Yasuhiro's Introduction"
+msgstr ""
+
+#. モノクマ眼光
+msgctxt "0017"
+msgid "Sayaka's Introduction"
+msgstr ""
+
+#. 疑心暗鬼の一同
+msgctxt "0018"
+msgid "Kyoko's Introduction"
+msgstr ""
+
+#. 狛枝凪斗登場
+msgctxt "0019"
+msgid "Aoi's Introduction"
+msgstr ""
+
+#. 推参ッ！田中眼蛇夢
+msgctxt "0020"
+msgid "Toko's Introduction"
+msgstr ""
+
+#. 左右田和一登場
+msgctxt "0021"
+msgid "Sakura's Introduction"
+msgstr ""
+
+#. 十神白夜登場
+msgctxt "0022"
+msgid "Celeste's Introduction"
+msgstr ""
+
+#. 花村輝々登場
+msgctxt "0023"
+msgid "Junko's Introduction"
+msgstr ""
+
+#. 弐大猫丸登場
+msgctxt "0024"
+msgid "Chihiro's Introduction"
+msgstr ""
+
+#. 九頭龍冬彦登場
+msgctxt "0025"
+msgid "MonokumaTV (Silhouette)"
+msgstr ""
+
+#. 終里赤音登場
+msgctxt "0026"
+msgid "MonokumaTV"
+msgstr ""
+
+#. 七海千秋があらわれた！
+msgctxt "0027"
+msgid "Monokuma Glint"
+msgstr ""
+
+#. ソニア・ネヴァーマインド登場
+msgctxt "0028"
+msgid "Mondo Choke Slam"
+msgstr ""
+
+#. 西園寺日寄子登場
+msgctxt "0029"
+msgid "Self-Destruct!"
+msgstr ""
+
+#. 小泉真昼登場
+msgctxt "0030"
+msgid "Terror of the Fifteen"
+msgstr ""
+
+#. 罪木蜜柑登場
+msgctxt "0031"
+msgid "Crash Down"
+msgstr ""
+
+#. 澪田唯吹登場
+msgctxt "0032"
+msgid "Together in the Dining Hall"
+msgstr ""
+
+#. 辺古山ペコ登場
+msgctxt "0033"
+msgid "Anxiety"
+msgstr ""
+
+#. 夜空
+msgctxt "0034"
+msgid "What Is a Class Trial?"
+msgstr ""
+
+#. ドジッ子　IN　レストラン
+msgctxt "0035"
+msgid "Gungnir"
+msgstr ""
+
+#. モノクマタイマー
+msgctxt "0036"
+msgid "The Death of Junko Enoshima"
+msgstr ""
+
+#. モノクマ&モノミの漫才
+msgctxt "0037"
+msgid "Investigating With Kyoko"
+msgstr ""
+
+#. モノクマドＳツッコミ
+msgctxt "0038"
+msgid "Makoto's Video (1)"
+msgstr ""
+
+#. シュラスコウマー
+msgctxt "0039"
+msgid "Makoto's Video (2)"
+msgstr ""
+
+#. パーティーの始まり
+msgctxt "0040"
+msgid "Sayaka's Video"
+msgstr ""
+
+#. ドジッ子　ＩＮ　パーティー
+msgctxt "0041"
+msgid "The Class Trial Begins (1)"
+msgstr ""
+
+#. 停電直前の写真１
+msgctxt "0042"
+msgid "The Class Trial Begins (2)"
+msgstr ""
+
+#. 停電直前の写真２
+msgctxt "0043"
+msgid "The Class Trial Begins (3)"
+msgstr ""
+
+#. 床下の捜査
+msgctxt "0044"
+msgid "Dying Message"
+msgstr ""
+
+#. 学級裁判参加者・壱
+msgctxt "0045"
+msgid "Petrification"
+msgstr ""
+
+#. 学級裁判参加者・弐
+msgctxt "0046"
+msgid "Morning Exercise"
+msgstr ""
+
+#. 学級裁判参加者・参
+msgctxt "0047"
+msgid "In the Library"
+msgstr ""
+
+#. 犯人の影・１
+msgctxt "0048"
+msgid "Sauna Showdown"
+msgstr ""
+
+#. 犯人の影・２
+msgctxt "0049"
+msgid "Enveloped Secrets"
+msgstr ""
+
+#. 狛枝の本性
+msgctxt "0050"
+msgid "Toko Withdraws (1)"
+msgstr ""
+
+#. エビルスフォースアイズ
+msgctxt "0051"
+msgid "Toko Withdraws (2)"
+msgstr ""
+
+#. 肉を食うモノクマ
+msgctxt "0052"
+msgid "Genocide Jack File"
+msgstr ""
+
+#. 花村の思い出
+msgctxt "0053"
+msgid "Genocide Jack Photos"
+msgstr ""
+
+#. 誰かの視線
+msgctxt "0054"
+msgid "Genocide Jack Fully Armed"
+msgstr ""
+
+#. 狛枝の独白
+msgctxt "0055"
+msgid "Chihiro and Celeste"
+msgstr ""
+
+#. ２番目の島
+msgctxt "0056"
+msgid "Chihiro's Determination"
+msgstr ""
+
+#. ジャバウォック島の観光案内
+msgctxt "0057"
+msgid "A Brother Ahead"
+msgstr ""
+
+#. 終里ＶＳ弐大
+msgctxt "0058"
+msgid "Tragedy"
+msgstr ""
+
+#. 弐大のスーパーボディーブロー
+msgctxt "0059"
+msgid "A Brother Dies"
+msgstr ""
+
+#. SFな扉
+msgctxt "0060"
+msgid "Secret Discussion"
+msgstr ""
+
+#. モノクマドＳ流星拳
+msgctxt "0061"
+msgid "Aoi's Tears"
+msgstr ""
+
+#. 壊れた世界
+msgctxt "0062"
+msgid "Ghostly Encounter"
+msgstr ""
+
+#. モノクマの新作発表会
+msgctxt "0063"
+msgid "Mystery Photo (1)"
+msgstr ""
+
+#. 縛られた狛枝
+msgctxt "0064"
+msgid "A Man's Fantasy"
+msgstr ""
+
+#. ダイナーから見た西園寺の姿
+msgctxt "0065"
+msgid "Cash Money"
+msgstr ""
+
+#. 七海の白ビキニ
+msgctxt "0066"
+msgid "A Run-In With Robo Justice"
+msgstr ""
+
+#. 血濡れ＆水着の終里
+msgctxt "0067"
+msgid "Hifumi's Death (1)"
+msgstr ""
+
+#. ひと泳ぎしてきた後の辺古山
+msgctxt "0068"
+msgid "Hifumi's Death (2)"
+msgstr ""
+
+#. ウェットスーツのソニア
+msgctxt "0069"
+msgid "Hifumi's Death (3)"
+msgstr ""
+
+#. 肩車で捜査
+msgctxt "0070"
+msgid "Robo Asahina"
+msgstr ""
+
+#. シャワールームでの捜査
+msgctxt "0071"
+msgid "Celeste's Dream"
+msgstr ""
+
+#. 玄関ホールの写真
+msgctxt "0072"
+msgid "A Masked Man Attacks!"
+msgstr ""
+
+#. 女子高生の現場写真
+msgctxt "0073"
+msgid "Sakura vs Monokuma"
+msgstr ""
+
+#. Ｅ子の現場写真
+msgctxt "0074"
+msgid "Face-Off!"
+msgstr ""
+
+#. クローゼットの中に２人
+msgctxt "0075"
+msgid "Cattle Mutilation"
+msgstr ""
+
+#. 辺古山吊り刀
+msgctxt "0076"
+msgid "Mystery Photo (2)"
+msgstr ""
+
+#. キラキラ仮面見参
+msgctxt "0077"
+msgid "Grrrr..."
+msgstr ""
+
+#. 仮面を取ったペコ
+msgctxt "0078"
+msgid "Discord"
+msgstr ""
+
+#. 辺古山の回想・１
+msgctxt "0079"
+msgid "Locked Room"
+msgstr ""
+
+#. 九頭龍とペコの過去
+msgctxt "0080"
+msgid "Mankind's Strongest...Dead!?"
+msgstr ""
+
+#. 辺古山の回想・２
+msgctxt "0081"
+msgid "An Array of Monokuma Bottles"
+msgstr ""
+
+#. 瀕死の九頭龍
+msgctxt "0082"
+msgid "Balancing Act"
+msgstr ""
+
+#. 救急車到着
+msgctxt "0083"
+msgid "Footprint Sketch"
+msgstr ""
+
+#. モノクマタイマーＶＳモノミ
+msgctxt "0084"
+msgid "Yasuhiro's Single Strike"
+msgstr ""
+
+#. 小泉写真展
+msgctxt "0085"
+msgid "Not Dead Yet!"
+msgstr ""
+
+#. ３番目の島
+msgctxt "0086"
+msgid "Sakura's Suicide Note"
+msgstr ""
+
+#. 九頭龍入院中
+msgctxt "0087"
+msgid "Kyoko Hallucination (?)"
+msgstr ""
+
+#. 仁義を切る！
+msgctxt "0088"
+msgid "Kyoko Whispers"
+msgstr ""
+
+#. 九頭龍の土下座
+msgctxt "0089"
+msgid "Feverish"
+msgstr ""
+
+#. 澪田唯吹リサイタル
+msgctxt "0090"
+msgid "Masked Man Hallucination (?)"
+msgstr ""
+
+#. モノクマＶＳ終里
+msgctxt "0091"
+msgid "Dismantling Monokuma"
+msgstr ""
+
+#. 終里危機一髪
+msgctxt "0092"
+msgid "Destroying Evidence"
+msgstr ""
+
+#. ありがとう弐大
+msgctxt "0093"
+msgid "Fighting Fire"
+msgstr ""
+
+#. モノクマ天国ズドアー
+msgctxt "0094"
+msgid "Surveillance Room (1)"
+msgstr ""
+
+#. 朝まで生殺し・１
+msgctxt "0095"
+msgid "Surveillance Room (2)"
+msgstr ""
+
+#. 夢・学校の教室
+msgctxt "0096"
+msgid "Mukuro's Profile"
+msgstr ""
+
+#. 首吊り台・１
+msgctxt "0097"
+msgid "Makoto and Byakuya Investigate"
+msgstr ""
+
+#. 首吊り台・２
+msgctxt "0098"
+msgid "Byakuya Drinks the Poison"
+msgstr ""
+
+#. 首吊り台・３
+msgctxt "0099"
+msgid "Alternate Ending (!?)"
+msgstr ""
+
+#. 帯を結べない西園寺
+msgctxt "0100"
+msgid "Spiderwebs"
+msgstr ""
+
+#. 事件を目撃した西園寺
+msgctxt "0101"
+msgid "Spiderwebs (Terminus)"
+msgstr ""
+
+#. 犯人の犯行・１
+msgctxt "0102"
+msgid "Rejoin and Rejoice"
+msgstr ""
+
+#. 犯人の犯行・２
+msgctxt "0103"
+msgid "System Locked"
+msgstr ""
+
+#. メカ…
+msgctxt "0104"
+msgid "What's in the Box?"
+msgstr ""
+
+#. 弐大ッ！
+msgctxt "0105"
+msgid "Kyoko's Family Picture"
+msgstr ""
+
+#. 朝まで生殺し・２
+msgctxt "0106"
+msgid "A Notebook Is Discovered (1)"
+msgstr ""
+
+#. 今度はやられはせんぞ！
+msgctxt "0107"
+msgid "A Notebook Is Discovered (2)"
+msgstr ""
+
+#. 強いぞぼくらのメカ弐大
+msgctxt "0108"
+msgid "Sayaka's Interview"
+msgstr ""
+
+#. モノクマドＳ閃
+msgctxt "0109"
+msgid "Makoto's Interview"
+msgstr ""
+
+#. ４番目の島
+msgctxt "0110"
+msgid "Byakuya's Interview"
+msgstr ""
+
+#. ロボタイマー
+msgctxt "0111"
+msgid "Toko's Interview"
+msgstr ""
+
+#. ジェットコースター
+msgctxt "0112"
+msgid "Aoi's Interview"
+msgstr ""
+
+#. 未来機関ファイル
+msgctxt "0113"
+msgid "Kyoko's Interview"
+msgstr ""
+
+#. モノクマ列車
+msgctxt "0114"
+msgid "Group Photo (1)"
+msgstr ""
+
+#. モノクマ太極拳
+msgctxt "0115"
+msgid "Group Photo (2)"
+msgstr ""
+
+#. ふんばれ！終里と日向
+msgctxt "0116"
+msgid "Group Photo (3)"
+msgstr ""
+
+#. 目覚ましストロベリー
+msgctxt "0117"
+msgid "Group Photo (4)"
+msgstr ""
+
+#. ロシアンルーレット
+msgctxt "0118"
+msgid "Kyoko's Scars"
+msgstr ""
+
+#. 来たれモノクマロック
+msgctxt "0119"
+msgid "The Mastermind Stands Revealed"
+msgstr ""
+
+#. 吊るされたメカ
+msgctxt "0120"
+msgid "Monitor of Truth (1)"
+msgstr ""
+
+#. メカ弐大VS田中
+msgctxt "0121"
+msgid "Monitor of Truth (2)"
+msgstr ""
+
+#. 全員分のファイル
+msgctxt "0122"
+msgid "Truth of the Outside World (1)"
+msgstr ""
+
+#. 仇はとるぞ弐大
+msgctxt "0123"
+msgid "Truth of the Outside World (2)"
+msgstr ""
+
+#. ５番目の島
+msgctxt "0124"
+msgid "Truth of the Outside World (3)"
+msgstr ""
+
+#. モノクマドＳオラオラ
+msgctxt "0125"
+msgid "Sisters of Despair"
+msgstr ""
+
+#. 捕らえられる狛枝
+msgctxt "0126"
+msgid "The End..."
+msgstr ""
+
+#. 炎の中に立つ
+msgctxt "0127"
+msgid "The End"
+msgstr ""
+
+#. 馬乗り
+msgctxt "0128"
+msgid "The End!"
+msgstr ""
+
+#. 七海のグー
+msgctxt "0129"
+msgid "THE END!"
+msgstr ""
+
+#. 狛枝からのビデオメッセージ
+msgctxt "0130"
+msgid "THE END!!!"
+msgstr ""
+
+#. 薄暗いグッズ倉庫
+msgctxt "0131"
+msgid "Button of Hope"
+msgstr ""
+
+#. 消火活動・１
+msgctxt "0132"
+msgid "Monokuma Still Lives!?"
+msgstr ""
+
+#. 消火活動・２
+msgctxt "0133"
+msgid "Monokuma Theater (1)"
+msgstr ""
+
+#. 希望ヶ峰学園ファイル・１
+msgctxt "0134"
+msgid "Monokuma Theater (2)"
+msgstr ""
+
+#. 希望ヶ峰学園ファイル・３
+msgctxt "0135"
+msgid "Monokuma Theater (3)"
+msgstr ""
+
+#. 狛枝の異常な行動
+msgctxt "0136"
+msgid "Monokuma Theater (4)"
+msgstr ""
+
+#. 狛枝絶命の瞬間
+msgctxt "0137"
+msgid "Monokuma Theater (5)"
+msgstr ""
+
+#. モノミの自爆
+msgctxt "0138"
+msgid "Monokuma Theater (6)"
+msgstr ""
+
+#. モノミの自爆２
+msgctxt "0139"
+msgid "Monokuma Theater (7)"
+msgstr ""
+
+#. 無限のモノクマ軍団
+msgctxt "0140"
+msgid "Monokuma Theater (8)"
+msgstr ""
+
+#. 去りゆくふたり
+msgctxt "0141"
+msgid "Monokuma Theater (9)"
+msgstr ""
+
+#. 狛枝からのビデオメッセージβ
+msgctxt "0142"
+msgid "Monokuma Theater (10)"
+msgstr ""
+
+#. たまやー
+msgctxt "0143"
+msgid "Monokuma Theater (11)"
+msgstr ""
+
+#. 九頭龍が目撃したロボ
+msgctxt "0144"
+msgid "Monokuma Theater (12)"
+msgstr ""
+
+#. 船内の個室にて・１
+msgctxt "0145"
+msgid "Monokuma Theater (13)"
+msgstr ""
+
+#. 船内の個室にて・２
+msgctxt "0146"
+msgid "Monokuma Theater (14)"
+msgstr ""
+
+#. 船から見えるジャバウォック島
+msgctxt "0147"
+msgid "Monokuma Theater (15)"
+msgstr ""
+
+#. モノクマTV学園バージョン
+msgctxt "0148"
+msgid "Monokuma Theater (16)"
+msgstr ""
+
+#. マンガでわかる本・そのいち
+msgctxt "0149"
+msgid "Monokuma Theater (17)"
+msgstr ""
+
+#. マンガでわかる本・そのに
+msgctxt "0150"
+msgid "???"
+msgstr ""
