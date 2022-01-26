@@ -1,15 +1,18 @@
+# كوتشيكي <tmahmed783@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: DR2 (PC)\n"
 "Report-Msgid-Bugs-To: your_email\n"
 "POT-Creation-Date: 10/15/2021\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-26 01:44+0200\n"
+"Last-Translator: كوتشيكي <tmahmed783@gmail.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
 "Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #. あれ？　みんなでレストランに
 #. 集まってるんじゃないのか？
@@ -18,14 +21,14 @@ msgid ""
 "<CLT 4>I rushed out of the room to meet up with all the\n"
 "others.\n"
 "<CLT>"
-msgstr ""
+msgstr "هرعت من غرفتي لألتقي بالآخرين كلهم."
 
 #. ………………
 msgctxt "0002"
 msgid ""
 "<CLT 4>But there was someone waiting for me there.\n"
 "<CLT>"
-msgstr ""
+msgstr "ولكن كان هناك شخصا ينتظرني."
 
 #. 全員集合するまでの間なら、
 #. やっててもいいかなって…
@@ -33,42 +36,42 @@ msgctxt "0003"
 msgid ""
 "<CLT 4>It was like something out of an old TV show...\n"
 "<CLT>"
-msgstr ""
+msgstr "بدا وكأنه مشهد من عرض تلفزيوني قديم..."
 
 #. でも…そろそろ行こうかな。
 msgctxt "0004"
 msgid ""
 "<CLT 23>*WHAM*\n"
 "<CLT>"
-msgstr ""
+msgstr "*خبطة*"
 
 #. <CLT 04>朝からゲームかよ…
 #. さすがは<CLT><CLT 03>"超高校級のゲーマー"<CLT><CLT 04>だな…<CLT>
 msgctxt "0005"
 msgid "Ahh!"
-msgstr ""
+msgstr "اه!"
 
 #. 外へ出る
 msgctxt "0006"
 msgid ""
 "Oh—!\n"
 "...Sayaka?"
-msgstr ""
+msgstr "أوه، ساياكا... ؟"
 
 #. レストランへ
 msgctxt "0007"
 msgid "S-Sorry! Are you okay?"
-msgstr ""
+msgstr "اس.. اسف! هل أنتِ بخير؟"
 
 #. やめる
 msgctxt "0008"
 msgid "I-I'm fine. I hope you're okay..."
-msgstr ""
+msgstr "أنا.. أنا بخير. أنا أمل أنك بخير..."
 
 #. <CLT 06>どちらへ行きますか？<CLT>
 msgctxt "0009"
 msgid "Sorry about that..."
-msgstr ""
+msgstr "اسفه بشأن ذلك..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0010"
@@ -76,19 +79,19 @@ msgid ""
 "<CLT 4>She had an embarrassed smile on her face. I stood up\n"
 "slowly.\n"
 "<CLT>"
-msgstr ""
+msgstr "اشرقت على محياها بسمة خجولة، فنهضت ببطء."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0011"
 msgid "Are you okay, Sayaka? Are you hurt?"
-msgstr ""
+msgstr "هل أنتِ على ما يرام؟ هل تأذيتي؟ "
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0012"
 msgid ""
 "Hmhm, you make it sound worse than it is. I'm\n"
 "completely fine."
-msgstr ""
+msgstr "هممم، تبالغ في وصفك لما حصل. اطمئن انا على خير ما يرام."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0013"
@@ -96,18 +99,19 @@ msgid ""
 "I know how I look, but I've actually built some pretty\n"
 "good muscle jumping up and down on stage!"
 msgstr ""
+"أعرف كيف أبدو، ولكني بنيت كتل عضلية لا بأس بها إثر قفزي على المسرح أعلى وأسفل!"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0014"
 msgid "That's good, then..."
-msgstr ""
+msgstr "هذا جيد، إذن..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0015"
 msgid ""
 "But...are *you* okay? You know, from when Mondo hit\n"
 "you..."
-msgstr ""
+msgstr "ولكن... هل *أنت* بخير؟ وأعني تحديدًا حيث ضربك موندو..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0016"
@@ -115,7 +119,7 @@ msgid ""
 "<CLT 4>That's true... I got knocked out right there in front\n"
 "of everyone.\n"
 "<CLT>"
-msgstr ""
+msgstr "صحيح... أُبرحت ضربًا هناك على رؤوس الأشهاد."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0017"
@@ -123,103 +127,103 @@ msgid ""
 "<CLT 4>I guess I revealed my lack of cool right from the\n"
 "beginning...\n"
 "<CLT>"
-msgstr ""
+msgstr "أعتقد أني بينت قلة اعتدادي منذ البدء..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0018"
 msgid "Makoto...?"
-msgstr ""
+msgstr "ماكوتو...؟"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0019"
 msgid "Oh, uh, I'm fine! Nothing wrong here!"
-msgstr ""
+msgstr "أوه، أنا بخير، ليس هناك أي خطب! "
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0020"
 msgid "Oh, that's good. I was kinda worried..."
-msgstr ""
+msgstr "اوه، جيد، لقد كنت قلقه بعض الشيء..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0021"
 msgid "Th-Thanks..."
-msgstr ""
+msgstr "شك.. شكرًا..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0022"
 msgid "By the way...what are you doing here?"
-msgstr ""
+msgstr "على أي حال... ما الذي تفعلينه ههنا؟"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0023"
 msgid "Actually...I came to get you."
-msgstr ""
+msgstr "في الواقع... أنا أتيتُ لأخذك."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0024"
 msgid "You came...to get me?"
-msgstr ""
+msgstr "أتيتي... لأخذي؟"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0025"
 msgid ""
 "Well, if you really are feeling better...I was hoping\n"
 "you could come to the dining hall."
-msgstr ""
+msgstr "إذا كنت تشعر بتحسن حقا... كنت آمل لو صحبتني إلى صالة الطعام."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0026"
 msgid "The dining hall...?"
-msgstr ""
+msgstr "صالة الطعام...؟"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0027"
 msgid ""
 "After you got knocked out, everyone decided to go and\n"
 "do their own thing."
-msgstr ""
+msgstr "بعد أن فقدت وعيك، ذهب الكل لينشغلوا بأمورهم."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0028"
 msgid ""
 "We decided it would be more effective if we split up\n"
 "to investigate."
-msgstr ""
+msgstr "قررنا -ولفعالية أكبر- ان نفترق ونبحث منفصلين."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0029"
 msgid ""
 "So we agreed to get together later on and talk about\n"
 "what we'd each found out."
-msgstr ""
+msgstr "لذلك وافق الجميع أن نلتقي لاحقا ونتحدث عما استجد على بحث كل منا."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0030"
 msgid ""
 "So does that mean it's almost time to get back\n"
 "together?"
-msgstr ""
+msgstr "وهذا يعني حان وقت عودتنا معا؟"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0031"
 msgid ""
 "If that's what's going on, then of course I'll go with\n"
 "you!"
-msgstr ""
+msgstr "لو هذا ما كان يجري، فطبعا سأرافقك!"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0032"
 msgid ""
 "Good. I'll go on ahead and meet you at the dining\n"
 "hall, then."
-msgstr ""
+msgstr "جيد، سأسبقك الى صالة الطعام لألقاك هناك."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0033"
 msgid ""
 "<CLT 4>This is where the classrooms and stuff are...\n"
 "<CLT>"
-msgstr ""
+msgstr "هنا حيث هي الصفوف وما شابه..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0034"
@@ -228,18 +232,19 @@ msgid ""
 "I should meet up with everyone at the dining hall.\n"
 "<CLT>"
 msgstr ""
+"ليس لدي سبب لأخذ هذا الطريق حاليًا. علي أن التقي بالجميع في صالة الطعام."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0035"
 msgid ""
 "<CLT 23>*Rattle rattle*\n"
 "<CLT>"
-msgstr ""
+msgstr "*خشخشة*"
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0036"
 msgid "The door won't budge. It must be locked."
-msgstr ""
+msgstr "الباب لا يفتح، لا بد أنه مقفل."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0037"
@@ -248,6 +253,8 @@ msgid ""
 "can't ignore the person standing in front of me.\n"
 "<CLT>"
 msgstr ""
+"أنا حقًا أريد أن أعرف الى أين يؤدي هذا الباب، ولكن لا أستطيع تجاهل الشخص"
+" الواقف أمامي. "
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0038"
@@ -255,7 +262,7 @@ msgid ""
 "<CLT 4>Everyone's meeting up at the dining hall.\n"
 "I should head there myself.\n"
 "<CLT>"
-msgstr ""
+msgstr "سيجتمع كلهم في صالة الطعام، علي أن اذهب الى هناك كذلك."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0039"
@@ -263,7 +270,7 @@ msgid ""
 "<CLT 4>Everyone's meeting up at the dining hall.\n"
 "I should head there myself.\n"
 "<CLT>"
-msgstr ""
+msgstr "سيجتمع كلهم في صالة الطعام، علي أن اذهب الى هناك كذلك."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0040"
@@ -271,7 +278,7 @@ msgid ""
 "<CLT 4>This is the boys bathroom. I'll have to make sure and\n"
 "remember it's here.\n"
 "<CLT>"
-msgstr ""
+msgstr "هذا حمام الفتيان، لابد ان احفظه جيدا ولا أنسى مكانه."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0041"
@@ -279,14 +286,14 @@ msgid ""
 "<CLT 4>This is the girls bathroom. It's not really all\n"
 "that useful to me...\n"
 "<CLT>"
-msgstr ""
+msgstr "هذا حمام الفتيات، ليس بذا فائدة لي حقا..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0042"
 msgid ""
 "<CLT 4>Looks like I can't get in there...\n"
 "<CLT>"
-msgstr ""
+msgstr "لا يمكنني دخوله كما يبدو..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0043"
@@ -294,14 +301,14 @@ msgid ""
 "<CLT 4>This is where I just came out of. My name and picture\n"
 "are on the nameplate.\n"
 "<CLT>"
-msgstr ""
+msgstr "هنا حيث خرجت لتوي، اسمي وصورتي على اللوحة."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0044"
 msgid ""
 "<CLT 4>There's no reason for me to go back inside...\n"
 "<CLT>"
-msgstr ""
+msgstr "ليس هناك سبب حتى أدخله مرة أخرى..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0045"
@@ -310,6 +317,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0046"
@@ -318,6 +326,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0047"
@@ -326,6 +335,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0048"
@@ -334,6 +344,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0049"
@@ -342,6 +353,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0050"
@@ -350,6 +362,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0051"
@@ -358,6 +371,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0052"
@@ -366,6 +380,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0053"
@@ -374,6 +389,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0054"
@@ -382,6 +398,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0055"
@@ -390,6 +407,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0056"
@@ -398,6 +416,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0057"
@@ -406,6 +425,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0058"
@@ -414,6 +434,7 @@ msgid ""
 "doors themselves all look pretty much the same...\n"
 "<CLT>"
 msgstr ""
+"يبدو أنهم يعتمدون على لوحة الهوية، لأن الأبواب تتشابه مع بعضها البعض..."
 
 #. JAPANESE LINE NOT FOUND
 msgctxt "0059"
